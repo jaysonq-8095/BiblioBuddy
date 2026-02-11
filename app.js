@@ -1,5 +1,5 @@
 const WORDS_PATH = "freevocabulary_words.json";
-const SYNONYMS_PATH = "synonyms.json";
+const SYNONYMS_DIR = "synonyms";
 const STORAGE_PREFIX = "biblioBuddy.v1";
 const MAX_ACTIVE_NON_MASTERED = 75;
 
@@ -85,13 +85,10 @@ function bindEvents() {
 }
 
 async function loadData() {
-  const [wordsResponse, synonymsResponse] = await Promise.all([
-    fetch(WORDS_PATH),
-    fetch(SYNONYMS_PATH),
-  ]);
-
+  const wordsResponse = await fetch(WORDS_PATH);
   const words = await wordsResponse.json();
-  const synonymsData = synonymsResponse.ok ? await synonymsResponse.json() : {};
+  const letters = getLettersFromWords(words);
+  const synonymsData = await loadSynonymsByLetters(letters);
 
   state.synonymsData = synonymsData || {};
   state.entries = words
@@ -110,6 +107,34 @@ async function loadData() {
     map.get(entry.pos).push(entry);
     return map;
   }, new Map());
+}
+
+function getLettersFromWords(words) {
+  const letters = new Set();
+  words.forEach((item) => {
+    const word = String(item?.word || "").trim();
+    const letter = getWordLetter(word);
+    if (letter) {
+      letters.add(letter);
+    }
+  });
+  return Array.from(letters).sort();
+}
+
+function getWordLetter(word) {
+  const match = String(word || "").match(/[a-z]/i);
+  return match ? match[0].toLowerCase() : null;
+}
+
+async function loadSynonymsByLetters(letters) {
+  const requests = letters.map((letter) =>
+    fetch(`${SYNONYMS_DIR}/${letter}.json`)
+      .then((response) => (response.ok ? response.json() : {}))
+      .catch(() => ({}))
+  );
+
+  const results = await Promise.all(requests);
+  return results.reduce((acc, data) => Object.assign(acc, data), {});
 }
 
 function setMode(mode) {
