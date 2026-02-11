@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BiblioBuddy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Vocabulary Atelier</p>
+          <h1>BiblioBuddy</h1>
+          <p class="subtitle">Learn words with intent, track progress with clarity.</p>
+        </div>
+        <div class="hero-card">
+          <p class="hero-label">Session Focus</p>
+          <div id="modeCapsule" class="hero-mode">Definitions</div>
+          <p id="capNotice" class="hero-note"></p>
+        </div>
+      </header>
+
+      <section class="mode-bar">
+        <button class="mode-button" data-mode="definitions">Definitions</button>
+        <button class="mode-button" data-mode="synonyms">Synonyms</button>
+        <button class="mode-button" data-mode="fitb">Fill in the Blank</button>
+      </section>
+
+      <section class="control-bar">
+        <label class="toggle">
+          <input id="reviewMastered" type="checkbox" />
+          <span>Review mastered words</span>
+        </label>
+        <button id="resetMode" class="ghost-button">Reset this mode</button>
+      </section>
+
+      <main class="layout">
+        <section class="question-card">
+          <div class="question-header">
+            <div>
+              <p id="questionMeta" class="question-meta"></p>
+              <h2 id="questionTitle"></h2>
+            </div>
+            <div class="question-badge" id="posBadge"></div>
+          </div>
+          <p id="questionPrompt" class="question-prompt"></p>
+          <div id="options" class="options"></div>
+          <div class="question-footer">
+            <p id="feedback" class="feedback"></p>
+            <button id="nextButton" class="primary-button" disabled>Next</button>
+          </div>
+        </section>
+
+        <aside class="stats">
+          <div class="stats-card">
+            <h3>Progress Snapshot</h3>
+            <div id="statsGrid" class="stats-grid"></div>
+          </div>
+          <div class="stats-card">
+            <h3>Category Limits</h3>
+            <p id="limitSummary" class="limit-summary"></p>
+            <p class="limit-note">
+              Non-mastered words cap at 75 per mode. When the cap is reached, new
+              words pause.
+            </p>
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
