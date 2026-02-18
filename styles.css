@@ -348,16 +348,9 @@ h1 {
   font-size: 16px;
   font-family: var(--sans);
   transition: all 0.2s ease;
-}
-
-.option-button:hover {
-  border-color: var(--ink);
-  transform: translateY(-2px);
-}
-
-.option-button.correct {
-  border-color: #2f8f5b;
-  background: #e7f7ef;
+   white-space: normal;      /* allow wrapping */
+   word-break: break-word;   /* break long words if necessary */
+   hyphens: auto;            /* enable hyphenation where supported */
 }
 
 .option-button.incorrect {
