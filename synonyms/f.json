@@ -32,7 +32,10 @@
       "lie",
       "prevaricate"
     ],
-    "sentences": []
+    "sentences": [
+      "Their plan is to fabricate the house out of synthetic parts.",
+      "accused of fabricating evidence"
+    ]
   },
   "fabulous": {
     "synonyms": [
@@ -166,7 +169,17 @@
       "unsurpassed",
       "wizard"
     ],
-    "sentences": []
+    "sentences": [
+      "a book that repeats many apocryphal stories",
+      "mythical creatures",
+      "the legendary exploits of Davy Crockett",
+      "a land of fabulous riches",
+      "fictitious characters",
+      "fabulous dragons",
+      "had a fabulous time",
+      "a fabulous view from the summit",
+      "fabulous wealth"
+    ]
   },
   "facet": {
     "synonyms": [
@@ -176,7 +189,11 @@
       "phase",
       "side"
     ],
-    "sentences": []
+    "sentences": [
+      "the articular facet of a rib",
+      "Houseflies have about 350 facets per eye, while dragonflies have a whopping 30,000.",
+      "Each facet of the problem requires careful analysis."
+    ]
   },
   "facetious": {
     "synonyms": [
@@ -197,7 +214,19 @@
       "wise",
       "wiseass"
     ],
-    "sentences": []
+    "sentences": [
+      "jocose proposals",
+      "a jocular fellow",
+      "facetious comments",
+      "humorous anecdotes",
+      "a witty remark",
+      "a facetious remark",
+      "replied in a facetious tone",
+      "… a … possibly facetious suggestion that Texas should secede if Washington doesn't ease off …",
+      "Well, he's a lawyer, so he must be right—because lawyers know everything. Of course, I'm being facetious.",
+      "With such a deadpan delivery, it's hard to tell if he's being brutally honest or a little facetious.",
+      "Not to be facetious, but the best way to deal with a budget … is not to spend more money than what you bring in."
+    ]
   },
   "facile": {
     "synonyms": [
@@ -221,7 +250,19 @@
       "snap",
       "soft"
     ],
-    "sentences": []
+    "sentences": [
+      "a smooth ride",
+      "moving with effortless grace",
+      "a light teaching load",
+      "a simple problem in arithmetic",
+      "facile answers to complex questions",
+      "an easy college course",
+      "a facile lecturer",
+      "facile prose",
+      "facile tears",
+      "… I am not concerned … with offering any facile solution for so complex a problem …",
+      "a facile victory"
+    ]
   },
   "facilitate": {
     "synonyms": [
@@ -231,7 +272,13 @@
       "smooth",
       "unclog"
     ],
-    "sentences": []
+    "sentences": [
+      "The moderator's role is to facilitate the discussion by asking appropriate questions.",
+      "The meeting included the full accountability team formed by the university, and the university facilitated the meeting, … sharing progress on initiatives underway …",
+      "His campaign emphasized a variety of ways the federal government could help facilitate economic growth …",
+      "Over the past two decades, the city has explored and made attempts to facilitate development of affordable housing on city-owned lots downtown.",
+      "programs that facilitate access to health care"
+    ]
   },
   "facility": {
     "synonyms": [
@@ -239,7 +286,14 @@
       "establishment",
       "installation"
     ],
-    "sentences": []
+    "sentences": [
+      "facilities for study",
+      "The resort has a wide range of facilities for young and old alike.",
+      "has a great facility for writing",
+      "The 90,000-square-foot building includes secure spaces compliant with classified work requirements for the U.S. government, also known as sensitive compartmented information facilities.",
+      "The state's largest correctional facility is nearly full.",
+      "The injured child was rushed to a medical facility."
+    ]
   },
   "facsimile": {
     "synonyms": [
@@ -273,7 +327,17 @@
       "replication",
       "reproduction"
     ],
-    "sentences": []
+    "sentences": [
+      "miniature replicas of classic cars",
+      "a replica of the Mayflower",
+      "a facsimile of a rare book",
+      "printed 1000 copies of the lithograph",
+      "a duplicate of a house key",
+      "reproductions from the museum's furniture collection",
+      "A facsimile of the world's first computer was exhibited at the museum.",
+      "I can speak French, or at least a reasonable facsimile of French.",
+      "The house is a reasonable facsimile of his original home."
+    ]
   },
   "faction": {
     "synonyms": [
@@ -287,7 +351,11 @@
       "side",
       "wing"
     ],
-    "sentences": []
+    "sentences": [
+      "Faction, or the irreconcilable conflict of parties …",
+      "The committee soon split into factions.",
+      "petrifaction"
+    ]
   },
   "factious": {
     "synonyms": [
@@ -299,7 +367,9 @@
       "divided",
       "split"
     ],
-    "sentences": []
+    "sentences": [
+      "factious disputes"
+    ]
   },
   "fallacious": {
     "synonyms": [
@@ -325,7 +395,11 @@
       "misleading",
       "specious"
     ],
-    "sentences": []
+    "sentences": [
+      "… false and fallacious hopes …",
+      "a fallacious conclusion",
+      "a fallacious argument"
+    ]
   },
   "fallacy": {
     "synonyms": [
@@ -344,7 +418,11 @@
       "fallaciousness",
       "falseness"
     ],
-    "sentences": []
+    "sentences": [
+      "The fallacy of their ideas about medicine soon became apparent.",
+      "popular fallacies",
+      "prone to perpetrate the fallacy of equating threat with capability"
+    ]
   },
   "fallible": {
     "synonyms": [
@@ -374,7 +452,10 @@
       "insufficient",
       "wanting"
     ],
-    "sentences": []
+    "sentences": [
+      "we're all fallible",
+      "a fallible generalization"
+    ]
   },
   "fallow": {
     "synonyms": [
@@ -390,7 +471,12 @@
       "unused",
       "vacant"
     ],
-    "sentences": []
+    "sentences": [
+      "a fallow greyhound",
+      "Summer fallow is effective for destroying weeds.",
+      "… at this very moment there are probably important inventions lying fallow …",
+      "There were too many promising ideas lying fallow at the company."
+    ]
   },
   "fanatic": {
     "synonyms": [
@@ -422,7 +508,15 @@
       "true believer",
       "zealot"
     ],
-    "sentences": []
+    "sentences": [
+      "a boating/sports/racing fanatic",
+      "She's a real fanatic when it comes to working out.",
+      "Since the U.S. economy began to sputter in 2008, shoppers have become coupon fanatics and lovers of buy-one-get-one-free deals …",
+      "a religious fanatic =extremist",
+      "The fanatics are convinced they are serving a righteous cause and that all means are justified …",
+      "they're fanatic about politics",
+      "a fanatic attention to details"
+    ]
   },
   "fancier": {
     "synonyms": [
@@ -447,7 +541,18 @@
       "nut",
       "sucker"
     ],
-    "sentences": []
+    "sentences": [
+      "a pigeon fancier",
+      "fancy carnations",
+      "fancy footwork",
+      "fancy diving",
+      "paying fancy prices",
+      "fancy sketches",
+      "posted some fancy numbers",
+      "fancy tuna",
+      "a fancy restaurant",
+      "a fancy hairdo"
+    ]
   },
   "fastidious": {
     "synonyms": [
@@ -468,14 +573,39 @@
       "persnickety",
       "picky"
     ],
-    "sentences": []
+    "sentences": [
+      "a fastidiously clean home",
+      "… page upon page of fastidiously collated data …",
+      "fastidious microorganisms",
+      "a fastidious housekeeper",
+      "fastidious hygiene",
+      "But in the hazy panic of the time, many people had already taken up fastidious habits: quarantining packages at the door, bleaching boxes of cereal brought back from the store, wearing hospital booties outdoors.",
+      "Disorder and dirt filled the rough cabin, or so it seemed to her fastidious eye.",
+      "Mount Everest has become something of a trash heap, as hordes of climbers have been less than fastidious in their ascents.",
+      "was always a fastidious dresser/eater",
+      "… a collector with fastidious taste.",
+      "… has a varied flavour profile … to suit even the most fastidious of palates.",
+      "True to her fastidious nature, Peretti hand-selected all of the stones included in the collections …",
+      "kept fastidious records",
+      "… regulators are guaranteed to take a fastidious approach in evaluating safety …",
+      "… he took fastidious care of his cars.",
+      "… his fastidious approach to tasks—making detailed, several-page lists on yellow pads …",
+      "But many food poisoning outbreaks are complicated. … Cracking them is fastidious work.",
+      "The animals are beautifully rendered in watercolor with fastidious attention to detail.",
+      "hyperfastidious professors",
+      "a hyper-fastidious perfectionist"
+    ]
   },
   "fathom": {
     "synonyms": [
       "plumb",
       "sound"
     ],
-    "sentences": []
+    "sentences": [
+      "… the themes display a newer fathom than the technical modernism of the composer's earlier works.",
+      "five fathom deep",
+      "couldn't fathom the problem"
+    ]
   },
   "fatuous": {
     "synonyms": [
@@ -565,7 +695,15 @@
       "wacky",
       "zany"
     ],
-    "sentences": []
+    "sentences": [
+      "an asinine plot",
+      "fatuous conspiracy theories",
+      "the silly antics of revelers",
+      "foolish stunts",
+      "considered people simple who had trouble with computers",
+      "a fatuous remark",
+      "a fatuous socialite with a near-pathological love of parties and shopping"
+    ]
   },
   "faulty": {
     "synonyms": [
@@ -587,7 +725,15 @@
       "toady",
       "truckle"
     ],
-    "sentences": []
+    "sentences": [
+      "cowering before a bully",
+      "a cringing sycophant",
+      "truckling to a powerful lobbyist",
+      "toadying to his boss",
+      "waiters fawning over a celebrity",
+      "The dog was fawning on its master.",
+      "courtiers fawning on the king"
+    ]
   },
   "fealty": {
     "synonyms": [
@@ -608,7 +754,16 @@
       "steadfastness",
       "troth"
     ],
-    "sentences": []
+    "sentences": [
+      "filial piety",
+      "a painter's devotion to her art",
+      "valued the loyalty of his friends",
+      "fealty to the truth",
+      "pledging allegiance",
+      "marital fidelity",
+      "… the fealty of country music fans to their favorite stars …",
+      "The vassal vowed fealty to the king."
+    ]
   },
   "feasible": {
     "synonyms": [
@@ -621,7 +776,20 @@
       "viable",
       "workable"
     ],
-    "sentences": []
+    "sentences": [
+      "commercially feasible for mass production",
+      "a solution that is not practicable in the time available",
+      "a possible route up the west face of the mountain",
+      "We cannot feasibly make it on time.",
+      "She questions the feasibility of the plan.",
+      "gave an explanation that seemed feasible enough",
+      "a feasible alternative to gasoline",
+      "the earliest feasible date",
+      "This flooring is the most feasible option.",
+      "a feasible plan",
+      "the only feasible solution",
+      "Buying a home is not financially feasible for us."
+    ]
   },
   "federate": {
     "synonyms": [
@@ -684,7 +852,23 @@
       "front",
       "smoke screen"
     ],
-    "sentences": []
+    "sentences": [
+      "a feint toward the enemy's left flank",
+      "used all of his wiles to ingratiate himself",
+      "the clever artifices of the stage",
+      "last-minute maneuvers to avert bankruptcy",
+      "the stratagem-filled game",
+      "the ruses of smugglers",
+      "the tricks of the trade",
+      "The boxer made a feint with his right, then followed with a left hook.",
+      "the faint atmosphere of a tropical port",
+      "faint praise",
+      "a faint smile on her lips",
+      "faint of heart",
+      "… sick and faint from the pain …",
+      "haven't the faintest idea",
+      "faint handwriting"
+    ]
   },
   "felicitate": {
     "synonyms": [
@@ -725,7 +909,13 @@
       "suitability",
       "suitableness"
     ],
-    "sentences": []
+    "sentences": [
+      "The poet was well known for his felicities.",
+      "a felicity with words",
+      "The curve of her mouth gives her a Mona Lisa smile, but that's just a felicity of her anatomy.",
+      "… the small felicities and absurdities of real life manage to peek through the gloom.",
+      "marital felicity"
+    ]
   },
   "felon": {
     "synonyms": [
@@ -812,7 +1002,9 @@
       "unlawful",
       "wrongful"
     ],
-    "sentences": []
+    "sentences": [
+      "felonious assault"
+    ]
   },
   "felony": {
     "synonyms": [
@@ -868,7 +1060,32 @@
       "womanlike",
       "womanly"
     ],
-    "sentences": []
+    "sentences": [
+      "a short, wistful piece ending with a feminine cadence",
+      "a feminine ending",
+      "The word for \"cat\" is feminine in German (die Katze) and masculine in Spanish (el gato).",
+      "feminine products",
+      "feminine empowerment",
+      "feminine sexuality",
+      "This classification includes all feminine =women's garments commonly known as lounge or hostess wear …",
+      "the feminine =female members of the family",
+      "\"She was like a feminine version of Mick Jagger,\" says Sheryl Crow, a good friend and collaborator …",
+      "… the actress gave the classic black-and-white tuxedo a feminine spin with a Ralph Lauren jumpsuit. Accessories included diamond necklaces and earrings, black pumps, and a black bow tie.",
+      "While traditionally considered feminine, floral scents are gaining popularity in men's fragrances.",
+      "stereotypically feminine traits/characteristics",
+      "feminine charm/beauty",
+      "… art that celebrates women but also confronts and explores representations of the feminine.",
+      "… Ellen in her fine suit of black, with her cloak and high-heeled boots, looking, in every respect, like a young gentleman; in an hour after having dropped her male attire, and assumed the habiliments of her sex the feminine only was visible in every line and feature of her structure.",
+      "the power of the divine feminine",
+      "feminine hygiene tips",
+      "feminine hygiene products =products used for managing menstruation, for cleansing the genitals, etc.",
+      "tips for maintaining feminine hygiene",
+      "anti-feminine behavior",
+      "an anti-feminine style of dress",
+      "… exudes an esthetic hyperfemininity that goes beyond female.",
+      "Born in London in 1905 to a distant father and a hyperfeminine mother who despised her daughter's bookish ways, Challans entered nursing school in her late 20s, seeking life experience and escape from her parents' home.",
+      "This room needs a woman's/feminine touch."
+    ]
   },
   "ferocious": {
     "synonyms": [
@@ -924,7 +1141,17 @@
       "mad",
       "wild"
     ],
-    "sentences": []
+    "sentences": [
+      "the cruel jokes of schoolboys",
+      "a savage criminal",
+      "barbarous treatment of prisoners",
+      "a ferocious dog",
+      "fierce warriors",
+      "ferocious heat",
+      "The competition among the students was ferocious.",
+      "a ferocious predator",
+      "the ferocious butchery of women and children"
+    ]
   },
   "ferocity": {
     "synonyms": [
@@ -973,7 +1200,9 @@
       "heavy-handedness",
       "oppressiveness"
     ],
-    "sentences": []
+    "sentences": [
+      "the ferocity of the lion's attack"
+    ]
   },
   "fervent": {
     "synonyms": [
@@ -1016,7 +1245,18 @@
       "ultrahot",
       "white-hot"
     ],
-    "sentences": []
+    "sentences": [
+      "perfervid expressions of patriotism",
+      "fervid love letters",
+      "fervent good wishes",
+      "an ardent supporter of human rights",
+      "a passionate denunciation",
+      "an impassioned plea for justice",
+      "the fervent sun",
+      "fervent prayers",
+      "a fervent admirer/supporter/proponent",
+      "… they've built one of the most fervent fan bases in electronic music …"
+    ]
   },
   "fervid": {
     "synonyms": [
@@ -1059,7 +1299,16 @@
       "ultrahot",
       "white-hot"
     ],
-    "sentences": []
+    "sentences": [
+      "perfervid expressions of patriotism",
+      "fervid love letters",
+      "fervent good wishes",
+      "an ardent supporter of human rights",
+      "a passionate denunciation",
+      "an impassioned plea for justice",
+      "a fervid crusader",
+      "fervid fans"
+    ]
   },
   "fervor": {
     "synonyms": [
@@ -1080,7 +1329,15 @@
       "warmth",
       "white heat"
     ],
-    "sentences": []
+    "sentences": [
+      "preaches with fanatical zeal",
+      "never showed much enthusiasm for sports",
+      "the ardor of their honeymoon soon faded",
+      "read the poem aloud with great fervor",
+      "gave in to his passions",
+      "… booing and cheering with almost equal fervor …",
+      "revolutionary fervor"
+    ]
   },
   "festive": {
     "synonyms": [
@@ -1098,7 +1355,11 @@
       "mirthful",
       "sunny"
     ],
-    "sentences": []
+    "sentences": [
+      "a festive mood",
+      "a festive occasion",
+      "The house looks festive during the holidays."
+    ]
   },
   "fete": {
     "synonyms": [
@@ -1123,7 +1384,11 @@
       "gala",
       "jubilee"
     ],
-    "sentences": []
+    "sentences": [
+      "a fete to celebrate the museum's centennial",
+      "a fete in the park with music and performances",
+      "… Class Day, the great fete of the year …"
+    ]
   },
   "fez": {
     "synonyms": [
@@ -1216,7 +1481,10 @@
       "turkey",
       "washout"
     ],
-    "sentences": []
+    "sentences": [
+      "The critic called the film a fiasco.",
+      "… the total fiasco that was his personal life …"
+    ]
   },
   "fickle": {
     "synonyms": [
@@ -1249,7 +1517,13 @@
       "unfaithful",
       "untrue"
     ],
-    "sentences": []
+    "sentences": [
+      "too unstable to hold a job",
+      "made anxious by her boss's mercurial temperament",
+      "an utterly capricious critic",
+      "performers discover how fickle fans can be",
+      "an inconstant friend"
+    ]
   },
   "fictitious": {
     "synonyms": [
@@ -1275,7 +1549,15 @@
       "unreal",
       "visionary"
     ],
-    "sentences": []
+    "sentences": [
+      "a book that repeats many apocryphal stories",
+      "mythical creatures",
+      "the legendary exploits of Davy Crockett",
+      "a land of fabulous riches",
+      "fictitious characters",
+      "a fictitious concept",
+      "fictitious events described in his novel"
+    ]
   },
   "fidelity": {
     "synonyms": [
@@ -1296,7 +1578,23 @@
       "steadfastness",
       "troth"
     ],
-    "sentences": []
+    "sentences": [
+      "filial piety",
+      "a painter's devotion to her art",
+      "valued the loyalty of his friends",
+      "fealty to the truth",
+      "pledging allegiance",
+      "marital fidelity",
+      "a printer with outstanding color fidelity",
+      "The best speakers come from quality brands known for their sound fidelity.",
+      "… in-game settings that prioritize frame rate or visual fidelity …",
+      "Today, the phones in our pockets can produce images with the kind of fidelity that can rival—and sometimes beat!—dedicated cameras.",
+      "Of course, a lack of fidelity to the original is no sin—many viewers won't have read the books …",
+      "fidelity to your spouse",
+      "swore fidelity to the U.S. Constitution",
+      "Did the FBI lose its reputation for fidelity to law … and integrity at all times?",
+      "… the delicate task facing a church that needs to preserve its unity and its fidelity to tradition while honoring diversity within the institution …"
+    ]
   },
   "fief": {
     "synonyms": [
@@ -1326,7 +1624,9 @@
       "terrain",
       "walk"
     ],
-    "sentences": []
+    "sentences": [
+      "a politician's fief"
+    ]
   },
   "filibuster": {
     "synonyms": [
@@ -1391,7 +1691,10 @@
       "mouth",
       "spout"
     ],
-    "sentences": []
+    "sentences": [
+      "The filibuster delayed the voting on the bill for over a week.",
+      "anti-filibuster legislation"
+    ]
   },
   "finale": {
     "synonyms": [
@@ -1411,7 +1714,12 @@
       "windup",
       "wrap-up"
     ],
-    "sentences": []
+    "sentences": [
+      "the TV show's season finale",
+      "the finale of the ballet",
+      "In the finale, the singer sang an Italian classic.",
+      "the symphony's finale"
+    ]
   },
   "finality": {
     "synonyms": [
@@ -1424,7 +1732,9 @@
       "tomorrow",
       "posterity"
     ],
-    "sentences": []
+    "sentences": [
+      "… arbitration is intended and expected to provide finality in the settlement of a dispute."
+    ]
   },
   "finally": {
     "synonyms": [
@@ -1435,7 +1745,22 @@
       "ultimately",
       "yet"
     ],
-    "sentences": []
+    "sentences": [
+      "I have reason for asking this question which you have answered so finally.",
+      "She said it so finally … that Mr. Pumblechook … could not protest.",
+      "… the power to decide finally and conclusively upon all motions made in the course of legislative proceedings …",
+      "What finally matters is whether you're likely to drink enough of the organisms to make you sick.",
+      "… Finally, I'd like to thank the fans for their great support …",
+      "After many attempts, they finally gave up.",
+      "\"My career meandered all over the place and I finally settled on comedic acting. …\"",
+      "\"He listened to the whole thing, very attentive, and finally he turned to the doctor and he said, 'I have a question.'\"",
+      "Two hours later, the train finally arrived.",
+      "He finally got around to calling.",
+      "I'm so happy to finally meet you!",
+      "It finally dawned on me what she'd meant.",
+      "He's been cheating people for years but now the/his chickens are (finally) coming home to roost.",
+      "Her bad decisions are coming home to roost."
+    ]
   },
   "financial": {
     "synonyms": [
@@ -1445,7 +1770,13 @@
       "pecuniary",
       "pocket"
     ],
-    "sentences": []
+    "sentences": [
+      "financial aid",
+      "the financial district",
+      "She qualified for financial aid.",
+      "Opening your own business requires a significant financial commitment.",
+      "You can get a loan at a financial institution."
+    ]
   },
   "finery": {
     "synonyms": [
@@ -1469,7 +1800,12 @@
       "dexterity",
       "sleight"
     ],
-    "sentences": []
+    "sentences": [
+      "She handled the interviewer's questions with finesse.",
+      "… trinkets of an extreme finesse …",
+      "finesse the hard issues",
+      "… finesse his way through tight places …"
+    ]
   },
   "finite": {
     "synonyms": [
@@ -1483,7 +1819,13 @@
       "narrow",
       "restricted"
     ],
-    "sentences": []
+    "sentences": [
+      "finite verbs such as \"is\" and \"are\"",
+      "a finite set",
+      "the finite velocity of light",
+      "finite beings",
+      "a finite number of possibilities"
+    ]
   },
   "fiscal": {
     "synonyms": [
@@ -1493,7 +1835,19 @@
       "pecuniary",
       "pocket"
     ],
-    "sentences": []
+    "sentences": [
+      "fiscal transactions",
+      "fiscal policy",
+      "the city's fiscal requirements",
+      "a conservative in dress and manner",
+      "She [musician Clara Schumann] was a conservative who represented integrity and tradition, as opposed to the flaming virtuosity of Liszt and the \"music of the future\" of Wagner.",
+      "the Conservatives in Parliament",
+      "Appointed as a conservative, [Sandra Day] O'Connor became known as a centrist, supporting traditional boundaries between church and state and writing an opinion justifying race-conscious admissions in law schools.",
+      "Advocates often focus on the right to seek asylum under U.S. law, while conservatives argue that current operations let in too many people unlikely to merit protection.",
+      "Many conservatives see concerns about climate change overblown, and a losing issue with their voters.",
+      "[Abraham] Lincoln the politician was a master of misdirection, of appearing to appease conservatives while manipulating them toward acceptance of radical policies.",
+      "A fiscal conservative advocates for small government and low taxes but is open to higher taxes if necessary to erase deficits. That kind of thinking defined the Republican Party for most of the 20th century."
+    ]
   },
   "fissure": {
     "synonyms": [
@@ -1506,7 +1860,10 @@
       "rift",
       "split"
     ],
-    "sentences": []
+    "sentences": [
+      "fissures in a political party",
+      "a fissure in the earth's crust"
+    ]
   },
   "fitful": {
     "synonyms": [
@@ -1526,13 +1883,22 @@
       "spotty",
       "unsteady"
     ],
-    "sentences": []
+    "sentences": [
+      "convulsive shocks",
+      "spasmodic growth",
+      "fitful sleep",
+      "a fitful night of sleep"
+    ]
   },
   "fixture": {
     "synonyms": [
       "institution"
     ],
-    "sentences": []
+    "sentences": [
+      "attended all the team's home fixtures",
+      "He's a fixture on the stage.",
+      "a plumbing fixture"
+    ]
   },
   "flagrant": {
     "synonyms": [
@@ -1547,7 +1913,14 @@
       "rank",
       "striking"
     ],
-    "sentences": []
+    "sentences": [
+      "rank heresy",
+      "gross carelessness",
+      "glaring errors",
+      "flagrant abuse of the office of president",
+      "flagrant violations of human rights",
+      "flagrant errors"
+    ]
   },
   "flamboyant": {
     "synonyms": [
@@ -1582,7 +1955,12 @@
       "razzle-dazzle",
       "swank"
     ],
-    "sentences": []
+    "sentences": [
+      "flamboyant tracery",
+      "flamboyant architecture",
+      "a flamboyant performer",
+      "… the women and girls clad in dismal … dresses that made us Presbyterians seem almost flamboyant."
+    ]
   },
   "fledgling": {
     "synonyms": [
@@ -1607,7 +1985,11 @@
       "tyro",
       "virgin"
     ],
-    "sentences": []
+    "sentences": [
+      "a fledgling company",
+      "fledgling medical students",
+      "a bird feeding her fledglings"
+    ]
   },
   "flexible": {
     "synonyms": [
@@ -1646,7 +2028,17 @@
       "stretchy",
       "whippy"
     ],
-    "sentences": []
+    "sentences": [
+      "supple leather",
+      "flexible plastic tubing",
+      "the cake is done when the top is springy",
+      "a resilient innersole",
+      "an elastic waistband",
+      "a flexible foreign policy",
+      "a flexible schedule",
+      "a flexible person without strong convictions",
+      "flexible branches swaying in the breeze"
+    ]
   },
   "flimsy": {
     "synonyms": [
@@ -1667,7 +2059,13 @@
       "unapt",
       "unlikely"
     ],
-    "sentences": []
+    "sentences": [
+      "a flimsy excuse",
+      "a movie with a flimsy plot",
+      "flimsy construction",
+      "flimsy silks",
+      "wore a flimsy dress"
+    ]
   },
   "flippant": {
     "synonyms": [
@@ -1696,14 +2094,22 @@
       "vegetation",
       "verdure"
     ],
-    "sentences": []
+    "sentences": [
+      "fossil flora",
+      "intestinal flora"
+    ]
   },
   "floral": {
     "synonyms": [
       "flowered",
       "flowery"
     ],
-    "sentences": []
+    "sentences": [
+      "floral diversity",
+      "a floral display",
+      "a floral design",
+      "a floral aroma"
+    ]
   },
   "florid": {
     "synonyms": [
@@ -1734,7 +2140,16 @@
       "ruddy",
       "sanguine"
     ],
-    "sentences": []
+    "sentences": [
+      "the florid stage of a disease",
+      "a florid secret life",
+      "a florid sensibility",
+      "a florid complexion",
+      "a florid interior",
+      "a florid writer",
+      "florid prose",
+      "florid declamations"
+    ]
   },
   "fluctuate": {
     "synonyms": [
@@ -1744,7 +2159,18 @@
       "snap",
       "vary"
     ],
-    "sentences": []
+    "sentences": [
+      "an undulating sea of grass",
+      "the exhausted runner wavered before collapsing",
+      "fluctuating interest rates",
+      "the vibrating strings of a piano",
+      "an oscillating fan",
+      "trees swaying in the breeze",
+      "the door suddenly swung open",
+      "The boat fluctuated on the rough sea.",
+      "Oil prices fluctuated.",
+      "Temperatures fluctuated."
+    ]
   },
   "fluctuation": {
     "synonyms": [
@@ -1753,7 +2179,11 @@
       "inconstancy",
       "oscillation"
     ],
-    "sentences": []
+    "sentences": [
+      "Small fluctuations in prices are to be expected.",
+      "Some fluctuation in real estate values is not unusual.",
+      "North American species in general, having contended with blazing July days and frosty September nights as they evolved, are much more tolerant of temperature fluctuations than tropical species are."
+    ]
   },
   "flue": {
     "synonyms": [
@@ -1784,7 +2214,9 @@
       "pipeline",
       "piping"
     ],
-    "sentences": []
+    "sentences": [
+      "flue-cured tobacco"
+    ]
   },
   "fluent": {
     "synonyms": [
@@ -1810,7 +2242,15 @@
       "snap",
       "soft"
     ],
-    "sentences": []
+    "sentences": [
+      "fluent in math",
+      "a fluent performance",
+      "spoke in fluent English",
+      "fluent in Spanish",
+      "a fluent writer",
+      "the fluent body of a dancer",
+      "powdered, granular, or fluent materials"
+    ]
   },
   "flux": {
     "synonyms": [
@@ -1831,7 +2271,11 @@
       "trots",
       "turista"
     ],
-    "sentences": []
+    "sentences": [
+      "in a state of flux",
+      "the flux following the death of the emperor",
+      "a flux of words"
+    ]
   },
   "foggy": {
     "synonyms": [
@@ -1865,7 +2309,12 @@
       "undetermined",
       "vague"
     ],
-    "sentences": []
+    "sentences": [
+      "My memory is a little foggy.",
+      "I haven't the foggiest notion. =I have no idea",
+      "a foggy mirror",
+      "a foggy valley"
+    ]
   },
   "foible": {
     "synonyms": [
@@ -1880,7 +2329,15 @@
       "want",
       "weakness"
     ],
-    "sentences": []
+    "sentences": [
+      "compulsive gambling was his vice",
+      "an eccentric's charming foibles",
+      "human frailties",
+      "being late is a failing of mine",
+      "a writer of many virtues and few faults",
+      "admired their teacher despite his foibles",
+      "… talent is always balanced by foible."
+    ]
   },
   "foist": {
     "synonyms": [
@@ -1890,7 +2347,11 @@
       "pass off",
       "wish"
     ],
-    "sentences": []
+    "sentences": [
+      "… foist costly and valueless products on the public …",
+      "… inferior caviar has been foisted on an unknowing public …",
+      "… when the states … foist unnecessary expenses on local taxpayers …"
+    ]
   },
   "foliage": {
     "synonyms": [
@@ -1902,7 +2363,11 @@
       "vegetation",
       "verdure"
     ],
-    "sentences": []
+    "sentences": [
+      "The door frame was decorated with beautifully carved foliage.",
+      "A wreath of foliage adorned her front door.",
+      "trees with colorful autumn foliage"
+    ]
   },
   "folio": {
     "synonyms": [
@@ -1958,7 +2423,12 @@
       "mythos",
       "tradition"
     ],
-    "sentences": []
+    "sentences": [
+      "the folklore about the health risks of computers",
+      "a specialist in folklore",
+      "Paul Bunyan is a figure from folklore.",
+      "Like its predecessor, the game draws from elements of African folklore and spiritual beliefs."
+    ]
   },
   "fondle": {
     "synonyms": [
@@ -1969,7 +2439,11 @@
       "pet",
       "stroke"
     ],
-    "sentences": []
+    "sentences": [
+      "… one of them fondled her neck.",
+      "Not long ago, the New York Police Department investigated a dentist accused of fondling his patients after putting them under anesthesia.",
+      "She fondled the string of pearls."
+    ]
   },
   "foolery": {
     "synonyms": [
@@ -2016,7 +2490,9 @@
       "extract",
       "quotation"
     ],
-    "sentences": []
+    "sentences": [
+      "a movement now regarded as a footnote to architectural history"
+    ]
   },
   "foppery": {
     "synonyms": [
@@ -2060,7 +2536,9 @@
       "unmanly",
       "womanish"
     ],
-    "sentences": []
+    "sentences": [
+      "a foppish dressing gown"
+    ]
   },
   "forbearance": {
     "synonyms": [
@@ -2077,7 +2555,12 @@
       "mercy",
       "quarter"
     ],
-    "sentences": []
+    "sentences": [
+      "… known … for her forbearance with her incorrigible husband.",
+      "… a sudden formality in his manner, which showed that his forbearance was at last failing him.",
+      "Mrs Varden entreated her to remember that … marriage … was a state requiring great fortitude and forbearance.",
+      "The policy provides a means of forbearance for borrowers meeting certain criteria."
+    ]
   },
   "forcible": {
     "synonyms": [
@@ -2122,7 +2605,9 @@
       "hearty",
       "sound"
     ],
-    "sentences": []
+    "sentences": [
+      "The door showed signs of forcible entry."
+    ]
   },
   "forecourt": {
     "synonyms": [
@@ -2153,7 +2638,10 @@
       "bode",
       "promise"
     ],
-    "sentences": []
+    "sentences": [
+      "Such dark clouds forebode a storm.",
+      "… she looked eagerly in his face, not quick to forebode evil, but unavoidably conscious that the state of the family had changed …"
+    ]
   },
   "forecast": {
     "synonyms": [
@@ -2174,7 +2662,18 @@
       "soothsaying",
       "vaticination"
     ],
-    "sentences": []
+    "sentences": [
+      "prognosticating the future",
+      "prophesying a new messiah",
+      "forecast snow",
+      "astronomers predicted an eclipse",
+      "seers foretold the calamity",
+      "if it turns out as I forecasted",
+      "Such events may forecast peace.",
+      "Optimists are forecasting an immediate upswing in business.",
+      "They're forecasting rain for this weekend.",
+      "The company is forecasting reduced profits."
+    ]
   },
   "forefather": {
     "synonyms": [
@@ -2196,7 +2695,11 @@
       "predate",
       "preexist"
     ],
-    "sentences": []
+    "sentences": [
+      "The story of his mishap forewent him.",
+      "… never forwent an opportunity of honest profit …",
+      "decided to forgo dessert for a few days …"
+    ]
   },
   "foreground": {
     "synonyms": [
@@ -2212,7 +2715,10 @@
       "punctuate",
       "stress"
     ],
-    "sentences": []
+    "sentences": [
+      "We want this issue to be in the foreground.",
+      "Objects in the foreground seem larger than those in the background."
+    ]
   },
   "forehead": {
     "synonyms": [
@@ -2221,7 +2727,11 @@
       "forepart",
       "front"
     ],
-    "sentences": []
+    "sentences": [
+      "… flames in the forehead of the morning sky …",
+      "As a precaution, all center visitors will have their temperatures taken with forehead thermometers upon arrival, and all students will be directed to wash their hands.",
+      "They recently bought a forehead thermometer and have tested teammates' temperatures with it three times daily."
+    ]
   },
   "foreign": {
     "synonyms": [
@@ -2237,7 +2747,21 @@
       "multinational",
       "transnational"
     ],
-    "sentences": []
+    "sentences": [
+      "a practice totally alien to her nature",
+      "techniques foreign to French cuisine",
+      "arguments extraneous to the issue",
+      "sentimental value that is extrinsic to the house's market value",
+      "foreign corporations",
+      "foreign proteins",
+      "a foreign body lodged in the esophagus",
+      "foreign trade",
+      "… this design is not foreign from some people's thoughts …",
+      "foreign aid",
+      "has a large foreign population",
+      "foreign languages",
+      "foreign cities"
+    ]
   },
   "foreigner": {
     "synonyms": [
@@ -2246,14 +2770,21 @@
       "outsider",
       "stranger"
     ],
-    "sentences": []
+    "sentences": [
+      "anti-foreigner sentiments"
+    ]
   },
   "foreknowledge": {
     "synonyms": [
       "foresight",
       "prescience"
     ],
-    "sentences": []
+    "sentences": [
+      "the waiter anticipated our every need",
+      "was able to divine Europe's rapid recovery from the war",
+      "if only we could foreknow our own destinies",
+      "economists should have foreseen the recession"
+    ]
   },
   "foreman": {
     "synonyms": [
@@ -2317,7 +2848,14 @@
       "foreknow",
       "prevision"
     ],
-    "sentences": []
+    "sentences": [
+      "the waiter anticipated our every need",
+      "was able to divine Europe's rapid recovery from the war",
+      "if only we could foreknow our own destinies",
+      "economists should have foreseen the recession",
+      "He could not have foreseen the consequences of his actions.",
+      "She foresaw the company's potential and invested early on."
+    ]
   },
   "foresight": {
     "synonyms": [
@@ -2329,7 +2867,10 @@
       "providence",
       "vision"
     ],
-    "sentences": []
+    "sentences": [
+      "had the foresight to invest his money wisely",
+      "Through foresight she could tell what the outcome would be."
+    ]
   },
   "foretell": {
     "synonyms": [
@@ -2343,7 +2884,13 @@
       "read",
       "vaticinate"
     ],
-    "sentences": []
+    "sentences": [
+      "prognosticating the future",
+      "prophesying a new messiah",
+      "forecast snow",
+      "astronomers predicted an eclipse",
+      "seers foretold the calamity"
+    ]
   },
   "forethought": {
     "synonyms": [
@@ -2364,7 +2911,14 @@
       "mulct",
       "penalty"
     ],
-    "sentences": []
+    "sentences": [
+      "They were required to pay a forfeit.",
+      "were late and had to forfeit the match",
+      "They forfeited my respect with their behavior.",
+      "… an attorney who breaches his fiduciary duty … may be required to forfeit all or part of his fee …",
+      "\"And so,\" continued the Witch, \"that human creature is mine. His life is forfeit to me.\"",
+      "We won the game by forfeit when the opposing side failed to show up."
+    ]
   },
   "forfend": {
     "synonyms": [
@@ -2404,7 +2958,11 @@
       "refrain (from)",
       "withhold (from)"
     ],
-    "sentences": []
+    "sentences": [
+      "… never forwent an opportunity of honest profit …",
+      "decided to forgo dessert for a few days …",
+      "The story of his mishap forewent him."
+    ]
   },
   "formation": {
     "synonyms": [
@@ -2416,7 +2974,16 @@
       "setout",
       "setup"
     ],
-    "sentences": []
+    "sentences": [
+      "flying in formation",
+      "the peculiar formation of the heart",
+      "new word formations",
+      "a rock formation",
+      "the formation of the planets",
+      "… discussing how, during this vulnerable time of self-formation and raging emotions, teenagers actually have no idea how to read social cues.",
+      "The planes broke formation and took off in different directions.",
+      "the ice re-formed on the lake"
+    ]
   },
   "formidable": {
     "synonyms": [
@@ -2473,7 +3040,13 @@
       "tough",
       "uphill"
     ],
-    "sentences": []
+    "sentences": [
+      "a formidably long list",
+      "a formidable accomplishment",
+      "a formidable enemy/opponent/weapon",
+      "a formidable challenge",
+      "The mountains were a formidable barrier."
+    ]
   },
   "formula": {
     "synonyms": [
@@ -2510,7 +3083,15 @@
       "technique",
       "way"
     ],
-    "sentences": []
+    "sentences": [
+      "All her books were written according to a familiar formula.",
+      "The investment strategy proved to be a winning formula.",
+      "There is no magic formula =no simple and certain method for success in this business.",
+      "The product is made using a secret formula that the company refuses to reveal.",
+      "a formula for settling the border dispute",
+      "CH2O is the empirical formula for glucose",
+      "There is no magic formulafor achieving success in the business world."
+    ]
   },
   "forswear": {
     "synonyms": [
@@ -2526,7 +3107,13 @@
       "unsay",
       "withdraw"
     ],
-    "sentences": []
+    "sentences": [
+      "the newspaper had to retract the story",
+      "if they recant they will be spared",
+      "I cannot forswear my principles",
+      "renounced abstract art and turned to portrait painting",
+      "abjured the errors of his former faith"
+    ]
   },
   "forte": {
     "synonyms": [
@@ -2537,7 +3124,9 @@
       "strong suit",
       "thing"
     ],
-    "sentences": []
+    "sentences": [
+      "Violins played the passage forte."
+    ]
   },
   "forth": {
     "synonyms": [
@@ -2548,7 +3137,15 @@
       "along",
       "forwards"
     ],
-    "sentences": []
+    "sentences": [
+      "put forth leaves",
+      "lava bursting forth from the volcano",
+      "from that day forth",
+      "bring forth persuasive arguments",
+      "brought forth fruit",
+      "these events call forth great emotions",
+      "holding forth on the subject of politics"
+    ]
   },
   "forthright": {
     "synonyms": [
@@ -2572,7 +3169,11 @@
       "unreserved",
       "up-front"
     ],
-    "sentences": []
+    "sentences": [
+      "forthright furniture",
+      "a forthright critic",
+      "was forthright in appraising the problem"
+    ]
   },
   "fortify": {
     "synonyms": [
@@ -2591,7 +3192,14 @@
       "inure",
       "season"
     ],
-    "sentences": []
+    "sentences": [
+      "… make sure any soy milk you buy is fortified with vitamin D, an essential nutrient for bone health.",
+      "… both the red and white versions we get in this country have been American-made-from California wine fortified with a touch of brandy.",
+      "fortified by prayer",
+      "fortified by early successes",
+      "fortified by a hearty meal",
+      "a city fortified by high walls"
+    ]
   },
   "fortitude": {
     "synonyms": [
@@ -2625,7 +3233,15 @@
       "transgress",
       "violate"
     ],
-    "sentences": []
+    "sentences": [
+      "kidney fracture",
+      "Her wrist fractured in the fall.",
+      "… fractured many of the laws of probability …",
+      "an argument that fractured family relations",
+      "fracture a rib",
+      "a freeze-fracture micrograph",
+      "freeze fractures of bacterial cells"
+    ]
   },
   "fragile": {
     "synonyms": [
@@ -2643,7 +3259,21 @@
       "slim",
       "small"
     ],
-    "sentences": []
+    "sentences": [
+      "friable soil",
+      "crisp lettuce",
+      "brittle bones",
+      "frangible stone used for paving",
+      "a fragile antique chair",
+      "fragile hope",
+      "a fragile coalition",
+      "a fragile child",
+      "a fragile vase",
+      "fragile bones",
+      "… most children with fragile X syndrome have other characteristic traits, including anxiety, hyperactivity, and a number of behaviors that are often seen in autism.",
+      "The defective gene responsible for fragile X syndrome is carried on one leg of the X chromosome, the chromosome that helps determine the sex of a child.",
+      "Female carriers of fragile X syndrome as a group exhibit wide variation in degree of phenotypic involvement. Some heterozygotes are cognitively unaffected, others have learning disabilities, and approximately one third have significant mental impairment and an IQ score of less than 85."
+    ]
   },
   "frailty": {
     "synonyms": [
@@ -2678,7 +3308,16 @@
       "wimpishness",
       "wishy-washiness"
     ],
-    "sentences": []
+    "sentences": [
+      "compulsive gambling was his vice",
+      "an eccentric's charming foibles",
+      "human frailties",
+      "being late is a failing of mine",
+      "a writer of many virtues and few faults",
+      "Satire … often employs irony and sarcasm to denounce the frailties and faults of mankind.",
+      "the frailty of her health",
+      "the frailty and disability in the elderly"
+    ]
   },
   "frantic": {
     "synonyms": [
@@ -2699,13 +3338,24 @@
       "violent",
       "wild"
     ],
-    "sentences": []
+    "sentences": [
+      "making frantic party preparations",
+      "was frantic while waiting for news",
+      "frantic cries for help",
+      "a frantic search for the lost child"
+    ]
   },
   "fraternal": {
     "synonyms": [
       "brotherly"
     ],
-    "sentences": []
+    "sentences": [
+      "There was a fraternal feeling among the troops.",
+      "fraternal twins",
+      "a fraternal order",
+      "a fraternal chapter house",
+      "fraternal love"
+    ]
   },
   "fraudulence": {
     "synonyms": [
@@ -2800,7 +3450,10 @@
       "underhand",
       "underhanded"
     ],
-    "sentences": []
+    "sentences": [
+      "fraudulent use of a credit card",
+      "fraudulent claims for unemployment compensation"
+    ]
   },
   "fray": {
     "synonyms": [
@@ -2833,7 +3486,14 @@
       "ruckus",
       "ruction"
     ],
-    "sentences": []
+    "sentences": [
+      "Fighting there could easily draw neighboring nations into the fray.",
+      "… the patrician statesman who stood above the fray.",
+      "fraying nerves",
+      "… a botched new bus system … which has frayed tempers.",
+      "His political aides handled the controversy while he remained above the fray.",
+      "After months of delays, tempers began to fray."
+    ]
   },
   "freethinker": {
     "synonyms": [
@@ -2898,7 +3558,9 @@
       "frequentness",
       "prevalence"
     ],
-    "sentences": []
+    "sentences": [
+      "the frequency of automobile accidents"
+    ]
   },
   "fresco": {
     "synonyms": [
@@ -2933,7 +3595,32 @@
       "novelty",
       "originality"
     ],
-    "sentences": []
+    "sentences": [
+      "a fresh start",
+      "a man without one original idea",
+      "a novel approach to the problem",
+      "starts the new job",
+      "new designs",
+      "new brick",
+      "Don't get fresh with me!",
+      "a fresh cow",
+      "fresh from school",
+      "fresh out of college",
+      "a fresh recruit",
+      "a fresh portrayal",
+      "fresh insights",
+      "a fresh wound",
+      "form fresh friendships",
+      "a fresh breeze",
+      "fresh air",
+      "fresh water",
+      "fresh vegetables",
+      "had fresh breath",
+      "a fresh white shirt",
+      "lessons fresh in her memory",
+      "fresh bread",
+      "rose fresh from a good night's sleep"
+    ]
   },
   "fretful": {
     "synonyms": [
@@ -3158,7 +3845,10 @@
       "vicious",
       "violent"
     ],
-    "sentences": []
+    "sentences": [
+      "frightful thirst",
+      "a frightful novel"
+    ]
   },
   "frigid": {
     "synonyms": [
@@ -3196,7 +3886,11 @@
       "unfriendly",
       "unsympathetic"
     ],
-    "sentences": []
+    "sentences": [
+      "writing precise and frigid poetry",
+      "had an emotionally frigid father",
+      "frigid water"
+    ]
   },
   "frivolity": {
     "synonyms": [
@@ -3211,7 +3905,10 @@
       "lightness",
       "silliness"
     ],
-    "sentences": []
+    "sentences": [
+      "He spends money on the latest fashions and other frivolities.",
+      "He has no patience for frivolity."
+    ]
   },
   "frivolous": {
     "synonyms": [
@@ -3251,7 +3948,12 @@
       "silly",
       "yeasty"
     ],
-    "sentences": []
+    "sentences": [
+      "was criticized for his frivolous behavior in court",
+      "a frivolous conversation",
+      "a frivolous lawsuit",
+      "She thinks window shopping is a frivolous activity."
+    ]
   },
   "frizz": {
     "synonyms": [
@@ -3300,7 +4002,13 @@
       "borderline",
       "marginal"
     ],
-    "sentences": []
+    "sentences": [
+      "… the brain lies before us as one of the last scientific frontiers here on earth.",
+      "… the frontiers separating science and the humanities …",
+      "frontiers in immunology",
+      "an expedition to explore the western frontier",
+      "the frontier between Canada and the U.S."
+    ]
   },
   "frowzy": {
     "synonyms": [
@@ -3331,7 +4039,10 @@
       "stinky",
       "strong"
     ],
-    "sentences": []
+    "sentences": [
+      "… a couple of frowsy stuffed chairs …",
+      "… a frowsy smell of stale beer and stale smoke."
+    ]
   },
   "frugal": {
     "synonyms": [
@@ -3342,7 +4053,12 @@
       "sparing",
       "thrifty"
     ],
-    "sentences": []
+    "sentences": [
+      "an economical health care plan",
+      "thrifty use of nonrenewable resources",
+      "ran a frugal household",
+      "sparing in the offering of advice"
+    ]
   },
   "fruition": {
     "synonyms": [
@@ -3356,7 +4072,10 @@
       "pass",
       "realization"
     ],
-    "sentences": []
+    "sentences": [
+      "The fields needed rain for fruition.",
+      "… Fame is … an Object of Desire placed out of the Possibility of Fruition."
+    ]
   },
   "fugacious": {
     "synonyms": [
@@ -3385,7 +4104,10 @@
       "rave",
       "spout"
     ],
-    "sentences": []
+    "sentences": [
+      "… fulminating against government regulators …",
+      "fulminate a decree"
+    ]
   },
   "fulsome": {
     "synonyms": [
@@ -3446,7 +4168,18 @@
       "sickening",
       "ugly"
     ],
-    "sentences": []
+    "sentences": [
+      "Her servility and fulsome compliments when Emmy was in prosperity were not more to that lady's liking.",
+      "The fulsome chromium glitter of the escalators dominating the central hall …",
+      "… fulsome lies and nauseous flattery …",
+      "the devil take thee for a … fulsome rogue",
+      "… she was in generally fulsome, limpid voice …",
+      "He was fulsome in his praise of Mrs. Wharton's first novel …",
+      "a fulsome victory for the far left",
+      "the greetings have been fulsome, the farewells tender",
+      "… describes in fulsome detail …",
+      "fulsome bird life. The feeder overcrowded"
+    ]
   },
   "functionary": {
     "synonyms": [
@@ -3475,7 +4208,25 @@
       "rudimentary",
       "underlying"
     ],
-    "sentences": []
+    "sentences": [
+      "a cardinal rule in buying a home",
+      "cut off from vital supplies",
+      "fundamental principles of algebra",
+      "conflict is essential in drama",
+      "her fundamental good humor",
+      "fundamental purpose",
+      "such fundamental events as birth, marriage, and death",
+      "a preacher who is evangelical, Bible-teaching, and fundamental",
+      "fundamental science",
+      "fundamental change",
+      "a discovery fundamental to modern computers",
+      "a fundamental truth/belief/concept",
+      "The participation of citizens is fundamental to democracy.",
+      "There's a fundamental difference between the two political parties.",
+      "The Constitution ensures our fundamental rights.",
+      "Reading is a fundamental of education.",
+      "learning the fundamentals of math"
+    ]
   },
   "fungible": {
     "synonyms": [
@@ -3485,7 +4236,18 @@
       "substitutable",
       "switchable"
     ],
-    "sentences": []
+    "sentences": [
+      "Managers typically use more than a hundred different lineups over the course of the season. Batting orders are so fungible that few players last long in one spot.",
+      "… the court's postulate that male and female jurors must be regarded as fungible",
+      "Oil, wheat, and lumber are fungible commodities.",
+      "fungible goods",
+      "Fungibles may be valued by weight or measure.",
+      "A non-fungible token is, most simply, a unique digital asset. It can be a photo, a logo, a meme, a music album, a basketball highlight, a collage, a tweet, a newspaper article, a video; basically, anything that can get online …",
+      "… Smith will auction off the horror anthology as a non-fungible token, with the owner gaining the rights to exhibit, distribute and stream the movie.",
+      "Non-fungible tokens … are electronic identifiers confirming a digital collectible is real by recording the details on a … database known as a blockchain.",
+      "Non-fungible tokens are used to verify unique items such as digital art and digital ownership of other items.",
+      "Nonfungible tokens each have their own unique value, so they're not tradable on a like-to-like value basis."
+    ]
   },
   "furbish": {
     "synonyms": [
@@ -3510,7 +4272,15 @@
       "layoff",
       "redundancy"
     ],
-    "sentences": []
+    "sentences": [
+      "One possible way to avoid layoffs is through furloughs—making workers take an unpaid leave of absence …",
+      "The Army began furloughs in September as so-called 'sanity checks' for soldiers whose tour has stretched to nearly a year.",
+      "… other airlines are placing pressure on the unionized pilots to take large salary cuts—at least those pilots who haven't already been furloughed (the word pilots use instead of the more plebeian laid off).",
+      "Although no one could supply exact figures, sources in Washington, D.C., said nearly 500,000 federal workers were furloughed for all or part of Thursday. In the Los Angeles-Long Beach area about 11,000 of the 40,000 federal workers were sent home because of the operating fund impasse in Congress.",
+      "a soldier being furloughed",
+      "a furloughed prisoner",
+      "Those probation officers are then able to monitor criminals serving their sentences in work camps or on furlough rather than in jail as a way of relieving overcrowding."
+    ]
   },
   "furrier": {
     "synonyms": [
@@ -3528,7 +4298,11 @@
       "woolly",
       "fuzzy"
     ],
-    "sentences": []
+    "sentences": [
+      "spoke with a furry voice",
+      "animals with furry coats",
+      "a plant with furry leaves"
+    ]
   },
   "further": {
     "synonyms": [
@@ -3550,7 +4324,40 @@
       "withal",
       "yet"
     ],
-    "sentences": []
+    "sentences": [
+      "efforts to further our aims",
+      "further, it's become clear that …",
+      "wouldn't comment any further",
+      "further study is needed",
+      "further education",
+      "going further/farther than before",
+      "the further/farther side",
+      "Further, there are aurochs, red deer, wild boar, and large quantities of hare or rabbit.",
+      "further annoyed by a second intrusion",
+      "My ponies are tired, and I have further to go …",
+      "further volumes",
+      "… rode … across the valley and up the further slopes …",
+      "used the marriage to further his career",
+      "a wage increase would forward productivity",
+      "a campaign to promote better health",
+      "advance the cause of peace",
+      "not far from the year 1870",
+      "a bright student will go far",
+      "worked far into the night",
+      "as far as I know",
+      "the far distant future",
+      "far better methods",
+      "wandered far from home",
+      "the far left",
+      "a far right political organization",
+      "the far end",
+      "a man of far vision",
+      "a far journey",
+      "Further to my letter of last Wednesday, may I remind you that the balance outstanding has still not been paid.",
+      "Don't worry, what you've told me will go no further.",
+      "She has no intention of quitting her job. Nothing could be further from her mind.",
+      "I know you think I don't care, but nothing could be further from the truth."
+    ]
   },
   "furtherance": {
     "synonyms": [
@@ -3566,7 +4373,9 @@
       "progress",
       "progression"
     ],
-    "sentences": []
+    "sentences": [
+      "the furtherance of science"
+    ]
   },
   "furtive": {
     "synonyms": [
@@ -3595,7 +4404,19 @@
       "underhand",
       "underhanded"
     ],
-    "sentences": []
+    "sentences": [
+      "an underhanded trick",
+      "the surreptitious stockpiling of weapons",
+      "a clandestine meeting of conspirators",
+      "lovers exchanging furtive glances",
+      "the stealthy step of a burglar",
+      "covert intelligence operations",
+      "met at a secret location",
+      "furtive gains",
+      "had a furtive look about him",
+      "a furtive glance",
+      "exchanged furtive smiles"
+    ]
   },
   "fuse": {
     "synonyms": [
@@ -3638,7 +4459,25 @@
       "mingle",
       "mix"
     ],
-    "sentences": []
+    "sentences": [
+      "a building in which modernism and classicism are fused",
+      "refugees who were readily amalgamated into the community",
+      "telling details that coalesce into a striking portrait",
+      "in his mind reality and fantasy merged",
+      "blended several teas to create a balanced flavor",
+      "a sense of duty commingled with a fierce pride drove her",
+      "fear mingled with anticipation in my mind",
+      "mix the salad greens",
+      "mix a drink",
+      "Dreams fuse with reality in her latest film.",
+      "The plate was heated. This caused the mercury to evaporate and allowed the gold to fuse to the copper.",
+      "Particles are fused to form a new compound.",
+      "… the thunderstorm had fused the electric mains …",
+      "… a fiery and short-fused 30-year-old driver as well known for tantrums and bad behavior as he is for being the best rookie in history …",
+      "… was seen as the bad guy, the one whose short fuse was scary, destructive and uncontrollable.",
+      "The boss is known to have a short fuse.",
+      "The boss blew a fuse when the shipment didn't arrive on time."
+    ]
   },
   "futile": {
     "synonyms": [
@@ -3676,7 +4515,14 @@
       "silly",
       "yeasty"
     ],
-    "sentences": []
+    "sentences": [
+      "fruitless efforts to obtain a lasting peace",
+      "a vain attempt to get the car started",
+      "resistance had proved so futile that surrender was the only choice left",
+      "In the early Church … astronomy, like other branches of science, was generally looked upon as futile.",
+      "efforts to convince him were futile",
+      "a futile attempt to control the flooding"
+    ]
   },
   "futurist": {
     "synonyms": [
@@ -3694,5 +4540,49 @@
       "visionary"
     ],
     "sentences": []
+  },
+  "facial": {
+    "synonyms": [],
+    "sentences": [
+      "facial expressions"
+    ]
+  },
+  "famish": {
+    "synonyms": [],
+    "sentences": [
+      "… a moment when French poetry in particular was famishing for such invention …",
+      "She'd nibbled only a few carrots and yogurt all day, and she was famished.",
+      "People there are famished, crime is rampant, and the government is jailing … its opponents."
+    ]
+  },
+  "feudal": {
+    "synonyms": [],
+    "sentences": [
+      "feudal rights and services",
+      "feudal law",
+      "a feudal lord",
+      "prefeudal societies",
+      "the prefeudal landscape",
+      "in prefeudal times"
+    ]
+  },
+  "fiducial": {
+    "synonyms": [],
+    "sentences": [
+      "a fiducial mark"
+    ]
+  },
+  "fulcrum": {
+    "synonyms": [],
+    "sentences": [
+      "He is … the reader's eyes and ears and the fulcrum of his judgment …",
+      "… the camera moves on a fixed fulcrum, either horizontally (panning) or vertically (tilting) …"
+    ]
+  },
+  "fusible": {
+    "synonyms": [],
+    "sentences": [
+      "fusible alloy"
+    ]
   }
 }

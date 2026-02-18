@@ -1,1 +1,710 @@
-{}
+{
+  "jargon": {
+    "synonyms": [
+      "argot",
+      "cant",
+      "dialect",
+      "jive",
+      "language",
+      "lingo",
+      "patois",
+      "patter",
+      "shop",
+      "shoptalk",
+      "slang",
+      "terminology",
+      "vocabulary"
+    ],
+    "sentences": [
+      "an academic essay filled with jargon",
+      "sports jargon"
+    ]
+  },
+  "jaundice": {
+    "synonyms": [
+      "animosity",
+      "animus",
+      "antagonism",
+      "antipathy",
+      "bad blood",
+      "bitterness",
+      "enmity",
+      "gall",
+      "grudge",
+      "hostility",
+      "rancor"
+    ],
+    "sentences": []
+  },
+  "jeopardize": {
+    "synonyms": [
+      "adventure",
+      "compromise",
+      "endanger",
+      "gamble (with)",
+      "hazard",
+      "imperil",
+      "jeopard",
+      "menace",
+      "peril",
+      "risk",
+      "venture"
+    ],
+    "sentences": [
+      "a decision that could jeopardize her career",
+      "laws jeopardizing freedom of speech"
+    ]
+  },
+  "Jingo": {
+    "synonyms": [
+      "chauvinist",
+      "flag-waver",
+      "nationalist",
+      "superpatriot",
+      "hawk",
+      "jingoist",
+      "militarist",
+      "war hawk",
+      "warmonger"
+    ],
+    "sentences": []
+  },
+  "jocose": {
+    "synonyms": [
+      "blithe",
+      "blithesome",
+      "festive",
+      "gay",
+      "gleeful",
+      "jocular",
+      "jocund",
+      "jolly",
+      "jovial",
+      "laughing",
+      "merry",
+      "mirthful",
+      "sunny"
+    ],
+    "sentences": [
+      "jocose proposals",
+      "a jocular fellow",
+      "facetious comments",
+      "humorous anecdotes",
+      "a witty remark"
+    ]
+  },
+  "jocular": {
+    "synonyms": [
+      "clever",
+      "facetious",
+      "humorous",
+      "smart",
+      "witty",
+      "blithe",
+      "blithesome",
+      "festive",
+      "gay",
+      "gleeful",
+      "jocose",
+      "jocund",
+      "jolly",
+      "jovial",
+      "laughing",
+      "merry",
+      "mirthful",
+      "sunny"
+    ],
+    "sentences": [
+      "jocose proposals",
+      "a jocular fellow",
+      "facetious comments",
+      "humorous anecdotes",
+      "a witty remark",
+      "a jocular man",
+      "jocular remarks"
+    ]
+  },
+  "joggle": {
+    "synonyms": [
+      "agitate",
+      "bucket",
+      "convulse",
+      "jerk",
+      "jiggle",
+      "jolt",
+      "jounce",
+      "judder",
+      "quake",
+      "quiver",
+      "shake",
+      "shudder",
+      "vibrate",
+      "wobble"
+    ],
+    "sentences": []
+  },
+  "jovial": {
+    "synonyms": [
+      "blithe",
+      "blithesome",
+      "festive",
+      "gay",
+      "gleeful",
+      "jocose",
+      "jocular",
+      "jocund",
+      "jolly",
+      "laughing",
+      "merry",
+      "mirthful",
+      "sunny"
+    ],
+    "sentences": [
+      "our jolly host enlivened the party",
+      "dinner put them in a jovial mood",
+      "singing, dancing, and jocund feasting",
+      "arrived late in his usual blithe way",
+      "a merry group of revelers",
+      "a jovial host",
+      "a jovial welcome",
+      "spent a jovial evening together"
+    ]
+  },
+  "jubilation": {
+    "synonyms": [
+      "cheer",
+      "cheerfulness",
+      "comfort",
+      "exuberance",
+      "gaiety",
+      "gladsomeness",
+      "glee",
+      "gleefulness",
+      "jocundity",
+      "jollity",
+      "joyfulness",
+      "joyousness",
+      "jubilance",
+      "lightheartedness",
+      "merriness",
+      "mirth",
+      "beatitude",
+      "blessedness",
+      "bliss",
+      "blissfulness",
+      "felicity",
+      "gladness",
+      "happiness",
+      "joy",
+      "warm fuzzies",
+      "elatedness",
+      "elation",
+      "exhilaration",
+      "exultation",
+      "high",
+      "intoxication",
+      "ecstasy",
+      "euphoria",
+      "glory",
+      "heaven",
+      "nirvana",
+      "paradise",
+      "rapture",
+      "rapturousness",
+      "ravishment",
+      "seventh heaven",
+      "transport",
+      "delectation",
+      "delight",
+      "enjoyment",
+      "pleasure",
+      "content",
+      "contentedness",
+      "gratification",
+      "satisfaction",
+      "triumph"
+    ],
+    "sentences": [
+      "The jubilations of the garrison were short-lived.",
+      "The news was greeted with jubilation."
+    ]
+  },
+  "judgment": {
+    "synonyms": [
+      "doom",
+      "finding",
+      "holding",
+      "ruling",
+      "sentence",
+      "award",
+      "call",
+      "conclusion",
+      "decision",
+      "deliverance",
+      "determination",
+      "diagnosis",
+      "opinion",
+      "resolution",
+      "verdict",
+      "belief",
+      "conviction",
+      "eye",
+      "feeling",
+      "mind",
+      "notion",
+      "persuasion",
+      "sentiment",
+      "view",
+      "appraisal",
+      "appraisement",
+      "assessment",
+      "estimate",
+      "estimation",
+      "evaluation",
+      "fix",
+      "value judgment"
+    ],
+    "sentences": [
+      "a leader of rare wisdom",
+      "they relied on her judgment for guidance",
+      "common sense tells me it's wrong",
+      "a choice showing good sense",
+      "believed their bad luck to be a judgment upon them",
+      "sinners awaiting Judgment",
+      "Though some of the property was seized and auctioned, most of the judgment hadn't been paid.",
+      "The plaintiffs won a judgment against the bank.",
+      "The Supreme Court reversed the judgment of the lower court.",
+      "The trial judge … found him guilty. … The petitioner's motion to set aside the judgment … was denied.",
+      "a situation requiring careful judgment",
+      "be guided by your own judgment",
+      "showing poor judgment",
+      "is not worth doing in my judgment",
+      "We have to make a judgment about the value of their services.",
+      "careful judgment of the odds",
+      "It's too soon to pass judgment on the effectiveness of the new program.",
+      "I agreed to let him join us, even though it was against my better judgment.",
+      "The alcohol must have clouded my judgment.",
+      "The company has admitted that it made an error in judgment in trying to expand too quickly.",
+      "It would be premature to pass judgment on his place in history."
+    ]
+  },
+  "judicature": {
+    "synonyms": [
+      "criminal court",
+      "judicatory",
+      "judiciary",
+      "bar",
+      "bench",
+      "court",
+      "forum",
+      "tribunal",
+      "high court",
+      "supreme court",
+      "court-martial",
+      "drumhead court-martial",
+      "inquisition",
+      "kangaroo court"
+    ],
+    "sentences": []
+  },
+  "judiciary": {
+    "synonyms": [
+      "judicatory",
+      "judicature",
+      "bar",
+      "bench",
+      "forum",
+      "tribunal",
+      "civil court",
+      "criminal court",
+      "trial court",
+      "high court",
+      "supreme court",
+      "court-martial",
+      "drumhead court-martial",
+      "inquisition",
+      "kangaroo court"
+    ],
+    "sentences": []
+  },
+  "judicious": {
+    "synonyms": [
+      "discreet",
+      "intelligent",
+      "judgmatic",
+      "prudent",
+      "advisable",
+      "desirable",
+      "expedient",
+      "politic",
+      "tactical",
+      "wise"
+    ],
+    "sentences": [
+      "remained sane even in times of crises",
+      "a sensible woman who was not fooled by flattery",
+      "a prudent decision to wait out the storm",
+      "judicious parents using kindness and discipline in equal measure",
+      "the sapient musings of an old philosopher",
+      "the sage advice of my father",
+      "wise beyond his tender years",
+      "judicious investments",
+      "a judicious decision"
+    ]
+  },
+  "juggle": {
+    "synonyms": [
+      "artifice",
+      "device",
+      "dodge",
+      "fetch",
+      "flimflam",
+      "gambit",
+      "gimmick",
+      "jig",
+      "knack",
+      "play",
+      "ploy",
+      "ruse",
+      "scheme",
+      "shenanigan",
+      "sleight",
+      "stratagem",
+      "trick",
+      "wile"
+    ],
+    "sentences": [
+      "juggle an account to hide a loss",
+      "… juggle the responsibilities of family life and full-time job …"
+    ]
+  },
+  "jugglery": {
+    "synonyms": [
+      "artifice",
+      "chicane",
+      "chicanery",
+      "gamesmanship",
+      "hanky-panky",
+      "jiggery-pokery",
+      "legerdemain",
+      "skulduggery",
+      "subterfuge",
+      "trickery",
+      "wile"
+    ],
+    "sentences": []
+  },
+  "jugular": {
+    "synonyms": [
+      "Achilles' heel",
+      "back",
+      "chink",
+      "soft spot",
+      "underbelly"
+    ],
+    "sentences": [
+      "showed an instinct for the jugular in competition",
+      "He will very quickly go for the jugular in the debate."
+    ]
+  },
+  "juicy": {
+    "synonyms": [
+      "fleshy",
+      "pulpy",
+      "succulent",
+      "economic",
+      "fat",
+      "gainful",
+      "lucrative",
+      "money-spinning",
+      "moneymaking",
+      "paying",
+      "profitable",
+      "remunerative"
+    ],
+    "sentences": [
+      "a juicy scandal",
+      "juicy details",
+      "juicy contract",
+      "a juicy dramatic role"
+    ]
+  },
+  "junction": {
+    "synonyms": [
+      "connection",
+      "coupling",
+      "join",
+      "joining",
+      "joint",
+      "jointure",
+      "juncture",
+      "combination",
+      "combining",
+      "connecting",
+      "consolidation",
+      "linking",
+      "merger",
+      "merging",
+      "unification",
+      "union",
+      "carrefour",
+      "corner",
+      "crossing",
+      "crossroad",
+      "crossway(s)",
+      "intersection"
+    ],
+    "sentences": []
+  },
+  "juncture": {
+    "synonyms": [
+      "point",
+      "connection",
+      "coupling",
+      "join",
+      "joining",
+      "joint",
+      "jointure",
+      "junction",
+      "boiling point",
+      "breaking point",
+      "clutch",
+      "conjuncture",
+      "crisis",
+      "crossroad(s)",
+      "crunch",
+      "crunch time",
+      "Dunkirk",
+      "emergency",
+      "exigency",
+      "extremity",
+      "flash point",
+      "head",
+      "tinderbox",
+      "zero hour"
+    ],
+    "sentences": [
+      "a crisis of confidence",
+      "in dire straits",
+      "come through in a pinch",
+      "contingency plans",
+      "the presence of mind needed to deal with emergencies",
+      "provide for exigencies",
+      "an important juncture in our country's history",
+      "at this juncture"
+    ]
+  },
+  "junta": {
+    "synonyms": [
+      "oligarchy",
+      "cabal",
+      "conspiracy",
+      "crew",
+      "gang",
+      "Mafia",
+      "mob",
+      "ring",
+      "syndicate",
+      "bunch",
+      "circle",
+      "clan",
+      "clique",
+      "coterie",
+      "coven",
+      "crowd",
+      "galère",
+      "junto",
+      "lot",
+      "network",
+      "pack",
+      "set"
+    ],
+    "sentences": [
+      "a military junta"
+    ]
+  },
+  "jurisdiction": {
+    "synonyms": [
+      "administration",
+      "authority",
+      "governance",
+      "government",
+      "regime",
+      "regimen",
+      "rule"
+    ],
+    "sentences": [
+      "given dominion over all the animals",
+      "the empire extended its sway over the region",
+      "the army officer in command",
+      "you are responsible for the students under your control",
+      "the bureau having jurisdiction over parks",
+      "granted the authority to manage her estate",
+      "the power to mold public opinion",
+      "a matter that falls within the court's jurisdiction"
+    ]
+  },
+  "jurisprudence": {
+    "synonyms": [
+      "judiciary",
+      "justice",
+      "law",
+      "police"
+    ],
+    "sentences": [
+      "medical jurisprudence",
+      "a tendency that has become apparent in the jurisprudence of the American courts",
+      "Roman jurisprudence",
+      "labor jurisprudence",
+      "… they have no theories of jurisprudence but … decide each case on its facts."
+    ]
+  },
+  "joust": {
+    "synonyms": [
+      "duel",
+      "battle",
+      "clash (with)",
+      "combat",
+      "fight",
+      "scrimmage (with)",
+      "skirmish (with)",
+      "war (against)",
+      "bang",
+      "bash",
+      "bat",
+      "batter",
+      "beat",
+      "belt",
+      "bludgeon",
+      "bop",
+      "buffet",
+      "clobber",
+      "hammer",
+      "hit",
+      "knock",
+      "paste",
+      "pound",
+      "punch",
+      "slam",
+      "slap",
+      "slog",
+      "slug",
+      "smack",
+      "smite",
+      "sock",
+      "strike",
+      "swat",
+      "swipe",
+      "thump",
+      "thwack",
+      "wallop",
+      "whack",
+      "whale",
+      "box",
+      "spar",
+      "brawl",
+      "grapple",
+      "scuffle",
+      "tussle",
+      "wrestle",
+      "bump",
+      "collide"
+    ],
+    "sentences": [
+      "jousting debaters",
+      "jousting bighorn rams"
+    ]
+  },
+  "justification": {
+    "synonyms": [
+      "alibi",
+      "apology",
+      "defense",
+      "excuse",
+      "plea",
+      "reason"
+    ],
+    "sentences": [
+      "software that provides automatic justification of text",
+      "could provide no justification for his decision",
+      "arguments offered in justification of their choice",
+      "He told lies in justification of his behavior.",
+      "She noted with some justification that other people had experienced similar problems."
+    ]
+  },
+  "juvenile": {
+    "synonyms": [
+      "adolescent",
+      "immature",
+      "young",
+      "youngish",
+      "youthful",
+      "babyish",
+      "childish",
+      "infantile",
+      "jejune",
+      "kiddish",
+      "puerile",
+      "callow",
+      "green",
+      "inexperienced",
+      "raw",
+      "unfledged",
+      "unformed",
+      "unripe",
+      "unripened"
+    ],
+    "sentences": [
+      "juvenile behavior",
+      "juvenile pranks",
+      "told him he was being juvenile",
+      "the juvenile justice system",
+      "juvenile crime",
+      "juvenile fiction",
+      "juvenile birds",
+      "… some states also have been changing their laws to give school administrators more access to the records of juveniles whose cases were processed by juvenile courts."
+    ]
+  },
+  "juxtapose": {
+    "synonyms": [
+      "alternate",
+      "interlace",
+      "intersperse",
+      "interweave",
+      "lace",
+      "salt",
+      "thread",
+      "weave",
+      "wreathe",
+      "insert",
+      "intermingle",
+      "mingle",
+      "mix",
+      "amalgamate",
+      "assimilate",
+      "blend",
+      "combine",
+      "commingle",
+      "embody",
+      "fuse",
+      "incorporate",
+      "integrate",
+      "merge"
+    ],
+    "sentences": [
+      "… juxtapose unexpected combinations of colors, shapes and ideas …"
+    ]
+  },
+  "judicial": {
+    "synonyms": [],
+    "sentences": [
+      "judicial robes",
+      "judicial dignity",
+      "a judicial sale",
+      "judicial processes",
+      "judicial powers",
+      "quasi-judicial review",
+      "quasi-judicial bodies"
+    ]
+  }
+}

@@ -1,1 +1,69 @@
-{}
+{
+  "zealot": {
+    "synonyms": [
+      "crusader",
+      "fanatic",
+      "ideologue",
+      "militant",
+      "partisan",
+      "red hot",
+      "true believer"
+    ],
+    "sentences": [
+      "a religious zealot"
+    ]
+  },
+  "zenith": {
+    "synonyms": [
+      "acme",
+      "apex",
+      "apogee",
+      "capstone",
+      "climax",
+      "crescendo",
+      "crest",
+      "crown",
+      "culmination",
+      "head",
+      "height",
+      "high noon",
+      "high-water mark",
+      "meridian",
+      "ne plus ultra",
+      "noon",
+      "noontime",
+      "peak",
+      "pinnacle",
+      "sum",
+      "summit",
+      "tip-top",
+      "top"
+    ],
+    "sentences": [
+      "… at the zenith of his powers …"
+    ]
+  },
+  "zephyr": {
+    "synonyms": [
+      "air",
+      "breath",
+      "breeze",
+      "puff",
+      "waft"
+    ],
+    "sentences": []
+  },
+  "zodiac": {
+    "synonyms": [
+      "circle",
+      "cycle",
+      "merry-go-round",
+      "round",
+      "wheel"
+    ],
+    "sentences": [
+      "… a zodiac of feasts and fasts …",
+      "the 12 signs of the zodiac"
+    ]
+  }
+}

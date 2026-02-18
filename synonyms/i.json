@@ -35,7 +35,10 @@
       "unfriendly",
       "unsympathetic"
     ],
-    "sentences": []
+    "sentences": [
+      "icy nerves",
+      "an icy stare"
+    ]
   },
   "iciness": {
     "synonyms": [
@@ -60,7 +63,10 @@
       "rawness",
       "sharpness"
     ],
-    "sentences": []
+    "sentences": [
+      "icy nerves",
+      "an icy stare"
+    ]
   },
   "icon": {
     "synonyms": [
@@ -108,7 +114,16 @@
       "likeness",
       "picture"
     ],
-    "sentences": []
+    "sentences": [
+      "… Rosie the Riveter, with her machine-shop suit, … her bicep flexed and bared, became a national icon defining the new nature of women's work.",
+      "A single photograph, the photograph of Earth taken from space by William Anders, on Apollo 8, in 1968, served as an icon for the entire environmental movement.",
+      "The nation's first President was transformed into an icon, a national symbol whose somewhat forbidding portrait would adorn the dollar bill.",
+      "a civil rights icon",
+      "an actor and fashion icon",
+      "… Purple Rain, the flick that established Prince as a pop icon and cineaste.",
+      "That cultural icon, the Nintendo Game Boy, was released in 1989 …",
+      "iconography"
+    ]
   },
   "iconoclast": {
     "synonyms": [
@@ -136,14 +151,25 @@
       "glorify",
       "romanticize"
     ],
-    "sentences": []
+    "sentences": [
+      "portraitists who idealize their subjects",
+      "tended to idealize her teachers"
+    ]
   },
   "idiom": {
     "synonyms": [
       "expression",
       "phrase"
     ],
-    "sentences": []
+    "sentences": [
+      "a new culinary idiom",
+      "the modern jazz idiom",
+      "For him, the impact of a work of art was bound to an artist's discovery of his own idiom and vision of the world.",
+      "First, you had to translate from the American into the English or Australian idiom …",
+      "… does not speak the idiom of the bourgeoise.",
+      "Such clannishness is leading scholarly writing to … an increasingly rarefied and self-referential idiom.",
+      "Where there's a will, there's a way—as true as any idiom could be."
+    ]
   },
   "idiosyncrasy": {
     "synonyms": [
@@ -164,7 +190,15 @@
       "trick",
       "twist"
     ],
-    "sentences": []
+    "sentences": [
+      "The skin rash was considered to be due to a drug idiosyncrasy.",
+      "From tiny, barely visible lines and dots to serif and non-serif typography … the world of vintage Rolex is positively filled with quirky idiosyncrasies …",
+      "Keeping elaborate files isn't Scheer's only idiosyncrasy; she has the strange habit of holding a pencil between her second and ring fingers …",
+      "idiosyncrasies of speech",
+      "… Byzantine describes the style that developed in the eastern Roman Empire. … Its idiosyncrasy was influenced by the abundance of hard stone, the shortage of wood, the eastern love of surface ornament, and the classical tradition.",
+      "When you know someone a long time, you become accustomed to their idiosyncrasies, which is a fancy word for their unique habits.",
+      "GE executives examine each country's idiosyncrasies microscopically, then tailor a mix of products … and retail approaches to wring the best performance from each."
+    ]
   },
   "idolize": {
     "synonyms": [
@@ -176,7 +210,9 @@
       "hero-worship",
       "worship"
     ],
-    "sentences": []
+    "sentences": [
+      "… the common people whom he so idolized."
+    ]
   },
   "ignoble": {
     "synonyms": [
@@ -214,7 +250,15 @@
       "vile",
       "wretched"
     ],
-    "sentences": []
+    "sentences": [
+      "a sordid story of murder and revenge",
+      "abject poverty",
+      "an ignoble scramble after material possessions",
+      "mean and petty satire",
+      "The birth of Antonina was ignoble; she descended from a family of charioteers …",
+      "an ignoble past",
+      "… feeling an ignoble spasm of Schadenfreude at this news."
+    ]
   },
   "ignominious": {
     "synonyms": [
@@ -250,7 +294,11 @@
       "vile",
       "wretched"
     ],
-    "sentences": []
+    "sentences": [
+      "a cowardly life and ignominious death",
+      "an ignominious collaborator",
+      "an ignominious defeat"
+    ]
   },
   "illegal": {
     "synonyms": [
@@ -275,7 +323,9 @@
       "undecipherable",
       "unreadable"
     ],
-    "sentences": []
+    "sentences": [
+      "illegible writing"
+    ]
   },
   "illegitimate": {
     "synonyms": [
@@ -304,7 +354,11 @@
       "unsound",
       "weak"
     ],
-    "sentences": []
+    "sentences": [
+      "were fired for illegitimate reasons",
+      "an illegitimate government",
+      "… a retaliatory, harassing, or other illegitimate motive."
+    ]
   },
   "illiberal": {
     "synonyms": [
@@ -348,7 +402,17 @@
       "unrefined",
       "vulgar"
     ],
-    "sentences": []
+    "sentences": [
+      "illiberal occupations",
+      "The tall gentleman came to meet her, looking very rigid and grave. But it was a rigidity that had no illiberal meaning.",
+      "Drunkenness, the most illiberal … of our vices, was sometimes capable, in a less civilized state of mankind, of occasioning a battle, a war, or a revolution.",
+      "… Theobald felt quite good-natured, and sent … even more soup and wine than her usual not illiberal allowance.",
+      "… illiberal views on sexual conduct.",
+      "… used the migrant crisis to stir up racist, illiberal views.",
+      "Her latest book … looks at how illiberal leaders use propaganda, corruption, violence and machismo …",
+      "Authoritarian or hybrid regimes, no matter how illiberal, will still be treated as legitimate if they can provide security for their subjects and spark economic growth.",
+      "With the coming of the cold war, many Westerners were struck by the resemblance of Stalin's Russia to Hitler's Germany. Both were illiberal, highly centralized regimes that seemed to fit into the general designation of totalitarian states."
+    ]
   },
   "illicit": {
     "synonyms": [
@@ -360,7 +424,9 @@
       "unlawful",
       "wrongful"
     ],
-    "sentences": []
+    "sentences": [
+      "illicit drugs"
+    ]
   },
   "illimitable": {
     "synonyms": [
@@ -379,7 +445,9 @@
       "unfathomable",
       "unlimited"
     ],
-    "sentences": []
+    "sentences": [
+      "the illimitable reaches of space and time"
+    ]
   },
   "illiterate": {
     "synonyms": [
@@ -400,7 +468,18 @@
       "untaught",
       "untutored"
     ],
-    "sentences": []
+    "sentences": [
+      "poetry not for academics but for the unlearned masses",
+      "strange monuments built by an untutored people",
+      "an allusion meaningless to the unlettered",
+      "much of the population is still illiterate",
+      "an ignorant fool",
+      "ignorant of nuclear physics",
+      "an illiterate magazine",
+      "an illiterate sentence",
+      "musically illiterate",
+      "an illiterate population"
+    ]
   },
   "ill-natured": {
     "synonyms": [
@@ -417,7 +496,10 @@
       "splenetic",
       "surly"
     ],
-    "sentences": []
+    "sentences": [
+      "an ill-natured remark",
+      "an ill-natured man"
+    ]
   },
   "illogical": {
     "synonyms": [
@@ -433,7 +515,10 @@
       "unsound",
       "weak"
     ],
-    "sentences": []
+    "sentences": [
+      "illogical policies",
+      "an illogical argument"
+    ]
   },
   "illuminant": {
     "synonyms": [
@@ -486,7 +571,12 @@
       "inspire",
       "nurture"
     ],
-    "sentences": []
+    "sentences": [
+      "a crisis can illuminate how interdependent we all are",
+      "an explanation that illuminated the situation",
+      "a career educator who illuminated hundreds of students",
+      "candles illuminating a church"
+    ]
   },
   "illumine": {
     "synonyms": [
@@ -532,7 +622,19 @@
       "old wives' tale",
       "untruth"
     ],
-    "sentences": []
+    "sentences": [
+      "claimed a balanced budget is a mirage",
+      "suffered from terrifying hallucinations",
+      "an illusion of safety",
+      "delusions of persecution",
+      "had/harbored no illusions about the difficulty of the task",
+      "was under the illusion that he was the best player",
+      "the statements with their supposed profits were all an illusion",
+      "a technique that creates the illusion of space",
+      "Zebras look like optical illusions to me. Which are they—black with white stripes or white with black stripes?",
+      "The sun, moon, and planets circle above the terrestrial plane in the region of the equator. Their apparent rising and setting is an optical illusion caused by atmospheric refraction …",
+      "He was under the illusion that he was a good player."
+    ]
   },
   "illusive": {
     "synonyms": [
@@ -583,7 +685,13 @@
       "seeming",
       "supposed"
     ],
-    "sentences": []
+    "sentences": [
+      "I was … still under the impression that no one knew I was gay. They all knew and indulged me my illusions of illusiveness.",
+      "… he seemed to occupy his own still pocket of space, putting Rojas in mind of the lionfish that floated in the waters of the Caribbean—so illusively delicate in appearance, so serenely poisonous.",
+      "… that illusive shimmer of hot surface air …",
+      "Some who have lain flat on the ice for a long time, looking down through the illusive medium … have seen … the undoubted source of the Styx …",
+      "It had been like the stage gauze which gives an illusive air of reality to the painted scene behind it, yet proves it, after all, to be no more than a painted scene."
+    ]
   },
   "illusory": {
     "synonyms": [
@@ -637,7 +745,14 @@
       "inexistent",
       "nonexistent"
     ],
-    "sentences": []
+    "sentences": [
+      "the ostensible reason for their visit",
+      "the seeming simplicity of the story",
+      "an illusory sense of security",
+      "the apparent cause of the accident",
+      "illusory hopes",
+      "an illusory promise"
+    ]
   },
   "imaginable": {
     "synonyms": [
@@ -671,7 +786,9 @@
       "sophistic",
       "specious"
     ],
-    "sentences": []
+    "sentences": [
+      "any imaginable location"
+    ]
   },
   "imaginary": {
     "synonyms": [
@@ -697,7 +814,17 @@
       "unreal",
       "visionary"
     ],
-    "sentences": []
+    "sentences": [
+      "a quixotic crusade",
+      "chimerical dreams of future progress",
+      "a fantastic world inhabited by monsters",
+      "visionary schemes",
+      "a teller of fanciful stories",
+      "an imaginary desert isle",
+      "imaginary roots",
+      "His canvases, chiefly imaginary, somber landscapes …",
+      "an imaginary friend"
+    ]
   },
   "imbibe": {
     "synonyms": [
@@ -722,7 +849,12 @@
       "suck (up)",
       "take up"
     ],
-    "sentences": []
+    "sentences": [
+      "He no longer imbibes, but doesn't mind if others do.",
+      "imbibe moral principles",
+      "a sponge imbibes moisture",
+      "imbibing large amounts of coffee/wine"
+    ]
   },
   "imbroglio": {
     "synonyms": [
@@ -754,7 +886,10 @@
       "tiff",
       "wrangle"
     ],
-    "sentences": []
+    "sentences": [
+      "America's president and scientific establishment became furiously embroiled with a few writers of popular nature books for children. The imbroglio ended in the rout of the nature writers …",
+      "survived the political imbroglio"
+    ]
   },
   "imitation": {
     "synonyms": [
@@ -773,7 +908,14 @@
       "replication",
       "reproduction"
     ],
-    "sentences": []
+    "sentences": [
+      "a cheap/poor imitation",
+      "an imitation of mid-century architecture",
+      "Children learn by imitation of adults.",
+      "He did a hilarious imitation of his father.",
+      "imitation leather",
+      "The remake of the movie was a pale imitation of the original."
+    ]
   },
   "imitator": {
     "synonyms": [
@@ -789,7 +931,20 @@
       "mimic",
       "personator"
     ],
-    "sentences": []
+    "sentences": [
+      "mocking a vain man's pompous manner",
+      "American fashion designers aped their European colleagues",
+      "pupils mimicking their teacher",
+      "imitate a poet's style",
+      "copied the painting and sold the fake as an original",
+      "… able to imitate the various brilliant and delightful touches of nature.",
+      "a fabric that imitates silk",
+      "chameleons imitating their background",
+      "The viceroy butterfly is said to imitate the monarch.",
+      "can imitate his father's booming voice",
+      "The scout imitated the bird's call.",
+      "Her style has been imitated by many other writers."
+    ]
   },
   "immaculate": {
     "synonyms": [
@@ -826,7 +981,15 @@
       "seamless",
       "unblemished"
     ],
-    "sentences": []
+    "sentences": [
+      "… the immaculateness of scrubbed decks …",
+      "petals immaculate",
+      "an immaculate heart",
+      "an immaculate record of service",
+      "in immaculate detail",
+      "an immaculate kitchen",
+      "immaculate uniforms"
+    ]
   },
   "immaterial": {
     "synonyms": [
@@ -847,7 +1010,10 @@
       "irrelative",
       "irrelevant"
     ],
-    "sentences": []
+    "sentences": [
+      "ghosts and other immaterial entities",
+      "It's immaterial if you stay or go."
+    ]
   },
   "immature": {
     "synonyms": [
@@ -871,7 +1037,13 @@
       "unripe",
       "unripened"
     ],
-    "sentences": []
+    "sentences": [
+      "immature talents",
+      "a vigorous but immature school of art",
+      "immature fruits",
+      "a sexually immature bird",
+      "emotionally immature adults"
+    ]
   },
   "immeasurable": {
     "synonyms": [
@@ -890,7 +1062,9 @@
       "unfathomable",
       "unlimited"
     ],
-    "sentences": []
+    "sentences": [
+      "Their new grandchild brought them immeasurable joy."
+    ]
   },
   "immense": {
     "synonyms": [
@@ -1031,7 +1205,21 @@
       "wizard",
       "wonderful"
     ],
-    "sentences": []
+    "sentences": [
+      "a mammoth boulder",
+      "a colossal statue of Lincoln",
+      "a gigantic sports stadium",
+      "the vast Russian steppes",
+      "incurred a huge debt",
+      "an enormous expense",
+      "an immense shopping mall",
+      "… his reading has been immense, his grasp is masterly …",
+      "the immense universe",
+      "an immense lake",
+      "immense wealth/power",
+      "immense talent",
+      "an immense relief"
+    ]
   },
   "immerse": {
     "synonyms": [
@@ -1058,7 +1246,10 @@
       "submerge",
       "submerse"
     ],
-    "sentences": []
+    "sentences": [
+      "completely immersed in his work",
+      "Immerse the fabric completely."
+    ]
   },
   "immersion": {
     "synonyms": [
@@ -1068,7 +1259,13 @@
       "engrossment",
       "enthrallment"
     ],
-    "sentences": []
+    "sentences": [
+      "learned French through immersion",
+      "immersion in politics",
+      "immersion in hot water",
+      "An immersion circulator maintains the temperature of the water until the food is cooked through.",
+      "Known as an immersion circulator, it is a six-inch metal box with a digital temperature readout and a shiny coil that thrusts deep into the stockpot, simultaneously heating and circulating the water with a powerful little pump."
+    ]
   },
   "immigrant": {
     "synonyms": [
@@ -1080,7 +1277,11 @@
       "out-migrant",
       "settler"
     ],
-    "sentences": []
+    "sentences": [
+      "anti-immigration policies",
+      "News of the rising growth rate also prompted anti-immigration groups to claim that immigrants damage the environment.",
+      "State and local politicians have used widespread public opposition to immigration to justify new anti-immigrant legislation."
+    ]
   },
   "immigrate": {
     "synonyms": [
@@ -1096,7 +1297,10 @@
       "stay",
       "tarry"
     ],
-    "sentences": []
+    "sentences": [
+      "helped immigrate them",
+      "My grandparents immigrated to the U.S. from Italy."
+    ]
   },
   "imminence": {
     "synonyms": [
@@ -1125,7 +1329,13 @@
       "proximate",
       "upcoming"
     ],
-    "sentences": []
+    "sentences": [
+      "imminent danger/disaster/doom",
+      "Like books, board games appear headed for imminent demise at the hands of cathode-ray terminals.",
+      "Convinced of my imminent demise, I savored … the meaty substance of my last meal.",
+      "Their arrival is imminent.",
+      "… systems engineers have become rather blasé about the imminent liftoff."
+    ]
   },
   "immoral": {
     "synonyms": [
@@ -1151,7 +1361,9 @@
       "unprincipled",
       "unscrupulous"
     ],
-    "sentences": []
+    "sentences": [
+      "an artwork then labeled immoral"
+    ]
   },
   "immortalize": {
     "synonyms": [
@@ -1201,7 +1413,10 @@
       "unyielding",
       "willful"
     ],
-    "sentences": []
+    "sentences": [
+      "was immovable on opposition to the law",
+      "immovable property"
+    ]
   },
   "immune": {
     "synonyms": [
@@ -1223,7 +1438,27 @@
       "invincible",
       "invulnerable"
     ],
-    "sentences": []
+    "sentences": [
+      "immune from further taxation",
+      "some criminal leaders are immune from arrest",
+      "an immune serum",
+      "immune agglutinins",
+      "immune globulins",
+      "immune to diphtheria",
+      "immune to all pleas",
+      "Once their bodies were no longer exposed regularly to the [HIV] virus, however, immune surveillance stopped, allowing latent pockets of the virus, which previously had not caused a full-blown infection, to multiply explosively.",
+      "Scientists believe the immune system culls cells whose genetic machinery has gone haywire; errant cells that escape immune surveillance can become self-replicating monsters.",
+      "According to [Douglas] Hanahan and [Robert A.] Weinberg, one of the emerging hallmarks of cancer is the ability to escape immunosurveillance and an enabling characteristic for the acquisition of these capabilities is the inflammation propagated by the tumor.",
+      "promoted passive immunity with administration of tetanus hyperimmune globulin",
+      "hyperimmune serum produced by serial inoculation of rabbits",
+      "hyperimmune swine",
+      "immunocompromised patients",
+      "And fear of vaccines doesn't just potentially harm the children whose parents forgo vaccination but also other kids, as well as immunocompromised adults, by threatening the herd immunity that we rely on to protect the larger population.",
+      "Raw shellfish eaters are vulnerable to hepatitis and mild-to-severe gastroenteritis. At greater risk, however, are those who are immunocompromised, pregnant or suffer from liver disease, chronic alcohol abuse, cancer, diabetes or inflammatory bowel disease.",
+      "Only recently, the parasite has also been shown to cause illness in human beings, but at first it was believed to affect only immune-compromised patients.",
+      "She was treated with steroids and intravenous immunoglobulin therapy, used to reduce the severity of infections by giving the body antibodies to protect against bacteria and viruses.",
+      "Some worry that supplies of intravenous immunoglobulin (IVIG), which is made of blood plasma from donors, may run short if a clinical trial confirms its effectiveness at slowing the progress of Alzheimer's."
+    ]
   },
   "immutable": {
     "synonyms": [
@@ -1236,7 +1471,9 @@
       "unalterable",
       "unchangeable"
     ],
-    "sentences": []
+    "sentences": [
+      "the immutable laws of nature"
+    ]
   },
   "impair": {
     "synonyms": [
@@ -1259,7 +1496,19 @@
       "spoil",
       "vitiate"
     ],
-    "sentences": []
+    "sentences": [
+      "the text is marred by many typos",
+      "years of smoking had impaired his health",
+      "a table damaged in shipping",
+      "hurt by their callous remarks",
+      "careful not to harm the animals",
+      "badly injured in an accident",
+      "… the overwhelming majority of hookups involved alcohol use—an impairer of sexual judgment if ever there was one …",
+      "It has been known for nearly 100 years that memory is impaired by bilateral damage to either of two brain regions …",
+      "The use of drugs further complicates the situation of these families and sometimes impairs their ability to raise children.",
+      "… the prospect of generating normal profitability is impaired by excessive debt service.",
+      "The physician also checks for signs of endometriosis, a condition … sometimes impairing fertility."
+    ]
   },
   "impalpable": {
     "synonyms": [
@@ -1269,7 +1518,11 @@
       "indistinguishable",
       "insensible"
     ],
-    "sentences": []
+    "sentences": [
+      "impalpable evils",
+      "rock worn to an impalpable powder",
+      "… the impalpable aura of power that emanated from him."
+    ]
   },
   "impartial": {
     "synonyms": [
@@ -1288,7 +1541,17 @@
       "unbiased",
       "unprejudiced"
     ],
-    "sentences": []
+    "sentences": [
+      "I can't be objective about my own child",
+      "a dispassionate summation of the facts",
+      "your unbiased opinion",
+      "an impartial third party",
+      "the equitable distribution of the property",
+      "a just settlement of territorial claims",
+      "a fair decision",
+      "an impartial judge/juror/observer",
+      "an impartial analysis"
+    ]
   },
   "impassable": {
     "synonyms": [
@@ -1338,7 +1601,14 @@
       "inexpressive",
       "vacant"
     ],
-    "sentences": []
+    "sentences": [
+      "stolid workers wedded to routine",
+      "charitable appeals met an apathetic response",
+      "a phlegmatic man unmoved by tears",
+      "was resolutely stoic even in adversity",
+      "met the news with an impassive look",
+      "an impassive expression"
+    ]
   },
   "impatience": {
     "synonyms": [
@@ -1383,7 +1653,10 @@
       "sinless",
       "white"
     ],
-    "sentences": []
+    "sentences": [
+      "has impeccable manners/taste",
+      "spoke impeccable French"
+    ]
   },
   "impecunious": {
     "synonyms": [
@@ -1408,7 +1681,9 @@
       "skint",
       "threadbare"
     ],
-    "sentences": []
+    "sentences": [
+      "impecunious college students"
+    ]
   },
   "impede": {
     "synonyms": [
@@ -1435,7 +1710,12 @@
       "tie up",
       "trammel"
     ],
-    "sentences": []
+    "sentences": [
+      "a landslide blocked the road",
+      "the view was obstructed by billboards",
+      "tight clothing that impedes movement",
+      "rain hindered the climb"
+    ]
   },
   "impel": {
     "synonyms": [
@@ -1459,14 +1739,23 @@
       "pressure",
       "sandbag"
     ],
-    "sentences": []
+    "sentences": [
+      "a candidate impelled by ambition",
+      "a ship driven aground by hurricane winds",
+      "turbines actuated by waterpower",
+      "moved the furniture",
+      "felt impelled to correct the misconception"
+    ]
   },
   "impend": {
     "synonyms": [
       "brew",
       "loom"
     ],
-    "sentences": []
+    "sentences": [
+      "… the pressing problems that now impend upon the region …",
+      "rain impended"
+    ]
   },
   "imperative": {
     "synonyms": [
@@ -1505,7 +1794,24 @@
       "pressing",
       "urgent"
     ],
-    "sentences": []
+    "sentences": [
+      "an imperative appeal for assistance",
+      "given a peremptory dismissal",
+      "an imperious executive used to getting his own way",
+      "children controlled by domineering parents",
+      "her masterful personality soon dominated the movement",
+      "\"Eat your vegetables!\" is an imperative sentence.",
+      "The democratic instinct is in France too imperative … to consider consequences …",
+      "an imperative tone of voice",
+      "an imperative duty",
+      "It is imperative that the public be informed about these dangers. = It is imperative to inform the public about these dangers.",
+      "Corporate competitive imperatives are the palpable force destroying care.",
+      "Environmental consciousness is no longer just another lifestyle choice; … it has been upgraded to a moral imperative.",
+      "legal imperatives",
+      "lived by certain simple imperatives",
+      "A sheep dog emits imperatives to his flock hardly distinguishable from those that the shepherd employs toward him.",
+      "\"Eat your spinach!\" is in the imperative."
+    ]
   },
   "imperceptible": {
     "synonyms": [
@@ -1514,7 +1820,9 @@
       "indistinguishable",
       "insensible"
     ],
-    "sentences": []
+    "sentences": [
+      "imperceptible differences"
+    ]
   },
   "imperil": {
     "synonyms": [
@@ -1530,7 +1838,10 @@
       "risk",
       "venture"
     ],
-    "sentences": []
+    "sentences": [
+      "a reckless act that imperiled us all",
+      "a list of imperiled species"
+    ]
   },
   "imperious": {
     "synonyms": [
@@ -1593,7 +1904,16 @@
       "pressing",
       "urgent"
     ],
-    "sentences": []
+    "sentences": [
+      "an imperative appeal for assistance",
+      "given a peremptory dismissal",
+      "an imperious executive used to getting his own way",
+      "children controlled by domineering parents",
+      "her masterful personality soon dominated the movement",
+      "… the imperious problems of the new age.",
+      "an imperious manner",
+      "… a kind of arrogant potentate too imperious to acknowledge weaknesses common to ordinary men."
+    ]
   },
   "impermissible": {
     "synonyms": [
@@ -1698,7 +2018,12 @@
       "uncaring",
       "unfeeling"
     ],
-    "sentences": []
+    "sentences": [
+      "The machine as compared with the hand tool is an impersonal agency.",
+      "impersonal criticism",
+      "an impersonal, professional attitude",
+      "a giant impersonal corporation"
+    ]
   },
   "impersonate": {
     "synonyms": [
@@ -1712,7 +2037,9 @@
       "perform",
       "portray"
     ],
-    "sentences": []
+    "sentences": [
+      "impersonating a police officer"
+    ]
   },
   "impertinence": {
     "synonyms": [
@@ -1748,7 +2075,15 @@
       "unflappable",
       "unshakable"
     ],
-    "sentences": []
+    "sentences": [
+      "a nonchalant driver",
+      "the speaker remained imperturbable despite the heckling",
+      "harried but unruffled",
+      "the nurse stayed calm and collected",
+      "the composed pianist gave a flawless concert",
+      "kept a cool head",
+      "She maintained her imperturbable manner even while being heckled."
+    ]
   },
   "impervious": {
     "synonyms": [
@@ -1758,7 +2093,11 @@
       "impassable",
       "impregnable"
     ],
-    "sentences": []
+    "sentences": [
+      "impervious to criticism",
+      "a carpet impervious to rough treatment",
+      "a coat impervious to rain"
+    ]
   },
   "impetuosity": {
     "synonyms": [
@@ -1897,7 +2236,15 @@
       "reassured",
       "unafraid"
     ],
-    "sentences": []
+    "sentences": [
+      "flew into a sudden rage",
+      "an impetuous lover proposing marriage",
+      "an abrupt refusal",
+      "a headlong flight from arrest",
+      "the army's precipitate withdrawal",
+      "an impetuous wind",
+      "an impetuous temperament"
+    ]
   },
   "impetus": {
     "synonyms": [
@@ -1917,7 +2264,15 @@
       "stimulus",
       "yeast"
     ],
-    "sentences": []
+    "sentences": [
+      "Their discoveries have given impetus to further research.",
+      "… the impetus for the retreats … is the root of why Owens started the podcast to begin with.",
+      "felt no impetus to do well at school",
+      "Introducing our son to Asia was a major impetus for our trip.",
+      "It was a difficult catch. … Bob got to it with one hand, and held it. His impetus carried him on almost to where Burgess was standing.",
+      "The push serves as the impetus, the child and the swing reach the highest point on their own, and then gravity returns the child and swing to the starting place.",
+      "People were short on impetus to spend big as well, relatively speaking."
+    ]
   },
   "impiety": {
     "synonyms": [
@@ -1952,7 +2307,9 @@
       "unimaginable",
       "unthinkable"
     ],
-    "sentences": []
+    "sentences": [
+      "an implausible excuse"
+    ]
   },
   "implicate": {
     "synonyms": [
@@ -1970,7 +2327,11 @@
       "wreathe",
       "writhe"
     ],
-    "sentences": []
+    "sentences": [
+      "Firing a government employee because of her protest implicates the First Amendment.",
+      "Scientists have discovered a gene that is implicated in the disease.",
+      "evidence that implicates him in the bombing"
+    ]
   },
   "implicit": {
     "synonyms": [
@@ -1992,7 +2353,19 @@
       "possible",
       "potential"
     ],
-    "sentences": []
+    "sentences": [
+      "… a sculptor may see different figures implicit in a block of stone.",
+      "… made a deepfake video to demonstrate the dangers implicit in the technology.",
+      "There's an implicit trust between them.",
+      "The implicit confidence that her destiny must be one of luxurious ease …",
+      "implicit attitudes",
+      "implicit racism",
+      "an implicit warning/agreement/promise",
+      "proceeding based on an implicit assumption of approval",
+      "Still another problem for Middle America was how corporations … were allowed to breach the implicit social contract of the postwar era.",
+      "These studies reveal that students, nurses, doctors, police officers, employment recruiters, and many others exhibit implicit biases with respect to race, ethnicity, nationality, gender, social status, and other distinctions.",
+      "Research shows that the majority of people have an implicit bias that associates science and technology with gender, so from a very young age, girls are not encouraged to pursue these careers, she [Caroline Simard] said."
+    ]
   },
   "imply": {
     "synonyms": [
@@ -2004,7 +2377,16 @@
       "intimate",
       "suggest"
     ],
-    "sentences": []
+    "sentences": [
+      "insinuated that there were shady dealings",
+      "intimates that there is more to the situation than meets the eye",
+      "hinted that she might get the job",
+      "measures implying that bankruptcy was imminent",
+      "a film title that suggests its subject matter",
+      "rights imply obligations",
+      "Her remarks implied a threat.",
+      "The news report seems to imply his death was not an accident."
+    ]
   },
   "impolitic": {
     "synonyms": [
@@ -2053,7 +2435,9 @@
       "insolent",
       "rude"
     ],
-    "sentences": []
+    "sentences": [
+      "gave an impolitic response"
+    ]
   },
   "importunate": {
     "synonyms": [
@@ -2073,7 +2457,10 @@
       "pressing",
       "urgent"
     ],
-    "sentences": []
+    "sentences": [
+      "importunate demands",
+      "importunate creditors"
+    ]
   },
   "importune": {
     "synonyms": [
@@ -2091,7 +2478,17 @@
       "solicit",
       "supplicate"
     ],
-    "sentences": []
+    "sentences": [
+      "importuning viewers for contributions",
+      "we were adjured to tell the truth",
+      "with bowed heads they supplicated their Lord",
+      "I beseech you to have mercy",
+      "implored her not to leave him",
+      "entreated me to join them",
+      "they begged for help",
+      "importuned them to help",
+      "… he was importuned relentlessly by the hostess to bestow … a name."
+    ]
   },
   "impotent": {
     "synonyms": [
@@ -2110,7 +2507,9 @@
       "powerless",
       "weak"
     ],
-    "sentences": []
+    "sentences": [
+      "an impotent political party"
+    ]
   },
   "impoverish": {
     "synonyms": [
@@ -2149,7 +2548,13 @@
       "expend",
       "lay out"
     ],
-    "sentences": []
+    "sentences": [
+      "war had bankrupted the nation of resources",
+      "impoverished soil",
+      "her lecture exhausted the subject",
+      "personal tragedy had drained him of all spirit",
+      "depleting our natural resources"
+    ]
   },
   "impracticable": {
     "synonyms": [
@@ -2161,7 +2566,11 @@
       "unworkable",
       "useless"
     ],
-    "sentences": []
+    "sentences": [
+      "an impracticable proposal",
+      "a contract made impracticable by the new regulations",
+      "an impracticable road"
+    ]
   },
   "impregnable": {
     "synonyms": [
@@ -2179,7 +2588,10 @@
       "impermeable",
       "impervious"
     ],
-    "sentences": []
+    "sentences": [
+      "impregnable walls",
+      "an impregnable fortress"
+    ]
   },
   "impregnate": {
     "synonyms": [
@@ -2193,7 +2605,14 @@
       "souse",
       "steep"
     ],
-    "sentences": []
+    "sentences": [
+      "a cake strongly impregnated with brandy",
+      "steep the tea for five minutes",
+      "clothes drenched by a cloudburst",
+      "a saturated sponge",
+      "soak the garment in soapy water",
+      "impregnate wood with varnish"
+    ]
   },
   "impromptu": {
     "synonyms": [
@@ -2217,7 +2636,10 @@
       "unrehearsed",
       "unstudied"
     ],
-    "sentences": []
+    "sentences": [
+      "impromptu remarks",
+      "had an impromptu party"
+    ]
   },
   "improper": {
     "synonyms": [
@@ -2242,7 +2664,20 @@
       "untoward",
       "wrong"
     ],
-    "sentences": []
+    "sentences": [
+      "indelicate expressions for bodily functions",
+      "conduct unbecoming to an officer",
+      "remarried with unseemly haste",
+      "improper use of campaign contributions",
+      "indecorous behavior",
+      "denial of trial by jury was held improper",
+      "improper inference",
+      "improper use of public land",
+      "improper dress/attire",
+      "an improper diet",
+      "an improper diagnosis",
+      "improper language"
+    ]
   },
   "impropriety": {
     "synonyms": [
@@ -2268,7 +2703,11 @@
       "infelicity",
       "wrongness"
     ],
-    "sentences": []
+    "sentences": [
+      "shocked by the impropriety of their language",
+      "accused of financial improprieties",
+      "The judge recused herself to avoid the appearance of impropriety."
+    ]
   },
   "improvident": {
     "synonyms": [
@@ -2284,7 +2723,10 @@
       "extemporize",
       "fake"
     ],
-    "sentences": []
+    "sentences": [
+      "improvise a meal",
+      "the quarterback improvised a play"
+    ]
   },
   "imprudent": {
     "synonyms": [
@@ -2299,7 +2741,9 @@
       "undiplomatic",
       "unwise"
     ],
-    "sentences": []
+    "sentences": [
+      "an imprudent investor"
+    ]
   },
   "impudence": {
     "synonyms": [
@@ -2367,7 +2811,9 @@
       "recriminate",
       "retaliate"
     ],
-    "sentences": []
+    "sentences": [
+      "impugned the defendant's character/motive"
+    ]
   },
   "impulsion": {
     "synonyms": [
@@ -2432,14 +2878,25 @@
       "freakish",
       "whimsical"
     ],
-    "sentences": []
+    "sentences": [
+      "a mechanical teaching method",
+      "his denial was automatic",
+      "blinking is an instinctive reaction",
+      "impulsive acts of violence",
+      "a spontaneous burst of applause",
+      "an impulsive force",
+      "an impulsive young man who often regrets his actions later",
+      "an impulsive decision"
+    ]
   },
   "impunity": {
     "synonyms": [
       "exemption",
       "immunity"
     ],
-    "sentences": []
+    "sentences": [
+      "laws were flouted with impunity"
+    ]
   },
   "impure": {
     "synonyms": [
@@ -2481,7 +2938,11 @@
       "wanton",
       "X-rated"
     ],
-    "sentences": []
+    "sentences": [
+      "having impure thoughts",
+      "an impure chemical",
+      "impure water"
+    ]
   },
   "impute": {
     "synonyms": [
@@ -2493,7 +2954,16 @@
       "lay",
       "put down"
     ],
-    "sentences": []
+    "sentences": [
+      "credited his teammates for his success",
+      "tried to impute sinister motives to my actions",
+      "assigned the bones to the Cretaceous period",
+      "attributed to Rembrandt but possibly done by an associate",
+      "forged paintings formerly ascribed to masters",
+      "Even without language, it's easy for us to impute sentience to the simplest critters.",
+      "… our vices as well as our virtues have been imputed to bodily derangement.",
+      "The economic sins imputed to Tito had all been committed to a greater extent by the communist parties of neighbouring countries."
+    ]
   },
   "inaccessible": {
     "synonyms": [
@@ -2506,7 +2976,10 @@
       "unreachable",
       "untouchable"
     ],
-    "sentences": []
+    "sentences": [
+      "an inaccessible area",
+      "an inaccessible goal"
+    ]
   },
   "inaccurate": {
     "synonyms": [
@@ -2527,7 +3000,9 @@
       "loose",
       "squishy"
     ],
-    "sentences": []
+    "sentences": [
+      "inaccurate information"
+    ]
   },
   "inactive": {
     "synonyms": [
@@ -2549,7 +3024,18 @@
       "unused",
       "vacant"
     ],
-    "sentences": []
+    "sentences": [
+      "a supine willingness to play the fool",
+      "passive resistance",
+      "inert ingredients in drugs",
+      "an inert citizenry",
+      "workers were idle in the fields",
+      "on inactive status as an astronaut",
+      "inactive accounts",
+      "an inactive member",
+      "an inactive mine",
+      "a bank's inactive accounts"
+    ]
   },
   "inadequate": {
     "synonyms": [
@@ -2562,7 +3048,10 @@
       "shy",
       "wanting"
     ],
-    "sentences": []
+    "sentences": [
+      "was inadequate as a leader",
+      "inadequate equipment"
+    ]
   },
   "inadmissible": {
     "synonyms": [
@@ -2613,7 +3102,9 @@
       "inapt",
       "unsuitable"
     ],
-    "sentences": []
+    "sentences": [
+      "inadmissible evidence"
+    ]
   },
   "inadvertent": {
     "synonyms": [
@@ -2629,7 +3120,9 @@
       "unpremeditated",
       "unwitting"
     ],
-    "sentences": []
+    "sentences": [
+      "an inadvertent omission"
+    ]
   },
   "inadvisable": {
     "synonyms": [
@@ -2644,7 +3137,9 @@
       "undiplomatic",
       "unwise"
     ],
-    "sentences": []
+    "sentences": [
+      "inadvisable haste"
+    ]
   },
   "inane": {
     "synonyms": [
@@ -2653,7 +3148,16 @@
       "pointless",
       "senseless"
     ],
-    "sentences": []
+    "sentences": [
+      "an inane interpretation of the play",
+      "a banal tale of unrequited love",
+      "a jejune and gassy speech",
+      "although well-regarded in its day, the novel now seems flat",
+      "an exciting story given a vapid treatment",
+      "an insipid romance with platitudes on every page",
+      "inane comments",
+      "… a voyage into the limitless inane …"
+    ]
   },
   "inanimate": {
     "synonyms": [
@@ -2663,7 +3167,11 @@
       "senseless",
       "unfeeling"
     ],
-    "sentences": []
+    "sentences": [
+      "… a lady of very prim appearance, and remarkably inanimate.",
+      "an inanimate body",
+      "an inanimate object"
+    ]
   },
   "inapt": {
     "synonyms": [
@@ -2696,7 +3204,9 @@
       "unskilled",
       "unskillful"
     ],
-    "sentences": []
+    "sentences": [
+      "an inapt analogy"
+    ]
   },
   "inarticulate": {
     "synonyms": [
@@ -2704,7 +3214,13 @@
       "speechless",
       "voiceless"
     ],
-    "sentences": []
+    "sentences": [
+      "an inarticulate cry",
+      "an inarticulate explanation",
+      "society functions on many inarticulate premises",
+      "inarticulate fear",
+      "is smart but rather inarticulate"
+    ]
   },
   "inaudible": {
     "synonyms": [
@@ -2740,7 +3256,9 @@
       "unapparent",
       "vague"
     ],
-    "sentences": []
+    "sentences": [
+      "inaudible comments"
+    ]
   },
   "inborn": {
     "synonyms": [
@@ -2766,7 +3284,16 @@
       "inheritable",
       "inherited"
     ],
-    "sentences": []
+    "sentences": [
+      "a congenital heart murmur",
+      "eye color is hereditary",
+      "inbred political loyalties",
+      "her inborn love of nature",
+      "an innate sense of fair play",
+      "a rare inborn metabolic disease",
+      "an inborn talent",
+      "I never saw anything like it in all my born days."
+    ]
   },
   "inbred": {
     "synonyms": [
@@ -2787,7 +3314,17 @@
       "native",
       "natural"
     ],
-    "sentences": []
+    "sentences": [
+      "a congenital heart murmur",
+      "eye color is hereditary",
+      "inbred political loyalties",
+      "her inborn love of nature",
+      "an innate sense of fair play",
+      "an inbred love of freedom",
+      "Corn inbreds are pure lines of identical or nearly identical individuals developed by generations of self-pollination.",
+      "It is recommended that only superior horses be used in the practice of inbreeding because inbreds from the same stock will produce an inferior strain if carried on over a prolonged period.",
+      "The result, he thought, of mating two single crosses would combine the outstanding characteristic of four inbreds rather than two and would take advantage of the high yield of the single-cross seed parent."
+    ]
   },
   "incandescence": {
     "synonyms": [
@@ -2853,7 +3390,13 @@
       "warm",
       "warm-blooded"
     ],
-    "sentences": []
+    "sentences": [
+      "incandescent affection",
+      "incandescent wit",
+      "an incandescent performance",
+      "incandescent gas",
+      "She was incandescent with rage."
+    ]
   },
   "incapacitate": {
     "synonyms": [
@@ -2867,7 +3410,11 @@
       "maim",
       "mutilate"
     ],
-    "sentences": []
+    "sentences": [
+      "Infancy does not incapacitate the infant from bringing the action …",
+      "an injury that incapacitated her",
+      "learned how to incapacitate an attacker"
+    ]
   },
   "incapacity": {
     "synonyms": [
@@ -2912,7 +3459,10 @@
       "provocateur",
       "rabble-rouser"
     ],
-    "sentences": []
+    "sentences": [
+      "incendiary chili peppers",
+      "incendiary speeches"
+    ]
   },
   "incentive": {
     "synonyms": [
@@ -2932,7 +3482,16 @@
       "stimulus",
       "yeast"
     ],
-    "sentences": []
+    "sentences": [
+      "thought insecurity a goad to worker efficiency",
+      "fear was a spur to action",
+      "offered a watch as an inducement to subscribe",
+      "a bonus was offered as an incentive",
+      "buying on impulse",
+      "a motive for the crime",
+      "The company offered financial counterincentives to early retirement.",
+      "And the market doesn't create counter-incentives that would push us in a responsible direction …"
+    ]
   },
   "inception": {
     "synonyms": [
@@ -2957,7 +3516,14 @@
       "start",
       "threshold"
     ],
-    "sentences": []
+    "sentences": [
+      "the real root of the violence",
+      "the business has been a success since its inception",
+      "the source of the Nile",
+      "the source of recurrent trouble",
+      "an investigation into the origin of baseball",
+      "a project kept secret since its inception"
+    ]
   },
   "inceptive": {
     "synonyms": [
@@ -2984,7 +3550,15 @@
       "uninterrupted",
       "unremitting"
     ],
-    "sentences": []
+    "sentences": [
+      "a perennial source of controversy",
+      "a land of perpetual snowfall",
+      "annoyed by the incessant quarreling",
+      "lived in constant pain",
+      "football's oldest continuous rivalry",
+      "continual showers the whole weekend",
+      "couldn't read with their incessant chatter"
+    ]
   },
   "inchmeal": {
     "synonyms": [
@@ -3004,7 +3578,10 @@
       "incipient",
       "nascent"
     ],
-    "sentences": []
+    "sentences": [
+      "Until an employee has earned his retirement pay … his retirement pay is but an inchoate right …",
+      "… misty, inchoate suspicions that all is not well with the nation …"
+    ]
   },
   "inchoative": {
     "synonyms": [
@@ -3032,7 +3609,9 @@
       "primitive",
       "rude"
     ],
-    "sentences": []
+    "sentences": [
+      "the inchoative stages"
+    ]
   },
   "incidence": {
     "synonyms": [
@@ -3048,7 +3627,9 @@
       "frequentness",
       "prevalence"
     ],
-    "sentences": []
+    "sentences": [
+      "a high incidence of crime"
+    ]
   },
   "incident": {
     "synonyms": [
@@ -3068,14 +3649,30 @@
       "corollary",
       "obbligato"
     ],
-    "sentences": []
+    "sentences": [
+      "couldn't recall the exact circumstances",
+      "a brief romantic episode in a life devoted to work",
+      "a minor wartime incident",
+      "the events following the assassination",
+      "an encounter that was a chance occurrence",
+      "a serious border incident",
+      "wants to forget the embarrassing incident",
+      "incident light rays",
+      "a search incident to an arrest",
+      "the confusion incident to moving day",
+      "The suspects were arrested without incident."
+    ]
   },
   "incidentally": {
     "synonyms": [
       "apropos",
       "en passant"
     ],
-    "sentences": []
+    "sentences": [
+      "… fortunate in having a good teacher … —still living, incidentally …",
+      "mentions the issue only incidentally",
+      "… the arrant nonsense of some of his statements is incidentally hilarious."
+    ]
   },
   "incinerate": {
     "synonyms": [
@@ -3143,7 +3740,10 @@
       "inchoate",
       "nascent"
     ],
-    "sentences": []
+    "sentences": [
+      "an incipient solar system",
+      "evidence of incipient racial tension"
+    ]
   },
   "incite": {
     "synonyms": [
@@ -3169,7 +3769,14 @@
       "stimulate",
       "stir"
     ],
-    "sentences": []
+    "sentences": [
+      "fomenting rebellion",
+      "aiding and abetting the enemy",
+      "instigated a conspiracy",
+      "inciting a riot",
+      "arrested for inciting a riot",
+      "incited the crowd to violence"
+    ]
   },
   "incitement": {
     "synonyms": [
@@ -3190,7 +3797,14 @@
       "stimulus",
       "yeast"
     ],
-    "sentences": []
+    "sentences": [
+      "fomenting rebellion",
+      "aiding and abetting the enemy",
+      "instigated a conspiracy",
+      "inciting a riot",
+      "arrested for inciting a riot",
+      "incited the crowd to violence"
+    ]
   },
   "incoherence": {
     "synonyms": [
@@ -3230,7 +3844,10 @@
       "loose",
       "unconsolidated"
     ],
-    "sentences": []
+    "sentences": [
+      "an incoherent essay",
+      "The fever made him incoherent."
+    ]
   },
   "incombustible": {
     "synonyms": [
@@ -3256,7 +3873,11 @@
       "unsurpassable",
       "unsurpassed"
     ],
-    "sentences": []
+    "sentences": [
+      "… Bailie loved his patron and his patron's daughter next (though at an incomparable distance) to himself.",
+      "an incomparable musician",
+      "an incomparable view"
+    ]
   },
   "incompatible": {
     "synonyms": [
@@ -3272,7 +3893,14 @@
       "mutually exclusive",
       "repugnant"
     ],
-    "sentences": []
+    "sentences": [
+      "incompatible propositions",
+      "incompatible drugs",
+      "This printer is incompatible with some PCs.",
+      "incompatible colors",
+      "Their personalities were incompatible.",
+      "The policy is incompatible with my beliefs."
+    ]
   },
   "incompetence": {
     "synonyms": [
@@ -3301,7 +3929,10 @@
       "unskilled",
       "unskillful"
     ],
-    "sentences": []
+    "sentences": [
+      "After hearing psychiatrist … witnesses … the court found Edwards incompetent to stand trial …",
+      "incompetent heart valves"
+    ]
   },
   "incomplete": {
     "synonyms": [
@@ -3312,7 +3943,15 @@
       "halfway",
       "partial"
     ],
-    "sentences": []
+    "sentences": [
+      "an incomplete flower without stamens",
+      "Lentils are an incomplete protein.",
+      "People used to think you needed to eat incomplete proteins together in the same meal to make up a complete protein, but that view has been debunked; simply eat a variety of plant-based protein sources throughout the day and you'll be fine.",
+      "spoke in incomplete sentences",
+      "an incomplete set of golf clubs",
+      "an incomplete diet",
+      "handed in an incomplete assignment"
+    ]
   },
   "incomprehensible": {
     "synonyms": [
@@ -3321,7 +3960,9 @@
       "ungraspable",
       "unintelligible"
     ],
-    "sentences": []
+    "sentences": [
+      "incomprehensible instructions"
+    ]
   },
   "inconceivable": {
     "synonyms": [
@@ -3336,7 +3977,10 @@
       "unimaginable",
       "unthinkable"
     ],
-    "sentences": []
+    "sentences": [
+      "… a work of inconceivable difficulty and labour …",
+      "It's inconceivable they survived the crash."
+    ]
   },
   "incongruous": {
     "synonyms": [
@@ -3372,7 +4016,12 @@
       "mutually exclusive",
       "repugnant"
     ],
-    "sentences": []
+    "sentences": [
+      "incongruous manners",
+      "an incongruous story",
+      "conduct incongruous with principle",
+      "incongruous colors"
+    ]
   },
   "inconsequential": {
     "synonyms": [
@@ -3421,7 +4070,11 @@
       "unsound",
       "weak"
     ],
-    "sentences": []
+    "sentences": [
+      "Though court's comments … were ill-advised, they were legally inconsequential.",
+      "inconsequential differences",
+      "His opinion is inconsequential."
+    ]
   },
   "inconsiderable": {
     "synonyms": [
@@ -3459,7 +4112,11 @@
       "piffling",
       "pimping"
     ],
-    "sentences": []
+    "sentences": [
+      "The cost was not inconsiderable.",
+      "He played no inconsiderable role in resolving the crisis.",
+      "a woman of great beauty and not inconsiderable wealth"
+    ]
   },
   "inconsistent": {
     "synonyms": [
@@ -3494,7 +4151,15 @@
       "variable",
       "volatile"
     ],
-    "sentences": []
+    "sentences": [
+      "inconsistent equations",
+      "inconsistent inequalities",
+      "His pitching has been inconsistent this season.",
+      "The pain is inconsistent.",
+      "an inconsistent argument",
+      "The decision was inconsistent with company policy.",
+      "inconsistent statements"
+    ]
   },
   "inconstant": {
     "synonyms": [
@@ -3527,7 +4192,14 @@
       "unfaithful",
       "untrue"
     ],
-    "sentences": []
+    "sentences": [
+      "too unstable to hold a job",
+      "made anxious by her boss's mercurial temperament",
+      "an utterly capricious critic",
+      "performers discover how fickle fans can be",
+      "an inconstant friend",
+      "the inconstant nature of the business"
+    ]
   },
   "incontrovertible": {
     "synonyms": [
@@ -3547,7 +4219,9 @@
       "undeniable",
       "unquestionable"
     ],
-    "sentences": []
+    "sentences": [
+      "incontrovertible facts"
+    ]
   },
   "inconvenient": {
     "synonyms": [
@@ -3564,7 +4238,9 @@
       "unreachable",
       "untouchable"
     ],
-    "sentences": []
+    "sentences": [
+      "an inconvenient time"
+    ]
   },
   "indefensible": {
     "synonyms": [
@@ -3576,7 +4252,10 @@
       "unpardonable",
       "unwarrantable"
     ],
-    "sentences": []
+    "sentences": [
+      "indefensible comments",
+      "an indefensible argument"
+    ]
   },
   "indefinitely": {
     "synonyms": [
@@ -3619,14 +4298,24 @@
       "undefined",
       "undetermined"
     ],
-    "sentences": []
+    "sentences": [
+      "the indefinite articles a and an",
+      "indefinite pronouns",
+      "an indefinite period of time",
+      "put on indefinite hold",
+      "an indefinite answer"
+    ]
   },
   "indelible": {
     "synonyms": [
       "memorable",
       "unforgettable"
     ],
-    "sentences": []
+    "sentences": [
+      "an indelible performance",
+      "indelible memories",
+      "an indelible pencil"
+    ]
   },
   "indescribable": {
     "synonyms": [
@@ -3640,7 +4329,10 @@
       "unspeakable",
       "unutterable"
     ],
-    "sentences": []
+    "sentences": [
+      "indescribable joy",
+      "an indescribable sensation"
+    ]
   },
   "indestructible": {
     "synonyms": [
@@ -3667,6 +4359,5826 @@
       "impeach",
       "incriminate"
     ],
+    "sentences": [
+      "… I indict those citizens whose easy consciences condone such wrongdoings.",
+      "The relation between freedom and literacy became the compelling theme of the slave narratives, the great body of printed books that ex-slaves generated to assert their common humanity with white Americans and to indict the system that had oppressed them.",
+      "Past studies have indicted high radon levels for an excess of lung cancers among underground hard-rock miners …",
+      "If either the IRS or the FBI decides a suspect has committed a crime, a lot of hurdles must be leaped before that individual is put in prison. The agents must gather evidence, persuade an independent prosecutor to present the evidence to a grand jury, make sure the evidence is convincing enough so that the grand jury will indict the suspect, and then present the evidence to a regular jury that decides whether the suspect is innocent or guilty.",
+      "Traditionally the grand jury consisted of 23 persons with the favorable vote of a majority needed to indict. Today, many states use a somewhat smaller grand jury (e.g., 12) and some require more than a simple majority to indict."
+    ]
+  },
+  "indigence": {
+    "synonyms": [
+      "beggary",
+      "destituteness",
+      "destitution",
+      "impecuniosity",
+      "impecuniousness",
+      "impoverishment",
+      "necessity",
+      "need",
+      "neediness",
+      "pauperism",
+      "penuriousness",
+      "penury",
+      "poorness",
+      "poverty",
+      "want"
+    ],
+    "sentences": [
+      "lived in a perpetual state of want",
+      "the widespread destitution in countries beset by famine",
+      "a catastrophic illness that condemned them to years of penury",
+      "the indigence of her years as a graduate student",
+      "the extreme poverty of the slum dwellers"
+    ]
+  },
+  "indigenous": {
+    "synonyms": [
+      "aboriginal",
+      "autochthonous",
+      "born",
+      "domestic",
+      "endemic",
+      "native",
+      "built-in",
+      "constitutional",
+      "constitutive",
+      "essential",
+      "hardwired",
+      "immanent",
+      "inborn",
+      "inbred",
+      "ingrain",
+      "ingrained",
+      "inherent",
+      "innate",
+      "integral",
+      "intrinsic",
+      "natural"
+    ],
+    "sentences": [
+      "the aboriginal peoples of Australia",
+      "a disease endemic to many countries",
+      "indigenous plants",
+      "native tribal customs",
+      "a type of behavior that is indigenous to human beings",
+      "The Day of the Dead has roots in Indigenous Aztec culture.",
+      "In pockets all over the world, Indigenous communities are teaching scientists to care for the ocean using knowledge passed down over generations.",
+      "The forested 1-acre lot has a pool surrounded by indigenous grasses, lawns, and specimen trees …",
+      "We were both Ojibwe, raised in non-Indigenous homes. He called me Dukester; I called him Goose.",
+      "When collaborative research projects work well, they establish an equitable relationship between the non-Indigenous researcher and the Indigenous community, recognize the struggles of that community and value its strengths.",
+      "[Bula] Ghosh said that they hope what they can accomplish from events like these is a building of trust between indigenous and the non-indigenous population …",
+      "For a lot of nonindigenous people, visiting the Grand Canyon is a bucket list item, something you check it off your list. But this website tells stories about the Grand Canyon that are very different from that.",
+      "nonindigenous plant species",
+      "nonindigenous music"
+    ]
+  },
+  "indigent": {
+    "synonyms": [
+      "beggared",
+      "beggarly",
+      "broke",
+      "destitute",
+      "dirt-poor",
+      "down-and-out",
+      "famished",
+      "hard up",
+      "impecunious",
+      "impoverished",
+      "necessitous",
+      "needful",
+      "needy",
+      "pauperized",
+      "penniless",
+      "penurious",
+      "poor",
+      "poverty-stricken",
+      "skint",
+      "threadbare"
+    ],
     "sentences": []
+  },
+  "indigestible": {
+    "synonyms": [
+      "nondigestible",
+      "nonnutritious",
+      "undigestible",
+      "inedible",
+      "nonedible",
+      "uneatable"
+    ],
+    "sentences": []
+  },
+  "indignant": {
+    "synonyms": [
+      "angered",
+      "angry",
+      "apoplectic",
+      "ballistic",
+      "cheesed off",
+      "choleric",
+      "enraged",
+      "foaming",
+      "fuming",
+      "furious",
+      "hopping",
+      "horn-mad",
+      "hot",
+      "incensed",
+      "inflamed",
+      "infuriate",
+      "infuriated",
+      "irate",
+      "ireful",
+      "livid",
+      "mad",
+      "outraged",
+      "rabid",
+      "rankled",
+      "riled",
+      "riley",
+      "roiled",
+      "shirty",
+      "sore",
+      "steamed up",
+      "steaming",
+      "teed off",
+      "ticked",
+      "wrathful",
+      "wroth"
+    ],
+    "sentences": [
+      "became indignant at the accusation"
+    ]
+  },
+  "indignity": {
+    "synonyms": [
+      "affront",
+      "barb",
+      "brickbat",
+      "cut",
+      "dart",
+      "dig",
+      "dis",
+      "epithet",
+      "gird",
+      "insult",
+      "name",
+      "offense",
+      "outrage",
+      "personality",
+      "poke",
+      "put-down",
+      "sarcasm",
+      "slap",
+      "slight",
+      "slur"
+    ],
+    "sentences": [
+      "… a buccal swab, which involves a brief and minimal intrusion … does not increase the indignity already attendant to normal incidents of arrest.",
+      "… every little indignity that ever happened to them, and every two-bit feud, magnified …"
+    ]
+  },
+  "indiscernible": {
+    "synonyms": [
+      "hieroglyphic",
+      "incomprehensible",
+      "indecipherable",
+      "inexplicable",
+      "mysterious",
+      "obfuscatory",
+      "puzzling",
+      "blear",
+      "bleary",
+      "blurry",
+      "dim",
+      "faint",
+      "foggy",
+      "fuzzy",
+      "gauzy",
+      "hazy",
+      "indefinite",
+      "indistinct",
+      "indistinguishable",
+      "misty",
+      "murky",
+      "nebulous",
+      "obscure",
+      "opaque",
+      "pale",
+      "shadowy",
+      "unclear",
+      "undefined",
+      "undetermined",
+      "vague",
+      "dark",
+      "dusky",
+      "gloomy",
+      "impalpable",
+      "inappreciable",
+      "intangible",
+      "invisible"
+    ],
+    "sentences": []
+  },
+  "indiscreet": {
+    "synonyms": [
+      "brash",
+      "graceless",
+      "ill-advised",
+      "imprudent",
+      "inadvisable",
+      "indelicate",
+      "injudicious",
+      "tactless",
+      "undiplomatic",
+      "unwise"
+    ],
+    "sentences": [
+      "Can I ask how much you paid, or would that be indiscreet?",
+      "an indiscreet comment",
+      "indiscreet behavior"
+    ]
+  },
+  "indiscriminate": {
+    "synonyms": [
+      "assorted",
+      "eclectic",
+      "heterogeneous",
+      "kitchen-sink",
+      "magpie",
+      "miscellaneous",
+      "mixed",
+      "motley",
+      "patchwork",
+      "piebald",
+      "promiscuous",
+      "raggle-taggle",
+      "ragtag",
+      "varied"
+    ],
+    "sentences": [
+      "an indiscriminate collection",
+      "indiscriminate sexual behavior",
+      "the indiscriminate use of pesticides",
+      "indiscriminate application of a law",
+      "indiscriminate reading habits",
+      "indiscriminate mass destruction",
+      "is indiscriminate in his choice of friends"
+    ]
+  },
+  "indispensable": {
+    "synonyms": [
+      "all-important",
+      "critical",
+      "essential",
+      "imperative",
+      "integral",
+      "must-have",
+      "necessary",
+      "necessitous",
+      "needed",
+      "needful",
+      "required",
+      "requisite",
+      "vital"
+    ],
+    "sentences": [
+      "an indispensable obligation",
+      "an indispensable member of the staff",
+      "is indispensable to the team"
+    ]
+  },
+  "indistinct": {
+    "synonyms": [
+      "blear",
+      "bleary",
+      "blurry",
+      "dim",
+      "faint",
+      "foggy",
+      "fuzzy",
+      "gauzy",
+      "hazy",
+      "indefinite",
+      "indistinguishable",
+      "misty",
+      "murky",
+      "nebulous",
+      "obscure",
+      "opaque",
+      "pale",
+      "shadowy",
+      "unclear",
+      "undefined",
+      "undetermined",
+      "vague"
+    ],
+    "sentences": [
+      "The sound was indistinct at first but grew louder and clearer.",
+      "an indistinct light in the distance",
+      "indistinct figures in the fog"
+    ]
+  },
+  "indivisible": {
+    "synonyms": [
+      "inseparable",
+      "combinable",
+      "joinable"
+    ],
+    "sentences": [
+      "an indivisible nation"
+    ]
+  },
+  "indolence": {
+    "synonyms": [
+      "idleness",
+      "inertia",
+      "laziness",
+      "shiftlessness",
+      "sloth"
+    ],
+    "sentences": []
+  },
+  "indolent": {
+    "synonyms": [
+      "idle",
+      "lazy",
+      "shiftless",
+      "slothful"
+    ],
+    "sentences": [
+      "fired for being slothful about filling orders",
+      "the heat made us indolent",
+      "take-out foods for lazy cooks",
+      "indolent tumors",
+      "indolent ulcers",
+      "indolent heat",
+      "an indolent sigh"
+    ]
+  },
+  "indomitable": {
+    "synonyms": [
+      "bulletproof",
+      "impregnable",
+      "insuperable",
+      "insurmountable",
+      "invincible",
+      "invulnerable",
+      "unbeatable",
+      "unconquerable",
+      "unstoppable"
+    ],
+    "sentences": [
+      "indomitable courage"
+    ]
+  },
+  "induct": {
+    "synonyms": [
+      "baptize",
+      "inaugurate",
+      "initiate",
+      "install",
+      "instate",
+      "invest",
+      "seat"
+    ],
+    "sentences": [
+      "inducted her to the most comfortable seat",
+      "… she became … inducted into most of the secrets of the family …",
+      "inducted into a scholastic society",
+      "was inducted as president of the college"
+    ]
+  },
+  "indulgence": {
+    "synonyms": [
+      "benevolence",
+      "boon",
+      "courtesy",
+      "favor",
+      "grace",
+      "kindness",
+      "mercy",
+      "service",
+      "turn",
+      "amenity",
+      "comfort",
+      "extra",
+      "frill",
+      "luxury",
+      "superfluity"
+    ],
+    "sentences": [
+      "… walk off gastronomic indulgences."
+    ]
+  },
+  "indulgent": {
+    "synonyms": [
+      "charitable",
+      "clement",
+      "easy",
+      "soft",
+      "decadent",
+      "hedonistic",
+      "luxurious",
+      "overindulgent",
+      "self-indulgent",
+      "sybaritic",
+      "accommodating",
+      "accommodative",
+      "friendly",
+      "obliging"
+    ],
+    "sentences": [
+      "indulgent desserts",
+      "indulgent grandparents"
+    ]
+  },
+  "inebriate": {
+    "synonyms": [
+      "besotted",
+      "blasted",
+      "blind",
+      "blitzed",
+      "blotto",
+      "bombed",
+      "boozy",
+      "canned",
+      "cockeyed",
+      "crocked",
+      "drunk",
+      "drunken",
+      "fried",
+      "gassed",
+      "hammered",
+      "high",
+      "impaired",
+      "inebriated",
+      "intoxicated",
+      "juiced",
+      "lit",
+      "lit up",
+      "loaded",
+      "looped",
+      "oiled",
+      "pickled",
+      "pie-eyed",
+      "plastered",
+      "potted",
+      "ripped",
+      "sloshed",
+      "smashed",
+      "sottish",
+      "soused",
+      "sozzled",
+      "squiffed",
+      "stewed",
+      "stiff",
+      "stinking",
+      "stoned",
+      "tanked",
+      "tiddly",
+      "tight",
+      "tipsy",
+      "wasted",
+      "wet",
+      "wiped out"
+    ],
+    "sentences": [
+      "was inebriated by the feeling of power"
+    ]
+  },
+  "inedible": {
+    "synonyms": [
+      "nonedible",
+      "uneatable",
+      "indigestible",
+      "nondigestible",
+      "nonnutritious",
+      "undigestible"
+    ],
+    "sentences": []
+  },
+  "ineffable": {
+    "synonyms": [
+      "incommunicable",
+      "indefinable",
+      "indescribable",
+      "inenarrable",
+      "inexpressible",
+      "nameless",
+      "uncommunicable",
+      "unspeakable",
+      "unutterable"
+    ],
+    "sentences": [
+      "the ineffable name of Jehovah",
+      "ineffable disgust",
+      "ineffable joy/beauty"
+    ]
+  },
+  "inefficient": {
+    "synonyms": [
+      "counterproductive",
+      "feckless",
+      "hamstrung",
+      "ineffective",
+      "ineffectual",
+      "inefficacious",
+      "inexpedient"
+    ],
+    "sentences": [
+      "used inefficient measures",
+      "an inefficient worker",
+      "inefficient operating procedures"
+    ]
+  },
+  "inefficiency": {
+    "synonyms": [
+      "ineffectiveness",
+      "ineffectuality",
+      "ineffectualness",
+      "inefficaciousness",
+      "inefficacy",
+      "impotence",
+      "inability",
+      "inadequacy",
+      "incapability",
+      "incapacity",
+      "incompetence",
+      "incompetency",
+      "ineptitude",
+      "insufficiency",
+      "powerlessness",
+      "disqualification",
+      "inaptitude"
+    ],
+    "sentences": []
+  },
+  "ineligible": {
+    "synonyms": [
+      "disqualified",
+      "inapt",
+      "incapable",
+      "incompetent",
+      "inept",
+      "inexpert",
+      "unable",
+      "unfit",
+      "unfitted",
+      "unqualified",
+      "unskilled",
+      "unskillful",
+      "ineffective",
+      "ineffectual",
+      "inefficient",
+      "amateurish",
+      "callow",
+      "dilettantish",
+      "green",
+      "inexperienced",
+      "raw",
+      "unprofessional",
+      "unequipped",
+      "unprepared",
+      "untrained",
+      "useless",
+      "worthless",
+      "wanting"
+    ],
+    "sentences": [
+      "an ineligible receiver"
+    ]
+  },
+  "inept": {
+    "synonyms": [
+      "inapt",
+      "incapable",
+      "incompetent",
+      "inexpert",
+      "unable",
+      "unfit",
+      "unfitted",
+      "unqualified",
+      "unskilled",
+      "unskillful",
+      "amiss",
+      "graceless",
+      "improper",
+      "inapposite",
+      "inappropriate",
+      "incongruous",
+      "incorrect",
+      "indecorous",
+      "infelicitous",
+      "malapropos",
+      "perverse",
+      "unapt",
+      "unbecoming",
+      "unhappy",
+      "unseemly",
+      "unsuitable",
+      "untoward",
+      "wrong",
+      "awkward",
+      "botched",
+      "bungling",
+      "clumsy",
+      "fumbled",
+      "maladroit",
+      "absurd",
+      "asinine",
+      "balmy",
+      "barmy",
+      "batty",
+      "brainless",
+      "bubbleheaded",
+      "cockeyed",
+      "crackbrained",
+      "crackpot",
+      "crazy",
+      "cuckoo",
+      "daffy",
+      "daft",
+      "dippy",
+      "dotty",
+      "fatuous",
+      "featherheaded",
+      "fool",
+      "foolish",
+      "fruity",
+      "gaga",
+      "half-baked",
+      "half-witted",
+      "harebrained",
+      "insane",
+      "jerky",
+      "kooky",
+      "loony",
+      "loony tunes",
+      "lunatic",
+      "lunkheaded",
+      "mad",
+      "meshuga",
+      "nonsensical",
+      "nutty",
+      "preposterous",
+      "sappy",
+      "screwball",
+      "senseless",
+      "silly",
+      "simpleminded",
+      "stupid",
+      "tomfool",
+      "unwise",
+      "wacko",
+      "wacky",
+      "weak-minded",
+      "witless",
+      "zany"
+    ],
+    "sentences": [
+      "felt gauche and unsophisticated at formal parties",
+      "a hopelessly inept defense attorney",
+      "a maladroit politician",
+      "a clumsy mechanic",
+      "periods of awkward silence",
+      "an inept metaphor",
+      "inept at sports",
+      "inept leadership"
+    ]
+  },
+  "inert": {
+    "synonyms": [
+      "dead",
+      "dormant",
+      "fallow",
+      "free",
+      "idle",
+      "inactive",
+      "inoperative",
+      "latent",
+      "off",
+      "unused",
+      "vacant",
+      "dull",
+      "lethargic",
+      "quiescent",
+      "sleepy",
+      "sluggish",
+      "torpid"
+    ],
+    "sentences": [
+      "a supine willingness to play the fool",
+      "passive resistance",
+      "inert ingredients in drugs",
+      "an inert citizenry",
+      "workers were idle in the fields",
+      "on inactive status as an astronaut",
+      "inactive accounts",
+      "an inert administration",
+      "an inert and lifeless body"
+    ]
+  },
+  "inestimable": {
+    "synonyms": [
+      "invaluable",
+      "priceless"
+    ],
+    "sentences": [
+      "has performed an inestimable service for his country",
+      "storms caused inestimable damage"
+    ]
+  },
+  "inevitable": {
+    "synonyms": [
+      "certain",
+      "ineluctable",
+      "ineludible",
+      "inescapable",
+      "necessary",
+      "sure",
+      "unavoidable",
+      "unescapable"
+    ],
+    "sentences": [
+      "an inevitable outcome",
+      "inevitably, it rained",
+      "… the popular misconception that biological control inevitably leads to disaster.",
+      "They're just trying to delay/postpone the inevitable."
+    ]
+  },
+  "inexcusable": {
+    "synonyms": [
+      "indefensible",
+      "inexpiable",
+      "insupportable",
+      "unforgivable",
+      "unjustifiable",
+      "unpardonable",
+      "unwarrantable"
+    ],
+    "sentences": [
+      "inexcusable rudeness"
+    ]
+  },
+  "inexhaustible": {
+    "synonyms": [
+      "indefatigable",
+      "tireless",
+      "unflagging",
+      "untiring",
+      "weariless"
+    ],
+    "sentences": [
+      "an inexhaustible hiker",
+      "inexhaustible riches"
+    ]
+  },
+  "inexorable": {
+    "synonyms": [
+      "relentless",
+      "unremitting",
+      "unstoppable",
+      "certain",
+      "ineluctable",
+      "ineludible",
+      "inescapable",
+      "inevitable",
+      "necessary",
+      "sure",
+      "unavoidable",
+      "unescapable",
+      "decided",
+      "definite",
+      "settled",
+      "likely",
+      "possible",
+      "probable",
+      "destined",
+      "fated",
+      "foreordained",
+      "predestined",
+      "predetermined",
+      "preordained"
+    ],
+    "sentences": [
+      "inexorable progress"
+    ]
+  },
+  "inexpedient": {
+    "synonyms": [
+      "counterproductive",
+      "feckless",
+      "hamstrung",
+      "ineffective",
+      "ineffectual",
+      "inefficacious",
+      "inefficient"
+    ],
+    "sentences": [
+      "an economically inexpedient solution"
+    ]
+  },
+  "inexpensive": {
+    "synonyms": [
+      "affordable",
+      "bargain-basement",
+      "budget",
+      "cheap",
+      "cheapie",
+      "cheapo",
+      "chintzy",
+      "cut-price",
+      "cut-rate",
+      "dime-store",
+      "dirt cheap",
+      "el cheapo",
+      "low",
+      "low-end",
+      "popular",
+      "reasonable"
+    ],
+    "sentences": []
+  },
+  "inexperience": {
+    "synonyms": [
+      "callowness",
+      "greenness",
+      "naïveté",
+      "rawness",
+      "simpleness",
+      "unsophistication",
+      "benightedness",
+      "cluelessness",
+      "ignorance",
+      "incognizance",
+      "innocence",
+      "nescience",
+      "obliviousness",
+      "unawareness",
+      "unfamiliarity"
+    ],
+    "sentences": [
+      "was concerned about their youth and inexperience",
+      "blamed the accident on driver inexperience"
+    ]
+  },
+  "inexplicable": {
+    "synonyms": [
+      "inexplainable",
+      "unaccountable",
+      "unexplainable"
+    ],
+    "sentences": [
+      "an inexplicable disappearance"
+    ]
+  },
+  "inexpressible": {
+    "synonyms": [
+      "incommunicable",
+      "indefinable",
+      "indescribable",
+      "ineffable",
+      "inenarrable",
+      "nameless",
+      "uncommunicable",
+      "unspeakable",
+      "unutterable"
+    ],
+    "sentences": [
+      "inexpressible joy/pain"
+    ]
+  },
+  "infallible": {
+    "synonyms": [
+      "unerring",
+      "unfailing",
+      "can't-miss",
+      "certain",
+      "fail-safe",
+      "sure",
+      "surefire"
+    ],
+    "sentences": [
+      "an infallible remedy",
+      "an infallible memory"
+    ]
+  },
+  "infamous": {
+    "synonyms": [
+      "discreditable",
+      "disgraceful",
+      "dishonorable",
+      "disreputable",
+      "ignominious",
+      "louche",
+      "notorious",
+      "opprobrious",
+      "shady",
+      "shameful",
+      "shoddy",
+      "shy",
+      "unrespectable"
+    ],
+    "sentences": [
+      "an infamous crime",
+      "an infamous traitor"
+    ]
+  },
+  "infamy": {
+    "synonyms": [
+      "discredit",
+      "disesteem",
+      "disgrace",
+      "dishonor",
+      "disrepute",
+      "ignominy",
+      "obloquy",
+      "odium",
+      "opprobrium",
+      "reproach",
+      "shame"
+    ],
+    "sentences": [
+      "the ignominy of being arrested",
+      "a day that lives in infamy",
+      "a once proud name fallen into disrepute",
+      "preferred death to life with dishonor",
+      "sent home in disgrace",
+      "the infamies committed by the brutal regime",
+      "a day of infamy"
+    ]
+  },
+  "inference": {
+    "synonyms": [
+      "conclusion",
+      "consequence",
+      "deduction",
+      "determination",
+      "eduction",
+      "induction",
+      "sequitur"
+    ],
+    "sentences": [
+      "the inferences fairly drawn from what's been established",
+      "Its existence is only known by inference."
+    ]
+  },
+  "infernal": {
+    "synonyms": [
+      "accursed",
+      "blasted",
+      "confounded",
+      "cursed",
+      "cussed",
+      "damnable",
+      "dang",
+      "danged",
+      "darn",
+      "darned",
+      "deuced",
+      "doggone",
+      "freaking"
+    ],
+    "sentences": [
+      "an infernal nuisance"
+    ]
+  },
+  "infest": {
+    "synonyms": [
+      "overrun"
+    ],
+    "sentences": [
+      "shark-infested waters"
+    ]
+  },
+  "infidel": {
+    "synonyms": [
+      "disbeliever",
+      "misbeliever",
+      "unbeliever",
+      "dissenter",
+      "dissentient",
+      "dissident",
+      "heresiarch",
+      "heretic",
+      "nonconformist",
+      "apostate",
+      "defector",
+      "renegade",
+      "schismatic",
+      "sectarian",
+      "separationist",
+      "separatist",
+      "bohemian",
+      "individualist"
+    ],
+    "sentences": [
+      "infidel writers",
+      "an infidel sect",
+      "Either they must come to terms with surrounding infidel tribes or they must conquer the hinterland.",
+      "the infidel nations"
+    ]
+  },
+  "infidelity": {
+    "synonyms": [
+      "disloyalty",
+      "faithlessness",
+      "falseness",
+      "falsity",
+      "inconstancy",
+      "perfidiousness",
+      "perfidy",
+      "unfaithfulness",
+      "backstabbing",
+      "betrayal",
+      "business",
+      "double cross",
+      "sellout",
+      "treachery",
+      "treason",
+      "two-timing",
+      "adultery",
+      "cheating",
+      "misconduct"
+    ],
+    "sentences": [
+      "infidelity to the group's guiding principles"
+    ]
+  },
+  "infinite": {
+    "synonyms": [
+      "bottomless",
+      "boundless",
+      "endless",
+      "fathomless",
+      "horizonless",
+      "illimitable",
+      "immeasurable",
+      "immensurable",
+      "indefinite",
+      "limitless",
+      "measureless",
+      "unbounded",
+      "unfathomable",
+      "unlimited"
+    ],
+    "sentences": [
+      "an infinite set",
+      "an infinite series",
+      "infinite plane surface",
+      "infinite number of positive numbers",
+      "infinite possibilities",
+      "infinite patience",
+      "infinite space",
+      "He decided, in his infinite wisdom, that it would be better to sell the house than to keep it."
+    ]
+  },
+  "infinity": {
+    "synonyms": [
+      "eternity",
+      "everlasting",
+      "foreverness",
+      "perpetuity"
+    ],
+    "sentences": [
+      "Do parallel lines ever meet if they extend to infinity?",
+      "an infinity of stars",
+      "The view tapers off into infinity.",
+      "And most importantly, the pool and bar are open for business, where a spacious infinity pool looks down on Kalakaua Avenue and makes for the ideal spot to watch the sunset and sip a drink.",
+      "If you give me the choice between a traditional scarf and an infinity scarf, I'll always choose the latter. No tying, no fringe, perfect length every time, and perfectly cozy for your neck—they're the perfect fall and winter accessory, and they're so easy to make on your own."
+    ]
+  },
+  "infirm": {
+    "synonyms": [
+      "asthenic",
+      "debilitated",
+      "delicate",
+      "down-and-out",
+      "effete",
+      "enervated",
+      "enfeebled",
+      "faint",
+      "feeble",
+      "frail",
+      "languid",
+      "low",
+      "prostrate",
+      "prostrated",
+      "sapped",
+      "slight",
+      "soft",
+      "softened",
+      "tender",
+      "unsubstantial",
+      "wasted",
+      "weak",
+      "weakened",
+      "wimpish",
+      "wimpy"
+    ],
+    "sentences": [
+      "the dowager's decrepit retainers",
+      "infirm residents requiring constant care",
+      "a reclusive poet too fragile for the rigors of this world",
+      "a frail teenager unable to enjoy sports",
+      "a feeble attempt to walk",
+      "felt weak after the surgery",
+      "the infirm state of the barn",
+      "infirm in purpose",
+      "providing care for the elderly and the infirm"
+    ]
+  },
+  "infirmary": {
+    "synonyms": [
+      "clinic",
+      "hospital",
+      "medical center",
+      "sick bay",
+      "hospice",
+      "sanatorium",
+      "sanitarium",
+      "sanitorium",
+      "halfway house",
+      "home",
+      "sickroom"
+    ],
+    "sentences": [
+      "Massachusetts Eye and Ear Infirmary"
+    ]
+  },
+  "infirmity": {
+    "synonyms": [
+      "affection",
+      "ail",
+      "ailment",
+      "bug",
+      "complaint",
+      "complication",
+      "condition",
+      "disease",
+      "disorder",
+      "distemper",
+      "distemperature",
+      "fever",
+      "ill",
+      "illness",
+      "malady",
+      "sickness",
+      "trouble",
+      "asthenia",
+      "debilitation",
+      "debility",
+      "delicacy",
+      "enervation",
+      "enfeeblement",
+      "faintness",
+      "feebleness",
+      "fragility",
+      "frailness",
+      "frailty",
+      "languidness",
+      "languor",
+      "listlessness",
+      "lowness",
+      "weakness",
+      "wimpiness"
+    ],
+    "sentences": [
+      "One of the besetting infirmities of living creatures is egotism."
+    ]
+  },
+  "inflammable": {
+    "synonyms": [
+      "burnable",
+      "combustible",
+      "combustive",
+      "fiery",
+      "flammable",
+      "ignitable",
+      "touchy"
+    ],
+    "sentences": []
+  },
+  "inflammation": {
+    "synonyms": [
+      "sore",
+      "swelling",
+      "ache",
+      "pain",
+      "pang",
+      "prick",
+      "shoot",
+      "smart",
+      "sting",
+      "stitch",
+      "throe",
+      "tingle",
+      "twinge",
+      "discomfort",
+      "distress",
+      "soreness",
+      "tenderness",
+      "affliction",
+      "agony",
+      "anguish",
+      "misery",
+      "sufferance",
+      "suffering",
+      "torment",
+      "torture",
+      "damage",
+      "detriment",
+      "harm",
+      "hurt",
+      "injury",
+      "backache",
+      "bellyache",
+      "charley horse",
+      "colic",
+      "complaint",
+      "earache",
+      "gripe",
+      "headache",
+      "stomachache",
+      "toothache"
+    ],
+    "sentences": [
+      "anti-inflammatory painkillers",
+      "anti-inflammatory effects",
+      "an anti-inflammation diet"
+    ]
+  },
+  "inflexible": {
+    "synonyms": [
+      "fixed",
+      "hard-and-fast",
+      "immutable",
+      "inalterable",
+      "incommutable",
+      "invariable",
+      "unalterable",
+      "unchangeable",
+      "rigid",
+      "stiff",
+      "stiffened",
+      "unyielding",
+      "brassbound",
+      "cast-iron",
+      "exacting",
+      "hard-line",
+      "rigorous",
+      "strict",
+      "stringent",
+      "uncompromising",
+      "adamant",
+      "adamantine",
+      "bullheaded",
+      "dogged",
+      "hard",
+      "hard-nosed",
+      "hardened",
+      "hardheaded",
+      "headstrong",
+      "immovable",
+      "implacable",
+      "inconvincible",
+      "intransigent",
+      "mulish",
+      "obdurate",
+      "obstinate",
+      "opinionated",
+      "ossified",
+      "pat",
+      "pertinacious",
+      "perverse",
+      "pigheaded",
+      "self-opinionated",
+      "self-willed",
+      "stiff-necked",
+      "stubborn",
+      "unbending",
+      "unrelenting",
+      "willful"
+    ],
+    "sentences": [
+      "adamant that the work should continue",
+      "obdurate in his refusal to grant clemency",
+      "inflexible in their demands",
+      "rules that are inflexibly applied",
+      "joint inflexibility",
+      "the inflexibility of the schedule",
+      "an inflexible deadline",
+      "inflexible laws/rules",
+      "jobs with inflexible hours",
+      "an inflexible steel rod",
+      "Imbalances in any area of this soft tissue, as well as inflexible or weak hip muscles, can pull the kneecap off track …",
+      "an inflexible judge",
+      "took an inflexible stance",
+      "… he pulled out of the talks, saying administration officials were being inflexible",
+      "His secret, it turned out, was an inflexible regimen that required a permanent diet except on certain cheating days each week …"
+    ]
+  },
+  "influence": {
+    "synonyms": [
+      "authority",
+      "clout",
+      "credit",
+      "heft",
+      "in",
+      "juice",
+      "leverage",
+      "pull",
+      "sway",
+      "weight",
+      "effect",
+      "impact",
+      "mark",
+      "repercussion"
+    ],
+    "sentences": [
+      "his credit with the press",
+      "their wishes obviously carried much weight",
+      "the prestige of the newspaper",
+      "his opinions lacked authority",
+      "used her influence to get the bill passed",
+      "The influence of Venus … will highlight an overdue relationship decision …",
+      "Oh, gentle moon! thy influence is like / A mother's love …",
+      "hoping their son's friend will be a good influence on him",
+      "… the ethical implications of influence peddling.",
+      "Emily Dickinson's enduring influence on American poetry",
+      "… she came to realize that her presence in that house had no influence on what either woman did.",
+      "Progressives fretted about the corrupting influence of Big Business …",
+      "an idea gaining influence on Capitol Hill",
+      "… Michael continued to use his position and his influence to help impact the communities around him …",
+      "In time, klezmer even came to reflect the influence of jazz recordings from America.",
+      "politicians who are swayed by popular opinion",
+      "struck by the solemnity of the occasion",
+      "only one of the plans impressed him",
+      "plants touched by frost",
+      "his emotions were touched by her distress",
+      "our beliefs are influenced by our upbringing",
+      "the sight affected her to tears",
+      "In the situation where performance measures are not seen as influenceable, there is little chance of the person seeing a connection between his effort and his rewards.",
+      "Productivity was influenced by worker satisfaction.",
+      "… Marcus's identity … was deeply influenced by growing up in the working class, diverse city of Baltimore.",
+      "attempts to influence my decision",
+      "greatly influenced by my parents",
+      "… a parent watching a child's sporting event, hands twisted into fists, unable to influence the outcome.",
+      "was arrested for driving under the influence",
+      "He was arrested for driving under the influence.",
+      "She was under the influence of drugs.",
+      "The satellite came under the influence of the planet's gravitational pull.",
+      "under the influence of a foreign government",
+      "… conscious of the capacities for evil which lie dormant in us all, and striving earnestly to open her heart to the counter-influence of her own better nature …",
+      "The teachers and girls often came from many different parts of the country, creating opportunities for interinfluence.",
+      "the interinfluence between science and philosophy",
+      "Lobbyists are throwing their weight/influence behind the legislation."
+    ]
+  },
+  "influential": {
+    "synonyms": [
+      "authoritative",
+      "forceful",
+      "weighty",
+      "heavy",
+      "heavy-duty",
+      "important",
+      "mighty",
+      "potent",
+      "powerful",
+      "puissant",
+      "significant",
+      "strong"
+    ],
+    "sentences": []
+  },
+  "influx": {
+    "synonyms": [
+      "affluence",
+      "flux",
+      "income",
+      "inflow",
+      "inpouring",
+      "inrush"
+    ],
+    "sentences": [
+      "an influx of tourists"
+    ]
+  },
+  "infrequence": {
+    "synonyms": [
+      "infrequency",
+      "rareness",
+      "uncommonness",
+      "unusualness"
+    ],
+    "sentences": []
+  },
+  "infrequent": {
+    "synonyms": [
+      "isolated",
+      "occasional",
+      "odd",
+      "rare",
+      "sporadic"
+    ],
+    "sentences": [
+      "sporadic cases of influenza",
+      "rare first editions",
+      "jobs were scarce during the Depression",
+      "smallpox is now uncommon in many countries",
+      "infrequent family visits",
+      "a slope dotted with infrequent pines",
+      "infrequent visits",
+      "Problems with the network have become a not infrequent occurrence."
+    ]
+  },
+  "infringe": {
+    "synonyms": [
+      "breach",
+      "break",
+      "violate",
+      "err",
+      "fall",
+      "offend",
+      "sin",
+      "stray",
+      "transgress",
+      "trespass",
+      "wander",
+      "backslide",
+      "lapse",
+      "mess up",
+      "entrench",
+      "impinge",
+      "intrude",
+      "invade",
+      "snake",
+      "sneak",
+      "overpass",
+      "overreach",
+      "overrun",
+      "overshoot",
+      "overstep",
+      "creep",
+      "encroach",
+      "inch",
+      "worm"
+    ],
+    "sentences": [
+      "accused of invading their privacy",
+      "infringing a copyright",
+      "the encroaching settlers displacing the native peoples",
+      "hunters trespassing on farmland",
+      "infringe on our rights",
+      "infringe a patent"
+    ]
+  },
+  "infuse": {
+    "synonyms": [
+      "endue",
+      "imbue",
+      "inculcate",
+      "ingrain",
+      "inoculate",
+      "invest",
+      "steep",
+      "suffuse"
+    ],
+    "sentences": [
+      "a serious play leavened with comic moments",
+      "an electorate inoculated with dangerous ideas",
+      "clung to ingrained habits",
+      "imbue students with intellectual curiosity",
+      "a room suffused with light",
+      "new members infused enthusiasm into the club",
+      "stem cells were infused into the patient",
+      "the sense of purpose that infuses scientific research",
+      "… a new spirit was infused into American art …",
+      "infuse the team with confidence"
+    ]
+  },
+  "ingenious": {
+    "synonyms": [
+      "clever",
+      "creative",
+      "imaginative",
+      "innovational",
+      "innovative",
+      "innovatory",
+      "inventive",
+      "original",
+      "originative",
+      "Promethean",
+      "artful"
+    ],
+    "sentences": [
+      "an ingenious software engineer",
+      "a filmmaker cunning in his use of special effects",
+      "an adroit negotiator",
+      "a person clever with horses",
+      "an ingenious contraption",
+      "an ingenious detective"
+    ]
+  },
+  "ingenuity": {
+    "synonyms": [
+      "cleverness",
+      "creativeness",
+      "creativity",
+      "imagination",
+      "imaginativeness",
+      "ingeniousness",
+      "innovativeness",
+      "invention",
+      "inventiveness",
+      "originality"
+    ],
+    "sentences": []
+  },
+  "ingenuous": {
+    "synonyms": [
+      "artless",
+      "genuine",
+      "guileless",
+      "honest",
+      "innocent",
+      "naive",
+      "natural",
+      "real",
+      "simple",
+      "sincere",
+      "true",
+      "unaffected",
+      "unpretending",
+      "unpretentious",
+      "aw-shucks",
+      "dewy",
+      "dewy-eyed",
+      "green",
+      "naïf",
+      "primitive",
+      "simpleminded",
+      "uncritical",
+      "unknowing",
+      "unsophisticated",
+      "unsuspecting",
+      "unsuspicious",
+      "unwary",
+      "unworldly",
+      "wide-eyed"
+    ],
+    "sentences": [
+      "artless charm",
+      "unsophisticated adolescents",
+      "politically naive",
+      "the ingenuous enthusiasm of children",
+      "her unaffected, natural manner",
+      "ingenuous in their brutality",
+      "… her ingenuous thirst for experience …"
+    ]
+  },
+  "inglorious": {
+    "synonyms": [
+      "blamable",
+      "blameworthy",
+      "censurable",
+      "reprehensible",
+      "evil",
+      "iniquitous",
+      "nefarious",
+      "rotten",
+      "sinful",
+      "unrighteous",
+      "vicious",
+      "villainous",
+      "wrong",
+      "corrupt",
+      "debased",
+      "debauched",
+      "degenerate",
+      "depraved",
+      "dissolute",
+      "gamy",
+      "libertine",
+      "loose",
+      "perverted",
+      "reprobate",
+      "base",
+      "contemptible",
+      "despicable",
+      "detestable",
+      "dirty",
+      "low",
+      "mean",
+      "miserable",
+      "vile",
+      "wretched",
+      "bad",
+      "criminal",
+      "immoral",
+      "seamy",
+      "sordid",
+      "unethical",
+      "unsavory",
+      "wicked",
+      "discreditable",
+      "disgraceful",
+      "dishonorable",
+      "disreputable",
+      "ignominious",
+      "infamous",
+      "louche",
+      "notorious",
+      "opprobrious",
+      "shady",
+      "shameful",
+      "shoddy",
+      "shy",
+      "unrespectable"
+    ],
+    "sentences": [
+      "made an inglorious comeback",
+      "an inglorious defeat"
+    ]
+  },
+  "ingratiate": {
+    "synonyms": [
+      "endear (to)",
+      "appease",
+      "assuage",
+      "conciliate",
+      "disarm",
+      "gentle",
+      "mollify",
+      "pacify",
+      "placate",
+      "propitiate",
+      "calm",
+      "comfort",
+      "console",
+      "content",
+      "hush",
+      "quiet",
+      "soothe",
+      "tranquilize",
+      "delight",
+      "gladden",
+      "gratify",
+      "please",
+      "adulate",
+      "blarney",
+      "flatter",
+      "overpraise",
+      "soft-soap",
+      "quench",
+      "sate",
+      "satiate",
+      "satisfy",
+      "cater (to)",
+      "humor",
+      "indulge",
+      "blandish",
+      "cajole",
+      "coax",
+      "sweet-talk",
+      "wheedle",
+      "baby",
+      "coddle",
+      "mollycoddle",
+      "pamper",
+      "spoil",
+      "dulcify",
+      "sweeten",
+      "apple-polish",
+      "bootlick",
+      "fuss",
+      "kowtow",
+      "suck (up)",
+      "toady",
+      "truckle"
+    ],
+    "sentences": [
+      "… ingratiate themselves with the community leaders."
+    ]
+  },
+  "ingratitude": {
+    "synonyms": [
+      "thanklessness",
+      "ungratefulness"
+    ],
+    "sentences": []
+  },
+  "ingredient": {
+    "synonyms": [
+      "building block",
+      "component",
+      "constituent",
+      "element",
+      "factor",
+      "member"
+    ],
+    "sentences": [
+      "the ingredients of a cocktail",
+      "the constituents of a chemical compound",
+      "the components of a stereo system",
+      "the basic elements of geometry"
+    ]
+  },
+  "inherent": {
+    "synonyms": [
+      "built-in",
+      "constitutional",
+      "constitutive",
+      "essential",
+      "hardwired",
+      "immanent",
+      "inborn",
+      "inbred",
+      "indigenous",
+      "ingrain",
+      "ingrained",
+      "innate",
+      "integral",
+      "intrinsic",
+      "native",
+      "natural"
+    ],
+    "sentences": [
+      "risks inherent in the venture",
+      "a belief in the inherent goodness of people",
+      "problems inherent in the design",
+      "There is an inherent sweetness to all of the characters, and to the show."
+    ]
+  },
+  "inhibit": {
+    "synonyms": [
+      "clog",
+      "cramp",
+      "embarrass",
+      "encumber",
+      "fetter",
+      "hamper",
+      "handcuff",
+      "handicap",
+      "hinder",
+      "hobble",
+      "hog-tie",
+      "hold back",
+      "hold up",
+      "impede",
+      "interfere (with)",
+      "manacle",
+      "obstruct",
+      "shackle",
+      "short-circuit",
+      "stymie",
+      "tie up",
+      "trammel",
+      "bridle",
+      "check",
+      "constrain",
+      "contain",
+      "control",
+      "curb",
+      "govern",
+      "hold",
+      "keep",
+      "measure",
+      "pull in",
+      "regulate",
+      "rein (in)",
+      "restrain",
+      "rule",
+      "tame",
+      "deter",
+      "discourage",
+      "dissuade"
+    ],
+    "sentences": [
+      "conditions inhibiting the growth of free trade",
+      "practices interdicted by the church",
+      "prohibited the sale of liquor",
+      "smoking is forbidden in the building"
+    ]
+  },
+  "inhospitable": {
+    "synonyms": [
+      "adversarial",
+      "adversary",
+      "antagonistic",
+      "antipathetic",
+      "hostile",
+      "inimical",
+      "jaundiced",
+      "mortal",
+      "negative",
+      "unfriendly",
+      "unsympathetic"
+    ],
+    "sentences": [
+      "an inhospitable environment"
+    ]
+  },
+  "inhuman": {
+    "synonyms": [
+      "bitter",
+      "brutal",
+      "burdensome",
+      "cruel",
+      "excruciating",
+      "grievous",
+      "grim",
+      "hard",
+      "hardhanded",
+      "harsh",
+      "heavy",
+      "murderous",
+      "onerous",
+      "oppressive",
+      "rough",
+      "rugged",
+      "searing",
+      "severe",
+      "stiff",
+      "tough",
+      "trying",
+      "affectless",
+      "callous",
+      "case-hardened",
+      "cold-blooded",
+      "compassionless",
+      "desensitized",
+      "hard-boiled",
+      "hard-hearted",
+      "heartless",
+      "indurate",
+      "inhumane",
+      "insensate",
+      "insensitive",
+      "ironhearted",
+      "merciless",
+      "obdurate",
+      "pachydermatous",
+      "pitiless",
+      "remorseless",
+      "ruthless",
+      "slash-and-burn",
+      "soulless",
+      "stony",
+      "stonyhearted",
+      "take-no-prisoners",
+      "thick-skinned",
+      "uncharitable",
+      "unfeeling",
+      "unmerciful",
+      "unsparing",
+      "unsympathetic",
+      "atrocious",
+      "barbaric",
+      "barbarous",
+      "brute",
+      "butcherly",
+      "fiendish",
+      "sadistic",
+      "savage",
+      "truculent",
+      "vicious",
+      "wanton"
+    ],
+    "sentences": [
+      "inhuman living conditions",
+      "… his usual quiet, almost inhuman courtesy.",
+      "an inhuman tyrant"
+    ]
+  },
+  "inhume": {
+    "synonyms": [
+      "bury",
+      "entomb",
+      "hearse",
+      "inter",
+      "lay",
+      "put away",
+      "tomb"
+    ],
+    "sentences": []
+  },
+  "inimical": {
+    "synonyms": [
+      "adversarial",
+      "adversary",
+      "antagonistic",
+      "antipathetic",
+      "hostile",
+      "inhospitable",
+      "jaundiced",
+      "mortal",
+      "negative",
+      "unfriendly",
+      "unsympathetic",
+      "adverse",
+      "counter",
+      "disadvantageous",
+      "prejudicial",
+      "unfavorable",
+      "untoward"
+    ],
+    "sentences": [
+      "his father's inimical glare",
+      "inimical factions",
+      "forces inimical to democracy"
+    ]
+  },
+  "iniquity": {
+    "synonyms": [
+      "corruption",
+      "debauchery",
+      "depravity",
+      "immorality",
+      "iniquitousness",
+      "libertinage",
+      "libertinism",
+      "licentiousness",
+      "profligacy",
+      "sin",
+      "vice",
+      "bad",
+      "evil",
+      "evildoing",
+      "ill",
+      "villainy",
+      "wrong"
+    ],
+    "sentences": [
+      "the club's reputation as a den of iniquity"
+    ]
+  },
+  "initiate": {
+    "synonyms": [
+      "begin",
+      "constitute",
+      "establish",
+      "found",
+      "inaugurate",
+      "innovate",
+      "institute",
+      "introduce",
+      "launch",
+      "pioneer",
+      "plant",
+      "set up",
+      "start",
+      "accustom",
+      "acquaint",
+      "familiarize",
+      "orient",
+      "orientate",
+      "baptize",
+      "induct",
+      "install",
+      "instate",
+      "invest",
+      "seat"
+    ],
+    "sentences": [
+      "ushered in a period of economic decline",
+      "the discovery of penicillin inaugurated a new era in medicine",
+      "initiated diplomatic contacts",
+      "commence firing",
+      "commenced a conversation",
+      "the work started slowly",
+      "begin a trip",
+      "began dancing",
+      "initiate a program of reform",
+      "enzymes that initiate fermentation",
+      "the reinitiation of peace talks",
+      "… after five years with the cult, the boy's reinitiation into society will take time.",
+      "… the county office completed a strategic plan this year to reinitiate the accreditation process.",
+      "However, with train service being reinitiated in many parts of the United States, Arizona has opportunities to get on-board again.",
+      "There he again experiences transformation, is reinitiated into his old world, and becomes the agent of its restoration or renewal.",
+      "When the newspaper refused to admit that the story was false, the actor filed/initiated a lawsuit against the publisher."
+    ]
+  },
+  "inject": {
+    "synonyms": [
+      "edge in",
+      "fit (in or into)",
+      "insert",
+      "insinuate",
+      "intercalate",
+      "interject",
+      "interpolate",
+      "interpose",
+      "intersperse",
+      "introduce",
+      "sandwich (in or between)",
+      "work in"
+    ],
+    "sentences": [
+      "… condemning any attempt to inject religious bigotry into the campaign.",
+      "inject a drug into the bloodstream",
+      "inject fuel into an engine"
+    ]
+  },
+  "injunction": {
+    "synonyms": [
+      "behest",
+      "charge",
+      "command",
+      "commandment",
+      "decree",
+      "dictate",
+      "direction",
+      "directive",
+      "do",
+      "edict",
+      "imperative",
+      "instruction",
+      "order",
+      "word"
+    ],
+    "sentences": []
+  },
+  "inkling": {
+    "synonyms": [
+      "clue",
+      "cue",
+      "hint",
+      "indication",
+      "intimation",
+      "lead",
+      "suggestion"
+    ],
+    "sentences": [
+      "There was no path—no inkling even of a track.",
+      "… had not the faintest inkling of what it was all about."
+    ]
+  },
+  "inlet": {
+    "synonyms": [
+      "arm",
+      "bay",
+      "bight",
+      "cove",
+      "creek",
+      "embayment",
+      "estuary",
+      "firth",
+      "fjord",
+      "gulf",
+      "loch"
+    ],
+    "sentences": []
+  },
+  "inmost": {
+    "synonyms": [
+      "innermost",
+      "inner",
+      "inside",
+      "interior",
+      "internal",
+      "inward",
+      "central",
+      "mid",
+      "middle",
+      "midmost"
+    ],
+    "sentences": []
+  },
+  "innocuous": {
+    "synonyms": [
+      "anodyne",
+      "benign",
+      "harmless",
+      "hurtless",
+      "innocent",
+      "inoffensive",
+      "safe",
+      "white"
+    ],
+    "sentences": [
+      "an innocuous by-product of the process",
+      "What may seem innocuous at the time could lead to larger problems down the road.",
+      "an innocuous comment/remark",
+      "The comedian's jokes were innocuous enough.",
+      "… newly aware that the behavior isn't as innocuous as they imagined."
+    ]
+  },
+  "innovate": {
+    "synonyms": [
+      "begin",
+      "constitute",
+      "establish",
+      "found",
+      "inaugurate",
+      "initiate",
+      "institute",
+      "introduce",
+      "launch",
+      "pioneer",
+      "plant",
+      "set up",
+      "start"
+    ],
+    "sentences": [
+      "The dictates of my father were … not to be altered, innovated, or even discussed …"
+    ]
+  },
+  "innuendo": {
+    "synonyms": [
+      "imputation",
+      "insinuation"
+    ],
+    "sentences": [
+      "resorting to innuendo"
+    ]
+  },
+  "innumerable": {
+    "synonyms": [
+      "countless",
+      "innumerous",
+      "myriad",
+      "numberless",
+      "uncountable",
+      "uncounted",
+      "unnumbered",
+      "untold"
+    ],
+    "sentences": []
+  },
+  "inoffensive": {
+    "synonyms": [
+      "anodyne",
+      "benign",
+      "harmless",
+      "hurtless",
+      "innocent",
+      "innocuous",
+      "safe",
+      "white"
+    ],
+    "sentences": []
+  },
+  "inopportune": {
+    "synonyms": [
+      "early",
+      "precocious",
+      "premature",
+      "unseasonable",
+      "untimely"
+    ],
+    "sentences": []
+  },
+  "inquire": {
+    "synonyms": [
+      "ask",
+      "question",
+      "challenge",
+      "cross-examine",
+      "examine",
+      "grill",
+      "interrogate",
+      "pump",
+      "quiz",
+      "poll",
+      "query",
+      "survey"
+    ],
+    "sentences": [
+      "began to inquire of friends and teachers what career she should pursue",
+      "queried a librarian about the book",
+      "the prosecutor interrogated the witness all day",
+      "questioned them about every detail of the trip",
+      "ask for directions",
+      "… some kindred spirit shall inquire thy fate …",
+      "inquired about the horses",
+      "A panel has been appointed to inquire into their activities.",
+      "The police inquired of his neighbors if they knew where he was."
+    ]
+  },
+  "inquisition": {
+    "synonyms": [
+      "delving",
+      "disquisition",
+      "examen",
+      "examination",
+      "exploration",
+      "inquest",
+      "inquiry",
+      "investigation",
+      "probation",
+      "probe",
+      "probing",
+      "research",
+      "study"
+    ],
+    "sentences": [
+      "the Spanish Inquisition"
+    ]
+  },
+  "inquisitive": {
+    "synonyms": [
+      "curious",
+      "nosy",
+      "prying",
+      "snoopy"
+    ],
+    "sentences": [
+      "prying neighbors who refuse to mind their own business",
+      "dreaded the visits of their inquisitive relatives",
+      "children are curious about everything"
+    ]
+  },
+  "inroad": {
+    "synonyms": [
+      "descent",
+      "foray",
+      "incursion",
+      "invasion",
+      "irruption",
+      "raid"
+    ],
+    "sentences": []
+  },
+  "insatiable": {
+    "synonyms": [
+      "inappeasable",
+      "inextinguishable",
+      "insatiate",
+      "quenchless",
+      "unappeasable",
+      "unquenchable",
+      "unslakable"
+    ],
+    "sentences": [
+      "had an insatiable desire for wealth"
+    ]
+  },
+  "inscribe": {
+    "synonyms": [
+      "engrave",
+      "etch",
+      "grave",
+      "incise",
+      "insculp",
+      "enroll",
+      "list",
+      "matriculate",
+      "register",
+      "catalog",
+      "enter",
+      "index",
+      "put down",
+      "record",
+      "schedule",
+      "slate"
+    ],
+    "sentences": [
+      "a regular polygon inscribed in a circle"
+    ]
+  },
+  "inscrutable": {
+    "synonyms": [
+      "arcane",
+      "cryptic",
+      "deep",
+      "enigmatic",
+      "impenetrable",
+      "mysterious",
+      "mystic",
+      "occult",
+      "uncanny",
+      "ambiguous",
+      "dark",
+      "Delphic",
+      "double-edged",
+      "elliptical",
+      "equivocal",
+      "fuliginous",
+      "murky",
+      "nebulous",
+      "obscure",
+      "opaque"
+    ],
+    "sentences": [
+      "an inscrutable smile",
+      "inscrutable motives"
+    ]
+  },
+  "insecure": {
+    "synonyms": [
+      "lax",
+      "loose",
+      "loosened",
+      "relaxed",
+      "slack",
+      "slackened",
+      "unsecured",
+      "aflutter",
+      "antsy",
+      "anxious",
+      "atwitter",
+      "dithery",
+      "edgy",
+      "goosey",
+      "het up",
+      "hinky",
+      "hung up",
+      "ill at ease",
+      "jittery",
+      "jumpy",
+      "nervous",
+      "nervy",
+      "perturbed",
+      "queasy",
+      "tense",
+      "troubled",
+      "uneasy",
+      "unquiet",
+      "upset",
+      "uptight",
+      "worried"
+    ],
+    "sentences": [
+      "families that are housing insecure =that are at risk of losing their housing",
+      "the hinge is loose and insecure",
+      "an insecure investment",
+      "feeling somewhat insecure of his reception",
+      "an insecure marriage",
+      "always felt insecure in a group of strangers",
+      "According to data released last week by the U.S. Department of Agriculture, 17 percent of Americans—more than 50 million people—live in households that are \"food insecure,\" a term that means a family sometimes runs out of money to buy food, or it sometimes runs out of food before it can get more money.",
+      "A food-insecure household may be faced with the difficult choice of paying for basic necessities, such as health care and housing, or buying nutritionally adequate foods."
+    ]
+  },
+  "insensible": {
+    "synonyms": [
+      "cold",
+      "senseless",
+      "unconscious",
+      "impalpable",
+      "imperceptible",
+      "inappreciable",
+      "indistinguishable",
+      "apathetic",
+      "casual",
+      "complacent",
+      "disinterested",
+      "incurious",
+      "indifferent",
+      "insouciant",
+      "nonchalant",
+      "perfunctory",
+      "pococurante",
+      "unconcerned",
+      "uncurious",
+      "uninterested",
+      "inanimate",
+      "insensate",
+      "insentient",
+      "unfeeling",
+      "coarse",
+      "common",
+      "crass",
+      "crude",
+      "gross",
+      "ill-bred",
+      "illiberal",
+      "incult",
+      "low",
+      "lowbred",
+      "lowbrow",
+      "raffish",
+      "rough",
+      "rough-hewn",
+      "roughneck",
+      "rude",
+      "rugged",
+      "tasteless",
+      "uncouth",
+      "uncultivated",
+      "uncultured",
+      "unpolished",
+      "unrefined",
+      "vulgar",
+      "clueless",
+      "ignorant",
+      "incognizant",
+      "innocent",
+      "nescient",
+      "oblivious",
+      "unacquainted",
+      "unaware",
+      "uninformed",
+      "unknowing",
+      "unmindful",
+      "unwitting"
+    ],
+    "sentences": [
+      "insensible motion",
+      "dampened by an insensible dew",
+      "insensible to fear",
+      "insensible of their danger",
+      "insensible earth",
+      "knocked insensible by a sudden blow",
+      "insensible to pain"
+    ]
+  },
+  "insentient": {
+    "synonyms": [
+      "inanimate",
+      "insensate",
+      "insensible",
+      "senseless",
+      "unfeeling",
+      "imperceptive",
+      "impercipient",
+      "unperceptive",
+      "unwise"
+    ],
+    "sentences": []
+  },
+  "inseparable": {
+    "synonyms": [
+      "bosom",
+      "buddy-buddy",
+      "chummy",
+      "close",
+      "especial",
+      "familiar",
+      "friendly",
+      "intimate",
+      "inward",
+      "near",
+      "thick",
+      "tight"
+    ],
+    "sentences": [
+      "inseparable friends",
+      "inseparable issues"
+    ]
+  },
+  "insidious": {
+    "synonyms": [
+      "perfidious",
+      "treacherous",
+      "beguiling",
+      "deceitful",
+      "deceiving",
+      "deceptive",
+      "deluding",
+      "delusive",
+      "delusory",
+      "fallacious",
+      "false",
+      "misleading",
+      "specious",
+      "artful",
+      "crafty",
+      "cunning",
+      "devious",
+      "foxy",
+      "guileful",
+      "shady",
+      "shifty",
+      "slick",
+      "sly",
+      "sneaking",
+      "sneaky",
+      "subtile",
+      "subtle",
+      "trick",
+      "trickish",
+      "tricky",
+      "underhand",
+      "underhanded",
+      "wily",
+      "inaccurate",
+      "incorrect",
+      "wrong",
+      "bewildering",
+      "confounding",
+      "distracting",
+      "perplexing",
+      "puzzling",
+      "ambidextrous",
+      "crooked",
+      "defrauding",
+      "dishonest",
+      "dissembling",
+      "double-dealing",
+      "duplicitous",
+      "faithless",
+      "fast",
+      "fraudulent",
+      "knavish",
+      "lying",
+      "mendacious",
+      "untrustworthy",
+      "untruthful",
+      "bogus",
+      "counterfeit",
+      "fake",
+      "feigned",
+      "forged",
+      "jive",
+      "phony",
+      "sham",
+      "spurious",
+      "ambiguous",
+      "circuitous",
+      "equivocal",
+      "evasive",
+      "artificial",
+      "backhanded",
+      "hypocritical",
+      "insincere",
+      "left-handed",
+      "two-faced"
+    ],
+    "sentences": [
+      "Cocaine is an astonishingly insidious addictive drug …",
+      "an insidious enemy",
+      "an insidious plot/threat",
+      "[Hepatitis C is] a slow, insidious disease. … On average it takes 20 years for cirrhosis to develop and 30 years for cancer to appear.",
+      "the insidious pressures of modern life",
+      "The most insidious form of oppression is that which comes at the hands of your own.",
+      "… a measureless land thick with pine forest and kudzu, that insidious vine author James Dickey once called a form of vegetable cancer.",
+      "the insidious nature of fraud"
+    ]
+  },
+  "insight": {
+    "synonyms": [
+      "discernment",
+      "perception",
+      "perceptiveness",
+      "perceptivity",
+      "sagaciousness",
+      "sagacity",
+      "sageness",
+      "sapience",
+      "wisdom"
+    ],
+    "sentences": [
+      "a director of reliable box-office acumen",
+      "a documentary providing insight into the plight of people affected by the housing crisis",
+      "lacks the penetration to see the scorn beneath their friendly smiles",
+      "a novelist of keen perception into human motives",
+      "the discrimination that develops through listening to a lot of great music",
+      "the discernment to know true friends",
+      "The author analyzes the problem with remarkable insight.",
+      "Her book provides us with fresh new insights into this behavior.",
+      "The past four games gave us great insight into strengths and weaknesses.",
+      "a leader of great insight",
+      "We finally came in/within sight of the mountains.",
+      "A ship hove into view on the horizon.",
+      "He carried his gun in plain sight.",
+      "A large pole was directly in my line of sight.",
+      "I sat where I wasn't in his line of sight.",
+      "There is no end in sight to this heat wave.",
+      "Prices continue to go up with no end in sight."
+    ]
+  },
+  "insignificance": {
+    "synonyms": [
+      "immateriality",
+      "inconsequence",
+      "inconsequentiality",
+      "inconsiderableness",
+      "insignificancy",
+      "littleness",
+      "negligibility",
+      "nullity",
+      "pettiness",
+      "slightness",
+      "smallness",
+      "triviality"
+    ],
+    "sentences": [
+      "Your financial debt pales into insignificance when you compare it with mine."
+    ]
+  },
+  "insignificant": {
+    "synonyms": [
+      "fiddling",
+      "foolish",
+      "frivolous",
+      "incidental",
+      "inconsequential",
+      "inconsiderable",
+      "little",
+      "Mickey Mouse",
+      "minor",
+      "minute",
+      "negligible",
+      "nugatory",
+      "slight",
+      "small",
+      "small-fry",
+      "trifling",
+      "trivial",
+      "unimportant",
+      "chicken",
+      "de minimis",
+      "footling",
+      "measly",
+      "niggling",
+      "no-account",
+      "nominal",
+      "paltry",
+      "peanut",
+      "petty",
+      "picayune",
+      "piddling",
+      "piddly",
+      "piffling",
+      "pimping"
+    ],
+    "sentences": []
+  },
+  "insinuate": {
+    "synonyms": [
+      "infiltrate",
+      "slip",
+      "sneak",
+      "wind",
+      "work in",
+      "worm",
+      "wriggle",
+      "allude",
+      "hint",
+      "imply",
+      "indicate",
+      "infer",
+      "intimate",
+      "suggest",
+      "edge in",
+      "fit (in or into)",
+      "inject",
+      "insert",
+      "intercalate",
+      "interject",
+      "interpolate",
+      "interpose",
+      "intersperse",
+      "introduce",
+      "sandwich (in or between)"
+    ],
+    "sentences": [
+      "insinuated that there were shady dealings",
+      "intimates that there is more to the situation than meets the eye",
+      "hinted that she might get the job",
+      "measures implying that bankruptcy was imminent",
+      "a film title that suggests its subject matter",
+      "interjected a question",
+      "interpose barriers to communication",
+      "new chapters intercalated with the old",
+      "interpolated her own comments into the report",
+      "insinuated himself into the group",
+      "inserted a clause in the contract",
+      "introduced a new topic into the conversation",
+      "insinuate doubts into a trusting mind",
+      "I resent what you're insinuating."
+    ]
+  },
+  "insipid": {
+    "synonyms": [
+      "dead",
+      "flat",
+      "flavorless",
+      "savorless",
+      "tasteless",
+      "unsavory",
+      "banal",
+      "milk-and-water",
+      "namby-pamby",
+      "watery",
+      "wishy-washy"
+    ],
+    "sentences": [
+      "an inane interpretation of the play",
+      "a banal tale of unrequited love",
+      "a jejune and gassy speech",
+      "although well-regarded in its day, the novel now seems flat",
+      "an exciting story given a vapid treatment",
+      "an insipid romance with platitudes on every page",
+      "insipid food",
+      "insipid prose"
+    ]
+  },
+  "insistence": {
+    "synonyms": [
+      "affirmation",
+      "assertion",
+      "asseveration",
+      "avouchment",
+      "avowal",
+      "claim",
+      "declaration",
+      "profession",
+      "protestation"
+    ],
+    "sentences": []
+  },
+  "insistent": {
+    "synonyms": [
+      "dogged",
+      "patient",
+      "persevering",
+      "persistent",
+      "pertinacious",
+      "tenacious"
+    ],
+    "sentences": [
+      "the insistent pounding of the waves"
+    ]
+  },
+  "insolence": {
+    "synonyms": [
+      "back talk",
+      "backchat",
+      "cheek",
+      "impertinence",
+      "impudence",
+      "mouth",
+      "sass",
+      "sauce",
+      "dis",
+      "discourteousness",
+      "discourtesy",
+      "disrespect",
+      "disrespectfulness",
+      "impertinency",
+      "impoliteness",
+      "incivility",
+      "inconsiderateness",
+      "inconsideration",
+      "rudeness",
+      "ungraciousness"
+    ],
+    "sentences": []
+  },
+  "insolent": {
+    "synonyms": [
+      "arch",
+      "audacious",
+      "bold",
+      "bold-faced",
+      "brash",
+      "brassbound",
+      "brassy",
+      "brazen",
+      "brazen-faced",
+      "cheeky",
+      "cocksure",
+      "cocky",
+      "fresh",
+      "impertinent",
+      "impudent",
+      "nervy",
+      "sassy",
+      "saucy",
+      "wise"
+    ],
+    "sentences": [
+      "disdainful of their social inferiors",
+      "an aloof and supercilious manner",
+      "an overbearing supervisor",
+      "ignored by an insolent waiter",
+      "a lordly condescension",
+      "a haughty aristocrat",
+      "a conceited and arrogant executive",
+      "too proud to take charity",
+      "… the modern world, with its quick material successes and its insolent belief in the boundless possibilities of progress.",
+      "His worst behavior is being insolent and arrogant with the school counselor.",
+      "the clerk's insolent manner/attitude",
+      "an insolent disregard for the group",
+      "… the shifty slouch of their movements and the insolent way they throw their cigarette ends … around the streets.",
+      "A photographer hiding in the bushes, an insolent reporter tracking her every move."
+    ]
+  },
+  "insomnia": {
+    "synonyms": [
+      "sleeplessness",
+      "wakefulness"
+    ],
+    "sentences": [
+      "chronic insomnia",
+      "Insomnia is a patient-reported problem characterized by difficulty falling asleep or difficulty maintaining sleep; ie, frequent awakenings, difficulty returning to sleep after awakenings, or awakening too early with inability to return to sleep."
+    ]
+  },
+  "inspector": {
+    "synonyms": [
+      "detective",
+      "dick",
+      "gumshoe",
+      "hawkshaw",
+      "investigator",
+      "plainclothesman",
+      "sherlock",
+      "sleuth",
+      "sleuthhound",
+      "patrolman",
+      "policewoman",
+      "marshal",
+      "sheriff",
+      "trooper",
+      "bobby",
+      "bull",
+      "constable",
+      "cop",
+      "copper",
+      "flatfoot",
+      "fuzz",
+      "gendarme",
+      "lawman",
+      "officer",
+      "policeman",
+      "police officer",
+      "shamus",
+      "peace officer",
+      "captain",
+      "lieutenant",
+      "sergeant",
+      "constabulary",
+      "heat",
+      "man",
+      "police",
+      "police force",
+      "operative",
+      "private detective",
+      "private eye",
+      "private investigator"
+    ],
+    "sentences": []
+  },
+  "instance": {
+    "synonyms": [
+      "case",
+      "example",
+      "exemplar",
+      "exemplification",
+      "illustration",
+      "prototype",
+      "representative",
+      "sample",
+      "specimen"
+    ],
+    "sentences": [
+      "one of the finest specimens of the jeweler's art",
+      "show us a sample of your work",
+      "a typical example of bureaucratic waste",
+      "a telling illustration of Murphy's Law",
+      "a case of mistaken identity",
+      "an instance of history repeating itself",
+      "am writing to you at the instance of my client",
+      "These delays are just another instance of inefficient bureaucracy.",
+      "prefers, in this instance, to remain anonymous",
+      "I'll give you a for instance.",
+      "older people, like my grandmother, for instance",
+      "You will be seen in the first instance by your own doctor who may then send you to a specialist.",
+      "But in science and philosophy, few things are more prized than a clear counter-instance to a putative law or a prospective definition."
+    ]
+  },
+  "instant": {
+    "synonyms": [
+      "immediate",
+      "instantaneous",
+      "split-second",
+      "straightaway",
+      "acute",
+      "burning",
+      "clamant",
+      "compelling",
+      "critical",
+      "crying",
+      "dire",
+      "emergent",
+      "exigent",
+      "imperative",
+      "imperious",
+      "importunate",
+      "necessitous",
+      "pressing",
+      "urgent",
+      "current",
+      "extant",
+      "ongoing",
+      "present",
+      "present-day"
+    ],
+    "sentences": [
+      "at the instant of death",
+      "previous felonies not related to the instant crime",
+      "instant coffee",
+      "instant poetry",
+      "instant pudding",
+      "the play was an instant success",
+      "I knew it was him the instant (that) I heard his voice.",
+      "Come in the house, this instant!"
+    ]
+  },
+  "instantaneous": {
+    "synonyms": [
+      "immediate",
+      "instant",
+      "split-second",
+      "straightaway"
+    ],
+    "sentences": [
+      "instantaneous velocity",
+      "took instantaneous corrective action",
+      "death was instantaneous"
+    ]
+  },
+  "instigate": {
+    "synonyms": [
+      "abet",
+      "brew",
+      "ferment",
+      "foment",
+      "incite",
+      "pick",
+      "provoke",
+      "raise",
+      "stir (up)",
+      "whip (up)",
+      "arouse",
+      "encourage",
+      "excite",
+      "fire (up)",
+      "impassion",
+      "move",
+      "pique",
+      "rev (up)",
+      "spark",
+      "stimulate",
+      "stir"
+    ],
+    "sentences": [
+      "fomenting rebellion",
+      "aiding and abetting the enemy",
+      "instigated a conspiracy",
+      "inciting a riot"
+    ]
+  },
+  "instigator": {
+    "synonyms": [
+      "agitator",
+      "demagogue",
+      "exciter",
+      "firebrand",
+      "fomenter",
+      "incendiary",
+      "inciter",
+      "kindler",
+      "provocateur",
+      "rabble-rouser"
+    ],
+    "sentences": [
+      "fomenting rebellion",
+      "aiding and abetting the enemy",
+      "instigated a conspiracy",
+      "inciting a riot"
+    ]
+  },
+  "instill": {
+    "synonyms": [
+      "breed",
+      "enroot",
+      "implant",
+      "inculcate",
+      "infix",
+      "inseminate",
+      "plant",
+      "sow"
+    ],
+    "sentences": [
+      "infixed a chronic cynicism",
+      "inseminated an unquestioning faith in technology",
+      "instill traditional values in your children",
+      "tried to inculcate in him high moral standards",
+      "implanted a love of reading in her students",
+      "instill medication into the infected eye",
+      "instilling a love of learning in children"
+    ]
+  },
+  "instructive": {
+    "synonyms": [
+      "educational",
+      "educative",
+      "enlightening",
+      "illuminating",
+      "informational",
+      "informative",
+      "informatory",
+      "instructional"
+    ],
+    "sentences": []
+  },
+  "insufficiency": {
+    "synonyms": [
+      "crunch",
+      "dearth",
+      "deficiency",
+      "deficit",
+      "drought",
+      "failure",
+      "famine",
+      "inadequacy",
+      "inadequateness",
+      "lack",
+      "lacuna",
+      "paucity",
+      "pinch",
+      "poverty",
+      "scantiness",
+      "scarceness",
+      "scarcity",
+      "shortage",
+      "undersupply",
+      "want",
+      "impotence",
+      "inability",
+      "incapability",
+      "incapacity",
+      "incompetence",
+      "incompetency",
+      "ineptitude",
+      "powerlessness"
+    ],
+    "sentences": [
+      "renal insufficiency",
+      "insufficiency of provisions",
+      "the insufficiency of this person for public office"
+    ]
+  },
+  "insufficient": {
+    "synonyms": [
+      "deficient",
+      "inadequate",
+      "lacking",
+      "low",
+      "scarce",
+      "short",
+      "shy",
+      "wanting"
+    ],
+    "sentences": [
+      "insufficient bandwidth",
+      "insufficient funds"
+    ]
+  },
+  "insular": {
+    "synonyms": [
+      "illiberal",
+      "Lilliputian",
+      "little",
+      "narrow",
+      "narrow-minded",
+      "parochial",
+      "petty",
+      "picayune",
+      "provincial",
+      "sectarian",
+      "small",
+      "small-minded"
+    ],
+    "sentences": [
+      "insular residents"
+    ]
+  },
+  "insulate": {
+    "synonyms": [
+      "cut off",
+      "isolate",
+      "seclude",
+      "segregate",
+      "separate",
+      "sequester"
+    ],
+    "sentences": []
+  },
+  "insuperable": {
+    "synonyms": [
+      "bulletproof",
+      "impregnable",
+      "indomitable",
+      "insurmountable",
+      "invincible",
+      "invulnerable",
+      "unbeatable",
+      "unconquerable",
+      "unstoppable",
+      "hopeless",
+      "impossible",
+      "insoluble",
+      "insolvable",
+      "unattainable",
+      "undoable",
+      "unrealizable",
+      "unsolvable"
+    ],
+    "sentences": [
+      "insuperable difficulties"
+    ]
+  },
+  "insurgence": {
+    "synonyms": [
+      "insurgency",
+      "insurrection",
+      "mutiny",
+      "outbreak",
+      "rebellion",
+      "revolt",
+      "revolution",
+      "rising",
+      "uprising"
+    ],
+    "sentences": []
+  },
+  "insurgent": {
+    "synonyms": [
+      "insurrectionary",
+      "mutinous",
+      "rebellious",
+      "revolutionary"
+    ],
+    "sentences": []
+  },
+  "insurrection": {
+    "synonyms": [
+      "insurgence",
+      "insurgency",
+      "mutiny",
+      "outbreak",
+      "rebellion",
+      "revolt",
+      "revolution",
+      "rising",
+      "uprising"
+    ],
+    "sentences": [
+      "a mutiny led by the ship's cook",
+      "a revolt by the Young Turks that surprised party leaders",
+      "an insurrection of oppressed laborers",
+      "quickly put down the uprising",
+      "a political revolution that toppled the monarchy",
+      "open rebellion against the officers"
+    ]
+  },
+  "intangible": {
+    "synonyms": [
+      "impalpable"
+    ],
+    "sentences": [
+      "education's intangible benefits"
+    ]
+  },
+  "integrity": {
+    "synonyms": [
+      "character",
+      "decency",
+      "goodness",
+      "honesty",
+      "morality",
+      "probity",
+      "rectitude",
+      "righteousness",
+      "rightness",
+      "uprightness",
+      "virtue",
+      "virtuousness",
+      "truthfulness",
+      "veracity",
+      "verity",
+      "honor"
+    ],
+    "sentences": [
+      "Without music, the film loses its integrity.",
+      "Aristotle invented the idea of the unity of a work as defined by its plot. The plot as the soul of the work, the component that gives it its integrity and wholeness …",
+      "The earthquake may have damaged the building's structural integrity.",
+      "That part of the structure does not affect the integrity of the overall bridge.",
+      "personal/professional/academic integrity",
+      "Responsible sharing helps maintain the integrity of discussions around important topics and promotes a reliable culture of information exchange."
+    ]
+  },
+  "intellect": {
+    "synonyms": [
+      "brain",
+      "brainiac",
+      "genius",
+      "thinker",
+      "whiz",
+      "wiz",
+      "wizard",
+      "brain(s)",
+      "brainpower",
+      "gray matter",
+      "headpiece",
+      "intellectuality",
+      "intelligence",
+      "mentality",
+      "reason",
+      "sense",
+      "smarts"
+    ],
+    "sentences": []
+  },
+  "intellectual": {
+    "synonyms": [
+      "blue",
+      "cerebral",
+      "eggheaded",
+      "geeky",
+      "highbrow",
+      "highbrowed",
+      "intellectualist",
+      "intellectualistic",
+      "long-haired",
+      "nerdish",
+      "nerdy",
+      "inner",
+      "interior",
+      "internal",
+      "mental",
+      "psychological",
+      "academic",
+      "educational",
+      "scholarly",
+      "scholastic"
+    ],
+    "sentences": [
+      "intellectual playwrights",
+      "intellectual games",
+      "In a number of cases, tech companies have infringed on the intellectual property of smaller rivals, who have sued in court.",
+      "… Netflix is home to several popular intellectual properties like \"Squid Game\", \"Power Rangers\", and the 1980s sci-fi horror hit \"Stranger Things\".",
+      "the library's commitment to intellectual freedom",
+      "Lest you think that I'm some kind of hyperintellectual anti-television snob, let me assure you that I'm quite the TV addict."
+    ]
+  },
+  "intelligence": {
+    "synonyms": [
+      "brain(s)",
+      "brainpower",
+      "gray matter",
+      "headpiece",
+      "intellect",
+      "intellectuality",
+      "mentality",
+      "reason",
+      "sense",
+      "smarts",
+      "411",
+      "advice(s)",
+      "gen",
+      "info",
+      "information",
+      "item",
+      "news",
+      "story",
+      "tidings",
+      "uncos",
+      "word",
+      "acumen",
+      "astuteness",
+      "caginess",
+      "canniness",
+      "clear-sightedness",
+      "foxiness",
+      "hardheadedness",
+      "keenness",
+      "knowingness",
+      "sharpness",
+      "shrewdness",
+      "wit"
+    ],
+    "sentences": [
+      "The angelic intelligences who supervised the spheres …",
+      "… her mind naturally chose out the greater intelligences among those she encountered …",
+      "cosmic intelligence",
+      "the head of army intelligence",
+      "an intelligence operation",
+      "intelligence reports/sources",
+      "… the following intelligence will doubtless be highly gratifying to the friends of freedom …",
+      "… she prepared to meet her lover's gaze—that gaze was altered, the lover her lover no longer. How sure and rapid is the intelligence of true affection!",
+      "was impressed by the candidate's intelligence",
+      "… his flights of taste and his experimentation are based on intelligence, knowledge, and training, not on slapdash hits and misses …",
+      "Their vividly colored feathers and intelligence are a draw to those seeking a less conventional pet than a dog or cat.",
+      "studies of human and animal intelligence",
+      "a person of average intelligence",
+      "The school of computer science offers … undergraduate degrees in artificial intelligence.",
+      "He is looking to study computer science focusing on artificial intelligence and cybersecurity.",
+      "Someday, our artificial intelligences will be capable enough to pass for human.",
+      "… they are now eager to create artificial intelligences that can mediate human life at every level.",
+      "… helped pioneer the idea that computers can exhibit artificial intelligence that mirrors human thinking.",
+      "A Monmouth University poll … found that only 9 percent of Americans believed that computers with artificial intelligence would do more good than harm to society.",
+      "Artificial intelligence applications are already used behind the scenes in hospitals to automate workforce tasks, improve patient flow, for operating room scheduling and elsewhere to improve efficiency.",
+      "A large part of emotional intelligence is being able to think about and empathize with how other people are feeling. This often involves considering how you would respond if you were in the same situation.",
+      "We know that young children learn to identify, explain, and regulate their emotions, but we know much less about how children learn these things. They undoubtedly acquire some of their emotional intelligence from adults–—parents, teachers, and coaches, for example.",
+      "… thousands of workers during the \"Great Resignation\" discovered a new road map to success: being able to recognize and walk away from abusive situations. … Empathy, respectfulness and emotional intelligence are hallmarks of leaders for whom people enjoy working.",
+      "You're saying those photos are real? Don't insult my intelligence.",
+      "Generative AI is a computer tool that can create text that sounds like it was written by a human, based on a given starting point.",
+      "In a departure from previous efforts, Therabot is powered by generative artificial intelligence, meaning it can use existing data and documentation to develop original actions and responses. Another example of generative AI is DALL-E 2, the popular program that can create images from user prompts.",
+      "Publishers hire armies of journalists to produce content. … These publishers will soon leverage generative AI to instantly create thousands of SEO-optimized articles …"
+    ]
+  },
+  "intelligible": {
+    "synonyms": [
+      "accessible",
+      "apprehensible",
+      "coherent",
+      "comprehendible",
+      "comprehensible",
+      "fathomable",
+      "graspable",
+      "legible",
+      "scrutable",
+      "understandable"
+    ],
+    "sentences": [
+      "jargon intelligible only to the initiated"
+    ]
+  },
+  "intemperance": {
+    "synonyms": [
+      "alcoholism",
+      "drunkenness",
+      "insobriety",
+      "intemperateness",
+      "excess",
+      "excessiveness",
+      "exorbitance",
+      "immoderacy",
+      "immoderation",
+      "nimiety"
+    ],
+    "sentences": []
+  },
+  "intensive": {
+    "synonyms": [
+      "acute",
+      "almighty",
+      "blistering",
+      "deep",
+      "dreadful",
+      "excruciating",
+      "explosive",
+      "exquisite",
+      "fearful",
+      "fearsome",
+      "ferocious",
+      "fierce",
+      "frightful",
+      "furious",
+      "ghastly",
+      "hard",
+      "heavy",
+      "heavy-duty",
+      "hellacious",
+      "intense",
+      "keen",
+      "profound",
+      "terrible",
+      "vehement",
+      "vicious",
+      "violent"
+    ],
+    "sentences": [
+      "intensive farming",
+      "intensive adverb",
+      "intensive study",
+      "an intensive-care nurse",
+      "heart patients in intensive care",
+      "… short of breath and feverish, doctors isolated him in intensive care.",
+      "Many of the sickest patients need intensive care, even to the point of being connected to a mechanical respirator.",
+      "Our patients were without question seriously ill. This reflects the selection of more serious, life-threatening attempts for admission to the intensive care unit.",
+      "The array of equipment that is now so familiar a part of intensive care units sustains lives that previously would have been lost."
+    ]
+  },
+  "intention": {
+    "synonyms": [
+      "aim",
+      "ambition",
+      "aspiration",
+      "bourne",
+      "design",
+      "dream",
+      "end",
+      "goal",
+      "idea",
+      "ideal",
+      "intent",
+      "mark",
+      "meaning",
+      "object",
+      "objective",
+      "plan",
+      "point",
+      "pretension",
+      "purpose",
+      "target",
+      "thing",
+      "content",
+      "denotation",
+      "drift",
+      "import",
+      "purport",
+      "sense",
+      "significance",
+      "signification"
+    ],
+    "sentences": [
+      "worked years to reach her goals",
+      "their objective is to seize the oil fields",
+      "his constant object was the achievement of pleasure",
+      "willing to use any means to achieve his end",
+      "her aim was to raise film to an art form",
+      "the order of events came by accident, not design",
+      "being successful was her purpose in life",
+      "the clear intent of the statute",
+      "announced his intention to marry",
+      "We have every intention of continuing with this project, whatever the cost.",
+      "He said he loved her, but he actually had no intention of marrying her."
+    ]
+  },
+  "interact": {
+    "synonyms": [
+      "collaborate",
+      "cooperate",
+      "deal",
+      "engage",
+      "interrelate",
+      "socialize",
+      "network",
+      "relate",
+      "mingle",
+      "communicate",
+      "confer",
+      "consult",
+      "discuss"
+    ],
+    "sentences": []
+  },
+  "intercede": {
+    "synonyms": [
+      "intermediate",
+      "interpose",
+      "intervene",
+      "mediate"
+    ],
+    "sentences": [
+      "interceded on our behalf",
+      "mediated between the parties",
+      "quarreled until the manager intervened",
+      "noise interfered with my concentration",
+      "interposed herself between him and the door"
+    ]
+  },
+  "intercept": {
+    "synonyms": [
+      "block",
+      "interdict",
+      "pick off"
+    ],
+    "sentences": [
+      "the part of a circumference intercepted between two radii"
+    ]
+  },
+  "intercession": {
+    "synonyms": [
+      "appeal",
+      "entreaty",
+      "grace",
+      "invocation",
+      "orison",
+      "petition",
+      "plea",
+      "prayer",
+      "supplication",
+      "Godspeed",
+      "sanctification",
+      "benediction",
+      "benison",
+      "blessing"
+    ],
+    "sentences": []
+  },
+  "intercessor": {
+    "synonyms": [
+      "broker",
+      "buffer",
+      "conciliator",
+      "go-between",
+      "honest broker",
+      "interceder",
+      "intermediary",
+      "intermediate",
+      "interposer",
+      "mediator",
+      "middleman",
+      "peacemaker"
+    ],
+    "sentences": []
+  },
+  "interdict": {
+    "synonyms": [
+      "ban",
+      "embargo",
+      "interdiction",
+      "prohibition",
+      "proscription",
+      "veto"
+    ],
+    "sentences": [
+      "conditions inhibiting the growth of free trade",
+      "practices interdicted by the church",
+      "prohibited the sale of liquor",
+      "smoking is forbidden in the building",
+      "interdict drug shipments"
+    ]
+  },
+  "interim": {
+    "synonyms": [
+      "ad interim",
+      "impermanent",
+      "provisional",
+      "provisionary",
+      "provisory",
+      "short-term",
+      "temporary",
+      "acting"
+    ],
+    "sentences": [
+      "an interim assignment",
+      "The regulations are scheduled to go into effect next winter, and in the interim, we'll be working hard to make all of the appropriate changes."
+    ]
+  },
+  "interlude": {
+    "synonyms": [
+      "discontinuity",
+      "gap",
+      "hiatus",
+      "hiccup",
+      "interim",
+      "intermission",
+      "interregnum",
+      "interruption",
+      "interstice",
+      "interval",
+      "parenthesis"
+    ],
+    "sentences": []
+  },
+  "intermediate": {
+    "synonyms": [
+      "average",
+      "mean",
+      "median",
+      "medium",
+      "middle",
+      "middling",
+      "midsize",
+      "moderate",
+      "modest",
+      "central",
+      "halfway",
+      "intermediary",
+      "medial",
+      "mediate",
+      "mid",
+      "midmost"
+    ],
+    "sentences": [
+      "an intermediate curriculum"
+    ]
+  },
+  "interminable": {
+    "synonyms": [
+      "dateless",
+      "deathless",
+      "endless",
+      "eternal",
+      "everlasting",
+      "immortal",
+      "permanent",
+      "undying",
+      "unending",
+      "ceaseless",
+      "continual",
+      "continued",
+      "continuing",
+      "continuous",
+      "incessant",
+      "nonstop",
+      "perpetual",
+      "running",
+      "unbroken",
+      "unceasing",
+      "uninterrupted",
+      "unremitting",
+      "changeless",
+      "constant",
+      "stable",
+      "steady",
+      "unchanging",
+      "unvarying",
+      "durable",
+      "enduring",
+      "lasting",
+      "persistent",
+      "imperishable",
+      "indestructible"
+    ],
+    "sentences": [
+      "an interminable sermon"
+    ]
+  },
+  "intermission": {
+    "synonyms": [
+      "discontinuity",
+      "gap",
+      "hiatus",
+      "hiccup",
+      "interim",
+      "interlude",
+      "interregnum",
+      "interruption",
+      "interstice",
+      "interval",
+      "parenthesis"
+    ],
+    "sentences": []
+  },
+  "intermit": {
+    "synonyms": [
+      "break off",
+      "disband",
+      "discontinue",
+      "disperse",
+      "interrupt",
+      "adjourn",
+      "prorogate",
+      "prorogue",
+      "recess",
+      "suspend",
+      "defer",
+      "hold off",
+      "postpone",
+      "put off",
+      "reserve",
+      "shelve",
+      "table",
+      "dissolve",
+      "end",
+      "halt",
+      "stop",
+      "terminate",
+      "break up",
+      "close",
+      "conclude",
+      "wind up",
+      "wrap up",
+      "abort",
+      "call",
+      "call off",
+      "drop",
+      "recall",
+      "repeal",
+      "rescind",
+      "revoke",
+      "abrogate",
+      "annul",
+      "invalidate",
+      "negate",
+      "nullify",
+      "quash",
+      "void"
+    ],
+    "sentences": []
+  },
+  "intermittent": {
+    "synonyms": [
+      "continual",
+      "on-and-off",
+      "periodic",
+      "periodical",
+      "recurrent",
+      "recurring",
+      "aperiodic",
+      "casual",
+      "catchy",
+      "choppy",
+      "discontinuous",
+      "episodic",
+      "erratic",
+      "fitful",
+      "irregular",
+      "occasional",
+      "spasmodic",
+      "spastic",
+      "sporadic",
+      "spotty",
+      "unsteady"
+    ],
+    "sentences": [
+      "raining intermittently",
+      "intermittent trips abroad",
+      "intermittent rain",
+      "Aerobic exercise lowers blood pressure in people with hypertension, and it improves peripheral circulation in people who develop cramping leg pains when they walk—a condition called intermittent claudication."
+    ]
+  },
+  "interpolation": {
+    "synonyms": [
+      "edge in",
+      "fit (in or into)",
+      "inject",
+      "insert",
+      "insinuate",
+      "intercalate",
+      "interject",
+      "interpose",
+      "intersperse",
+      "introduce",
+      "sandwich (in or between)",
+      "work in"
+    ],
+    "sentences": [
+      "The age of tephras that were not directly dated was estimated by linear interpolation from the calibrated date.",
+      "How can such interpolations be identified, and what literary processes led to these additions?",
+      "… versions disfigured by the frequent and substantial interpolation of freely invented matter …"
+    ]
+  },
+  "interpose": {
+    "synonyms": [
+      "intercede",
+      "intermediate",
+      "intervene",
+      "mediate",
+      "break in",
+      "chime in",
+      "chip in",
+      "cut in",
+      "interrupt",
+      "intrude",
+      "edge in",
+      "fit (in or into)",
+      "inject",
+      "insert",
+      "insinuate",
+      "intercalate",
+      "interject",
+      "interpolate",
+      "intersperse",
+      "introduce",
+      "sandwich (in or between)",
+      "work in"
+    ],
+    "sentences": [
+      "interceded on our behalf",
+      "mediated between the parties",
+      "quarreled until the manager intervened",
+      "noise interfered with my concentration",
+      "interposed herself between him and the door"
+    ]
+  },
+  "interpreter": {
+    "synonyms": [
+      "exponent",
+      "expounder",
+      "guru",
+      "high priest",
+      "practitioner"
+    ],
+    "sentences": [
+      "Aside from his Nobel Prize-winning work on quantum electrodynamics (don't ask), [Richard P.] Feynman was an interpreter of Maya hieroglyphics …",
+      "an interpreter at the United Nations",
+      "a sign language interpreter",
+      "He gave his statement to the police through an interpreter."
+    ]
+  },
+  "interrogate": {
+    "synonyms": [
+      "ask",
+      "catechize",
+      "grill",
+      "inquire (of)",
+      "query",
+      "question",
+      "quiz",
+      "examine",
+      "pump",
+      "sweat"
+    ],
+    "sentences": [
+      "began to inquire of friends and teachers what career she should pursue",
+      "queried a librarian about the book",
+      "the prosecutor interrogated the witness all day",
+      "questioned them about every detail of the trip",
+      "ask for directions"
+    ]
+  },
+  "interrogative": {
+    "synonyms": [
+      "problem",
+      "question"
+    ],
+    "sentences": [
+      "\"Is this sentence in the interrogative?\" \"Yes, it is.\""
+    ]
+  },
+  "interrogatory": {
+    "synonyms": [
+      "examination",
+      "exploration",
+      "inquest",
+      "investigation",
+      "probe",
+      "probing",
+      "research",
+      "study",
+      "call",
+      "inquiry",
+      "query",
+      "question",
+      "request",
+      "inquisition",
+      "interrogating",
+      "interrogation",
+      "questioning",
+      "poll",
+      "questionnaire",
+      "survey"
+    ],
+    "sentences": []
+  },
+  "interrupt": {
+    "synonyms": [
+      "break in",
+      "chime in",
+      "chip in",
+      "cut in",
+      "interpose",
+      "intrude"
+    ],
+    "sentences": [
+      "a hot spell occasionally interrupted by a period of cool weather",
+      "interrupted the speaker with frequent questions"
+    ]
+  },
+  "intersect": {
+    "synonyms": [
+      "bisect",
+      "cross",
+      "cut"
+    ],
+    "sentences": [
+      "where morality and self-interest intersect",
+      "lines intersecting at right angles",
+      "a comet intersecting earth's orbit",
+      "one line intersects another"
+    ]
+  },
+  "intervene": {
+    "synonyms": [
+      "intercede",
+      "intermediate",
+      "interpose",
+      "mediate"
+    ],
+    "sentences": [
+      "interceded on our behalf",
+      "mediated between the parties",
+      "quarreled until the manager intervened",
+      "noise interfered with my concentration",
+      "interposed herself between him and the door",
+      "it's business as usual until a crisis intervenes",
+      "intervene to stop a fight",
+      "only six months intervened between their marriage and divorce"
+    ]
+  },
+  "intestine": {
+    "synonyms": [
+      "domestic",
+      "internal",
+      "government",
+      "governmental",
+      "democratic",
+      "republican",
+      "civic",
+      "federal",
+      "municipal",
+      "nationwide",
+      "civil",
+      "national",
+      "public"
+    ],
+    "sentences": [
+      "intestine war"
+    ]
+  },
+  "intimacy": {
+    "synonyms": [
+      "belonging",
+      "chumminess",
+      "closeness",
+      "familiarity",
+      "inseparability",
+      "nearness"
+    ],
+    "sentences": []
+  },
+  "intimidate": {
+    "synonyms": [
+      "blackjack",
+      "bogart",
+      "browbeat",
+      "bulldoze",
+      "bully",
+      "bullyrag",
+      "cow",
+      "hector",
+      "strong-arm"
+    ],
+    "sentences": [
+      "browbeat the witness into a contradiction",
+      "bullied into giving up their lunch money",
+      "bulldozed the city council into approving the plan",
+      "not at all cowed by the odds against making it in show business",
+      "intimidated by so many other bright freshmen",
+      "tried to intimidate a witness"
+    ]
+  },
+  "intolerable": {
+    "synonyms": [
+      "insufferable",
+      "insupportable",
+      "unbearable",
+      "unendurable",
+      "unsupportable",
+      "baroque",
+      "devilish",
+      "excessive",
+      "exorbitant",
+      "extravagant",
+      "extreme",
+      "fancy",
+      "immoderate",
+      "inordinate",
+      "insane",
+      "lavish",
+      "over-the-top",
+      "overdue",
+      "overextravagant",
+      "overmuch",
+      "overweening",
+      "plethoric",
+      "steep",
+      "stiff",
+      "towering",
+      "unconscionable",
+      "undue",
+      "unmerciful"
+    ],
+    "sentences": [
+      "intolerable pain"
+    ]
+  },
+  "intolerance": {
+    "synonyms": [
+      "bigotry",
+      "dogmatism",
+      "illiberalism",
+      "illiberality",
+      "illiberalness",
+      "intolerantness",
+      "narrow-mindedness",
+      "opinionatedness",
+      "partisanship",
+      "sectarianism",
+      "small-mindedness"
+    ],
+    "sentences": []
+  },
+  "intolerant": {
+    "synonyms": [
+      "impatient",
+      "bigoted",
+      "illiberal",
+      "narrow",
+      "narrow-minded",
+      "prejudiced",
+      "small-minded"
+    ],
+    "sentences": [
+      "lactose intolerant"
+    ]
+  },
+  "intoxicant": {
+    "synonyms": [
+      "alcohol",
+      "aqua vitae",
+      "ardent spirits",
+      "booze",
+      "bottle",
+      "drink",
+      "firewater",
+      "grog",
+      "hooch",
+      "inebriant",
+      "John Barleycorn",
+      "juice",
+      "liquor",
+      "lush",
+      "moonshine",
+      "potable",
+      "rum",
+      "sauce",
+      "spirits",
+      "stimulant",
+      "strong drink",
+      "tipple"
+    ],
+    "sentences": []
+  },
+  "intoxicate": {
+    "synonyms": [
+      "charge",
+      "electrify",
+      "excite",
+      "exhilarate",
+      "galvanize",
+      "pump up",
+      "thrill",
+      "titillate",
+      "turn on",
+      "elate",
+      "elevate",
+      "enrapture",
+      "transport"
+    ],
+    "sentences": []
+  },
+  "intrepid": {
+    "synonyms": [
+      "bold",
+      "brave",
+      "courageous",
+      "dauntless",
+      "doughty",
+      "fearless",
+      "gallant",
+      "greathearted",
+      "gutsy",
+      "gutty",
+      "heroic",
+      "lionhearted",
+      "manful",
+      "stalwart",
+      "stout",
+      "stouthearted",
+      "undauntable",
+      "undaunted",
+      "valiant",
+      "valorous"
+    ],
+    "sentences": [
+      "an intrepid explorer"
+    ]
+  },
+  "intricacy": {
+    "synonyms": [
+      "complexity",
+      "complicacy",
+      "complication",
+      "convolution",
+      "difficulty",
+      "complexness",
+      "complicatedness",
+      "elaborateness",
+      "intricateness",
+      "involution",
+      "knottiness",
+      "sophistication"
+    ],
+    "sentences": [
+      "the intricacies of a plot"
+    ]
+  },
+  "intricate": {
+    "synonyms": [
+      "baroque",
+      "byzantine",
+      "complex",
+      "complicate",
+      "complicated",
+      "convoluted",
+      "daedal",
+      "elaborate",
+      "involute",
+      "involved",
+      "knotty",
+      "labyrinthian",
+      "labyrinthine",
+      "sophisticated",
+      "tangled",
+      "detailed",
+      "fancy"
+    ],
+    "sentences": [
+      "knotty ethical questions",
+      "a rambling, involved explanation",
+      "an intricate web of deceit",
+      "complicated legal procedures",
+      "a complex recipe",
+      "intricate machinery",
+      "an intricate plot"
+    ]
+  },
+  "intrigue": {
+    "synonyms": [
+      "conspiracy",
+      "design",
+      "machination",
+      "plot",
+      "scheme"
+    ],
+    "sentences": [
+      "a cabal among powerful senators",
+      "a conspiracy to fix prices",
+      "the machinations of a party boss",
+      "backstairs intrigue",
+      "an assassination plot",
+      "intrigued myself into the club",
+      "intrigued by the tale"
+    ]
+  },
+  "intrinsic": {
+    "synonyms": [
+      "built-in",
+      "constitutional",
+      "constitutive",
+      "essential",
+      "hardwired",
+      "immanent",
+      "inborn",
+      "inbred",
+      "indigenous",
+      "ingrain",
+      "ingrained",
+      "inherent",
+      "innate",
+      "integral",
+      "native",
+      "natural"
+    ],
+    "sentences": [
+      "intrinsic muscles",
+      "an intrinsic metabolic disease",
+      "the intrinsic worth of the company",
+      "the intrinsic brightness of a star",
+      "Yet there's also an intrinsic understanding between the actors, who like to pick up each other's trains of thought and seamlessly steam ahead.",
+      "Beyond their intrinsic value, there's a strong emotional aspect to these small and special adornments."
+    ]
+  },
+  "introductory": {
+    "synonyms": [
+      "beginning",
+      "precursory",
+      "prefatory",
+      "prelim",
+      "preliminary",
+      "prelusive",
+      "preparative",
+      "preparatory",
+      "primary",
+      "abecedarian",
+      "basal",
+      "basic",
+      "elemental",
+      "elementary",
+      "essential",
+      "fundamental",
+      "meat-and-potatoes",
+      "rudimental",
+      "rudimentary",
+      "underlying"
+    ],
+    "sentences": [
+      "an introductory course in calculus"
+    ]
+  },
+  "introspect": {
+    "synonyms": [
+      "self-contemplation",
+      "self-examination",
+      "self-observation",
+      "self-questioning",
+      "self-reflection",
+      "self-scrutiny",
+      "self-searching",
+      "soul-searching"
+    ],
+    "sentences": []
+  },
+  "introspection": {
+    "synonyms": [
+      "self-contemplation",
+      "self-examination",
+      "self-observation",
+      "self-questioning",
+      "self-reflection",
+      "self-scrutiny",
+      "self-searching",
+      "soul-searching"
+    ],
+    "sentences": []
+  },
+  "introversion": {
+    "synonyms": [
+      "self-absorption",
+      "self-centeredness",
+      "self-concern",
+      "self-involvement",
+      "self-analysis",
+      "self-awareness",
+      "self-consciousness",
+      "self-recognition",
+      "self-actualization",
+      "self-discovery",
+      "self-exploration",
+      "self-fulfillment",
+      "self-realization",
+      "introspection",
+      "self-contemplation",
+      "self-examination",
+      "self-observation",
+      "self-questioning",
+      "self-reflection",
+      "self-scrutiny",
+      "self-searching",
+      "soul-searching",
+      "self-knowledge",
+      "self-revelation",
+      "self-concept",
+      "self-image",
+      "self-perception",
+      "contemplation",
+      "meditation",
+      "reflection",
+      "rumination"
+    ],
+    "sentences": [
+      "As a corporate trainer I'd always received high performance ratings. … Introversion had made me a good listener which put people at ease.",
+      "For all the things shyness is, there are a number of things it's not. For one, it's not simple introversion. If you stay home on a Friday night just because you prefer a good book to a loud party, you're not necessarily shy …",
+      "introversion of an eyelash",
+      "… the introversion of the German policy-makers after World War II, seeking less of world limelight."
+    ]
+  },
+  "introvert": {
+    "synonyms": [
+      "shrinking violet",
+      "wallflower"
+    ],
+    "sentences": [
+      "… she was, by other accounts, a \"shy sensitive introvert\" who was \"afraid of people and felt most comfortable when she could shut the door and withdraw.\"",
+      "… introverts gain energy through solitude and quiet.",
+      "His research further shows that about 70% of top executives are introverts.",
+      "Bill Gates is quiet and bookish, but apparently unfazed by others' opinions of him: he's an introvert, but not shy.",
+      "… I had gone through some pretty hard deals, and it did introvert me. … ",
+      "… served the purpose of introverting aggressive intentions."
+    ]
+  },
+  "intrude": {
+    "synonyms": [
+      "break in",
+      "chime in",
+      "chip in",
+      "cut in",
+      "interpose",
+      "interrupt",
+      "butt in",
+      "interfere",
+      "interlope",
+      "intermeddle",
+      "meddle",
+      "mess",
+      "muck (about or around)",
+      "nose",
+      "obtrude",
+      "poke",
+      "pry",
+      "snoop"
+    ],
+    "sentences": [
+      "intruded himself into their lives"
+    ]
+  },
+  "intrusion": {
+    "synonyms": [
+      "encroachment",
+      "invasion",
+      "breach",
+      "contravention",
+      "infraction",
+      "infringement",
+      "impingement",
+      "obtrusion",
+      "transgression",
+      "trespass",
+      "violation",
+      "descent",
+      "foray",
+      "incursion",
+      "inroad",
+      "irruption",
+      "raid",
+      "misconduct",
+      "misdemeanor",
+      "misfeasance",
+      "misprision",
+      "offense",
+      "sin",
+      "wrong",
+      "disregard",
+      "forgetting",
+      "ignoring",
+      "nonobservance",
+      "overlooking",
+      "delinquency",
+      "dereliction",
+      "neglect"
+    ],
+    "sentences": [
+      "anti-intrusion systems/sensors"
+    ]
+  },
+  "intuition": {
+    "synonyms": [
+      "feel",
+      "insight",
+      "instinct",
+      "foreknowledge",
+      "foresight",
+      "prescience",
+      "sixth sense",
+      "anticipation",
+      "impression",
+      "suspicion",
+      "discernment",
+      "perception",
+      "foreboding",
+      "premonition",
+      "presage",
+      "presentiment",
+      "prognostication"
+    ],
+    "sentences": []
+  },
+  "inundate": {
+    "synonyms": [
+      "deluge",
+      "drown",
+      "engulf",
+      "flood",
+      "gulf",
+      "overflow",
+      "overwhelm",
+      "submerge",
+      "submerse",
+      "swamp"
+    ],
+    "sentences": [
+      "was inundated with phone calls"
+    ]
+  },
+  "inundation": {
+    "synonyms": [
+      "alluvion",
+      "bath",
+      "cataclysm",
+      "cataract",
+      "deluge",
+      "flood",
+      "flood tide",
+      "Niagara",
+      "overflow",
+      "spate",
+      "torrent"
+    ],
+    "sentences": [
+      "was inundated with phone calls"
+    ]
+  },
+  "inure": {
+    "synonyms": [
+      "fortify",
+      "harden",
+      "indurate",
+      "season",
+      "steel",
+      "strengthen",
+      "toughen"
+    ],
+    "sentences": [
+      "policies that inure to the benefit of employees",
+      "children inured to violence"
+    ]
+  },
+  "invalid": {
+    "synonyms": [
+      "ailing",
+      "sickly",
+      "weakly"
+    ],
+    "sentences": [
+      "an invalid assumption",
+      "declared the will invalid",
+      "an invalid chair"
+    ]
+  },
+  "invalidate": {
+    "synonyms": [
+      "abate",
+      "abolish",
+      "abrogate",
+      "annul",
+      "avoid",
+      "cancel",
+      "disannul",
+      "dissolve",
+      "negate",
+      "null",
+      "nullify",
+      "quash",
+      "repeal",
+      "rescind",
+      "roll back",
+      "strike down",
+      "vacate",
+      "void"
+    ],
+    "sentences": [
+      "the court invalidated the statute",
+      "a law to abrogate trading privileges",
+      "the treaty annuls all previous agreements",
+      "the arguments negate each other",
+      "a penalty nullified the touchdown"
+    ]
+  },
+  "invaluable": {
+    "synonyms": [
+      "inestimable",
+      "priceless"
+    ],
+    "sentences": [
+      "providing invaluable assistance"
+    ]
+  },
+  "invariable": {
+    "synonyms": [
+      "fixed",
+      "hard-and-fast",
+      "immutable",
+      "inalterable",
+      "incommutable",
+      "inflexible",
+      "unalterable",
+      "unchangeable"
+    ],
+    "sentences": [
+      "an invariable routine"
+    ]
+  },
+  "invasion": {
+    "synonyms": [
+      "descent",
+      "foray",
+      "incursion",
+      "inroad",
+      "irruption",
+      "raid"
+    ],
+    "sentences": [
+      "She felt that the guard's request to search her was an invasion of (her) privacy.",
+      "Even border fortifications can permit an attacker to mass forces for invasion while allocating few forces to defend the fortified border against a counterinvasion.",
+      "preinvasion bombardment",
+      "London in that preinvasion spring seemed full of color and gaiety. Uniforms of different nations abounded, and the air was charged with excitement and a tense anticipation."
+    ]
+  },
+  "invective": {
+    "synonyms": [
+      "abuse",
+      "billingsgate",
+      "fulmination",
+      "obloquy",
+      "scurrility",
+      "vitriol",
+      "vituperation"
+    ],
+    "sentences": [
+      "directed a stream of billingsgate at the cabdriver",
+      "subjected to obloquy and derision",
+      "blistering political invective",
+      "a torrent of vituperation",
+      "scathing verbal abuse"
+    ]
+  },
+  "inveigh": {
+    "synonyms": [
+      "beef",
+      "bellyache",
+      "bitch",
+      "bleat",
+      "carp",
+      "caterwaul",
+      "complain",
+      "crab",
+      "croak",
+      "fuss",
+      "gripe",
+      "grizzle",
+      "grouch",
+      "grouse",
+      "growl",
+      "grumble",
+      "grump",
+      "holler",
+      "keen",
+      "kick",
+      "kvetch",
+      "maunder",
+      "moan",
+      "murmur",
+      "mutter",
+      "nag",
+      "repine",
+      "scream",
+      "squawk",
+      "squeal",
+      "wail",
+      "whimper",
+      "whine",
+      "whinge",
+      "yammer",
+      "yawp",
+      "yowl"
+    ],
+    "sentences": [
+      "Employees inveighed against mandatory overtime."
+    ]
+  },
+  "inventive": {
+    "synonyms": [
+      "artful",
+      "clever",
+      "creative",
+      "imaginative",
+      "ingenious",
+      "innovative",
+      "innovational",
+      "innovatory",
+      "original",
+      "originative",
+      "Promethean"
+    ],
+    "sentences": [
+      "an inventive method",
+      "an inventive mind"
+    ]
+  },
+  "inverse": {
+    "synonyms": [
+      "converse",
+      "mirror image",
+      "antipode",
+      "antithesis",
+      "contrary",
+      "counter",
+      "negative",
+      "obverse",
+      "opposite",
+      "reverse",
+      "negation",
+      "antonym",
+      "counterpoint"
+    ],
+    "sentences": [
+      "inverse sine",
+      "the inverse of \"if A then B\" is \"if not-A then not-B\"",
+      "y = ∛x is the inverse function of y = x3",
+      "the additive inverse of 4 is −4"
+    ]
+  },
+  "invert": {
+    "synonyms": [
+      "flip",
+      "reverse",
+      "turn over"
+    ],
+    "sentences": [
+      "the number 9 looks like an inverted 6",
+      "transposed the letters to form an anagram",
+      "reversed his position on the trade agreement",
+      "Obama and Democratic leaders in Congress have questioned the patriotism of corporate executives who elect to invert their companies.",
+      "to divide using fractions, invert the divisor and multiply"
+    ]
+  },
+  "investigator": {
+    "synonyms": [
+      "experimenter",
+      "researcher",
+      "detective",
+      "dick",
+      "gumshoe",
+      "hawkshaw",
+      "operative",
+      "private detective",
+      "private eye",
+      "private investigator",
+      "shamus",
+      "sherlock",
+      "sleuth",
+      "sleuthhound"
+    ],
+    "sentences": [
+      "the lead investigator in a clinical trial",
+      "For dialect recording, it is best for the investigator to take down as full and accurate notes as possible without slowing down the pace of the interview.",
+      "a private investigator",
+      "Debra Winger plays the investigator who becomes fixated on identifying a killer …",
+      "\"We sent a memo around to a number of faculty members,\" [William] Oh says, \"and we attracted ten coinvestigators.\"",
+      "\"… one significant frustration is we don't know a lot about the disease,\" said Dr. Holly Frost, study co-investigator and pediatrician …"
+    ]
+  },
+  "investor": {
+    "synonyms": [
+      "endue",
+      "imbue",
+      "inculcate",
+      "infuse",
+      "ingrain",
+      "inoculate",
+      "steep",
+      "suffuse",
+      "bless",
+      "endow",
+      "favor",
+      "gift",
+      "accredit",
+      "authorize",
+      "certify",
+      "charter",
+      "commission",
+      "empower",
+      "enable",
+      "license",
+      "qualify",
+      "vest",
+      "warrant",
+      "apparel",
+      "array",
+      "attire",
+      "bedeck",
+      "caparison",
+      "clothe",
+      "costume",
+      "deck (out)",
+      "do up",
+      "dress",
+      "dress up",
+      "enrobe",
+      "garb",
+      "garment",
+      "get up",
+      "gown",
+      "habit",
+      "rig (out)",
+      "robe",
+      "suit",
+      "tog (up or out)",
+      "toilet",
+      "vesture",
+      "baptize",
+      "inaugurate",
+      "induct",
+      "initiate",
+      "install",
+      "instate",
+      "seat",
+      "beleaguer",
+      "besiege",
+      "blockade",
+      "leaguer",
+      "bosom",
+      "bower",
+      "circumfuse",
+      "cocoon",
+      "embosom",
+      "embower",
+      "embrace",
+      "enclose",
+      "encompass",
+      "enfold",
+      "enshroud",
+      "enswathe",
+      "envelop",
+      "enwrap",
+      "involve",
+      "lap",
+      "mantle",
+      "muffle",
+      "shroud",
+      "swathe",
+      "veil",
+      "wrap"
+    ],
+    "sentences": [
+      "were deeply invested in their children's lives",
+      "invested her time wisely",
+      "Angels are considered one of the oldest sources of capital for start-up entrepreneurs; the term itself, by most accounts, comes from the affluent patrons who used to finance Broadway plays in the early twentieth century.",
+      "Typically, angel investors put up anywhere from $10,000 to $50,000 to back a young start-up, and can fund as many as 10 companies at any given time.",
+      "Your toddler is such an angel.",
+      "Be an angel and get me a cup of tea, would you?",
+      "Childs is no angel either, and that gives his book its drama.",
+      "an angel of death",
+      "The dear good angel of the Spring, / The nightingale.",
+      "… here was [Lyndon] Johnson charging straight at a problem, telling his fellow citizens an ugly truth about themselves while trying to invoke the better angels of their nature.",
+      "[Lamar] Alexander concluded: \"In his first inaugural address, Abraham Lincoln appealed to the better angels of our nature. If there are better angels of our nature, I guess that means there must be worse angels in us as well. …\"",
+      "\"A putting angel must have come to me during the night because I felt great today and every putt I hit was a great putt,\" he [Paul McGinley] said.",
+      "… Westcott and his coinvestors owned 40% of the league …",
+      "They also coinvested in Firefly, an Internet upstart from MIT's media lab …",
+      "A dozen or so quasi-public financing institutions co-invest with private banks and venture capitalists in companies …"
+    ]
+  },
+  "inveterate": {
+    "synonyms": [
+      "bred-in-the-bone",
+      "confirmed",
+      "deep",
+      "deep-rooted",
+      "deep-seated",
+      "entrenched",
+      "hard-core",
+      "rooted",
+      "settled",
+      "chronic",
+      "dyed-in-the-wool",
+      "habitual"
+    ],
+    "sentences": [
+      "a chronic complainer",
+      "a confirmed bachelor",
+      "an inveterate smoker",
+      "the inveterate tendency to overlook the obvious",
+      "an inveterate liar"
+    ]
+  },
+  "invidious": {
+    "synonyms": [
+      "covetous",
+      "envious",
+      "green-eyed",
+      "jaundiced",
+      "jealous",
+      "resentful"
+    ],
+    "sentences": [
+      "the invidious task of arbitration",
+      "an invidious comparison",
+      "invidious remarks"
+    ]
+  },
+  "invigorate": {
+    "synonyms": [
+      "amp (up)",
+      "animate",
+      "brace",
+      "energize",
+      "enliven",
+      "fillip",
+      "fire",
+      "ginger (up)",
+      "jazz (up)",
+      "juice up",
+      "jump-start",
+      "liven (up)",
+      "pep (up)",
+      "quicken",
+      "spike",
+      "stimulate",
+      "vitalize",
+      "vivify",
+      "zip (up)"
+    ],
+    "sentences": []
+  },
+  "invincible": {
+    "synonyms": [
+      "bulletproof",
+      "impregnable",
+      "indomitable",
+      "insuperable",
+      "insurmountable",
+      "invulnerable",
+      "unbeatable",
+      "unconquerable",
+      "unstoppable"
+    ],
+    "sentences": [
+      "a seemingly invincible army"
+    ]
+  },
+  "inviolable": {
+    "synonyms": [
+      "hallowed",
+      "holy",
+      "sacred",
+      "sacrosanct",
+      "unassailable",
+      "untouchable"
+    ],
+    "sentences": [
+      "inviolable borders",
+      "an inviolable law"
+    ]
+  },
+  "invoke": {
+    "synonyms": [
+      "beget",
+      "breed",
+      "bring",
+      "bring about",
+      "bring on",
+      "catalyze",
+      "cause",
+      "create",
+      "do",
+      "draw on",
+      "effect",
+      "effectuate",
+      "engender",
+      "generate",
+      "induce",
+      "make",
+      "occasion",
+      "produce",
+      "prompt",
+      "result (in)",
+      "spawn",
+      "translate (into)",
+      "work",
+      "yield"
+    ],
+    "sentences": []
+  },
+  "involuntary": {
+    "synonyms": [
+      "coerced",
+      "forced",
+      "unintended",
+      "unintentional",
+      "unwilling",
+      "will-less",
+      "automatic",
+      "instinctive",
+      "instinctual",
+      "knee-jerk",
+      "mechanic",
+      "mechanical",
+      "robotic",
+      "spontaneous",
+      "compulsory",
+      "imperative",
+      "incumbent",
+      "mandatory",
+      "necessary",
+      "nonelective",
+      "obligatory",
+      "peremptory",
+      "required"
+    ],
+    "sentences": []
+  },
+  "involution": {
+    "synonyms": [
+      "complexity",
+      "complexness",
+      "complicacy",
+      "complicatedness",
+      "complication",
+      "elaborateness",
+      "intricacy",
+      "intricateness",
+      "knottiness",
+      "sophistication"
+    ],
+    "sentences": [
+      "skeletal involution due to loss of estrogens at menopause"
+    ]
+  },
+  "involve": {
+    "synonyms": [
+      "affect",
+      "concern",
+      "touch",
+      "carry",
+      "comprehend",
+      "contain",
+      "embrace",
+      "encompass",
+      "entail",
+      "include",
+      "number",
+      "subsume",
+      "take in",
+      "absorb",
+      "bemuse",
+      "busy",
+      "catch up",
+      "engage",
+      "engross",
+      "enthrall",
+      "enwrap",
+      "fascinate",
+      "grip",
+      "immerse",
+      "interest",
+      "intrigue",
+      "occupy",
+      "bosom",
+      "bower",
+      "circumfuse",
+      "cocoon",
+      "embosom",
+      "embower",
+      "enclose",
+      "enfold",
+      "enshroud",
+      "enswathe",
+      "envelop",
+      "invest",
+      "lap",
+      "mantle",
+      "muffle",
+      "shroud",
+      "swathe",
+      "veil",
+      "wrap"
+    ],
+    "sentences": [
+      "the new job involves a lot of detail",
+      "her faith embraces both Christian and non-Christian beliefs",
+      "his system comprehends all history",
+      "the price of dinner includes dessert",
+      "the cancer involved the lymph nodes",
+      "was involved with a married man",
+      "right of Congress to involve the nation in war",
+      "workers involved in building a house",
+      "She involves herself in everything her children do."
+    ]
+  },
+  "invulnerable": {
+    "synonyms": [
+      "bulletproof",
+      "impregnable",
+      "indomitable",
+      "insuperable",
+      "insurmountable",
+      "invincible",
+      "unbeatable",
+      "unconquerable",
+      "unstoppable"
+    ],
+    "sentences": []
+  },
+  "inwardly": {
+    "synonyms": [
+      "sotto voce",
+      "à deux",
+      "tête-à-tête",
+      "offscreen",
+      "offstage",
+      "backstage",
+      "confidentially",
+      "in camera",
+      "intimately",
+      "privately",
+      "secretly",
+      "clandestinely",
+      "collusively",
+      "conspiratorially",
+      "covertly",
+      "furtively",
+      "secretively",
+      "sneakily",
+      "stealthily",
+      "surreptitiously",
+      "undercover",
+      "underground",
+      "underhand",
+      "underhanded",
+      "underhandedly"
+    ],
+    "sentences": [
+      "cursed inwardly",
+      "bled inwardly"
+    ]
+  },
+  "iota": {
+    "synonyms": [
+      "beans",
+      "bubkes",
+      "continental",
+      "damn",
+      "darn",
+      "diddly",
+      "diddly-squat",
+      "doodley-squat",
+      "fig",
+      "ghost",
+      "hoot",
+      "jot",
+      "lick",
+      "modicum",
+      "rap",
+      "squat",
+      "syllable",
+      "tittle",
+      "whit",
+      "whoop"
+    ],
+    "sentences": [
+      "did not show an iota of interest"
+    ]
+  },
+  "irascible": {
+    "synonyms": [
+      "choleric",
+      "crabby",
+      "cranky",
+      "cross",
+      "crotchety",
+      "fiery",
+      "grouchy",
+      "grumpy",
+      "irritable",
+      "peevish",
+      "perverse",
+      "pettish",
+      "petulant",
+      "prickly",
+      "quick-tempered",
+      "raspy",
+      "ratty",
+      "short-tempered",
+      "snappish",
+      "snappy",
+      "snarky",
+      "snippety",
+      "snippy",
+      "stuffy",
+      "testy",
+      "waspish"
+    ],
+    "sentences": []
+  },
+  "irate": {
+    "synonyms": [
+      "angered",
+      "angry",
+      "apoplectic",
+      "ballistic",
+      "cheesed off",
+      "choleric",
+      "enraged",
+      "foaming",
+      "fuming",
+      "furious",
+      "hopping",
+      "horn-mad",
+      "hot",
+      "incensed",
+      "indignant",
+      "inflamed",
+      "infuriate",
+      "infuriated",
+      "ireful",
+      "livid",
+      "mad",
+      "outraged",
+      "rabid",
+      "rankled",
+      "riled",
+      "riley",
+      "roiled",
+      "shirty",
+      "sore",
+      "steamed up",
+      "steaming",
+      "teed off",
+      "ticked",
+      "wrathful",
+      "wroth"
+    ],
+    "sentences": [
+      "irate words",
+      "an irate taxpayer"
+    ]
+  },
+  "ire": {
+    "synonyms": [
+      "anger",
+      "angriness",
+      "birse",
+      "choler",
+      "furor",
+      "fury",
+      "indignation",
+      "irateness",
+      "lividity",
+      "lividness",
+      "mad",
+      "madness",
+      "mood",
+      "outrage",
+      "rage",
+      "spleen",
+      "wrath",
+      "wrathfulness"
+    ],
+    "sentences": [
+      "I feared her wrath if I was discovered",
+      "a comment that caused general indignation",
+      "shook with rage",
+      "could not contain his fury",
+      "cheeks flushed with ire",
+      "tried to hide his anger"
+    ]
+  },
+  "iridescence": {
+    "synonyms": [
+      "luminescence",
+      "illumination",
+      "irradiation",
+      "brilliance",
+      "luminosity",
+      "radiance",
+      "radiancy",
+      "refulgence",
+      "blink",
+      "flicker",
+      "sparkle",
+      "twinkle",
+      "finish",
+      "glaze",
+      "glare",
+      "gleam",
+      "glimmer",
+      "glint",
+      "glisten",
+      "glow",
+      "shimmer",
+      "burnish",
+      "gloss",
+      "luminance",
+      "luster",
+      "polish",
+      "sheen",
+      "shine"
+    ],
+    "sentences": []
+  },
+  "iridescent": {
+    "synonyms": [
+      "nacreous",
+      "opalescent",
+      "pearlescent"
+    ],
+    "sentences": []
+  },
+  "irk": {
+    "synonyms": [
+      "aggravate",
+      "annoy",
+      "bother",
+      "bug",
+      "burn (up)",
+      "chafe",
+      "eat",
+      "exasperate",
+      "frost",
+      "gall",
+      "get",
+      "grate",
+      "gripe",
+      "hack (off)",
+      "irritate",
+      "itch",
+      "nark",
+      "nettle",
+      "peeve",
+      "persecute",
+      "pique",
+      "put out",
+      "rasp",
+      "rile",
+      "ruffle",
+      "spite",
+      "vex"
+    ],
+    "sentences": [
+      "don't bother me while I'm reading",
+      "careless waste irks the boss",
+      "vexed by her son's failure to clean his room",
+      "their constant complaining annoys us"
+    ]
+  },
+  "irksome": {
+    "synonyms": [
+      "abrasive",
+      "aggravating",
+      "annoying",
+      "bothersome",
+      "carking",
+      "chafing",
+      "disturbing",
+      "exasperating",
+      "frustrating",
+      "galling",
+      "irritating",
+      "maddening",
+      "nettlesome",
+      "nettling",
+      "peeving",
+      "pesky",
+      "pestiferous",
+      "pestilent",
+      "pestilential",
+      "pesty",
+      "plaguey",
+      "rankling",
+      "rebarbative",
+      "riling",
+      "vexatious",
+      "vexing"
+    ],
+    "sentences": [
+      "an irksome task"
+    ]
+  },
+  "irony": {
+    "synonyms": [
+      "contradiction",
+      "dichotomy",
+      "incongruity",
+      "paradox",
+      "absurdity",
+      "illogicality",
+      "laughableness",
+      "ludicrousness",
+      "peculiarity",
+      "ridiculousness",
+      "amusement",
+      "enjoyment",
+      "fun",
+      "pleasure",
+      "whimsicality",
+      "wittiness",
+      "wryness",
+      "comedy",
+      "comic",
+      "comicality",
+      "drollery",
+      "drollness",
+      "funniness",
+      "hilariousness",
+      "humor",
+      "humorousness",
+      "richness",
+      "uproariousness",
+      "burlesque",
+      "caricature",
+      "farce",
+      "jest",
+      "lampoon",
+      "parody",
+      "satire",
+      "slapstick",
+      "spoof",
+      "takeoff",
+      "jocularity",
+      "jokiness",
+      "playfulness",
+      "waggishness"
+    ],
+    "sentences": [
+      "a dinner guest noted for repartee",
+      "a satire on the Congress",
+      "given to heartless sarcasm",
+      "the irony of the title",
+      "a sense of humor",
+      "a playful wit",
+      "It is a cruel irony that small farmers … are among the world's hungriest people.",
+      "The (awful/bitter) irony is that in trying to forget her, he thought of her even more.",
+      "The great irony of anthracite is that, tough as it is to light, once you get it lit it's nearly impossible to put out.",
+      "… her ironies are carefully honed and often directed against herself.",
+      "… Shakespeare, the great master of irony …",
+      "a writer's clever use of irony",
+      "She described her vacation with heavy irony as \"an educational experience.\"",
+      "Irony in postwar art and culture started out the same way youthful rebellion did. It was difficult and painful, and productive …",
+      "All the other doctors are knownothing quacks; that the audience has more medical knowledge than they is but one example of the dramatic irony which is a feature of Alan Bennett's brilliant script."
+    ]
+  },
+  "irradiate": {
+    "synonyms": [
+      "bathe",
+      "beacon",
+      "emblaze",
+      "illume",
+      "illuminate",
+      "illumine",
+      "light",
+      "lighten",
+      "cast",
+      "discharge",
+      "emanate",
+      "emit",
+      "evolve",
+      "exhale",
+      "expel",
+      "expire",
+      "give out",
+      "issue",
+      "radiate",
+      "release",
+      "send (out)",
+      "shoot",
+      "throw out",
+      "vent"
+    ],
+    "sentences": [
+      "irradiating strength and comfort"
+    ]
+  },
+  "irrational": {
+    "synonyms": [
+      "fallacious",
+      "illegitimate",
+      "illogical",
+      "inconsequent",
+      "inconsequential",
+      "invalid",
+      "nonrational",
+      "unreasonable",
+      "unreasoning",
+      "unsound",
+      "weak"
+    ],
+    "sentences": [
+      "a length that is irrational",
+      "an irrational root of an equation",
+      "irrational fears"
+    ]
+  },
+  "irreducible": {
+    "synonyms": [
+      "fewer",
+      "lesser",
+      "low",
+      "minor",
+      "modest",
+      "slight",
+      "small",
+      "smaller",
+      "fewest",
+      "littlest",
+      "lowest",
+      "minimal",
+      "minimum",
+      "minutest",
+      "slightest",
+      "smallest",
+      "tiniest",
+      "infinitesimal",
+      "micro",
+      "subminimal",
+      "ultramicro"
+    ],
+    "sentences": [
+      "an irreducible minimum",
+      "an irreducible equation",
+      "an irreducible matrix"
+    ]
+  },
+  "irrefragable": {
+    "synonyms": [
+      "accomplished",
+      "certain",
+      "inarguable",
+      "incontestable",
+      "incontrovertible",
+      "indisputable",
+      "indubitable",
+      "irrefutable",
+      "positive",
+      "sure",
+      "unanswerable",
+      "unarguable",
+      "unchallengeable",
+      "undeniable",
+      "unquestionable"
+    ],
+    "sentences": [
+      "irrefragable rules",
+      "irrefragable arguments"
+    ]
+  },
+  "irrelevant": {
+    "synonyms": [
+      "extraneous",
+      "immaterial",
+      "impertinent",
+      "inapplicable",
+      "inapposite",
+      "irrelative"
+    ],
+    "sentences": [
+      "that statement is irrelevant to your argument"
+    ]
+  },
+  "irreligious": {
+    "synonyms": [
+      "godless",
+      "nonreligious",
+      "religionless"
+    ],
+    "sentences": [
+      "… so irreligious that they exploit popular religion for professional purposes …"
+    ]
+  },
+  "irreparable": {
+    "synonyms": [
+      "irrecoverable",
+      "irredeemable",
+      "irremediable",
+      "irretrievable",
+      "irreversible",
+      "unrecoverable",
+      "unredeemable"
+    ],
+    "sentences": [
+      "irreparable damage"
+    ]
+  },
+  "irrepressible": {
+    "synonyms": [
+      "uncontrollable",
+      "besetting",
+      "compulsive",
+      "driven",
+      "impulsive",
+      "obsessional",
+      "obsessive",
+      "automatic",
+      "instinctive",
+      "involuntary",
+      "knee-jerk",
+      "reflex",
+      "spontaneous",
+      "conditioned",
+      "mechanical",
+      "unconscious",
+      "unthinking",
+      "unwitting",
+      "capricious",
+      "unpredictable",
+      "whimsical"
+    ],
+    "sentences": [
+      "irrepressible curiosity"
+    ]
+  },
+  "irresistible": {
+    "synonyms": [
+      "overpowering",
+      "overwhelming",
+      "catching",
+      "contagious",
+      "epidemic",
+      "infectious",
+      "spreading",
+      "palpable",
+      "perceptible",
+      "tangible",
+      "disarming",
+      "endearing",
+      "fetching",
+      "inviting",
+      "winning",
+      "winsome"
+    ],
+    "sentences": [
+      "an irresistible attraction"
+    ]
+  },
+  "irresponsible": {
+    "synonyms": [
+      "daredevil",
+      "devil-may-care",
+      "foolhardy",
+      "harum-scarum",
+      "hell-for-leather",
+      "kamikaze",
+      "reckless"
+    ],
+    "sentences": [
+      "an irresponsible dictatorship",
+      "irresponsible accusations"
+    ]
+  },
+  "irreverence": {
+    "synonyms": [
+      "blasphemy",
+      "defilement",
+      "desecration",
+      "impiety",
+      "profanation",
+      "sacrilege"
+    ],
+    "sentences": []
+  },
+  "irreverent": {
+    "synonyms": [
+      "blasphemous",
+      "impious",
+      "profane",
+      "sacrilegious"
+    ],
+    "sentences": []
+  },
+  "irreversible": {
+    "synonyms": [
+      "irrecoverable",
+      "irredeemable",
+      "irremediable",
+      "irreparable",
+      "irretrievable",
+      "unrecoverable",
+      "unredeemable"
+    ],
+    "sentences": []
+  },
+  "irrigate": {
+    "synonyms": [
+      "flush",
+      "rinse",
+      "sluice",
+      "wash",
+      "wash out"
+    ],
+    "sentences": [
+      "A tensiometer (soil moisture probe), available at any garden center, helps take the guesswork out of irrigating.",
+      "irrigate the wound with saline solution",
+      "the eye was irrigated following chemical exposure",
+      "irrigating the cotton plants",
+      "irrigates 20 acres of farmland"
+    ]
+  },
+  "irritable": {
+    "synonyms": [
+      "choleric",
+      "crabby",
+      "cranky",
+      "cross",
+      "crotchety",
+      "fiery",
+      "grouchy",
+      "grumpy",
+      "irascible",
+      "peevish",
+      "perverse",
+      "pettish",
+      "petulant",
+      "prickly",
+      "quick-tempered",
+      "raspy",
+      "ratty",
+      "short-tempered",
+      "snappish",
+      "snappy",
+      "snarky",
+      "snippety",
+      "snippy",
+      "stuffy",
+      "testy",
+      "waspish"
+    ],
+    "sentences": [
+      "gets irritable when he tires"
+    ]
+  },
+  "irritant": {
+    "synonyms": [
+      "aggravation",
+      "aggro",
+      "annoyance",
+      "bother",
+      "botheration",
+      "bugbear",
+      "exasperation",
+      "frustration",
+      "hair shirt",
+      "hassle",
+      "headache",
+      "inconvenience",
+      "irk",
+      "nuisance",
+      "peeve",
+      "pest",
+      "rub",
+      "ruffle",
+      "thorn",
+      "trial",
+      "vexation"
+    ],
+    "sentences": []
+  },
+  "irritate": {
+    "synonyms": [
+      "aggravate",
+      "annoy",
+      "bother",
+      "bug",
+      "burn (up)",
+      "chafe",
+      "eat",
+      "exasperate",
+      "frost",
+      "gall",
+      "get",
+      "grate",
+      "gripe",
+      "hack (off)",
+      "irk",
+      "itch",
+      "nark",
+      "nettle",
+      "peeve",
+      "persecute",
+      "pique",
+      "put out",
+      "rasp",
+      "rile",
+      "ruffle",
+      "spite",
+      "vex",
+      "abrade",
+      "excoriate",
+      "fret"
+    ],
+    "sentences": [
+      "a toddler peeved at being refused a cookie",
+      "the new work schedules riled the employees",
+      "remarks made solely to provoke her",
+      "your pompous attitude nettled several people",
+      "his exasperating habit of putting off needed decisions",
+      "constant nagging that irritated me greatly"
+    ]
+  },
+  "irruption": {
+    "synonyms": [
+      "descent",
+      "foray",
+      "incursion",
+      "inroad",
+      "invasion",
+      "raid"
+    ],
+    "sentences": [
+      "When lemmings are plentiful, the population of young owls flying south for the winter may swell into an \"irruption,\" … with sightings in widespread areas.",
+      "The owl's appearance came during an irruption, a huge southward migration of snowy owls from their arctic territories that, this year, followed a successful breeding period.",
+      "… begins not with Hitler's attack on Poland, but with the Japanese irruption into Outer Mongolia in July 1939…",
+      "… the assassination still feels like a primal catastrophe—an irruption of inexplicable evil as horrifying as any supernatural bogeyman."
+    ]
+  },
+  "isle": {
+    "synonyms": [
+      "island",
+      "islet"
+    ],
+    "sentences": [
+      "I once lived on the … island of Antiparos, a tiny isle behind Paros.",
+      "Islay is a small Hebridean isle, some 25 miles in length, with a population of less than 4,000, yet it boasts eight of the oldest and most famous distilleries in Scotland.",
+      "Pacific isles",
+      "Steering with due course toward the isle of Rhodes …"
+    ]
+  },
+  "islet": {
+    "synonyms": [
+      "island",
+      "isle"
+    ],
+    "sentences": []
+  },
+  "isolate": {
+    "synonyms": [
+      "anchorite",
+      "eremite",
+      "hermit",
+      "recluse",
+      "solitary"
+    ],
+    "sentences": [
+      "Feelings of shame and a tendency to self-isolate in order to hide the behaviors can result in loss of social support.",
+      "My husband and I are both 85 and have heart problems, so even before the new orders we were self-isolating to avoid getting or passing on coronavirus.",
+      "Government officials said that public gatherings must be restricted to two people. … Those over 70 should self-isolate themselves.",
+      "self-isolated people/countries"
+    ]
+  },
+  "itinerant": {
+    "synonyms": [
+      "ambulant",
+      "ambulatory",
+      "errant",
+      "fugitive",
+      "gallivanting",
+      "nomad",
+      "nomadic",
+      "perambulatory",
+      "peregrine",
+      "peripatetic",
+      "ranging",
+      "roaming",
+      "roving",
+      "vagabond",
+      "vagrant",
+      "wandering",
+      "wayfaring"
+    ],
+    "sentences": [
+      "itinerant preacher"
+    ]
+  },
+  "itinerary": {
+    "synonyms": [
+      "blog",
+      "Weblog",
+      "daybook",
+      "diary",
+      "journal",
+      "log",
+      "logbook",
+      "plan",
+      "planner"
+    ],
+    "sentences": []
+  },
+  "indigestion": {
+    "synonyms": [],
+    "sentences": [
+      "Their pizza gives me acid indigestion."
+    ]
+  },
+  "infusion": {
+    "synonyms": [],
+    "sentences": [
+      "herbal infusions",
+      "an infusion of new ideas"
+    ]
+  },
+  "inland": {
+    "synonyms": [],
+    "sentences": [
+      "I hadn't heard from him for years and was glad to find him still in the land of the living."
+    ]
+  },
+  "intestate": {
+    "synonyms": [],
+    "sentences": [
+      "an intestate estate",
+      "died intestate"
+    ]
+  },
+  "intracellular": {
+    "synonyms": [],
+    "sentences": [
+      "intracellular parasites"
+    ]
+  },
+  "intramural": {
+    "synonyms": [],
+    "sentences": [
+      "intramural squabbles",
+      "intramural sports"
+    ]
+  },
+  "inversion": {
+    "synonyms": [],
+    "sentences": [
+      "U.S. businesses are buying foreign companies in countries with lower tax rates so they can switch their legal home and cut their tax bills. The process, known as inversion, is the hottest trend in mergers and acquisitions, driving some of the biggest takeovers this year."
+    ]
   }
 }

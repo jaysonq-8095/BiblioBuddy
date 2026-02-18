@@ -16,7 +16,21 @@
       "unsmiling",
       "weighty"
     ],
-    "sentences": []
+    "sentences": [
+      "an earnest reformer",
+      "a sober look at the state of our schools",
+      "a quiet and staid community",
+      "remained sedate amid the commotion",
+      "a sad and solemn occasion",
+      "read the proclamation in a grave voice",
+      "a serious play about social injustice",
+      "the sap started running in earnest",
+      "a proposal made in earnest",
+      "We thought he was joking at first, but then we realized that he was in earnest.",
+      "The search began in earnest when the police arrived.",
+      "After light showers during the day, it began to rain in earnest in the evening.",
+      "It's hard to tell if he's making this proposal in earnest."
+    ]
   },
   "earthenware": {
     "synonyms": [
@@ -101,7 +115,9 @@
       "nervous",
       "skittish"
     ],
-    "sentences": []
+    "sentences": [
+      "ebullient performers"
+    ]
   },
   "eccentric": {
     "synonyms": [
@@ -139,7 +155,24 @@
       "weirdo",
       "wild"
     ],
-    "sentences": []
+    "sentences": [
+      "outlandish fashions of the time",
+      "a quaint fishing village",
+      "an odd sense of humor",
+      "a friend's suddenly erratic behavior",
+      "the eccentric eating habits of preschoolers",
+      "the peculiar status of America's First Lady",
+      "a career unique in the annals of science",
+      "a singular feeling of impending disaster",
+      "a journey filled with strange sights",
+      "an eccentric wheel",
+      "an eccentric orbit",
+      "… book publishing's eccentric distribution system …",
+      "New Zealand is famously home to eccentric forms of wildlife that look like pets for a Hobbit.",
+      "an eccentric billionaire",
+      "eccentric ideas/behavior",
+      "his eccentric style of dress"
+    ]
   },
   "eccentricity": {
     "synonyms": [
@@ -180,7 +213,11 @@
       "ebb",
       "fall"
     ],
-    "sentences": []
+    "sentences": [
+      "his reputation has fallen into eclipse",
+      "her score eclipsed the old record",
+      "a once popular author who has fallen/gone into eclipse"
+    ]
   },
   "economize": {
     "synonyms": [
@@ -209,7 +246,11 @@
       "swoon",
       "transport"
     ],
-    "sentences": []
+    "sentences": [
+      "in a transport of rage",
+      "in speechless rapture",
+      "religious ecstasy"
+    ]
   },
   "ecstatic": {
     "synonyms": [
@@ -236,7 +277,13 @@
       "eating",
       "esculent"
     ],
-    "sentences": []
+    "sentences": [
+      "Cannabis edibles include chocolates, cookies, and gummies, and entrepreneurs are coming up with new cannabis-infused concoctions all the time.",
+      "Like alcohol, edibles can only be sold legally at licensed \"dispensaries\" to those 21 or older.",
+      "… there were not many complaints about the quality of the edibles and potables dispensed in the … reception room …",
+      "Eating all their meals out, the only edibles they keep in their home are chocolate kisses.",
+      "… growing mushrooms is becoming an increasingly popular activity. Growers come to Telluride for workshops in cultivating … exotic edibles …"
+    ]
   },
   "edict": {
     "synonyms": [
@@ -261,7 +308,9 @@
       "order",
       "word"
     ],
-    "sentences": []
+    "sentences": [
+      "We held firm to Grandmother's edict …"
+    ]
   },
   "edify": {
     "synonyms": [
@@ -298,7 +347,11 @@
       "exposition",
       "study"
     ],
-    "sentences": []
+    "sentences": [
+      "an editorial statement",
+      "an editorial office",
+      "a television editorial"
+    ]
   },
   "educe": {
     "synonyms": [
@@ -307,7 +360,13 @@
       "inspire",
       "raise"
     ],
-    "sentences": []
+    "sentences": [
+      "extorted their cooperation by threatening to inform",
+      "extracted a confession from him",
+      "careful questioning elicited the truth",
+      "a song that evokes warm memories",
+      "educed order out of chaos"
+    ]
   },
   "efface": {
     "synonyms": [
@@ -331,7 +390,10 @@
       "sweep (away)",
       "wipe out"
     ],
-    "sentences": []
+    "sentences": [
+      "daylight effaced the stars",
+      "coins with dates effaced by wear"
+    ]
   },
   "effect": {
     "synonyms": [
@@ -376,7 +438,58 @@
       "stuff",
       "things"
     ],
-    "sentences": []
+    "sentences": [
+      "Before the bond issue can move ahead, City Council must approve the cooperation agreement. Legislation to that effect was introduced this week.",
+      "I desire simply to be quit of you; and to that effect, I put a boat and complement of men at your disposal.",
+      "Is all our travail turn'd to this effect?",
+      "… his sufferings, instead of exciting their compassion, have been celebrated as the visible effects of divine justice.",
+      "household effects",
+      "The content itself of television … is therefore less important than its effect …",
+      "The parking ban is no longer in effect.",
+      "… the … city council passed an ordinance in June of last year, going into effect in October.",
+      "No coastal warnings or watches were put into effect.",
+      "The Government intends to pass legislation giving effect to the reforms …",
+      "[Les] Paul is also credited with helping pioneer several recording techniques, including delay effects … and overdubbing.",
+      "As you arrange your samples, you can add effects like reverb, raise or lower the tempo or even run the sample backward.",
+      "the play's use of lighting effects",
+      "We're grateful that the movie doesn't try … to inflate its simple narrative with grandiose action-movie effects.",
+      "He paused for dramatic effect before making the big announcement.",
+      "Reynaldo revved the engine for effect, which made his father laugh.",
+      "The color gives the effect of warmth.",
+      "The moon's low placement in the sky could also cause the orb to appear bigger than usual, according to NASA, due to an effect dubbed the moon illusion.",
+      "the environmental effects of the policy",
+      "the health effects of exercise",
+      "a cumulative effect",
+      "a cause and effect relationship",
+      "suffered no ill effects from the treatment",
+      "My comment had the effect of ending the conversation.",
+      "The pitcher used her slider to good/great effect. =with a good/great result",
+      "They've complained many times, to little/no effect.",
+      "By the turn of the century, the adverse effects of using arsenic tint were widely exposed, … and the practice (thankfully) grew out of fashion.",
+      "fulfilled their ambitions",
+      "effected sweeping reforms",
+      "achieve greatness",
+      "accomplished everything they set out to do",
+      "discharged his duties",
+      "executed the hit-and-run",
+      "performed gymnastics",
+      "notes detailing the patient's affect",
+      "policies that can effect change",
+      "The new evidence will affect the outcome of the trial.",
+      "revisions that affect the final version",
+      "The defeat had a terrible effect on the players' spirits.",
+      "uncertainty about what effect the increase will have",
+      "the duty of the legislature to effect the will of the citizens",
+      "… an executive grant of clemency … to effect the prisoner swap.",
+      "effect a transformation in company culture",
+      "effected a settlement of the dispute",
+      "… a powerful reminder of the potential of technology to effect change.",
+      "During recent presidential elections it has become vital for candidates to win early party primaries in several states to start a bandwagon effect. Most people withhold support and contributions until they are sure the candidate has a good chance to win. Campaign \"momentum\" is highly prized because it creates a bandwagon effect that brings even more supporters into the fold.",
+      "Researchers have found two factors that may account for momentum's success. I call the first the bandwagon effect. As a stock keeps outperforming the market, more and more investors \"discover\" it and jump on board—propelling it even further ahead of the market and seducing still more buyers.",
+      "Toys that make noise when interacted with … offer auditory stimulation and teach cause and effect.",
+      "\"Human nature is to look for cause and effect,\" says Robert Baloh, professor of neurology and head and neck surgery at UCLA's David Geffen School of Medicine. … \"I see this daily when I see patients. They're all sure something they ate or something they did caused their problem and their symptoms.\"",
+      "… focused on observable and verifiable causes and effects in the natural world …"
+    ]
   },
   "effective": {
     "synonyms": [
@@ -408,7 +521,19 @@
       "true",
       "very"
     ],
-    "sentences": []
+    "sentences": [
+      "a detergent that is efficacious in removing grease",
+      "an efficient small car",
+      "the measures to stop the pilfering proved effectual",
+      "an effective rebuttal",
+      "effective manpower",
+      "the need to increase effective demand for goods",
+      "the tax becomes effective next year",
+      "… a gold lamé fabric studded with effective … precious stones.",
+      "an effective policy",
+      "cost-effective measures to combat poverty",
+      "Robot spot welding can be quite cost-effective …"
+    ]
   },
   "effectual": {
     "synonyms": [
@@ -420,7 +545,12 @@
       "potent",
       "productive"
     ],
-    "sentences": []
+    "sentences": [
+      "a detergent that is efficacious in removing grease",
+      "an efficient small car",
+      "the measures to stop the pilfering proved effectual",
+      "an effective rebuttal"
+    ]
   },
   "effeminacy": {
     "synonyms": [
@@ -447,7 +577,10 @@
       "unmanly",
       "womanish"
     ],
-    "sentences": []
+    "sentences": [
+      "effeminate art",
+      "an effeminate civilization"
+    ]
   },
   "effervesce": {
     "synonyms": [
@@ -484,7 +617,16 @@
       "high-spirited",
       "vivacious"
     ],
-    "sentences": []
+    "sentences": [
+      "Ultimately, it was quite remarkable what this routine, nonstop sports vacation had done for this effervescently fit sportsman.",
+      "an effervescent person/personality",
+      "a song with an effervescent melody",
+      "She was a marvel with the press: fresh, direct, effervescent.",
+      "Conditions being as they were at Brinkley Court … I hadn't expected the evening meal to be particularly effervescent. Nor was it. Silent. Sombre. The whole thing more than a bit like Christmas dinner on Devil's Island.",
+      "an effervescent beverage",
+      "effervescent salts",
+      "an effervescent tablet"
+    ]
   },
   "effete": {
     "synonyms": [
@@ -536,7 +678,16 @@
       "unmanly",
       "womanish"
     ],
-    "sentences": []
+    "sentences": [
+      "… a good-humored, effete boy brought up by maiden aunts.",
+      "And for centuries, the fork remained suspect in Europe, as the effete accessory of aristocrats …",
+      "a wool scarf … a bit effete on an outdoorsman",
+      "… peddled … trendy tweeds to effete Easterners …",
+      "effete tenderfeet",
+      "the effete upper class",
+      "… the effete monarchies … of feudal Europe …",
+      "… macrophages that recycle used iron from effete red cells."
+    ]
   },
   "efficacious": {
     "synonyms": [
@@ -548,7 +699,13 @@
       "potent",
       "productive"
     ],
-    "sentences": []
+    "sentences": [
+      "a detergent that is efficacious in removing grease",
+      "an efficient small car",
+      "the measures to stop the pilfering proved effectual",
+      "an effective rebuttal",
+      "an efficacious remedy"
+    ]
   },
   "efficacy": {
     "synonyms": [
@@ -560,7 +717,11 @@
       "efficiency",
       "productiveness"
     ],
-    "sentences": []
+    "sentences": [
+      "increased teacher efficacy in classroom management",
+      "The efficacy of this treatment has not yet been proved.",
+      "In the upcoming … clinical trial, researchers will further investigate the efficacy and safety of the vaccine."
+    ]
   },
   "efficiency": {
     "synonyms": [
@@ -572,7 +733,13 @@
       "efficacy",
       "productiveness"
     ],
-    "sentences": []
+    "sentences": [
+      "Peterffy created a system that could route orders to the destination offering the best prices, allowing his traders to make tighter markets while instantaneously and hyperefficiently hedging their risk.",
+      "What makes humans human? Is it the pursuit of hyper-efficiency—the 'Silicon Valley' mindset? Or is it irrationality, imperfection and doubt—traits beyond the reach of any non-biological entity?",
+      "hyperefficient employees",
+      "a hyper-efficient engine",
+      "The striving for hyperefficient machinery enjoyed its heyday in the late 19th century."
+    ]
   },
   "efficient": {
     "synonyms": [
@@ -584,7 +751,20 @@
       "potent",
       "productive"
     ],
-    "sentences": []
+    "sentences": [
+      "a detergent that is efficacious in removing grease",
+      "an efficient small car",
+      "the measures to stop the pilfering proved effectual",
+      "an effective rebuttal",
+      "the efficient action of heat in changing water to steam",
+      "an efficient worker",
+      "efficient machinery",
+      "Peterffy created a system that could route orders to the destination offering the best prices, allowing his traders to make tighter markets while instantaneously and hyperefficiently hedging their risk.",
+      "What makes humans human? Is it the pursuit of hyper-efficiency—the 'Silicon Valley' mindset? Or is it irrationality, imperfection and doubt—traits beyond the reach of any non-biological entity?",
+      "hyperefficient employees",
+      "a hyper-efficient engine",
+      "The striving for hyperefficient machinery enjoyed its heyday in the late 19th century."
+    ]
   },
   "efflorescence": {
     "synonyms": [
@@ -622,7 +802,9 @@
       "recovery",
       "revival"
     ],
-    "sentences": []
+    "sentences": [
+      "… periods of … intellectual and artistic efflorescence."
+    ]
   },
   "effluvium": {
     "synonyms": [
@@ -672,7 +854,16 @@
       "sauciness",
       "temerity"
     ],
-    "sentences": []
+    "sentences": [
+      "the nerve of that guy",
+      "has the cheek to call herself a singer",
+      "had the gall to demand proof",
+      "the chutzpah needed for a career in show business",
+      "outraged at his effrontery",
+      "admired for her hardihood",
+      "an entrepreneur with audacity and vision",
+      "had the temerity to refuse"
+    ]
   },
   "effulgence": {
     "synonyms": [
@@ -705,7 +896,10 @@
       "rhapsodize",
       "slobber"
     ],
-    "sentences": []
+    "sentences": [
+      "they effused about his accomplishments",
+      "effuse lichens"
+    ]
   },
   "egoism": {
     "synonyms": [
@@ -808,7 +1002,12 @@
       "rank",
       "striking"
     ],
-    "sentences": []
+    "sentences": [
+      "egregious errors",
+      "egregious misconduct",
+      "Is there one lie that seems to be the most repeated or, in your view, is the most egregious?",
+      "egregious padding of the evidence"
+    ]
   },
   "egress": {
     "synonyms": [
@@ -846,7 +1045,14 @@
       "spout",
       "spurt"
     ],
-    "sentences": []
+    "sentences": [
+      "evicted for nonpayment of rent",
+      "police ousted the squatters",
+      "a student expelled from college",
+      "ejected an obnoxious patron from the bar",
+      "ejects the empty cartridges",
+      "ejected the player from the game"
+    ]
   },
   "elapse": {
     "synonyms": [
@@ -874,7 +1080,10 @@
       "wind up",
       "wink (out)"
     ],
-    "sentences": []
+    "sentences": [
+      "four years elapsed before he returned",
+      "returned after an elapse of 15 years"
+    ]
   },
   "elasticity": {
     "synonyms": [
@@ -893,7 +1102,10 @@
       "suppleness",
       "malleability"
     ],
-    "sentences": []
+    "sentences": [
+      "elasticity of demand",
+      "price elasticity"
+    ]
   },
   "elegy": {
     "synonyms": [
@@ -946,7 +1158,19 @@
       "terrain",
       "walk"
     ],
-    "sentences": []
+    "sentences": [
+      "the ingredients of a cocktail",
+      "the constituents of a chemical compound",
+      "the components of a stereo system",
+      "the basic elements of geometry",
+      "the criminal element in the city",
+      "an infinitesimal element of volume",
+      "at school she was in her element",
+      "battling the elements",
+      "The attackers were relying on the element of surprise.",
+      "At school she was (really) in her element.",
+      "I tried living in the city, but I was/felt out of my element there."
+    ]
   },
   "elicit": {
     "synonyms": [
@@ -955,7 +1179,22 @@
       "inspire",
       "raise"
     ],
-    "sentences": []
+    "sentences": [
+      "extorted their cooperation by threatening to inform",
+      "extracted a confession from him",
+      "careful questioning elicited the truth",
+      "a song that evokes warm memories",
+      "educed order out of chaos",
+      "… the theme of irrevocable loss that is known to be the most potent elicitor of sadness.",
+      "the elicitation of information",
+      "working to elicit positive change",
+      "The vaccine elicits an immune response.",
+      "But which products elicit that fresh-from-the-spa glow?",
+      "used a questionnaire to elicit feedback",
+      "Her remarks elicited applause/laughter.",
+      "The video elicited strong emotional reactions.",
+      "While some of the jokes can be fun, others often elicit eye-rolls …"
+    ]
   },
   "eligible": {
     "synonyms": [
@@ -986,7 +1225,14 @@
       "protean",
       "versatile"
     ],
-    "sentences": []
+    "sentences": [
+      "an eligible young bachelor",
+      "eligible to retire",
+      "As with the College of Cardinals and the papacy, where every cardinal, in theory, is eligible to be Pope but the number of real eligibles is substantially smaller, so with the American Presidency.",
+      "… when she entered life, beautiful, accomplished, and an heiress, she had, of course, all the eligibles … of the other sex sighing at her feet …",
+      "There is another strong feature in the new constitution, which I as strongly dislike. That is, the perpetual reeligibility of the President.",
+      "is reeligible to serve on the council after a four-year hiatus"
+    ]
   },
   "eliminate": {
     "synonyms": [
@@ -1001,7 +1247,12 @@
       "rule out",
       "shut out"
     ],
-    "sentences": []
+    "sentences": [
+      "eliminate an unknown quantity",
+      "the team was eliminated in the first round of the playoffs",
+      "eliminate someone as a suspect",
+      "eliminate errors"
+    ]
   },
   "elocution": {
     "synonyms": [
@@ -1032,7 +1283,11 @@
       "stately",
       "towering"
     ],
-    "sentences": []
+    "sentences": [
+      "an eloquent monument",
+      "an eloquent preacher",
+      "He waxed eloquent on/about the pleasures of gardening."
+    ]
   },
   "elucidate": {
     "synonyms": [
@@ -1052,7 +1307,14 @@
       "spell out",
       "unriddle"
     ],
-    "sentences": []
+    "sentences": [
+      "interpreting a work of art",
+      "elucidate an obscure passage",
+      "explicate a poem",
+      "expounding a scientific theory",
+      "explain the rules",
+      "elucidate a text"
+    ]
   },
   "elude": {
     "synonyms": [
@@ -1071,7 +1333,20 @@
       "shun",
       "weasel (out of)"
     ],
-    "sentences": []
+    "sentences": [
+      "a playwright who eschews melodrama",
+      "you have shunned your responsibilities",
+      "what she sees in him eludes me",
+      "evaded the question by changing the subject",
+      "try to avoid past errors",
+      "nothing escapes her sharp eyes",
+      "it eludes explanation",
+      "subtlety simply eludes them",
+      "victory continued to elude us",
+      "the mice eluded the traps",
+      "managed to elude capture",
+      "He tried to grab the rolling ball, but it eluded his grasp."
+    ]
   },
   "elusion": {
     "synonyms": [
@@ -1107,7 +1382,9 @@
       "wilt",
       "wither"
     ],
-    "sentences": []
+    "sentences": [
+      "cattle emaciated by illness"
+    ]
   },
   "emanate": {
     "synonyms": [
@@ -1128,7 +1405,20 @@
       "throw out",
       "vent"
     ],
-    "sentences": []
+    "sentences": [
+      "industries stemming from space research",
+      "advice that proceeds from the best of intentions",
+      "reports emanating from the capital",
+      "blood issued from the cut",
+      "words flowed easily from her pen",
+      "the holiday derives from an ancient Roman feast",
+      "the fire originated in the basement",
+      "new questions have arisen",
+      "slowly rose to prominence",
+      "an idea that springs to mind",
+      "she seems to emanate an air of serenity",
+      "a sweet scent emanating from the blossoms"
+    ]
   },
   "emancipate": {
     "synonyms": [
@@ -1148,7 +1438,13 @@
       "unchain",
       "unfetter"
     ],
-    "sentences": []
+    "sentences": [
+      "the document manumitted the slaves",
+      "labor-saving devices emancipated us from household drudgery",
+      "liberated their country from the tyrant",
+      "released his anger on a punching bag",
+      "freed the animals from their cages"
+    ]
   },
   "embargo": {
     "synonyms": [
@@ -1159,7 +1455,11 @@
       "proscription",
       "veto"
     ],
-    "sentences": []
+    "sentences": [
+      "I lay no embargo on anybody's words.",
+      "a trade embargo",
+      "preembargo trade between the U.S. and Cuba"
+    ]
   },
   "embark": {
     "synonyms": [
@@ -1169,7 +1469,13 @@
       "get (on)",
       "weigh (anchor)"
     ],
-    "sentences": []
+    "sentences": [
+      "embarked on a new career",
+      "the troops embarked at noon",
+      "She's embarking on a new career.",
+      "The company has embarked upon a risky new project.",
+      "They embarked on their trip to America with high hopes."
+    ]
   },
   "embarrass": {
     "synonyms": [
@@ -1213,7 +1519,16 @@
       "perplex",
       "sophisticate"
     ],
-    "sentences": []
+    "sentences": [
+      "rattled by all the television cameras",
+      "disconcerted by finding so many in attendance",
+      "abashed by her swift and cutting retort",
+      "hecklers discomfited the speaker",
+      "the question embarrassed her so much she couldn't answer",
+      "he embarrasses easily",
+      "digestion embarrassed by overeating",
+      "bawdy stories embarrassed him"
+    ]
   },
   "embellish": {
     "synonyms": [
@@ -1253,7 +1568,17 @@
       "pretty (up)",
       "trim"
     ],
-    "sentences": []
+    "sentences": [
+      "an entrée garnished with parsley",
+      "a house all decked out for Christmas",
+      "will beautify the grounds with flower beds",
+      "embellish a page with floral borders",
+      "a white house ornamented with green shutters",
+      "decorate a birthday cake",
+      "a diamond necklace adorned her neck",
+      "embellished our account of the trip",
+      "a book embellished with illustrations"
+    ]
   },
   "embezzle": {
     "synonyms": [
@@ -1297,7 +1622,9 @@
       "preoccupy",
       "trespass"
     ],
-    "sentences": []
+    "sentences": [
+      "embezzled thousands of dollars"
+    ]
   },
   "emblazon": {
     "synonyms": [
@@ -1313,7 +1640,9 @@
       "praise",
       "resound"
     ],
-    "sentences": []
+    "sentences": [
+      "… have his … deeds emblazoned by a poet …"
+    ]
   },
   "emblem": {
     "synonyms": [
@@ -1346,7 +1675,9 @@
       "personify",
       "substantiate"
     ],
-    "sentences": []
+    "sentences": [
+      "… men who greatly embodied the idealism of American life …"
+    ]
   },
   "embolden": {
     "synonyms": [
@@ -1361,7 +1692,15 @@
       "inspirit",
       "steel"
     ],
-    "sentences": []
+    "sentences": [
+      "emboldened by her first success, she tried an even more difficult climb",
+      "a hospital patient heartened by good news",
+      "patriots inspirited the people to resist",
+      "the teacher's praise encouraged the students to greater efforts",
+      "Great leaders embolden the rest of us to rise to our highest potentialities, to be active, insistent and resolute in affirming our own sense of things.",
+      "… being near her twin did seem to embolden her, to loosen her tongue.",
+      "… other voices too timid to speak in class are often emboldened by the different and more protected role an online conversation provides."
+    ]
   },
   "embroil": {
     "synonyms": [
@@ -1370,7 +1709,9 @@
       "embrangle",
       "mire"
     ],
-    "sentences": []
+    "sentences": [
+      "embroiled in controversy"
+    ]
   },
   "emerge": {
     "synonyms": [
@@ -1381,7 +1722,21 @@
       "spring (up)",
       "surface"
     ],
-    "sentences": []
+    "sentences": [
+      "someone must emerge as a leader",
+      "a diver emerging from the water",
+      "new problems emerged",
+      "Who will emerge the victor in this contest?",
+      "Who will emerge victorious in this contest?",
+      "the reemergence of childhood memories",
+      "her reemergence as the team's star player",
+      "a reemergence of the disease",
+      "Over the course of the past couple of years, 90s fashion has seen a reemergence.",
+      "hibernating animals reemerging after the winter",
+      "… old habits and patterns reemerge …",
+      "After a somewhat quiet year … , he reemerged onstage to uproarious applause this weekend in Chicago …",
+      "… inadequately immunized populations and urbanization set the stage for the disease to reemerge."
+    ]
   },
   "emergence": {
     "synonyms": [
@@ -1434,7 +1789,16 @@
       "well",
       "wellspring"
     ],
-    "sentences": []
+    "sentences": [
+      "the reemergence of childhood memories",
+      "her reemergence as the team's star player",
+      "a reemergence of the disease",
+      "Over the course of the past couple of years, 90s fashion has seen a reemergence.",
+      "hibernating animals reemerging after the winter",
+      "… old habits and patterns reemerge …",
+      "After a somewhat quiet year … , he reemerged onstage to uproarious applause this weekend in Chicago …",
+      "… inadequately immunized populations and urbanization set the stage for the disease to reemerge."
+    ]
   },
   "emergent": {
     "synonyms": [
@@ -1454,7 +1818,12 @@
       "pressing",
       "urgent"
     ],
-    "sentences": []
+    "sentences": [
+      "emergent nations",
+      "an emergent plant",
+      "emergent coastal islands",
+      "emergent danger"
+    ]
   },
   "emigrant": {
     "synonyms": [
@@ -1537,7 +1906,9 @@
       "retreat",
       "withdraw"
     ],
-    "sentences": []
+    "sentences": [
+      "emigrated from Canada to the United States"
+    ]
   },
   "eminence": {
     "synonyms": [
@@ -1565,7 +1936,9 @@
       "rise",
       "upland"
     ],
-    "sentences": []
+    "sentences": [
+      "the éminence grise of classical music"
+    ]
   },
   "eminent": {
     "synonyms": [
@@ -1585,7 +1958,16 @@
       "star",
       "superior"
     ],
-    "sentences": []
+    "sentences": [
+      "illustrious war heroes",
+      "the country's most eminent writers",
+      "a distinguished scientist who won the Nobel Prize",
+      "a notorious gangster",
+      "the noted mystery writer",
+      "the most celebrated beauty of her day",
+      "one of the most renowned figures in sports history",
+      "a famous actress"
+    ]
   },
   "emit": {
     "synonyms": [
@@ -1607,7 +1989,12 @@
       "vent",
       "utter"
     ],
-    "sentences": []
+    "sentences": [
+      "emitted a groan",
+      "emit light/heat",
+      "the reemission of noxious fumes",
+      "reemitting absorbed light"
+    ]
   },
   "emphasis": {
     "synonyms": [
@@ -1626,7 +2013,11 @@
       "vigorousness",
       "violence"
     ],
-    "sentences": []
+    "sentences": [
+      "a recent reemphasis on/of traditional values",
+      "… FEMA's state assistance program has undergone transformations …. These program reemphases have coincided with large reductions in the regional office staff …",
+      "She lays great stress/emphasis on good manners."
+    ]
   },
   "emphasize": {
     "synonyms": [
@@ -1646,7 +2037,11 @@
       "underline",
       "underscore"
     ],
-    "sentences": []
+    "sentences": [
+      "emphasized the need for reform",
+      "reemphasizing the important points",
+      "Yet the point must be re-emphasized: however technically inactive most of these men were … most of them were caught up, to some degree, by the burning issues of the day."
+    ]
   },
   "emphatic": {
     "synonyms": [
@@ -1684,7 +2079,9 @@
       "splashy",
       "striking"
     ],
-    "sentences": []
+    "sentences": [
+      "an emphatic refusal"
+    ]
   },
   "employee": {
     "synonyms": [
@@ -1762,7 +2159,13 @@
       "subchief",
       "subdirector"
     ],
-    "sentences": []
+    "sentences": [
+      "Private household workers usually work in pleasant and comfortable homes or apartments. Most are dayworkers who live in their own homes and travel to work. Some live in the home of their employer, generally with their own room and bath.",
+      "One of Hiroshima's main contributions to the post-war economic miracle of Japan is the Mazda car plant, the single largest employer in Hiroshima.",
+      "… choose a classic health-insurance plan—if your employer still makes one available.",
+      "Outside of the public sector and unionized shops, salaries in North America have long been considered a private matter between employer and employee.",
+      "… it is one of the most aggressive employers of the dreaded pop-up ads that effloresce across one's video screen like a sudden and unpleasant rash …"
+    ]
   },
   "emporium": {
     "synonyms": [
@@ -1770,7 +2173,10 @@
       "shop",
       "store"
     ],
-    "sentences": []
+    "sentences": [
+      "a hardware emporium",
+      "a pizza emporium"
+    ]
   },
   "empower": {
     "synonyms": [
@@ -1789,7 +2195,12 @@
       "let",
       "permit"
     ],
-    "sentences": []
+    "sentences": [
+      "The American women's movement has been inspiring and empowering women for nearly 20 years …",
+      "Members of our discipline often envision themselves as agents of social change who try to promote critique of dominant ideologies and empower students to become active participants in the larger political world.",
+      "… nootropic agents empower the lower amounts of acetylcholine in diseased brains to work overtime …",
+      "empowered her attorney to act on her behalf"
+    ]
   },
   "emulate": {
     "synonyms": [
@@ -1805,7 +2216,9 @@
       "mime",
       "mimic"
     ],
-    "sentences": []
+    "sentences": [
+      "pricked on by a most emulate pride"
+    ]
   },
   "enact": {
     "synonyms": [
@@ -1816,7 +2229,10 @@
       "ordain",
       "pass"
     ],
-    "sentences": []
+    "sentences": [
+      "enact a role",
+      "enact a bill"
+    ]
   },
   "encamp": {
     "synonyms": [
@@ -1857,7 +2273,13 @@
       "salutation",
       "tribute"
     ],
-    "sentences": []
+    "sentences": [
+      "earned a citation for bravery",
+      "the concert was a musical tribute to the early jazz masters",
+      "her lyrical memoir was a panegyric to her mentor",
+      "delivered the eulogy at the funeral service",
+      "received encomiums from literary critics"
+    ]
   },
   "encompass": {
     "synonyms": [
@@ -1901,7 +2323,14 @@
       "veil",
       "wrap"
     ],
-    "sentences": []
+    "sentences": [
+      "… Jiu Jitsu, the … art of making an opponent use his strength to encompass his own defeat.",
+      "a small village encompassed by mountains",
+      "A thick fog encompassed the city.",
+      "a plan that encompasses a number of aims",
+      "The ranch encompasses more than 2,500 acres of prime forest …",
+      "That success soon mushroomed into an empire encompassing toys, games, animations and all manner of consumer gewgaws."
+    ]
   },
   "encourage": {
     "synonyms": [
@@ -1947,7 +2376,16 @@
       "prompt",
       "urge"
     ],
-    "sentences": []
+    "sentences": [
+      "emboldened by her first success, she tried an even more difficult climb",
+      "a hospital patient heartened by good news",
+      "patriots inspirited the people to resist",
+      "the teacher's praise encouraged the students to greater efforts",
+      "government grants designed to encourage conservation",
+      "warm weather encourages plant growth",
+      "they encouraged him to go back to school",
+      "she was encouraged to continue by her early success"
+    ]
   },
   "encroach": {
     "synonyms": [
@@ -1955,7 +2393,13 @@
       "inch",
       "worm"
     ],
-    "sentences": []
+    "sentences": [
+      "accused of invading their privacy",
+      "infringing a copyright",
+      "the encroaching settlers displacing the native peoples",
+      "hunters trespassing on farmland",
+      "the gradually encroaching sea"
+    ]
   },
   "encumber": {
     "synonyms": [
@@ -1990,7 +2434,11 @@
       "saddle",
       "weight"
     ],
-    "sentences": []
+    "sentences": [
+      "encumber an estate",
+      "negotiations encumbered by a lack of trust",
+      "tourists encumbered by heavy luggage"
+    ]
   },
   "encyclical": {
     "synonyms": [
@@ -2087,7 +2535,10 @@
       "risk",
       "venture"
     ],
-    "sentences": []
+    "sentences": [
+      "driving to endanger",
+      "recklessly endangering innocent lives"
+    ]
   },
   "endear": {
     "synonyms": [
@@ -2132,7 +2583,12 @@
       "romance",
       "woo"
     ],
-    "sentences": []
+    "sentences": [
+      "her generosity has endeared her to the public",
+      "They endeared themselves to the whole town.",
+      "His generosity has endeared him to the public.",
+      "Her bad temper did not endear her to her coworkers."
+    ]
   },
   "endemic": {
     "synonyms": [
@@ -2143,7 +2599,19 @@
       "indigenous",
       "native"
     ],
-    "sentences": []
+    "sentences": [
+      "the aboriginal peoples of Australia",
+      "a disease endemic to many countries",
+      "indigenous plants",
+      "native tribal customs",
+      "problems endemic to translation",
+      "communities suffering endemic poverty",
+      "… hurry sickness is endemic in our culture …",
+      "Dengue fever is endemic to tropical and sub-tropical regions of the world.",
+      "Many of China's wild species are endemic, meaning that they are found nowhere else in the world.",
+      "… the Aedes aegypti mosquito … is endemic to tropical regions but is not a complete stranger to Europe …",
+      "St. Helena has 33 endemic plants, 20 endemic fish, and one endemic bird, the wirebird. The endemics, as they're referred to, are precious, something the teeny island has that the rest of the world doesn't have."
+    ]
   },
   "endue": {
     "synonyms": [
@@ -2160,7 +2628,10 @@
       "favor",
       "gift"
     ],
-    "sentences": []
+    "sentences": [
+      "A mummy again endued with animation …",
+      "endued with the rights of a citizen"
+    ]
   },
   "endurable": {
     "synonyms": [
@@ -2185,7 +2656,12 @@
       "persistence",
       "subsistence"
     ],
-    "sentences": []
+    "sentences": [
+      "the endurance of the play's importance",
+      "endurance of many hardships",
+      "a marathon runner's endurance",
+      "children who are teased beyond endurance"
+    ]
   },
   "energetic": {
     "synonyms": [
@@ -2234,7 +2710,18 @@
       "vehement",
       "violent"
     ],
-    "sentences": []
+    "sentences": [
+      "full of nervous energy",
+      "a lusty appetite for life",
+      "the strenuous life on an oil rig",
+      "an energetic campaigner",
+      "as vigorous as a youth half his age",
+      "an energetic walk",
+      "The set has been decorated in a futuristic, high-tech mode, heavy with music-video overtones, including fake smoke and a bevy of attractive, hyperenergetic dancers, …",
+      "hyperenergetic molecules",
+      "a hyper-energetic child",
+      "hyper-energetic music"
+    ]
   },
   "enervate": {
     "synonyms": [
@@ -2258,7 +2745,14 @@
       "waste",
       "weaken"
     ],
-    "sentences": []
+    "sentences": [
+      "an amendment that emasculates existing safeguards",
+      "a soldier unmanned by the terrors of battle",
+      "a nation's youth enervated by affluence and leisure",
+      "unnerved by the near collision",
+      "Heat enervates people.",
+      "a government enervated by corruption"
+    ]
   },
   "enfeeble": {
     "synonyms": [
@@ -2273,7 +2767,14 @@
       "waste",
       "weaken"
     ],
-    "sentences": []
+    "sentences": [
+      "disabled by an injury sustained at work",
+      "a poor diet undermines your health",
+      "drugs had sapped his ability to think",
+      "the debilitating effects of surgery",
+      "enfeebled by starvation",
+      "a disease that weakens the body's defenses"
+    ]
   },
   "enfranchise": {
     "synonyms": [
@@ -2335,7 +2836,9 @@
       "spring",
       "start"
     ],
-    "sentences": []
+    "sentences": [
+      "policies that have engendered controversy"
+    ]
   },
   "engrave": {
     "synonyms": [
@@ -2350,7 +2853,11 @@
       "infix",
       "ingrain"
     ],
-    "sentences": []
+    "sentences": [
+      "an engraved invitation",
+      "the incident was engraved in his memory",
+      "reengraved the plaque with the correct name"
+    ]
   },
   "engross": {
     "synonyms": [
@@ -2369,7 +2876,9 @@
       "involve",
       "occupy"
     ],
-    "sentences": []
+    "sentences": [
+      "ideas that have engrossed the minds of scholars for generations"
+    ]
   },
   "enhance": {
     "synonyms": [
@@ -2400,7 +2909,16 @@
       "dress up",
       "sweeten"
     ],
-    "sentences": []
+    "sentences": [
+      "ways to enhance your home decor",
+      "Police digitally enhanced the image.",
+      "The acquisition will enhance the company's portfolio.",
+      "These features greatly enhance the user experience.",
+      "The staff has been here for decades, and their knowledge will enhance your stay.",
+      "took steps to enhance security/efficiency",
+      "drugs that enhance performance",
+      "a strategy to enhance sales"
+    ]
   },
   "enigma": {
     "synonyms": [
@@ -2415,7 +2933,16 @@
       "secret",
       "why"
     ],
-    "sentences": []
+    "sentences": [
+      "the thief's motives were a puzzle for the police",
+      "the riddle of the reclusive pop star",
+      "his suicide remains an enigma",
+      "problems created by high technology",
+      "the mystery of the stone monoliths",
+      "… enlivening the meticulous realism of the scene-setting … by little enigmas and surprises … fed to the reader.",
+      "How frustrated profile writers sum him up: \"He remains an enigma.\"",
+      "Before the Apollo program, the origin of the moon was an enigma."
+    ]
   },
   "enjoin": {
     "synonyms": [
@@ -2445,7 +2972,18 @@
       "prohibit",
       "proscribe"
     ],
-    "sentences": []
+    "sentences": [
+      "charged by the President with a secret mission",
+      "directed her assistant to hold all calls",
+      "the judge instructed the jury to ignore the remark",
+      "a sign enjoining patrons to be quiet",
+      "she bade him be seated",
+      "ordered his employees about",
+      "a general commanding troops",
+      "… a book had been enjoined prior to publication …",
+      "was enjoined by conscience from telling a lie",
+      "enjoined us to be careful"
+    ]
   },
   "enkindle": {
     "synonyms": [
@@ -2484,7 +3022,9 @@
       "inspire",
       "nurture"
     ],
-    "sentences": []
+    "sentences": [
+      "enlightened us about the problem"
+    ]
   },
   "enlist": {
     "synonyms": [
@@ -2529,7 +3069,15 @@
       "scout",
       "keep (on)"
     ],
-    "sentences": []
+    "sentences": [
+      "will enlist for three years",
+      "trying to enlist my sympathies",
+      "enlist all the available resources",
+      "enlisted our help",
+      "decided to reenlist in/with the Navy",
+      "… had recently emerged from the ranks of the Royal Army Medical Corps, in which he had re-enlisted two years after the end of the second war.",
+      "… watched as Bickers's platoon leader reenlisted him for another two years."
+    ]
   },
   "enmity": {
     "synonyms": [
@@ -2545,7 +3093,17 @@
       "jaundice",
       "rancor"
     ],
-    "sentences": []
+    "sentences": [
+      "objections devoid of personal animus",
+      "rancor filled every line of his letters",
+      "animosity that led to revenge",
+      "a natural antipathy for self-seekers",
+      "antagonism between the brothers",
+      "hostility between the two nations",
+      "an unspoken enmity",
+      "There's a long history of enmity between them.",
+      "… as personal enmities go, they don't get much more vicious than this."
+    ]
   },
   "ennoble": {
     "synonyms": [
@@ -2561,7 +3119,9 @@
       "glorify",
       "magnify"
     ],
-    "sentences": []
+    "sentences": [
+      "seemed ennobled by suffering"
+    ]
   },
   "enormity": {
     "synonyms": [
@@ -2590,7 +3150,17 @@
       "vastitude",
       "vastness"
     ],
-    "sentences": []
+    "sentences": [
+      "not fully grasping the enormity of their decision",
+      "The enormity of existing stockpiles of atomic weapons …",
+      "the enormities of war",
+      "the enormity of the task at hand",
+      "the enormity of the decision",
+      "the inconceivable enormity of the universe",
+      "the enormity of the crimes committed during the Third Reich",
+      "the enormities of state power",
+      "other enormities too juvenile to mention"
+    ]
   },
   "enormous": {
     "synonyms": [
@@ -2640,7 +3210,20 @@
       "whacking",
       "whopping"
     ],
-    "sentences": []
+    "sentences": [
+      "a mammoth boulder",
+      "a colossal statue of Lincoln",
+      "a gigantic sports stadium",
+      "the vast Russian steppes",
+      "incurred a huge debt",
+      "an enormous expense",
+      "an immense shopping mall",
+      "not fully grasping the enormity of their decision",
+      "The enormity of existing stockpiles of atomic weapons …",
+      "the enormities of war",
+      "the enormity of the task at hand",
+      "an enormous sin"
+    ]
   },
   "enrage": {
     "synonyms": [
@@ -2706,7 +3289,15 @@
       "tangle",
       "trap"
     ],
-    "sentences": []
+    "sentences": [
+      "bagged a brace of pheasants",
+      "entrapped the witness with a trick question",
+      "a sting operation that ensnared burglars",
+      "trap animals",
+      "snared butterflies with a net",
+      "capture an enemy stronghold",
+      "caught the dog as it ran by"
+    ]
   },
   "entail": {
     "synonyms": [
@@ -2721,7 +3312,13 @@
       "subsume",
       "take in"
     ],
-    "sentences": []
+    "sentences": [
+      "… entail him and his heirs unto the crown …",
+      "Entailed on them indelible disgrace …",
+      "What exactly does the job entail?",
+      "The procedure does entail certain risks.",
+      "The process has tax benefits but also entails costs."
+    ]
   },
   "entangle": {
     "synonyms": [
@@ -2749,7 +3346,10 @@
       "perplex",
       "sophisticate"
     ],
-    "sentences": []
+    "sentences": [
+      "the story is entangled with legends",
+      "became entangled in a lawsuit"
+    ]
   },
   "enthrall": {
     "synonyms": [
@@ -2809,7 +3409,10 @@
       "rhapsodize",
       "slobber"
     ],
-    "sentences": []
+    "sentences": [
+      "… a splendid performance, and I was enthusing over it …",
+      "is enthused about the project"
+    ]
   },
   "enthusiastic": {
     "synonyms": [
@@ -2846,7 +3449,10 @@
       "voracious",
       "wild"
     ],
-    "sentences": []
+    "sentences": [
+      "enthusiastic supporters",
+      "an enthusiastic recommendation"
+    ]
   },
   "entirety": {
     "synonyms": [
@@ -2857,7 +3463,10 @@
       "perfectness",
       "wholeness"
     ],
-    "sentences": []
+    "sentences": [
+      "He played the song in its entirety.",
+      "His comments will be broadcast in their entirety."
+    ]
   },
   "entrails": {
     "synonyms": [
@@ -2868,7 +3477,9 @@
       "viscera",
       "vitals"
     ],
-    "sentences": []
+    "sentences": [
+      "the entrails of the movie industry"
+    ]
   },
   "entreaty": {
     "synonyms": [
@@ -2918,7 +3529,13 @@
       "lodge",
       "root"
     ],
-    "sentences": []
+    "sentences": [
+      "entrench upon a person's rights",
+      "entrenched themselves in the business",
+      "… social reforms which the government is trying to entrench.",
+      "… a ruling clique's desire to … entrench itself against shifts in public opinion.",
+      "… Allied troops entrenched themselves on the Normandy beach …"
+    ]
   },
   "entwine": {
     "synonyms": [
@@ -2985,7 +3602,27 @@
       "splendid",
       "stately"
     ],
-    "sentences": []
+    "sentences": [
+      "… the epic of self-invention that is the American Dream …",
+      "Moby-Dick is an American epic …",
+      "the Iliad and the Odyssey are epics",
+      "In the meantime, start planning your epic pillow forts (and Sunday afternoon naps).",
+      "Everyone is in agreement: this photobomb is totally epic.",
+      "an epic achievement",
+      "epic struggles",
+      "… a packed lineup of lectures, demonstrations, re-enactments and other events will commemorate the anniversary of the epic 1836 Alamo siege and battle—13 days that made the site famous.",
+      "That's how these simple questions end up fueling debates of epic proportion.",
+      "An uptick in earnings among riskier U.S. companies is bolstering investor confidence that an epic rally in junk bonds can last a little longer.",
+      "epic bravery",
+      "epic deeds",
+      "epic poets",
+      "… The Divine Comedy, an epic poem of more than 14,000 lines whose original manuscript has never been found …",
+      "This epic American story traces family lives over generations until they're rocked by another scandal that spills their secrets onto a public stage.",
+      "What was supposed to be a kind gesture turned into an epic fail, and now a viral video. … Morgan accidentally missed the step and faceplanted into the front door.",
+      "Kendall Jenner struggled to chop up a cucumber during Episode 5 of The Kardashians, and her epic fail prompted Kris Jenner to request assistance from their chef.",
+      "UBER's self-driving project was basically an epic fail …",
+      "… he [David Novak, former CEO of Yum Brands] talks about his epic fail: Crystal Pepsi, the clear version of Pepsi that he developed in 1992 when he was Pepsi's Executive Vice President of Marketing and Sales."
+    ]
   },
   "epicure": {
     "synonyms": [
@@ -3059,7 +3696,17 @@
       "recurrence",
       "renewal"
     ],
-    "sentences": []
+    "sentences": [
+      "the practice had reached epidemic proportions",
+      "epidemic laughter",
+      "The outbreak of typhoid was epidemic.",
+      "an epidemic of bankruptcies",
+      "As there is no specific medication to treat COVID-19, nor any vaccine to protect us against this infection, public health authorities are stressing the importance of hygiene and self-isolation to slow the spread of the virus and flatten the epidemic curve.",
+      "The E. coli outbreak, which by last official count had sickened 53 people in 16 states, dates to March 13, with no known fatalities. … The CDC publishes an \"epi curve\" that shows that people began getting sick on March 13.",
+      "Community spread is limited now, but officials expect it to accelerate. Now, he [Governor Jared Polis] said, testing must scale up to offer a more informed picture of community spread and \"where we are in the epidemiological curve.\"",
+      "inter-epidemic transmission",
+      "an interepidemic interval"
+    ]
   },
   "epigram": {
     "synonyms": [
@@ -3141,7 +3788,15 @@
       "occurrence",
       "thing"
     ],
-    "sentences": []
+    "sentences": [
+      "couldn't recall the exact circumstances",
+      "a brief romantic episode in a life devoted to work",
+      "a minor wartime incident",
+      "the events following the assassination",
+      "an encounter that was a chance occurrence",
+      "After weeks spent in the field, The Last Ship got back to basics tonight by delivering a very satisfying bottle episode that kept everyone situated on the ship.",
+      "The six-part series is made up of mostly bottle episodes, meaning the action takes place in one location. While that situation is a facility of a small budget, it has turned out to be a bit of a creative windfall."
+    ]
   },
   "epitaph": {
     "synonyms": [
@@ -3240,7 +3895,13 @@
       "perfection",
       "quintessence"
     ],
-    "sentences": []
+    "sentences": [
+      "… he showed in epitome his qualities as a historian and a biographer.",
+      "… it occurred to him that a walk through the countryside was a sort of epitome of the passage through life itself.",
+      "… the age where nations demonstrated economic achievements, gave an epitome of their trade and prospects …",
+      "Utilizing his summary but expanding upon it, I present my own epitome of the book …",
+      "… J. D. Salinger managed to forge, in Holden Caulfield, the epitome of American adolescent disgruntlement for decades of young readers …"
+    ]
   },
   "epoch": {
     "synonyms": [
@@ -3250,7 +3911,13 @@
       "period",
       "time"
     ],
-    "sentences": []
+    "sentences": [
+      "the age of Samuel Johnson",
+      "the era of global communications",
+      "the steam engine marked a new epoch in industry",
+      "periods of economic prosperity",
+      "The steam engine was an epoch-making development in the history of industry."
+    ]
   },
   "epode": {
     "synonyms": [
@@ -3307,7 +3974,9 @@
       "even",
       "level"
     ],
-    "sentences": []
+    "sentences": [
+      "equalize the tax burden"
+    ]
   },
   "equanimity": {
     "synonyms": [
@@ -3330,7 +3999,13 @@
       "tranquility",
       "tranquilness"
     ],
-    "sentences": []
+    "sentences": [
+      "handled the situation with professional sangfroid",
+      "maintaining his composure even under hostile questioning",
+      "accepted her troubles with equanimity",
+      "physical equanimity",
+      "Nothing could disturb his equanimity."
+    ]
   },
   "equilibrium": {
     "synonyms": [
@@ -3359,7 +4034,9 @@
       "tranquility",
       "tranquilness"
     ],
-    "sentences": []
+    "sentences": [
+      "trying to recover his equilibrium"
+    ]
   },
   "equitable": {
     "synonyms": [
@@ -3378,7 +4055,19 @@
       "unbiased",
       "unprejudiced"
     ],
-    "sentences": []
+    "sentences": [
+      "I can't be objective about my own child",
+      "a dispassionate summation of the facts",
+      "your unbiased opinion",
+      "an impartial third party",
+      "the equitable distribution of the property",
+      "a just settlement of territorial claims",
+      "a fair decision",
+      "an equitable defense",
+      "To enable all students to achieve a common set of standards requires equitable—not equal—treatment.",
+      "The health and economic impacts of the coronavirus pandemic are not equally felt. … Justice-oriented policies would aim for equitable (not equal) distribution of necessary pandemic resources—equitable based on a shared definition of fairness instead of equal, the same across groups.",
+      "an equitable settlement of the dispute"
+    ]
   },
   "equity": {
     "synonyms": [
@@ -3398,7 +4087,24 @@
       "fair shake",
       "right"
     ],
-    "sentences": []
+    "sentences": [
+      "a suit or proceeding at law or in equity",
+      "a spouse's equity in property",
+      "equity investment",
+      "Half of the money is invested in bonds and the other half in equities.",
+      "We've been slowly paying off our mortgage and building up equity in our house.",
+      "a home equity loan =a loan based on the amount of equity a person has in their home",
+      "social equities and inequities",
+      "Her office trains school leaders in racial equity …",
+      "In the run-up to the Olympics, the women did score a major victory in pay equity.",
+      "The fact that more money is spent on white Americans than those who identify as Black, Asian or Hispanic shouldn't come as a shock given a growing body of research around health equity.",
+      "Whether within a company or in the community, achieving diversity, equity and inclusion (DEI) is a journey and a job that is far from done.",
+      "Virtually every university, government agency and major corporation has embraced some type of diversity, equity and inclusion policies … to ostensibly promote a more open, equitable and, well, inclusive workplace.",
+      "The legal battle comes amid a string of attacks against diversity, equity and inclusion (DEI) programs in corporate America, schools and higher education in recent months.",
+      "Through our continued focus on diversity, equity and inclusion, we are increasing the number of female attorneys, people of color, and members of the LGBTQ+ community in the leadership pipeline.",
+      "… we strongly believe in diversity, equity, and inclusion and take many steps toward promoting this through mentoring, internship programs and ensuring equity in pay and opportunity …",
+      "This means we practice diversity, equity and inclusion in all we do. It includes investing in our people and creating a culture of care."
+    ]
   },
   "equivalent": {
     "synonyms": [
@@ -3414,7 +4120,19 @@
       "peer",
       "rival"
     ],
-    "sentences": []
+    "sentences": [
+      "equal shares in the business",
+      "two houses equivalent in market value",
+      "identical results",
+      "the very point I was trying to make",
+      "took the same route",
+      "derived from the selfsame source",
+      "equivalent sets",
+      "equivalent equations",
+      "equivalent quantities of two elements",
+      "equivalent statements",
+      "a square equivalent to a triangle"
+    ]
   },
   "equivocal": {
     "synonyms": [
@@ -3454,7 +4172,20 @@
       "ambivalent",
       "conflicted"
     ],
-    "sentences": []
+    "sentences": [
+      "moral precepts with equivocal phrasing",
+      "an ambiguous directive",
+      "cryptic hints of hidden treasure",
+      "enigmatic occult writings",
+      "a vague sense of obligation",
+      "muttered dark hints of revenge",
+      "obscure poems",
+      "equivocal behavior",
+      "an equivocal attitude",
+      "equivocal shapes",
+      "equivocal evidence",
+      "an equivocal statement"
+    ]
   },
   "equivocate": {
     "synonyms": [
@@ -3465,7 +4196,13 @@
       "waffle",
       "weasel"
     ],
-    "sentences": []
+    "sentences": [
+      "fibbed about the price of the new suit",
+      "a swindler paltering with his investors",
+      "equivocated endlessly in an attempt to mislead her inquisitors",
+      "during the hearings the witness did his best to prevaricate",
+      "lied about where he had been"
+    ]
   },
   "eradicate": {
     "synonyms": [
@@ -3489,7 +4226,13 @@
       "sweep (away)",
       "wipe out"
     ],
-    "sentences": []
+    "sentences": [
+      "the war uprooted thousands",
+      "a campaign to eradicate illiteracy",
+      "many species have been extirpated from the area",
+      "exterminate cockroaches",
+      "programs to eradicate illiteracy"
+    ]
   },
   "errant": {
     "synonyms": [
@@ -3517,7 +4260,12 @@
       "wandering",
       "wayfaring"
     ],
-    "sentences": []
+    "sentences": [
+      "an errant knight",
+      "an errant breeze",
+      "an errant calf",
+      "an errant child"
+    ]
   },
   "erratic": {
     "synonyms": [
@@ -3587,7 +4335,22 @@
       "weirdo",
       "wild"
     ],
-    "sentences": []
+    "sentences": [
+      "outlandish fashions of the time",
+      "a quaint fishing village",
+      "an odd sense of humor",
+      "a friend's suddenly erratic behavior",
+      "the eccentric eating habits of preschoolers",
+      "the peculiar status of America's First Lady",
+      "a career unique in the annals of science",
+      "a singular feeling of impending disaster",
+      "a journey filled with strange sights",
+      "an erratic boulder",
+      "an erratic genius",
+      "erratic dieting",
+      "keeps erratic hours",
+      "an erratic comet"
+    ]
   },
   "erroneous": {
     "synonyms": [
@@ -3602,7 +4365,11 @@
       "untruthful",
       "wrong"
     ],
-    "sentences": []
+    "sentences": [
+      "erroneous assumptions",
+      "gave an erroneous impression",
+      "Many people arrived early in the mistaken/erroneous belief that free tickets would be available."
+    ]
   },
   "erudite": {
     "synonyms": [
@@ -3616,7 +4383,11 @@
       "bookish",
       "literary"
     ],
-    "sentences": []
+    "sentences": [
+      "an erudite scholar",
+      "There was the erudite-but-humble professor next door and upstairs.",
+      "In the telling of a life lived through books, and in her own sometimes floridly erudite sentences, the deep magic of writing is revealed."
+    ]
   },
   "erudition": {
     "synonyms": [
@@ -3627,7 +4398,12 @@
       "literacy",
       "scholarship"
     ],
-    "sentences": []
+    "sentences": [
+      "a work of first-rate literary scholarship",
+      "an erudition unusual even in a scholar",
+      "a book that demonstrates vast learning",
+      "rich in the knowledge of human nature"
+    ]
   },
   "eschew": {
     "synonyms": [
@@ -3646,7 +4422,15 @@
       "shun",
       "weasel (out of)"
     ],
-    "sentences": []
+    "sentences": [
+      "a playwright who eschews melodrama",
+      "you have shunned your responsibilities",
+      "what she sees in him eludes me",
+      "evaded the question by changing the subject",
+      "try to avoid past errors",
+      "nothing escapes her sharp eyes",
+      "Some investigative efforts avoid risk by eschewing anonymous sources …"
+    ]
   },
   "espy": {
     "synonyms": [
@@ -3670,7 +4454,9 @@
       "view",
       "witness"
     ],
-    "sentences": []
+    "sentences": [
+      "… among the several horses … she espied the white mustang …"
+    ]
   },
   "esquire": {
     "synonyms": [
@@ -3709,7 +4495,9 @@
       "nobleman",
       "peer"
     ],
-    "sentences": []
+    "sentences": [
+      "J. R. Patel, Esq."
+    ]
   },
   "essence": {
     "synonyms": [
@@ -3742,7 +4530,13 @@
       "root",
       "sum"
     ],
-    "sentences": []
+    "sentences": [
+      "She was the essence of punctuality.",
+      "the essence of the issue",
+      "a painting that captures the essence of the land",
+      "was in essence an honest person",
+      "Time is of the essence in an emergency."
+    ]
   },
   "esthetic": {
     "synonyms": [
@@ -3772,7 +4566,20 @@
       "taking",
       "well-favored"
     ],
-    "sentences": []
+    "sentences": [
+      "aesthetic medicine",
+      "aesthetic clinics",
+      "aesthetic plastic surgery",
+      "aesthetic treatments",
+      "his aesthetic sensibility",
+      "… easy-to-use keyboards, clear graphics, and other ergonomic and aesthetic features …",
+      "a work of aesthetic value",
+      "… works of art … characterized by astonishing technical mastery, originality, and aesthetic impact.",
+      "aesthetic theories",
+      "modernist aesthetics",
+      "staging new ballets which reflected the aesthetic of the new nation",
+      "They appreciated the aesthetics of the gemstones."
+    ]
   },
   "estimable": {
     "synonyms": [
@@ -3792,7 +4599,10 @@
       "respectable",
       "respected"
     ],
-    "sentences": []
+    "sentences": [
+      "an estimable adversary",
+      "an estimable amount"
+    ]
   },
   "estrange": {
     "synonyms": [
@@ -3802,7 +4612,15 @@
       "disgruntle",
       "sour"
     ],
-    "sentences": []
+    "sentences": [
+      "troops disaffected by hunger",
+      "managed to alienate all his coworkers",
+      "his estranged wife",
+      "her estrangement from her family",
+      "The first words spoken were not those of one becoming estranged from this world, and already permitted to stray at times into realms foreign to the living.",
+      "John's excesses gradually estranged him from his mother …",
+      "She became estranged from her family."
+    ]
   },
   "estuary": {
     "synonyms": [
@@ -3855,7 +4673,9 @@
       "congratulate",
       "decorate"
     ],
-    "sentences": []
+    "sentences": [
+      "He was eulogized at his funeral as a great artist and good friend."
+    ]
   },
   "eulogy": {
     "synonyms": [
@@ -3872,7 +4692,14 @@
       "salutation",
       "tribute"
     ],
-    "sentences": []
+    "sentences": [
+      "earned a citation for bravery",
+      "the concert was a musical tribute to the early jazz masters",
+      "her lyrical memoir was a panegyric to her mentor",
+      "delivered the eulogy at the funeral service",
+      "received encomiums from literary critics",
+      "She delivered the eulogy at his funeral."
+    ]
   },
   "euphemism": {
     "synonyms": [
@@ -3900,7 +4727,13 @@
       "slogan",
       "watchword"
     ],
-    "sentences": []
+    "sentences": [
+      "They euphemistically referred to firing him as \"letting him go.\"",
+      "euphemistic language",
+      "used \"darn\" as a euphemism for \"damn\"",
+      "euphemisms for \"die,\" such as \"pass away\" and \"depart\"",
+      "\"Privy\" and \"closet\" are examples of euphemism by metonymy …"
+    ]
   },
   "euphonious": {
     "synonyms": [
@@ -3939,7 +4772,20 @@
       "shun",
       "weasel (out of)"
     ],
-    "sentences": []
+    "sentences": [
+      "a playwright who eschews melodrama",
+      "you have shunned your responsibilities",
+      "what she sees in him eludes me",
+      "evaded the question by changing the subject",
+      "try to avoid past errors",
+      "nothing escapes her sharp eyes",
+      "… the simple, personal meaning evaded them.",
+      "evaded the real issues",
+      "criminals evading the police",
+      "evading arrest/capture",
+      "They have evaded capture/arrest so far.",
+      "His criminal activities somehow evaded detection."
+    ]
   },
   "evanesce": {
     "synonyms": [
@@ -3973,7 +4819,15 @@
       "transient",
       "transitory"
     ],
-    "sentences": []
+    "sentences": [
+      "the story has an evanescent touch of whimsy that is lost in translation",
+      "let a fugitive smile flit across his face",
+      "fleeting moments of joy",
+      "my feelings of guilt were only momentary",
+      "many slang words are ephemeral",
+      "fame in the movies is transitory",
+      "a hotel catering primarily to transient guests"
+    ]
   },
   "evangelical": {
     "synonyms": [
@@ -4006,7 +4860,9 @@
       "caliphal",
       "rabbinic"
     ],
-    "sentences": []
+    "sentences": [
+      "… the evangelical ardor of the movement's leaders …"
+    ]
   },
   "evangelist": {
     "synonyms": [
@@ -4089,7 +4945,9 @@
       "priest",
       "reverend"
     ],
-    "sentences": []
+    "sentences": [
+      "an evangelist for physical fitness"
+    ]
   },
   "evasion": {
     "synonyms": [
@@ -4106,7 +4964,10 @@
       "shaking",
       "shunning"
     ],
-    "sentences": []
+    "sentences": [
+      "suspected of tax evasion",
+      "Bankruptcy becomes a kind of evasion when firms, some of them still profitable, attempt to avoid obligations that are merely inconvenient."
+    ]
   },
   "eventual": {
     "synonyms": [
@@ -4146,7 +5007,9 @@
       "utmost",
       "penultimate"
     ],
-    "sentences": []
+    "sentences": [
+      "They counted on our eventual success."
+    ]
   },
   "evict": {
     "synonyms": [
@@ -4191,7 +5054,12 @@
       "sack",
       "terminate"
     ],
-    "sentences": []
+    "sentences": [
+      "evicted for nonpayment of rent",
+      "police ousted the squatters",
+      "a student expelled from college",
+      "ejected an obnoxious patron from the bar"
+    ]
   },
   "evince": {
     "synonyms": [
@@ -4207,7 +5075,13 @@
       "reveal",
       "show"
     ],
-    "sentences": []
+    "sentences": [
+      "demonstrated their approval by loud applause",
+      "evinced not the slightest fear",
+      "a commitment evidenced by years of loyal service",
+      "manifested musical ability at an early age",
+      "careful not to show his true feelings"
+    ]
   },
   "evoke": {
     "synonyms": [
@@ -4216,7 +5090,15 @@
       "inspire",
       "raise"
     ],
-    "sentences": []
+    "sentences": [
+      "extorted their cooperation by threatening to inform",
+      "extracted a confession from him",
+      "careful questioning elicited the truth",
+      "a song that evokes warm memories",
+      "educed order out of chaos",
+      "evoke evil spirits",
+      "This place evokes fond memories."
+    ]
   },
   "evolution": {
     "synonyms": [
@@ -4227,7 +5109,15 @@
       "progress",
       "progression"
     ],
-    "sentences": []
+    "sentences": [
+      "Since 1950, developments in molecular biology have had a growing influence on the theory of evolution.",
+      "In Darwinian evolution, the basic mechanism is genetic mutation, followed by selection of the organisms most likely to survive.",
+      "Evolution is a process of continuous branching and diversification from common trunks. This pattern of irreversible separation gives life's history its basic directionality.",
+      "… a 1968 legal decision, Epperson v. Arkansas, in which the Supreme Court struck down anti-evolution laws like the one under which Scopes was convicted.",
+      "The remarkable resemblance of these moths to hummingbirds is a case of convergent evolution. Both are after the same thing: nectar deep within tubular flowers that lack landing pads.",
+      "In some cases, a taxon is composed of the descendants of unrelated ancestors that evolved similar features by convergent evolution and for this reason have been mistaken as relatives.",
+      "The finches that Charles Darwin described in the Galapagos Islands are a classic example of divergent evolution. The beaks of different species evolved in response to specific evolutionary forces—different foods available on the various islands."
+    ]
   },
   "evolve": {
     "synonyms": [
@@ -4251,7 +5141,9 @@
       "throw out",
       "vent"
     ],
-    "sentences": []
+    "sentences": [
+      "… evolve social, political, and literary philosophies."
+    ]
   },
   "exacerbate": {
     "synonyms": [
@@ -4259,7 +5151,12 @@
       "complicate",
       "worsen"
     ],
-    "sentences": []
+    "sentences": [
+      "Increased air pollution can lead to the exacerbation of asthma symptoms.",
+      "a skin condition exacerbated by too much sun",
+      "The new law only exacerbates the unemployment problem.",
+      "They feared sending more weapons would exacerbate the conflict."
+    ]
   },
   "exaggerate": {
     "synonyms": [
@@ -4276,7 +5173,9 @@
       "overstate",
       "put on"
     ],
-    "sentences": []
+    "sentences": [
+      "A friend exaggerates a man's virtues …"
+    ]
   },
   "exasperate": {
     "synonyms": [
@@ -4308,14 +5207,29 @@
       "spite",
       "vex"
     ],
-    "sentences": []
+    "sentences": [
+      "a toddler peeved at being refused a cookie",
+      "the new work schedules riled the employees",
+      "remarks made solely to provoke her",
+      "your pompous attitude nettled several people",
+      "his exasperating habit of putting off needed decisions",
+      "constant nagging that irritated me greatly",
+      "She did show favour to the youth in your sight only to exasperate you, to awake your dormouse valour, to put fire in your heart and brimstone in your liver.",
+      "… no doubt he thought that such rigorous discipline as that might exasperate five hundred emigrants into an insurrection.",
+      "It's a conundrum for any playwright: How do you enliven characters who alternately bore and exasperate each other?",
+      "It's a demanding dining experience that may exhaust and exasperate some customers …",
+      "… they are just like any brothers who love and exasperate each other in equal measure …",
+      "exasperate seed coats"
+    ]
   },
   "excavate": {
     "synonyms": [
       "dig",
       "shovel"
     ],
-    "sentences": []
+    "sentences": [
+      "excavate the remains of a temple"
+    ]
   },
   "exceed": {
     "synonyms": [
@@ -4344,7 +5258,16 @@
       "top",
       "tower (over)"
     ],
-    "sentences": []
+    "sentences": [
+      "outstripped other firms in sales",
+      "outdid herself this time",
+      "excels in mathematics",
+      "transcended the values of their culture",
+      "the book surpassed our expectations",
+      "exceed the speed limit",
+      "The river will exceed its banks by morning.",
+      "exceeded his authority"
+    ]
   },
   "excel": {
     "synonyms": [
@@ -4365,7 +5288,17 @@
       "tower (over)",
       "transcend"
     ],
-    "sentences": []
+    "sentences": [
+      "outstripped other firms in sales",
+      "outdid herself this time",
+      "excels in mathematics",
+      "transcended the values of their culture",
+      "the book surpassed our expectations",
+      "exceed the speed limit",
+      "excel in sports",
+      "excelled at lipreading",
+      "She really excelled herself in her last race!"
+    ]
   },
   "excellence": {
     "synonyms": [
@@ -4386,7 +5319,21 @@
       "value",
       "virtue"
     ],
-    "sentences": []
+    "sentences": [
+      "Lord Regent, I do greet your Excellence …",
+      "… I am as admiring as almost everyone else of the film's many excellences …",
+      "an award for academic excellence",
+      "setting a high standard of excellence",
+      "… [author Charise] Marie … chose to attend after a few friends told her about the festival and that she is Black excellence …",
+      "You are black excellence, and I am proud, we are all proud to be standing on your legacy and strong shoulders as young activists, pioneers and dreamers.",
+      "… the language of Black excellence, or the long-held belief among African Americans that they must work twice as hard for half as much as white people receive.",
+      "It's what Black parents have been telling their children for decades: If you want to keep your place on the team, you need to overperform. Black excellence is a survival strategy …",
+      "We celebrate Malcolm X when he's told by his teacher right in the face, you can't be a lawyer. And he's able to overcome that. We celebrate the Black excellence in the face of resistance and oppression.",
+      "He was met with resistance, but the Navy had no choice but to admit him because he scored so highly on his entrance exams. By 1948, [Jesse L.] Brown had completed his training and received his Naval Aviator Badge. The media began to take notice of Brown's achievement and he went on to become a beacon of Black excellence in the US military.",
+      "Recognizing exceptional individuals who have made contributions to their respective fields, these awards celebrate black excellence and leadership on a global scale.",
+      "a chef par excellence",
+      "The university is becoming a center of excellence for genetic engineering."
+    ]
   },
   "excellency": {
     "synonyms": [
@@ -4407,7 +5354,9 @@
       "superiority",
       "supremacy"
     ],
-    "sentences": []
+    "sentences": [
+      "… so / crammed, as he thinks, with excellencies …"
+    ]
   },
   "excellent": {
     "synonyms": [
@@ -4505,7 +5454,11 @@
       "wizard",
       "wonderful"
     ],
-    "sentences": []
+    "sentences": [
+      "Based on some reliable inside information, we have it on excellent authority that the company will soon be making layoffs.",
+      "She has it on good authority that the playwright will be writing a novel next.",
+      "She was running every evening to stay/keep in condition."
+    ]
   },
   "excerpt": {
     "synonyms": [
@@ -4524,7 +5477,14 @@
       "supernumerary",
       "surplus"
     ],
-    "sentences": []
+    "sentences": [
+      "… prevent excesses and abuses by newly created local powers.",
+      "an excess of 10 bushels",
+      "excessed several teachers because of budget cutbacks",
+      "Eating anything in excess can be bad for you.",
+      "He often eats to excess.",
+      "college students who drink to excess"
+    ]
   },
   "excitable": {
     "synonyms": [
@@ -4544,7 +5504,13 @@
       "spasmodic",
       "spooky"
     ],
-    "sentences": []
+    "sentences": [
+      "excitable cells",
+      "hyperexcitability of motor neurons",
+      "a medication that can cause hyperexcitability",
+      "hyperexcitable children",
+      "Dr. Walters believes that for a nerve cell to become hyperexcitable when it or its neighbor has been injured makes evolutionary sense."
+    ]
   },
   "exclamation": {
     "synonyms": [
@@ -4552,7 +5518,10 @@
       "ejaculation",
       "interjection"
     ],
-    "sentences": []
+    "sentences": [
+      "Their victory in the final game put an exclamation point on the season.",
+      "His victory in the final game put an exclamation point on a brilliant year."
+    ]
   },
   "exclude": {
     "synonyms": [
@@ -4584,7 +5553,13 @@
       "silent treatment",
       "snub"
     ],
-    "sentences": []
+    "sentences": [
+      "a self-exclusion program",
+      "A problem gambler who signs up for the self-exclusion list won't be allowed to enter any of Indiana's casinos.",
+      "[Tony] Santo said … they will offer people with gambling addictions the option of voluntary self-exclusion from the casino, which staff will then enforce.",
+      "… the difficulty in determining that the self-exclusion is truly voluntary where it is apparent that attempts to integrate would be rebuffed.",
+      "He spent all his time with colleagues to the exclusion of his own family."
+    ]
   },
   "excrescence": {
     "synonyms": [
@@ -4607,7 +5582,9 @@
       "pockmark",
       "scar"
     ],
-    "sentences": []
+    "sentences": [
+      "warty excrescences in the colon"
+    ]
   },
   "excruciate": {
     "synonyms": [
@@ -4642,7 +5619,10 @@
       "divagation",
       "tangent"
     ],
-    "sentences": []
+    "sentences": [
+      "the excursion of a piston",
+      "needless excursions into abstruse theory"
+    ]
   },
   "excusable": {
     "synonyms": [
@@ -4653,7 +5633,18 @@
       "remittable",
       "venial"
     ],
-    "sentences": []
+    "sentences": [
+      "could not forgive their rudeness",
+      "pardon a criminal",
+      "a society that condones alcohol but not narcotics",
+      "injustice excuses strong responses",
+      "excuse an interruption",
+      "excused them for interrupting",
+      "Nothing can excuse such neglect.",
+      "excused the class",
+      "was excused from jury duty",
+      "graciously excused his tardiness"
+    ]
   },
   "execrable": {
     "synonyms": [
@@ -4713,7 +5704,10 @@
       "sordid",
       "vile"
     ],
-    "sentences": []
+    "sentences": [
+      "execrable hotel food",
+      "execrable crimes"
+    ]
   },
   "execration": {
     "synonyms": [
@@ -4755,7 +5749,9 @@
       "agency",
       "subagency"
     ],
-    "sentences": []
+    "sentences": [
+      "She and her brother were named coexecutors of the estate."
+    ]
   },
   "exegesis": {
     "synonyms": [
@@ -4770,7 +5766,10 @@
       "interpretation",
       "road map"
     ],
-    "sentences": []
+    "sentences": [
+      "As an exegesis, though, it's nicely done, and Kennedy traces Sontag's main themes deftly along tortuous paths through both essays and fiction.",
+      "… politicians accustomed to speaking in 20-second sound bites suddenly began regaling (empty) galleries with windy, tendentious exegeses of the Founding Fathers' thoughts on the role of the Senate in confirming judges."
+    ]
   },
   "exemplar": {
     "synonyms": [
@@ -4800,7 +5799,14 @@
       "perfection",
       "quintessence"
     ],
-    "sentences": []
+    "sentences": [
+      "never found a job that matched his ideal",
+      "cited Joan of Arc as the exemplar of courage",
+      "American industry set a pattern for others to follow",
+      "children tend to follow the example of their parents",
+      "a decor that is a model of good taste",
+      "an exemplar of medieval architecture"
+    ]
   },
   "exemplary": {
     "synonyms": [
@@ -4820,7 +5826,12 @@
       "premonitory",
       "warning"
     ],
-    "sentences": []
+    "sentences": [
+      "given an exemplary punishment",
+      "This story is exemplary of her style.",
+      "… they serve exemplary pastries …",
+      "Their courage was exemplary."
+    ]
   },
   "exemplify": {
     "synonyms": [
@@ -4828,7 +5839,11 @@
       "illustrate",
       "instance"
     ],
-    "sentences": []
+    "sentences": [
+      "a dish that exemplifies French cuisine",
+      "She exemplifies the qualities of a good leader.",
+      "anecdotes exemplifying those virtues"
+    ]
   },
   "exempt": {
     "synonyms": [
@@ -4850,7 +5865,11 @@
       "invincible",
       "invulnerable"
     ],
-    "sentences": []
+    "sentences": [
+      "was exempt from jury duty",
+      "the estate was exempt from taxes",
+      "exempted from military service"
+    ]
   },
   "exert": {
     "synonyms": [
@@ -4860,7 +5879,18 @@
       "put out",
       "wield"
     ],
-    "sentences": []
+    "sentences": [
+      "exerted leadership abilities intelligently",
+      "exerted a lot of influence on fellow committee members",
+      "won't have to exert himself moving the table",
+      "The force is exerted sideways.",
+      "Don't exert yourself too much.",
+      "She's always willing to exert herself to help other people.",
+      "an injury caused by overexertion",
+      "Muriel was sent to bed at the slightest symptom and warned against overexerting herself …",
+      "There are two types of heat stroke: exertional, which typically affects active people who overexert themselves in heat, and passive, which generally involves elderly or sedentary people who are exposed to high temperatures.",
+      "People at highest risk of heat-related illness include the very young, the elderly and those of any age who overexert in the heat."
+    ]
   },
   "exhale": {
     "synonyms": [
@@ -4883,7 +5913,9 @@
       "throw out",
       "vent"
     ],
-    "sentences": []
+    "sentences": [
+      "She exhaled a sigh."
+    ]
   },
   "exhaust": {
     "synonyms": [
@@ -4917,7 +5949,32 @@
       "spend",
       "use up"
     ],
-    "sentences": []
+    "sentences": [
+      "appetites jaded by overindulgence",
+      "shoveling snow exhausted him",
+      "fatigued by the day's chores",
+      "wearied of the constant arguing",
+      "the long ride tired us out",
+      "war had bankrupted the nation of resources",
+      "impoverished soil",
+      "her lecture exhausted the subject",
+      "personal tragedy had drained him of all spirit",
+      "depleting our natural resources",
+      "The engine exhausts through the muffler.",
+      "exhausted all the possibilities",
+      "exhaust the water of a well",
+      "exhaust a soil of fertility",
+      "exhausted by overwork",
+      "exhausted our funds in a week",
+      "They've exhausted (all) the possibilities.",
+      "the house had great possibilities",
+      "Rain is a possibility today.",
+      "The future holds untold possibilities.",
+      "We exhausted all the possibilities. =we did everything we could think of",
+      "the possibility of rain today",
+      "It is not outside the range/realm of possibility that we'll win.",
+      "There is a strong/real/remote/faint possibility that I'll get the job."
+    ]
   },
   "exhaustible": {
     "synonyms": [
@@ -4951,7 +6008,24 @@
       "spend",
       "use up"
     ],
-    "sentences": []
+    "sentences": [
+      "appetites jaded by overindulgence",
+      "shoveling snow exhausted him",
+      "fatigued by the day's chores",
+      "wearied of the constant arguing",
+      "the long ride tired us out",
+      "war had bankrupted the nation of resources",
+      "impoverished soil",
+      "her lecture exhausted the subject",
+      "personal tragedy had drained him of all spirit",
+      "depleting our natural resources",
+      "The engine exhausts through the muffler.",
+      "exhausted all the possibilities",
+      "exhaust the water of a well",
+      "exhaust a soil of fertility",
+      "exhausted by overwork",
+      "exhausted our funds in a week"
+    ]
   },
   "exhaustion": {
     "synonyms": [
@@ -4994,7 +6068,9 @@
       "panoramic",
       "universal"
     ],
-    "sentences": []
+    "sentences": [
+      "conducted an exhaustive search"
+    ]
   },
   "exhilarate": {
     "synonyms": [
@@ -5012,14 +6088,22 @@
       "enrapture",
       "transport"
     ],
-    "sentences": []
+    "sentences": [
+      "was exhilarated by her success",
+      "It's a demanding dining experience that may exhaust and exasperate some customers, but exhilarate those who desire a challenge more than comfort.",
+      "Uncle George tells stories … and exhilarates everybody with his good humour and hospitality.",
+      "When antislavery senator Charles Sumner was honored in a demonstration that exhilarated antebellum Boston, Louisa was there …"
+    ]
   },
   "exhume": {
     "synonyms": [
       "disinter",
       "unearth"
     ],
-    "sentences": []
+    "sentences": [
+      "exhumed a great deal of information from the archives",
+      "exhume a body"
+    ]
   },
   "exigency": {
     "synonyms": [
@@ -5040,7 +6124,17 @@
       "tinderbox",
       "zero hour"
     ],
-    "sentences": []
+    "sentences": [
+      "a crisis of confidence",
+      "in dire straits",
+      "come through in a pinch",
+      "contingency plans",
+      "the presence of mind needed to deal with emergencies",
+      "provide for exigencies",
+      "an important juncture in our country's history",
+      "a leader must act in any sudden exigency",
+      "… exceptionally quick in responding to the exigencies of modern warfare …"
+    ]
   },
   "exigent": {
     "synonyms": [
@@ -5060,7 +6154,10 @@
       "pressing",
       "urgent"
     ],
-    "sentences": []
+    "sentences": [
+      "an exigent client",
+      "exigent circumstances"
+    ]
   },
   "existence": {
     "synonyms": [
@@ -5071,7 +6168,16 @@
       "subsistence",
       "thingness"
     ],
-    "sentences": []
+    "sentences": [
+      "… all the fair existences of heaven …",
+      "existence of a state of war",
+      "the existence of other worlds",
+      "long before the country had come into existence",
+      "The company has since gone out of existence.",
+      "[Jean Paul] Sartre … states that the created entities cannot enjoy autonomy or self-existence because they must depend upon a creator.",
+      "a self-existent universe",
+      "… the Judeo-Christian concept of God, which has God as uniquely self-existent."
+    ]
   },
   "exit": {
     "synonyms": [
@@ -5109,7 +6215,10 @@
       "quietus",
       "sleep"
     ],
-    "sentences": []
+    "sentences": [
+      "made an early exit",
+      "The company needs to have an exit strategy."
+    ]
   },
   "exodus": {
     "synonyms": [
@@ -5128,7 +6237,13 @@
       "exculpate",
       "vindicate"
     ],
-    "sentences": []
+    "sentences": [
+      "her judgment was vindicated",
+      "voted to acquit the defendant",
+      "exonerated by the investigation",
+      "cannot be absolved of blame",
+      "exculpating himself from the charge of overenthusiasm"
+    ]
   },
   "exorbitance": {
     "synonyms": [
@@ -5169,7 +6284,14 @@
       "undue",
       "unmerciful"
     ],
-    "sentences": []
+    "sentences": [
+      "extreme shyness",
+      "exorbitant prices",
+      "extravagant claims for the product",
+      "inordinate pride",
+      "immoderate spending",
+      "excessive punishment"
+    ]
   },
   "exorcise": {
     "synonyms": [
@@ -5197,7 +6319,9 @@
       "toss",
       "unload"
     ],
-    "sentences": []
+    "sentences": [
+      "They tried hard to exorcise their feelings of guilt."
+    ]
   },
   "exotic": {
     "synonyms": [
@@ -5209,7 +6333,14 @@
       "romantic",
       "strange"
     ],
-    "sentences": []
+    "sentences": [
+      "exotic dancing",
+      "an exotic nightclub",
+      "exotic flavors",
+      "Until very recently the alpaca was an exotic sight at county fairs and petting zoos in the metropolitan region.",
+      "exotic plants",
+      "… exotic species creating havoc when introduced into new environments."
+    ]
   },
   "expand": {
     "synonyms": [
@@ -5263,7 +6394,23 @@
       "spread",
       "wax"
     ],
-    "sentences": []
+    "sentences": [
+      "dilated pupils",
+      "an inflated ego",
+      "a distended abdomen",
+      "the bureaucracy swelled to unmanageable proportions",
+      "amplify the statement with details",
+      "a business that expands every year",
+      "expanded on the theme",
+      "an expanding population",
+      "The universe is expanding.",
+      "expand a function in a power series",
+      "expand all abbreviations",
+      "They expanded the business to serve a larger area.",
+      "She declined to expand on her earlier statement.",
+      "Please expand on that idea.",
+      "Researchers will expand upon their data in a new study."
+    ]
   },
   "expanse": {
     "synonyms": [
@@ -5280,7 +6427,9 @@
       "stretch",
       "waste"
     ],
-    "sentences": []
+    "sentences": [
+      "an expanse of calm ocean"
+    ]
   },
   "expansion": {
     "synonyms": [
@@ -5320,7 +6469,12 @@
       "stretch",
       "waste"
     ],
-    "sentences": []
+    "sentences": [
+      "The book is an expansion of a lecture series.",
+      "territorial expansion",
+      "economic expansion",
+      "expansion of the universe"
+    ]
   },
   "expatriate": {
     "synonyms": [
@@ -5331,7 +6485,9 @@
       "expat",
       "refugee"
     ],
-    "sentences": []
+    "sentences": [
+      "Hemingway himself in The Sun Also Rises, 1926, had given the picture of the dislocated life of young English and American expatriates in the bars of Paris, the \"lost generation,\" as Gertrude Stein defined them."
+    ]
   },
   "expect": {
     "synonyms": [
@@ -5340,7 +6496,21 @@
       "hope (for)",
       "watch (for)"
     ],
-    "sentences": []
+    "sentences": [
+      "look for rain when the wind shifts to the northeast",
+      "looks to a tidy profit from the sale",
+      "hopes to find a job soon",
+      "expects to be finished by Tuesday",
+      "she's expecting next month",
+      "I expect they feel the same way.",
+      "We expect them any minute now.",
+      "I'm expecting a phone call.",
+      "They expect you to pay your bills.",
+      "expected hard work from the students",
+      "expect to be forgiven",
+      "expect that things will improve",
+      "We expect the worst when we return home after the storm passes."
+    ]
   },
   "expectancy": {
     "synonyms": [
@@ -5350,7 +6520,13 @@
       "expectation",
       "prospect"
     ],
-    "sentences": []
+    "sentences": [
+      "life expectancy",
+      "Their belief led to an expectancy.",
+      "an expectancy of an inheritance",
+      "occurs with an expectancy slightly greater than usual",
+      "The strange expectancy that getting on any train gives us …"
+    ]
   },
   "expectorate": {
     "synonyms": [
@@ -5385,7 +6561,9 @@
       "prudence",
       "wisdom"
     ],
-    "sentences": []
+    "sentences": [
+      "… put more emphasis on expediency than on principle."
+    ]
   },
   "expedient": {
     "synonyms": [
@@ -5397,7 +6575,17 @@
       "tactical",
       "wise"
     ],
-    "sentences": []
+    "sentences": [
+      "sometimes it's advisable to say nothing",
+      "a politic show of interest",
+      "a politically expedient decision",
+      "a new law intended only as a stopgap",
+      "old equipment employed as a makeshift",
+      "desperate shifts to stave off foreclosure",
+      "a flimsy expedient",
+      "exhausted all of their resources",
+      "a last resort"
+    ]
   },
   "expedite": {
     "synonyms": [
@@ -5436,7 +6624,16 @@
       "ready",
       "willing"
     ],
-    "sentences": []
+    "sentences": [
+      "the expeditious handling of an order",
+      "a hasty inspection",
+      "speedy delivery of mail",
+      "a quick wit",
+      "fleet runners",
+      "returned the ball with one swift stroke",
+      "rapid current",
+      "fast horses"
+    ]
   },
   "expend": {
     "synonyms": [
@@ -5460,7 +6657,10 @@
       "play out",
       "use up"
     ],
-    "sentences": []
+    "sentences": [
+      "projects on which they expended great energy",
+      "… the social services upon which public revenue is expended."
+    ]
   },
   "expense": {
     "synonyms": [
@@ -5471,7 +6671,23 @@
       "outgo",
       "outlay"
     ],
-    "sentences": []
+    "sentences": [
+      "acquired power at the expense of relationships",
+      "Everyone had a good laugh at my expense.",
+      "A new car is a major expense.",
+      "Those who have no experience of teaching are incapable of imagining the expense of spirit entailed …",
+      "A first-class ticket isn't worth the extra expense.",
+      "They built the monument at their own expense. =they paid for the monument",
+      "a fancy dinner at my parents' expense",
+      "a stadium built at the taxpayers' expense",
+      "The tour is free, but all meals are at your own expense.",
+      "Malls flourished at the expense of small stores downtown.",
+      "He argues that the tax cut will benefit the rich at the expense of the poor.",
+      "Why go to the expense of installing something you'll never use?",
+      "She went to great expense to have this party.",
+      "When they go on vacation, they spare no expense.",
+      "They spared no expense in building the house."
+    ]
   },
   "expiate": {
     "synonyms": [
@@ -5479,7 +6695,9 @@
       "mend",
       "redeem"
     ],
-    "sentences": []
+    "sentences": [
+      "… permission to expiate their offences by their assiduous labours …"
+    ]
   },
   "explicate": {
     "synonyms": [
@@ -5499,7 +6717,13 @@
       "spell out",
       "unriddle"
     ],
-    "sentences": []
+    "sentences": [
+      "interpreting a work of art",
+      "elucidate an obscure passage",
+      "explicate a poem",
+      "expounding a scientific theory",
+      "explain the rules"
+    ]
   },
   "explicit": {
     "synonyms": [
@@ -5512,7 +6736,23 @@
       "unequivocal",
       "univocal"
     ],
-    "sentences": []
+    "sentences": [
+      "two specific criticisms",
+      "her express wishes",
+      "the law is definite in such cases",
+      "explicit instructions",
+      "was very explicit on how we are to behave",
+      "an explicit plan",
+      "an explicit notion of our objective",
+      "scenes of explicit violence",
+      "sexually explicit conduct",
+      "explicit books and films",
+      "a song with explicit lyrics",
+      "They're concerned about exposing children to (sexually) explicit films.",
+      "explicit instructions/rules",
+      "Changes to the property can't be done without their explicit consent.",
+      "The law is very explicit about how these measures should be enacted."
+    ]
   },
   "explode": {
     "synonyms": [
@@ -5534,7 +6774,16 @@
       "flame",
       "flare (up)"
     ],
-    "sentences": []
+    "sentences": [
+      "explode a theory",
+      "explode a bomb",
+      "The shrubs exploded with blossoms.",
+      "The population of the city exploded.",
+      "exploded from the starting gate",
+      "exploded in anger",
+      "dynamite explodes",
+      "The engine burst/exploded into flames."
+    ]
   },
   "explosion": {
     "synonyms": [
@@ -5566,7 +6815,11 @@
       "scene",
       "tantrum"
     ],
-    "sentences": []
+    "sentences": [
+      "the explosion of suburbia",
+      "an explosion of red hair",
+      "injured in a laboratory explosion"
+    ]
   },
   "explosive": {
     "synonyms": [
@@ -5612,7 +6865,12 @@
       "turbulent",
       "volcanic"
     ],
-    "sentences": []
+    "sentences": [
+      "an explosive situation",
+      "an explosive person",
+      "explosive population growth",
+      "an explosive hatch"
+    ]
   },
   "exposition": {
     "synonyms": [
@@ -5653,7 +6911,9 @@
       "interpretative",
       "interpretive"
     ],
-    "sentences": []
+    "sentences": [
+      "expository writing"
+    ]
   },
   "expostulate": {
     "synonyms": [
@@ -5678,7 +6938,31 @@
       "divulgence",
       "revelation"
     ],
-    "sentences": []
+    "sentences": [
+      "36 exposures per roll",
+      "a room with a southern exposure",
+      "a 3-second exposure",
+      "tried to prevent exposure of their past",
+      "minimizes your exposure to market fluctuations",
+      "insurance covering the exposure",
+      "risk exposure to the flu",
+      "died of exposure",
+      "a politician seeks a lot of exposure",
+      "The candidates competed for media exposure.",
+      "post-exposure antiretroviral medications",
+      "post-exposure surveillance",
+      "Traditionally, most people only get treated for sexually transmitted infections after they notice symptoms, but this new method gets out ahead of a potential infection so the body can prevent it from occurring. In medical terms, it's known as post-exposure prophylaxis …",
+      "The new recommendations also include post-exposure prophylaxis for children: a single dose of doxycycline to be given after an engorged tick has been removed, especially during the summer months, to reduce the risk of Lyme disease.",
+      "Rats differ from monkeys and chicks in that simultaneous pre-exposure to two stimuli does facilitate their subsequent discrimination …",
+      "pre-exposure rabies vaccination",
+      "Canon has also added a red-eye reduction pre-exposure light …",
+      "If you are in a relationship with someone who has HIV, it's important to talk to your health care provider about what you can do to prevent contracting the disease. Pre-exposure prophylaxis, or PrEP, can give you the peace of mind to enjoy your relationship knowing you have taken that precaution.",
+      "Travelers should consider preexposure prophylaxis … vaccination if planned activities include encounters with domestic or wild animals, if staying longer than a month in an area where dog rabies is common, or if visiting remote areas where medical care may be delayed.",
+      "reexposure of buried rocks by erosion",
+      "In refugee situations where women and children's health conditions have improved, repatriation may mean reexposure to diseases and other conditions that will once again throw their lives in jeopardy.",
+      "Workers simply pushed clean sand over other sections of blackened beach; by August, the tides had reexposed the oil.",
+      "When the mice were exposed to the bee venom and then reexposed three weeks later at least 80 percent survived …"
+    ]
   },
   "expressive": {
     "synonyms": [
@@ -5691,7 +6975,12 @@
       "significant",
       "suggestive"
     ],
-    "sentences": []
+    "sentences": [
+      "an expressive silence",
+      "expressive line drawings",
+      "… foul and novel terms expressive of rage.",
+      "the expressive function of language"
+    ]
   },
   "expulsion": {
     "synonyms": [
@@ -5718,7 +7007,10 @@
       "present",
       "present-day"
     ],
-    "sentences": []
+    "sentences": [
+      "extant manuscripts",
+      "… the most charming writer extant …"
+    ]
   },
   "extemporaneous": {
     "synonyms": [
@@ -5742,7 +7034,11 @@
       "unrehearsed",
       "unstudied"
     ],
-    "sentences": []
+    "sentences": [
+      "an extemporaneous shelter",
+      "A great deal of criminal and delinquent behavior is … extemporaneous.",
+      "an extemporaneous comment"
+    ]
   },
   "extempore": {
     "synonyms": [
@@ -5766,7 +7062,9 @@
       "unrehearsed",
       "unstudied"
     ],
-    "sentences": []
+    "sentences": [
+      "speaking extempore"
+    ]
   },
   "extension": {
     "synonyms": [
@@ -5780,7 +7078,11 @@
       "annex",
       "penthouse"
     ],
-    "sentences": []
+    "sentences": [
+      "I missed the deadline but was given an extension.",
+      "Tools are extensions of human hands.",
+      "extension of the patient's life"
+    ]
   },
   "extensive": {
     "synonyms": [
@@ -5796,7 +7098,9 @@
       "wide-ranging",
       "widespread"
     ],
-    "sentences": []
+    "sentences": [
+      "extensive reading"
+    ]
   },
   "extenuate": {
     "synonyms": [
@@ -5808,7 +7112,12 @@
       "palliate",
       "whitewash"
     ],
-    "sentences": []
+    "sentences": [
+      "… it was true that he was an old friend and that … she felt a desire not to extenuate such ties.",
+      "extenuate the seriousness of a crime",
+      "There is no economic analysis that can extenuate bigotry.",
+      "… all the lies that society tells to justify its values and extenuate its conduct …"
+    ]
   },
   "exterior": {
     "synonyms": [
@@ -5817,7 +7126,10 @@
       "outside",
       "outward"
     ],
-    "sentences": []
+    "sentences": [
+      "exterior paint",
+      "His exterior quietness is belied by an occasional nervous twitch …"
+    ]
   },
   "external": {
     "synonyms": [
@@ -5833,7 +7145,14 @@
       "outside",
       "outward"
     ],
-    "sentences": []
+    "sentences": [
+      "external reality",
+      "an external force",
+      "a lotion for external use",
+      "the building's external features",
+      "external circumstances",
+      "external signs of a disease"
+    ]
   },
   "extinct": {
     "synonyms": [
@@ -5848,7 +7167,14 @@
       "nonextant",
       "vanished"
     ],
-    "sentences": []
+    "sentences": [
+      "an extinct title",
+      "extinct customs",
+      "an extinct animal",
+      "an extinct volcano",
+      "an extinct fire",
+      "an extinct hope"
+    ]
   },
   "extinguish": {
     "synonyms": [
@@ -5892,7 +7218,12 @@
       "squelch",
       "still"
     ],
-    "sentences": []
+    "sentences": [
+      "extinguish a debt",
+      "extinguish a claim",
+      "extinguished the candles",
+      "hope for their safety was slowly extinguished"
+    ]
   },
   "extol": {
     "synonyms": [
@@ -5916,7 +7247,14 @@
       "wrest",
       "wring"
     ],
-    "sentences": []
+    "sentences": [
+      "extorted their cooperation by threatening to inform",
+      "extracted a confession from him",
+      "careful questioning elicited the truth",
+      "a song that evokes warm memories",
+      "educed order out of chaos",
+      "He could always extort a day or two in class from them with the free weekly pizza."
+    ]
   },
   "extortion": {
     "synonyms": [
@@ -5966,7 +7304,16 @@
       "irrelative",
       "irrelevant"
     ],
-    "sentences": []
+    "sentences": [
+      "a practice totally alien to her nature",
+      "techniques foreign to French cuisine",
+      "arguments extraneous to the issue",
+      "sentimental value that is extrinsic to the house's market value",
+      "extraneous roots",
+      "an extraneous digression",
+      "extraneous ornamentation",
+      "extraneous light"
+    ]
   },
   "extraordinary": {
     "synonyms": [
@@ -6000,7 +7347,15 @@
       "unaccustomed",
       "weird"
     ],
-    "sentences": []
+    "sentences": [
+      "an ambassador extraordinary",
+      "an extraordinary gain",
+      "extraordinary beauty",
+      "an extraordinary session of the legislature",
+      "The court granted extraordinary relief.",
+      "extraordinary powers",
+      "America's prisoners considered of particular interest were routinely transferred to third countries, a practice known as \"extraordinary rendition.\""
+    ]
   },
   "extravagance": {
     "synonyms": [
@@ -6011,7 +7366,10 @@
       "wastefulness",
       "waste"
     ],
-    "sentences": []
+    "sentences": [
+      "the extravagance of the decorations",
+      "A new car is an extravagance we can't afford."
+    ]
   },
   "extravagant": {
     "synonyms": [
@@ -6061,7 +7419,19 @@
       "ultraexpensive",
       "valuable"
     ],
-    "sentences": []
+    "sentences": [
+      "extreme shyness",
+      "exorbitant prices",
+      "extravagant claims for the product",
+      "inordinate pride",
+      "immoderate spending",
+      "excessive punishment",
+      "They have always been extravagant with their money.",
+      "an extravagant purchase",
+      "an extravagant display",
+      "extravagant praise",
+      "extravagant claims"
+    ]
   },
   "extremist": {
     "synonyms": [
@@ -6097,7 +7467,11 @@
       "height",
       "limit"
     ],
-    "sentences": []
+    "sentences": [
+      "driven to extremities",
+      "… the extremity of his participation.",
+      "the island's westernmost extremity"
+    ]
   },
   "extricate": {
     "synonyms": [
@@ -6110,7 +7484,13 @@
       "release",
       "untangle"
     ],
-    "sentences": []
+    "sentences": [
+      "disembarrassed herself of her advisers",
+      "an article disencumbered of jargon",
+      "disentangling fact from fiction",
+      "untangle a web of deceit",
+      "extricated himself from financial difficulties"
+    ]
   },
   "extrude": {
     "synonyms": [
@@ -6132,7 +7512,11 @@
       "turf (out)",
       "turn out"
     ],
-    "sentences": []
+    "sentences": [
+      "Not only will this package allow you to grind your own meat very easily using that powerful motor, but you can also … use it to extrude pasta dough into long shapes …",
+      "Female goosefish extrude a gelatinous ribbon of eggs once a year. …",
+      "The dark areas (maria) were shown to be produced by basic lavas extruded from deep below the surface of a hot Moon."
+    ]
   },
   "exuberance": {
     "synonyms": [
@@ -6149,7 +7533,9 @@
       "vigorousness",
       "vitality"
     ],
-    "sentences": []
+    "sentences": [
+      "youthful exuberance"
+    ]
   },
   "exuberant": {
     "synonyms": [
@@ -6165,6 +7551,73 @@
       "high-spirited",
       "vivacious"
     ],
-    "sentences": []
+    "sentences": [
+      "an exuberant imagination",
+      "a lush green lawn",
+      "a luxuriant beard",
+      "prodigal spending",
+      "a lavish party",
+      "profuse apologies",
+      "exuberant prosperity",
+      "exuberant foliage and vegetation",
+      "exuberant architecture",
+      "exuberant praise",
+      "an exuberant personality"
+    ]
+  },
+  "efflorescent": {
+    "synonyms": [],
+    "sentences": [
+      "… periods of … intellectual and artistic efflorescence."
+    ]
+  },
+  "effusion": {
+    "synonyms": [],
+    "sentences": [
+      "… greeted her with great effusion …"
+    ]
+  },
+  "emeritus": {
+    "synonyms": [],
+    "sentences": [
+      "professors emeriti",
+      "professor emeritus"
+    ]
+  },
+  "enamor": {
+    "synonyms": [],
+    "sentences": [
+      "baseball fans enamored of statistics"
+    ]
+  },
+  "epiphany": {
+    "synonyms": [],
+    "sentences": [
+      "The novel's epiphany … does not yield an image of the individual self in communion with the world but a monstrous vision of that world in flames …",
+      "When a child moves from recognizing letters to decoding and comprehension, a moment of epiphany takes place and children become empowered through their knowledge.",
+      "… a food writer who has traveled around the world in an endless quest for epiphanies of flavor …",
+      "… the experience is an epiphany whereby the true essence of cooking is revealed.",
+      "the epiphany of God in Christ"
+    ]
+  },
+  "equestrian": {
+    "synonyms": [],
+    "sentences": [
+      "equestrian Olympic events"
+    ]
+  },
+  "eureka": {
+    "synonyms": [],
+    "sentences": [
+      "a eureka moment"
+    ]
+  },
+  "extrajudicial": {
+    "synonyms": [],
+    "sentences": [
+      "an extrajudicial execution",
+      "the judge's extrajudicial statements",
+      "an extrajudicial investigation"
+    ]
   }
 }

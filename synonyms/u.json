@@ -1,1 +1,1915 @@
-{}
+{
+  "ubiquitous": {
+    "synonyms": [
+      "common",
+      "common or garden",
+      "commonplace",
+      "everyday",
+      "familiar",
+      "frequent",
+      "garden-variety",
+      "household",
+      "ordinary",
+      "quotidian",
+      "routine",
+      "usual",
+      "omnipresent",
+      "universal",
+      "wall-to-wall"
+    ],
+    "sentences": [
+      "a ubiquitous fashion",
+      "The company's ads are ubiquitous.",
+      "From the sky to the water, blue is one of the most ubiquitous colors in nature.",
+      "Florals are a ubiquitous trend that comes with the spring and summertime seasons."
+    ]
+  },
+  "ulterior": {
+    "synonyms": [
+      "eventual",
+      "final",
+      "last",
+      "ultimate",
+      "coming",
+      "unborn",
+      "approaching",
+      "forthcoming",
+      "imminent",
+      "impending",
+      "nearing",
+      "oncoming",
+      "pending",
+      "upcoming",
+      "after",
+      "ensuing",
+      "later",
+      "posterior",
+      "subsequent",
+      "anticipated",
+      "awaited",
+      "expected",
+      "future",
+      "planned",
+      "predicted",
+      "projected",
+      "prospective"
+    ],
+    "sentences": [
+      "ulterior motives",
+      "I think she has an ulterior motive for helping us."
+    ]
+  },
+  "ultimate": {
+    "synonyms": [
+      "consummate",
+      "last",
+      "max",
+      "maximum",
+      "most",
+      "nth",
+      "outside",
+      "paramount",
+      "supreme",
+      "top",
+      "utmost",
+      "uttermost",
+      "bottommost",
+      "closing",
+      "concluding",
+      "final",
+      "hindmost",
+      "lag",
+      "latest",
+      "latter",
+      "rearmost",
+      "terminal",
+      "terminating",
+      "extreme",
+      "farthermost",
+      "farthest",
+      "furthermost",
+      "furthest",
+      "outermost",
+      "outmost",
+      "remotest"
+    ],
+    "sentences": [
+      "the ultimate collapse of the system",
+      "terminal phase of a disease",
+      "final day of school",
+      "last page of a book",
+      "last news we had of him",
+      "… the ultimate nature of things …",
+      "the ultimate source",
+      "the ultimate question",
+      "the ultimate sacrifice",
+      "They hoped for ultimate success.",
+      "Their ultimate destination was Paris.",
+      "This car is the ultimate in safety.",
+      "They provide their customers with the ultimate in service.",
+      "goods sold at a sacrifice",
+      "a goat offered as a sacrifice",
+      "a place where human/animal sacrifices were made in ancient rituals",
+      "the sacrifices made by parents",
+      "The labor union crafted an historic contract that made up for sacrifices hourly workers made to help the automakers in years past.",
+      "When we make little sacrifices we like to have them appreciated, at least …",
+      "… knowledge … from books purchased at great personal sacrifice.",
+      "soldiers who made the final/supreme/ultimate sacrifice =died while serving their country",
+      "He made the final/supreme/ultimate sacrifice for his country."
+    ]
+  },
+  "ultimatum": {
+    "synonyms": [
+      "claim",
+      "demand",
+      "dun",
+      "importunity",
+      "requisition"
+    ],
+    "sentences": []
+  },
+  "umbrage": {
+    "synonyms": [
+      "dudgeon",
+      "huff",
+      "miff",
+      "offense",
+      "peeve",
+      "pique",
+      "resentment"
+    ],
+    "sentences": [
+      "in a huff he slammed the door",
+      "stormed out of the meeting in high dudgeon",
+      "in a pique I foolishly declined the invitation",
+      "took umbrage at the offer of advice",
+      "harbored a lifelong resentment of his brother",
+      "takes deep offense at racial slurs",
+      "… the towering umbrage of oak and elm in the parklands …",
+      "If someone disagrees with him, he doesn't take umbrage.",
+      "She took umbrage at the speaker's remarks.",
+      "… the shock jock turned media power broker vacillated between contrition and umbrage …"
+    ]
+  },
+  "unaccountable": {
+    "synonyms": [
+      "inexplainable",
+      "inexplicable",
+      "unexplainable"
+    ],
+    "sentences": [
+      "unaccountably, he stayed right there",
+      "looking unaccountably upset",
+      "heat was unaccountably disappearing"
+    ]
+  },
+  "unaffected": {
+    "synonyms": [
+      "artless",
+      "genuine",
+      "guileless",
+      "honest",
+      "ingenuous",
+      "innocent",
+      "naive",
+      "natural",
+      "real",
+      "simple",
+      "sincere",
+      "true",
+      "unpretending",
+      "unpretentious"
+    ],
+    "sentences": []
+  },
+  "unanimous": {
+    "synonyms": [
+      "agreeable",
+      "amicable",
+      "compatible",
+      "congenial",
+      "frictionless",
+      "harmonious",
+      "kindred",
+      "united"
+    ],
+    "sentences": []
+  },
+  "unanimity": {
+    "synonyms": [
+      "accord",
+      "agreement",
+      "concurrence",
+      "concurrency",
+      "consensus",
+      "unison"
+    ],
+    "sentences": []
+  },
+  "unavoidable": {
+    "synonyms": [
+      "certain",
+      "ineluctable",
+      "ineludible",
+      "inescapable",
+      "inevitable",
+      "necessary",
+      "sure",
+      "unescapable"
+    ],
+    "sentences": [
+      "The accident was unavoidable."
+    ]
+  },
+  "unbearable": {
+    "synonyms": [
+      "insufferable",
+      "insupportable",
+      "intolerable",
+      "unendurable",
+      "unsupportable"
+    ],
+    "sentences": [
+      "unbearable pain"
+    ]
+  },
+  "unbecoming": {
+    "synonyms": [
+      "amiss",
+      "graceless",
+      "improper",
+      "inapposite",
+      "inappropriate",
+      "inapt",
+      "incongruous",
+      "incorrect",
+      "indecorous",
+      "inept",
+      "infelicitous",
+      "malapropos",
+      "perverse",
+      "unapt",
+      "unfit",
+      "unhappy",
+      "unseemly",
+      "unsuitable",
+      "untoward",
+      "wrong"
+    ],
+    "sentences": [
+      "indelicate expressions for bodily functions",
+      "conduct unbecoming to an officer",
+      "remarried with unseemly haste",
+      "improper use of campaign contributions",
+      "indecorous behavior",
+      "unbecoming behavior",
+      "conduct that is unbecoming an officer = conduct that is unbecoming of/for an officer",
+      "an unbecoming dress"
+    ]
+  },
+  "unbelief": {
+    "synonyms": [
+      "disbelief",
+      "incredulity",
+      "nonbelief"
+    ],
+    "sentences": []
+  },
+  "unbiased": {
+    "synonyms": [
+      "candid",
+      "disinterested",
+      "dispassionate",
+      "equal",
+      "equitable",
+      "evenhanded",
+      "fair",
+      "impartial",
+      "indifferent",
+      "just",
+      "nonpartisan",
+      "objective",
+      "square",
+      "unprejudiced"
+    ],
+    "sentences": [
+      "I can't be objective about my own child",
+      "a dispassionate summation of the facts",
+      "your unbiased opinion",
+      "an impartial third party",
+      "the equitable distribution of the property",
+      "a just settlement of territorial claims",
+      "a fair decision",
+      "an unbiased estimate of the population mean",
+      "an unbiased opinion"
+    ]
+  },
+  "unbridled": {
+    "synonyms": [
+      "abandoned",
+      "intemperate",
+      "rampant",
+      "raw",
+      "runaway",
+      "unbounded",
+      "unchecked",
+      "uncontrolled",
+      "unhampered",
+      "unhindered",
+      "unrestrained"
+    ],
+    "sentences": [
+      "unbridled enthusiasm",
+      "live in an area of unbridled development"
+    ]
+  },
+  "uncommon": {
+    "synonyms": [
+      "aberrant",
+      "aberrated",
+      "abnormal",
+      "anomalous",
+      "atypical",
+      "especial",
+      "exceeding",
+      "exceptional",
+      "extraordinaire",
+      "extraordinary",
+      "freak",
+      "odd",
+      "peculiar",
+      "phenomenal",
+      "preternatural",
+      "rare",
+      "singular",
+      "uncustomary",
+      "unique",
+      "unusual",
+      "unwonted",
+      "curious",
+      "funny",
+      "offbeat",
+      "out-of-the-way",
+      "queer",
+      "strange",
+      "unaccustomed",
+      "weird"
+    ],
+    "sentences": [
+      "sporadic cases of influenza",
+      "rare first editions",
+      "jobs were scarce during the Depression",
+      "smallpox is now uncommon in many countries",
+      "infrequent family visits",
+      "a soldier of uncommon courage",
+      "an uncommon plant"
+    ]
+  },
+  "unconscionable": {
+    "synonyms": [
+      "baroque",
+      "devilish",
+      "excessive",
+      "exorbitant",
+      "extravagant",
+      "extreme",
+      "fancy",
+      "immoderate",
+      "inordinate",
+      "insane",
+      "intolerable",
+      "lavish",
+      "over-the-top",
+      "overdue",
+      "overextravagant",
+      "overmuch",
+      "overweening",
+      "plethoric",
+      "steep",
+      "stiff",
+      "towering",
+      "undue",
+      "unmerciful",
+      "cutthroat",
+      "immoral",
+      "Machiavellian",
+      "unethical",
+      "unprincipled",
+      "unscrupulous"
+    ],
+    "sentences": [
+      "an unconscionable villain",
+      "found an unconscionable number of defects in the car",
+      "unconscionable sales practices",
+      "an unconscionable provision in the contract"
+    ]
+  },
+  "unconscious": {
+    "synonyms": [
+      "cold",
+      "insensible",
+      "senseless",
+      "clueless",
+      "ignorant",
+      "incognizant",
+      "innocent",
+      "nescient",
+      "oblivious",
+      "unacquainted",
+      "unaware",
+      "uninformed",
+      "unknowing",
+      "unmindful",
+      "unwitting"
+    ],
+    "sentences": [
+      "an unconscious bias",
+      "unconscious matter",
+      "unconscious motivation",
+      "was unconscious for three days"
+    ]
+  },
+  "unctuous": {
+    "synonyms": [
+      "artificial",
+      "backhanded",
+      "counterfeit",
+      "double",
+      "double-dealing",
+      "double-faced",
+      "fake",
+      "feigned",
+      "hypocritical",
+      "insincere",
+      "Janus-faced",
+      "jive",
+      "left-handed",
+      "lip",
+      "mealy",
+      "mealymouthed",
+      "Pecksniffian",
+      "phony",
+      "phony-baloney",
+      "pretended",
+      "two-faced",
+      "adulatory",
+      "fulsome",
+      "gushing",
+      "gushy",
+      "hagiographic",
+      "oily",
+      "oleaginous",
+      "soapy"
+    ],
+    "sentences": [
+      "fine unctuous clay",
+      "… delectably unctuous bacon-wrapped black cod.",
+      "an unctuous appraisal of the boss's decision"
+    ]
+  },
+  "undeceive": {
+    "synonyms": [
+      "disabuse",
+      "disenchant",
+      "disillusion"
+    ],
+    "sentences": []
+  },
+  "undercharge": {
+    "synonyms": [
+      "overcharge",
+      "ask",
+      "charge",
+      "command",
+      "demand",
+      "bring",
+      "fetch",
+      "sell (for)",
+      "discount",
+      "mark down",
+      "mark up",
+      "assess",
+      "bill",
+      "invoice",
+      "price",
+      "value"
+    ],
+    "sentences": [
+      "undercharge an oil company for shipments"
+    ]
+  },
+  "undersell": {
+    "synonyms": [
+      "corner",
+      "engross",
+      "monopolize",
+      "black-market",
+      "bootleg",
+      "fence",
+      "smuggle",
+      "day-trade",
+      "invest",
+      "speculate",
+      "distribute",
+      "fair-trade",
+      "market",
+      "peddle",
+      "retail",
+      "sell",
+      "supply",
+      "vend",
+      "wholesale",
+      "buy",
+      "pick up",
+      "purchase",
+      "take",
+      "auction",
+      "exchange",
+      "merchandise",
+      "rebuy",
+      "resell",
+      "swap",
+      "bargain",
+      "barter",
+      "horse-trade",
+      "negotiate",
+      "transact",
+      "deal",
+      "trade",
+      "traffic"
+    ],
+    "sentences": [
+      "advising job applicants not to undersell themselves",
+      "Don't undersell the qualities of a worthy trail horse …",
+      "Dylan's musicianship is often undersold by critics …",
+      "imported cars that undersell domestic ones",
+      "undersell a competitor",
+      "we will not be undersold"
+    ]
+  },
+  "undersized": {
+    "synonyms": [
+      "bantam",
+      "diminutive",
+      "dinky",
+      "dwarfish",
+      "fine",
+      "half-pint",
+      "Lilliputian",
+      "little",
+      "pint-size",
+      "pocket",
+      "pocket-size",
+      "puny",
+      "pygmy",
+      "shrimpy",
+      "slight",
+      "small",
+      "smallish",
+      "subnormal",
+      "toylike"
+    ],
+    "sentences": [
+      "undersized trout"
+    ]
+  },
+  "underhanded": {
+    "synonyms": [
+      "bent",
+      "crooked",
+      "deceptive",
+      "dishonest",
+      "double-dealing",
+      "duplicitous",
+      "fast",
+      "fraudulent",
+      "guileful",
+      "rogue",
+      "shady",
+      "sharp",
+      "shifty",
+      "underhand",
+      "backstairs",
+      "behind-the-scenes",
+      "clandestine",
+      "covert",
+      "furtive",
+      "hole-and-corner",
+      "hugger-mugger",
+      "hush-hush",
+      "private",
+      "privy",
+      "secret",
+      "sneak",
+      "sneaking",
+      "sneaky",
+      "stealth",
+      "stealthy",
+      "surreptitious",
+      "undercover",
+      "underground"
+    ],
+    "sentences": [
+      "… flipped the ball to him underhanded.",
+      "an underhanded trick",
+      "the surreptitious stockpiling of weapons",
+      "a clandestine meeting of conspirators",
+      "lovers exchanging furtive glances",
+      "the stealthy step of a burglar",
+      "covert intelligence operations",
+      "met at a secret location",
+      "an underhanded attempt to gain power"
+    ]
+  },
+  "underlie": {
+    "synonyms": [
+      "steady",
+      "truss",
+      "bear",
+      "bolster",
+      "brace",
+      "buttress",
+      "carry",
+      "prop (up)",
+      "shore (up)",
+      "stay",
+      "support",
+      "sustain",
+      "undergird",
+      "underpin",
+      "uphold",
+      "ground",
+      "base",
+      "hang",
+      "predicate",
+      "rest",
+      "conduce (to)",
+      "contribute (to)",
+      "back",
+      "corroborate",
+      "reinforce",
+      "substantiate",
+      "confirm",
+      "establish",
+      "prove",
+      "verify",
+      "affirm",
+      "avouch",
+      "validate",
+      "found",
+      "assume",
+      "postulate",
+      "premise",
+      "presume",
+      "presuppose",
+      "suppose"
+    ],
+    "sentences": [
+      "ideas underlying the revolution"
+    ]
+  },
+  "underling": {
+    "synonyms": [
+      "inferior",
+      "junior",
+      "subordinate"
+    ],
+    "sentences": []
+  },
+  "undermine": {
+    "synonyms": [
+      "deteriorate",
+      "enervate",
+      "enfeeble",
+      "weaken",
+      "blemish",
+      "bloody",
+      "break",
+      "compromise",
+      "crab",
+      "cripple",
+      "cross (up)",
+      "damage",
+      "deface",
+      "disfigure",
+      "endamage",
+      "flaw",
+      "harm",
+      "hurt",
+      "impair",
+      "injure",
+      "mar",
+      "spoil",
+      "vitiate",
+      "erode",
+      "scour",
+      "wash out",
+      "wear (away)",
+      "blight",
+      "tarnish",
+      "dent",
+      "ding",
+      "dint",
+      "botch",
+      "gum (up)",
+      "queer",
+      "lacerate",
+      "wound",
+      "disable",
+      "hamstring",
+      "lame",
+      "maim",
+      "mangle",
+      "mutilate",
+      "torment",
+      "torture",
+      "annihilate",
+      "bang up",
+      "bash",
+      "batter",
+      "clobber",
+      "crush",
+      "dash",
+      "decimate",
+      "demolish",
+      "desolate",
+      "destroy",
+      "devastate",
+      "do in",
+      "pulverize",
+      "raze",
+      "ruin",
+      "scourge",
+      "shatter",
+      "smash",
+      "tear down",
+      "total",
+      "waste",
+      "wipe out",
+      "wreck"
+    ],
+    "sentences": [
+      "disabled by an injury sustained at work",
+      "a poor diet undermines your health",
+      "drugs had sapped his ability to think",
+      "the debilitating effects of surgery",
+      "enfeebled by starvation",
+      "a disease that weakens the body's defenses",
+      "trying to undermine his political rivals"
+    ]
+  },
+  "underrate": {
+    "synonyms": [
+      "underestimate",
+      "undervalue"
+    ],
+    "sentences": [
+      "His off-the-cuff improvisations, his airy tendency to throw out half-baked ideas, caused others to underrate his continuity of purpose …",
+      "As I watched the film for the first time …, it seemed to me that its effect was to exploit innocence and violence in ways that overrate the power of the first and underrate the complexity of the second …"
+    ]
+  },
+  "understate": {
+    "synonyms": [
+      "underplay",
+      "de-emphasize",
+      "downplay",
+      "play down",
+      "soft-pedal",
+      "bad-mouth",
+      "belittle",
+      "cry down",
+      "decry",
+      "denigrate",
+      "deprecate",
+      "depreciate",
+      "derogate",
+      "dismiss",
+      "disparage",
+      "kiss off",
+      "minimize",
+      "poor-mouth",
+      "put down",
+      "run down",
+      "talk down",
+      "trash",
+      "trash-talk"
+    ],
+    "sentences": [
+      "understate taxable income"
+    ]
+  },
+  "undervalue": {
+    "synonyms": [
+      "underestimate",
+      "underrate"
+    ],
+    "sentences": [
+      "was undervalued as a poet",
+      "undervalue stock"
+    ]
+  },
+  "underworld": {
+    "synonyms": [
+      "demimonde",
+      "demiworld",
+      "half-world",
+      "netherworld",
+      "underbelly"
+    ],
+    "sentences": [
+      "the town's seedy underworld"
+    ]
+  },
+  "underwrite": {
+    "synonyms": [
+      "bankroll",
+      "capitalize",
+      "endow",
+      "finance",
+      "fund",
+      "stake",
+      "subsidize"
+    ],
+    "sentences": [
+      "underwrite a project"
+    ]
+  },
+  "undue": {
+    "synonyms": [
+      "baroque",
+      "devilish",
+      "excessive",
+      "exorbitant",
+      "extravagant",
+      "extreme",
+      "fancy",
+      "immoderate",
+      "inordinate",
+      "insane",
+      "intolerable",
+      "lavish",
+      "over-the-top",
+      "overdue",
+      "overextravagant",
+      "overmuch",
+      "overweening",
+      "plethoric",
+      "steep",
+      "stiff",
+      "towering",
+      "unconscionable",
+      "unmerciful"
+    ],
+    "sentences": [
+      "undue force"
+    ]
+  },
+  "undulate": {
+    "synonyms": [
+      "flicker",
+      "fluctuate",
+      "flutter",
+      "oscillate",
+      "wave",
+      "agitate",
+      "bucket",
+      "convulse",
+      "jerk",
+      "jiggle",
+      "joggle",
+      "jolt",
+      "jounce",
+      "judder",
+      "quake",
+      "quiver",
+      "shake",
+      "shudder",
+      "vibrate",
+      "wobble",
+      "rock",
+      "sway",
+      "swing",
+      "chatter",
+      "quaver",
+      "shiver",
+      "thrill",
+      "tremble",
+      "twitch",
+      "dodder",
+      "waver",
+      "beat",
+      "palpitate",
+      "pit-a-pat",
+      "pitter-patter",
+      "pulsate",
+      "pulse",
+      "throb"
+    ],
+    "sentences": [
+      "the undulate margin of a leaf",
+      "an undulating sea of grass",
+      "the exhausted runner wavered before collapsing",
+      "fluctuating interest rates",
+      "the vibrating strings of a piano",
+      "an oscillating fan",
+      "trees swaying in the breeze",
+      "the door suddenly swung open"
+    ]
+  },
+  "unfavorable": {
+    "synonyms": [
+      "adverse",
+      "counter",
+      "disadvantageous",
+      "hostile",
+      "inimical",
+      "negative",
+      "prejudicial",
+      "unfriendly",
+      "unsympathetic",
+      "untoward"
+    ],
+    "sentences": [
+      "an unfavorable feature of the plan",
+      "an unfavorable business climate",
+      "unfavorable reviews",
+      "reasons for being unfavorable to the proposal",
+      "The article cast/put him in an unfavorable light."
+    ]
+  },
+  "ungainly": {
+    "synonyms": [
+      "awkward",
+      "bunglesome",
+      "clumsy",
+      "clunky",
+      "cranky",
+      "cumbersome",
+      "cumbrous",
+      "ponderous",
+      "unhandy",
+      "unwieldy",
+      "gawkish",
+      "gawky",
+      "graceless",
+      "klutzy",
+      "uncoordinated"
+    ],
+    "sentences": [
+      "a large ungainly bird",
+      "an ungainly contraption",
+      "ungainly movements"
+    ]
+  },
+  "unguent": {
+    "synonyms": [
+      "balm",
+      "cream",
+      "embrocation",
+      "liniment",
+      "lotion",
+      "ointment",
+      "salve",
+      "cataplasm",
+      "dressing",
+      "plaster",
+      "poultice"
+    ],
+    "sentences": []
+  },
+  "unify": {
+    "synonyms": [
+      "center",
+      "centralize",
+      "compact",
+      "concenter",
+      "concentrate",
+      "consolidate",
+      "unite",
+      "associate",
+      "coalesce",
+      "combine",
+      "conjoin",
+      "conjugate",
+      "connect",
+      "couple",
+      "fuse",
+      "interfuse",
+      "join",
+      "link (up)",
+      "marry"
+    ],
+    "sentences": [
+      "people unified by a common belief"
+    ]
+  },
+  "unique": {
+    "synonyms": [
+      "aberrant",
+      "aberrated",
+      "abnormal",
+      "anomalous",
+      "atypical",
+      "especial",
+      "exceeding",
+      "exceptional",
+      "extraordinaire",
+      "extraordinary",
+      "freak",
+      "odd",
+      "peculiar",
+      "phenomenal",
+      "preternatural",
+      "rare",
+      "singular",
+      "uncommon",
+      "uncustomary",
+      "unusual",
+      "unwonted",
+      "alone",
+      "lone",
+      "one",
+      "one-off",
+      "only",
+      "sole",
+      "solitary",
+      "special",
+      "sui generis",
+      "curious",
+      "funny",
+      "offbeat",
+      "out-of-the-way",
+      "queer",
+      "strange",
+      "unaccustomed",
+      "weird",
+      "idiomatic",
+      "individual",
+      "individualized",
+      "particular",
+      "patented",
+      "personal",
+      "personalized",
+      "private",
+      "privy",
+      "separate",
+      "subjective"
+    ],
+    "sentences": [
+      "outlandish fashions of the time",
+      "a quaint fishing village",
+      "an odd sense of humor",
+      "a friend's suddenly erratic behavior",
+      "the eccentric eating habits of preschoolers",
+      "the peculiar status of America's First Lady",
+      "a career unique in the annals of science",
+      "a singular feeling of impending disaster",
+      "a journey filled with strange sights",
+      "in a unique position",
+      "… it is true that this degree of officialism is comparatively unique …",
+      "\"A very unique child,\" thought I, as I viewed her sleeping countenance …",
+      "… some of the most unique pieces of artwork and folk art you're bound to see dotting the landscape.",
+      "… patients, health plans, and providers would all have a unique identifier to use in standard transactions …",
+      "The site sees an average of 227 million unique users per month …",
+      "a species unique to a region",
+      "These problems are not unique to our city.",
+      "The shape of every snowflake is unique.",
+      "Established as a settlement of free Black men and women in the early 1800s, it is believed to be the first and oldest such community in the state. But that is not all that makes this out-of-the-way place unique.",
+      "Their unique concern was their own comfort.",
+      "I can't walk away with a unique copy. Suppose I lost it?",
+      "the unique factorization of a number into prime factors"
+    ]
+  },
+  "unison": {
+    "synonyms": [
+      "accord",
+      "agreement",
+      "concurrence",
+      "concurrency",
+      "consensus",
+      "unanimity"
+    ],
+    "sentences": [
+      "one of the organ's unison stops",
+      "unison singing",
+      "a unison passage",
+      "accompanied by unison strings",
+      "Local residents and police are working in unison to make the park safer.",
+      "The congregation rose in unison.",
+      "a class reciting in unison",
+      "Local residents and police are working in unison to make the neighborhood safer."
+    ]
+  },
+  "unlawful": {
+    "synonyms": [
+      "criminal",
+      "felonious",
+      "illegal",
+      "illegitimate",
+      "illicit",
+      "lawless",
+      "wrongful",
+      "bad",
+      "dark",
+      "evil",
+      "immoral",
+      "iniquitous",
+      "nefarious",
+      "rotten",
+      "sinful",
+      "unethical",
+      "unrighteous",
+      "unsavory",
+      "vicious",
+      "vile",
+      "villainous",
+      "wicked",
+      "wrong"
+    ],
+    "sentences": [
+      "an unlawful possessor",
+      "unlawful actions"
+    ]
+  },
+  "unlimited": {
+    "synonyms": [
+      "bottomless",
+      "boundless",
+      "endless",
+      "fathomless",
+      "horizonless",
+      "illimitable",
+      "immeasurable",
+      "immensurable",
+      "indefinite",
+      "infinite",
+      "limitless",
+      "measureless",
+      "unbounded",
+      "unfathomable",
+      "all-around",
+      "all-purpose",
+      "catholic",
+      "general",
+      "general-purpose",
+      "unqualified",
+      "unrestricted",
+      "unspecialized"
+    ],
+    "sentences": [
+      "… the unlimited and unconditional surrender of the enemy …",
+      "unlimited possibilities",
+      "unlimited access"
+    ]
+  },
+  "unnatural": {
+    "synonyms": [
+      "aberrant",
+      "aberrational",
+      "abnormal",
+      "anomalous",
+      "atypical",
+      "deviant",
+      "deviate",
+      "devious",
+      "irregular",
+      "untypical",
+      "affected",
+      "artificial",
+      "assumed",
+      "bogus",
+      "contrived",
+      "factitious",
+      "fake",
+      "false",
+      "feigned",
+      "forced",
+      "mechanical",
+      "mock",
+      "phony",
+      "plastic",
+      "pretended",
+      "pseudo",
+      "put-on",
+      "sham",
+      "simulated",
+      "spurious",
+      "strained"
+    ],
+    "sentences": [
+      "prisoners treated with unnatural cruelty",
+      "her drive made her an anomalous figure in a sleepy organization",
+      "concerned about his irregular behavior",
+      "an unnatural alliance",
+      "her manner was forced and unnatural",
+      "an unnatural devotion to money",
+      "It seemed unnatural to keep the bird in a cage.",
+      "deaths from unnatural causes"
+    ]
+  },
+  "unnecessary": {
+    "synonyms": [
+      "dispensable",
+      "gratuitous",
+      "inessential",
+      "needless",
+      "nonessential",
+      "uncalled-for",
+      "unessential",
+      "unwarranted"
+    ],
+    "sentences": [
+      "took unnecessary precautions"
+    ]
+  },
+  "unsettle": {
+    "synonyms": [
+      "agitate",
+      "ail",
+      "alarm",
+      "bother",
+      "concern",
+      "derail",
+      "discomfort",
+      "discompose",
+      "dismay",
+      "disquiet",
+      "distemper",
+      "distract",
+      "distress",
+      "disturb",
+      "exercise",
+      "flurry",
+      "frazzle",
+      "freak (out)",
+      "fuss",
+      "hagride",
+      "perturb",
+      "undo",
+      "unhinge",
+      "upset",
+      "weird out",
+      "worry"
+    ],
+    "sentences": [
+      "Such a sudden change will only unsettle her.",
+      "A mild aftershock unsettled several more structures."
+    ]
+  },
+  "unsophisticated": {
+    "synonyms": [
+      "aw-shucks",
+      "dewy",
+      "dewy-eyed",
+      "green",
+      "ingenuous",
+      "innocent",
+      "naïf",
+      "naive",
+      "primitive",
+      "simple",
+      "simpleminded",
+      "uncritical",
+      "unknowing",
+      "unsuspecting",
+      "unsuspicious",
+      "unwary",
+      "unworldly",
+      "wide-eyed"
+    ],
+    "sentences": [
+      "artless charm",
+      "unsophisticated adolescents",
+      "politically naive",
+      "the ingenuous enthusiasm of children",
+      "her unaffected, natural manner",
+      "an unsophisticated analysis",
+      "unsophisticated rhythms"
+    ]
+  },
+  "unspeakable": {
+    "synonyms": [
+      "incommunicable",
+      "indefinable",
+      "indescribable",
+      "ineffable",
+      "inenarrable",
+      "inexpressible",
+      "nameless",
+      "uncommunicable",
+      "unutterable"
+    ],
+    "sentences": [
+      "… the bawdy thoughts that come into one's head—the unspeakable words …",
+      "unspeakable collections of consonants",
+      "unspeakable living conditions",
+      "unspeakable evil",
+      "… each heaved a sigh of unspeakable relief."
+    ]
+  },
+  "untimely": {
+    "synonyms": [
+      "early",
+      "inopportune",
+      "precocious",
+      "premature",
+      "unseasonable"
+    ],
+    "sentences": [
+      "went untimely to the grave",
+      "… thought I was mad, or most untimely merry …",
+      "an untimely petition",
+      "an untimely death",
+      "an untimely joke",
+      "untimely frost"
+    ]
+  },
+  "untoward": {
+    "synonyms": [
+      "balky",
+      "contrary",
+      "contumacious",
+      "defiant",
+      "disobedient",
+      "froward",
+      "incompliant",
+      "insubordinate",
+      "intractable",
+      "obstreperous",
+      "rebel",
+      "rebellious",
+      "recalcitrant",
+      "recusant",
+      "refractory",
+      "restive",
+      "ungovernable",
+      "unruly",
+      "wayward",
+      "willful",
+      "headstrong",
+      "incontrollable",
+      "uncontrollable",
+      "unmanageable",
+      "adverse",
+      "counter",
+      "disadvantageous",
+      "hostile",
+      "inimical",
+      "negative",
+      "prejudicial",
+      "unfavorable",
+      "unfriendly",
+      "unsympathetic",
+      "amiss",
+      "graceless",
+      "improper",
+      "inapposite",
+      "inappropriate",
+      "inapt",
+      "incongruous",
+      "incorrect",
+      "indecorous",
+      "inept",
+      "infelicitous",
+      "malapropos",
+      "perverse",
+      "unapt",
+      "unbecoming",
+      "unfit",
+      "unhappy",
+      "unseemly",
+      "unsuitable",
+      "wrong"
+    ],
+    "sentences": [
+      "My trumpet-led procession around the square was nothing untoward, I gathered.",
+      "untoward side effects",
+      "an untoward fate",
+      "They must … explore the planet, they must repair their ship. But the six explorers are an untoward lot …"
+    ]
+  },
+  "unutterable": {
+    "synonyms": [
+      "incommunicable",
+      "indefinable",
+      "indescribable",
+      "ineffable",
+      "inenarrable",
+      "inexpressible",
+      "nameless",
+      "uncommunicable",
+      "unspeakable"
+    ],
+    "sentences": [
+      "an unutterable tragedy"
+    ]
+  },
+  "unwieldy": {
+    "synonyms": [
+      "awkward",
+      "bunglesome",
+      "clumsy",
+      "clunky",
+      "cranky",
+      "cumbersome",
+      "cumbrous",
+      "ponderous",
+      "ungainly",
+      "unhandy"
+    ],
+    "sentences": [
+      "trying to carry a large, unwieldy box"
+    ]
+  },
+  "unwise": {
+    "synonyms": [
+      "absurd",
+      "asinine",
+      "balmy",
+      "barmy",
+      "batty",
+      "brainless",
+      "bubbleheaded",
+      "cockeyed",
+      "crackbrained",
+      "crackpot",
+      "crazy",
+      "cuckoo",
+      "daffy",
+      "daft",
+      "dippy",
+      "dotty",
+      "fatuous",
+      "featherheaded",
+      "fool",
+      "foolish",
+      "fruity",
+      "gaga",
+      "half-baked",
+      "half-witted",
+      "harebrained",
+      "inept",
+      "insane",
+      "jerky",
+      "kooky",
+      "loony",
+      "loony tunes",
+      "lunatic",
+      "lunkheaded",
+      "mad",
+      "meshuga",
+      "nonsensical",
+      "nutty",
+      "preposterous",
+      "sappy",
+      "screwball",
+      "senseless",
+      "silly",
+      "simpleminded",
+      "stupid",
+      "tomfool",
+      "wacko",
+      "wacky",
+      "weak-minded",
+      "witless",
+      "zany",
+      "brash",
+      "graceless",
+      "ill-advised",
+      "imprudent",
+      "inadvisable",
+      "indelicate",
+      "indiscreet",
+      "injudicious",
+      "tactless",
+      "undiplomatic",
+      "imperceptive",
+      "impercipient",
+      "insentient",
+      "unperceptive"
+    ],
+    "sentences": [
+      "an unwise decision"
+    ]
+  },
+  "unyoke": {
+    "synonyms": [
+      "break up",
+      "decouple",
+      "disassociate",
+      "disconnect",
+      "disjoin",
+      "disjoint",
+      "dissever",
+      "dissociate",
+      "disunite",
+      "divide",
+      "divorce",
+      "part",
+      "ramify",
+      "resolve",
+      "separate",
+      "sever",
+      "split",
+      "sunder",
+      "uncouple",
+      "unlink"
+    ],
+    "sentences": []
+  },
+  "up-keep": {
+    "synonyms": [
+      "care and feeding",
+      "conservation",
+      "conserving",
+      "keep",
+      "maintenance",
+      "preservation",
+      "preserving",
+      "sustentation"
+    ],
+    "sentences": []
+  },
+  "upbraid": {
+    "synonyms": [
+      "baste",
+      "bawl out",
+      "berate",
+      "call down",
+      "castigate",
+      "chastise",
+      "chew out",
+      "dress down",
+      "flay",
+      "hammer",
+      "jaw",
+      "keelhaul",
+      "lambaste",
+      "lecture",
+      "rag",
+      "rail (at or against)",
+      "rant (at)",
+      "rate",
+      "ream (out)",
+      "rebuke",
+      "reprimand",
+      "reproach",
+      "scold",
+      "score",
+      "tongue-lash"
+    ],
+    "sentences": [
+      "was vituperated for betraying his friends",
+      "an alleged killer reviled in the press",
+      "railed loudly at their insolence",
+      "berated continually by an overbearing boss",
+      "upbraided her assistants for poor research",
+      "angrily scolding the children",
+      "upbraided them for not helping their grandparents",
+      "… upbraids all forms of ceremony …"
+    ]
+  },
+  "upheaval": {
+    "synonyms": [
+      "bouleversement",
+      "cataclysm",
+      "convulsion",
+      "earthquake",
+      "paroxysm",
+      "storm",
+      "tempest",
+      "tumult",
+      "uproar"
+    ],
+    "sentences": [
+      "one of human history's greatest upheavals",
+      "a period of social upheaval"
+    ]
+  },
+  "upheave": {
+    "synonyms": [
+      "boost",
+      "heave",
+      "heft",
+      "hoist",
+      "jack (up)"
+    ],
+    "sentences": []
+  },
+  "uppermost": {
+    "synonyms": [
+      "highest",
+      "loftiest",
+      "top",
+      "topmost",
+      "upmost"
+    ],
+    "sentences": [
+      "the uppermost layer",
+      "safety was uppermost in their minds",
+      "The safety of the children should be foremost/uppermost in (all) our minds now."
+    ]
+  },
+  "uproarious": {
+    "synonyms": [
+      "antic",
+      "chucklesome",
+      "comedic",
+      "comic",
+      "comical",
+      "droll",
+      "farcical",
+      "funny",
+      "hilarious",
+      "humoristic",
+      "humorous",
+      "hysterical",
+      "killing",
+      "laughable",
+      "ludicrous",
+      "ridiculous",
+      "riotous",
+      "risible",
+      "screaming",
+      "sidesplitting",
+      "clamorous",
+      "clangorous",
+      "clattering",
+      "clattery",
+      "noisy",
+      "rackety",
+      "resounding"
+    ],
+    "sentences": [
+      "an uproarious comedy",
+      "uproarious laughter"
+    ]
+  },
+  "uproot": {
+    "synonyms": [
+      "corkscrew",
+      "extract",
+      "prize",
+      "pry",
+      "pull",
+      "root (out)",
+      "tear (out)",
+      "wrest",
+      "wring",
+      "yank"
+    ],
+    "sentences": [
+      "the war uprooted thousands",
+      "a campaign to eradicate illiteracy",
+      "many species have been extirpated from the area",
+      "exterminate cockroaches",
+      "Taking the job would mean uprooting my family.",
+      "Many trees were uprooted by the storm.",
+      "striving to uproot poverty"
+    ]
+  },
+  "upturn": {
+    "synonyms": [
+      "arise",
+      "ascend",
+      "aspire",
+      "climb",
+      "lift",
+      "mount",
+      "rise",
+      "soar",
+      "thrust",
+      "up",
+      "uprear",
+      "uprise",
+      "upthrust"
+    ],
+    "sentences": [
+      "upturned faces",
+      "upturned a trash can",
+      "an upturn in sales"
+    ]
+  },
+  "urban": {
+    "synonyms": [
+      "metro",
+      "metropolitan",
+      "communal",
+      "local",
+      "regional",
+      "government",
+      "governmental",
+      "civil",
+      "national",
+      "public",
+      "civic",
+      "federal",
+      "municipal"
+    ],
+    "sentences": [
+      "urban life/culture",
+      "an urban neighborhood",
+      "the urban legend of alligators living in the sewers",
+      "Disney threw himself obsessively into the park's design, which anticipated many of the best features of modern urban planning …",
+      "The intense competition for space among residential, industrial, recreational, agricultural, and transportation interests presents a continual series of problems to the urban planner.",
+      "anti-urban bias/sentiment",
+      "The violent hostility of Renamo toward such symbols of modernity as schools, hospitals, and machinery feeds the idea that the movement is traditionalist, or simply anti-urban."
+    ]
+  },
+  "urbanity": {
+    "synonyms": [
+      "cosmopolitanism",
+      "sophistication",
+      "education",
+      "erudition",
+      "intellectualism",
+      "intellectuality",
+      "knowledge",
+      "learning",
+      "literacy",
+      "scholarship",
+      "breeding",
+      "genteelness",
+      "gentility",
+      "manners",
+      "accomplishment",
+      "civilization",
+      "couth",
+      "cultivation",
+      "culture",
+      "polish",
+      "refinement",
+      "class",
+      "elegance",
+      "grace",
+      "taste",
+      "civility",
+      "courteousness",
+      "courtesy",
+      "politeness"
+    ],
+    "sentences": []
+  },
+  "urchin": {
+    "synonyms": [
+      "devil",
+      "hellion",
+      "imp",
+      "mischief",
+      "monkey",
+      "rapscallion",
+      "rascal",
+      "rogue",
+      "scamp"
+    ],
+    "sentences": [
+      "street urchins"
+    ]
+  },
+  "urgency": {
+    "synonyms": [
+      "exigency",
+      "insistence",
+      "instancy",
+      "account",
+      "consequence",
+      "import",
+      "importance",
+      "magnitude",
+      "moment",
+      "momentousness",
+      "significance",
+      "weight",
+      "weightiness",
+      "gravity",
+      "seriousness",
+      "precedence",
+      "priority",
+      "right-of-way",
+      "front burner",
+      "preference",
+      "ascendancy",
+      "preeminence",
+      "primacy",
+      "supremacy"
+    ],
+    "sentences": [
+      "Resolving this problem quickly is a matter of (some) urgency/importance."
+    ]
+  },
+  "usage": {
+    "synonyms": [
+      "application",
+      "employment",
+      "exercise",
+      "operation",
+      "play",
+      "use"
+    ],
+    "sentences": [
+      "as was her wont, she slept until noon",
+      "the custom of wearing black at funerals",
+      "western-style dress is now common usage in international business",
+      "our practice is to honor all major credit cards",
+      "had a habit of tapping his fingers",
+      "a decreased usage of electricity",
+      "The dictionary includes many usage notes.",
+      "The expression has entered common usage in recent decades."
+    ]
+  },
+  "usurp": {
+    "synonyms": [
+      "appropriate",
+      "arrogate",
+      "commandeer",
+      "convert",
+      "expropriate",
+      "pirate",
+      "preempt",
+      "press",
+      "seize",
+      "take over"
+    ],
+    "sentences": [
+      "must not let stock responses based on inherited prejudice usurp careful judgment",
+      "usurped the rights to her life story",
+      "usurp a throne"
+    ]
+  },
+  "utility": {
+    "synonyms": [
+      "account",
+      "avail",
+      "mileage",
+      "service",
+      "serviceability",
+      "serviceableness",
+      "use",
+      "usefulness"
+    ],
+    "sentences": [
+      "a utility company",
+      "a utility tool",
+      "utility beef",
+      "utility livestock",
+      "a utility dog",
+      "a utility infielder",
+      "a chef's utility knife",
+      "sold utility tokens as a method of fundraising for the start-up"
+    ]
+  },
+  "utmost": {
+    "synonyms": [
+      "extreme",
+      "farthermost",
+      "farthest",
+      "furthermost",
+      "furthest",
+      "outermost",
+      "outmost",
+      "remotest",
+      "ultimate",
+      "consummate",
+      "last",
+      "max",
+      "maximum",
+      "most",
+      "nth",
+      "outside",
+      "paramount",
+      "supreme",
+      "top",
+      "uttermost",
+      "full",
+      "greatest",
+      "topmost",
+      "utter"
+    ],
+    "sentences": [
+      "a matter of utmost concern",
+      "… the utmost point of the earth.",
+      "will do our utmost to help",
+      "the utmost in reliability",
+      "We did our utmost to help."
+    ]
+  },
+  "unction": {
+    "synonyms": [],
+    "sentences": [
+      "… the unrelieved tone of solemn unction … tends rapidly to cloy.",
+      "… the young prelate … spoke with earnest unction."
+    ]
+  },
+  "unicellular": {
+    "synonyms": [],
+    "sentences": [
+      "unicellular microorganisms"
+    ]
+  },
+  "usurious": {
+    "synonyms": [],
+    "sentences": [
+      "usurious interest rates"
+    ]
+  }
+}

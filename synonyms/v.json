@@ -1,1 +1,2528 @@
-{}
+{
+  "vacate": {
+    "synonyms": [
+      "abate",
+      "abolish",
+      "abrogate",
+      "annul",
+      "avoid",
+      "cancel",
+      "disannul",
+      "dissolve",
+      "invalidate",
+      "negate",
+      "null",
+      "nullify",
+      "quash",
+      "repeal",
+      "rescind",
+      "roll back",
+      "strike down",
+      "void",
+      "clear",
+      "empty",
+      "evacuate"
+    ],
+    "sentences": []
+  },
+  "vacillate": {
+    "synonyms": [
+      "balance",
+      "dither",
+      "falter",
+      "halt",
+      "hang back",
+      "hesitate",
+      "scruple",
+      "shilly-shally",
+      "stagger",
+      "teeter",
+      "waver",
+      "wobble"
+    ],
+    "sentences": [
+      "never once faltered during her testimony",
+      "vacillated until events were out of control",
+      "wavered in his support of the rebels",
+      "hesitated before answering the question"
+    ]
+  },
+  "vacuous": {
+    "synonyms": [
+      "bare",
+      "blank",
+      "clean",
+      "devoid",
+      "empty",
+      "stark",
+      "toom",
+      "vacant",
+      "void",
+      "airheaded",
+      "birdbrained",
+      "bonehead",
+      "boneheaded",
+      "brain-dead",
+      "brainless",
+      "bubbleheaded",
+      "chuckleheaded",
+      "dense",
+      "dim",
+      "dim-witted",
+      "doltish",
+      "dopey",
+      "dorky",
+      "dull",
+      "dumb",
+      "dunderheaded",
+      "empty-headed",
+      "fatuous",
+      "gormless",
+      "half-witted",
+      "knuckleheaded",
+      "lamebrain",
+      "lunkheaded",
+      "mindless",
+      "oafish",
+      "obtuse",
+      "opaque",
+      "pinheaded",
+      "senseless",
+      "simple",
+      "slow",
+      "slow-witted",
+      "soft",
+      "softheaded",
+      "stupid",
+      "thick",
+      "thick-witted",
+      "thickheaded",
+      "unintelligent",
+      "unsmart",
+      "weak-minded",
+      "witless"
+    ],
+    "sentences": [
+      "a vacuous facial expression",
+      "a statement void of meaning",
+      "a blank wall",
+      "a vacant apartment",
+      "an empty bucket",
+      "a vacuous mind",
+      "a vacuous movie"
+    ]
+  },
+  "vacuum": {
+    "synonyms": [
+      "brush",
+      "comb",
+      "dry-clean",
+      "dust",
+      "launder",
+      "mop",
+      "muck (out)",
+      "rinse",
+      "scour",
+      "scrub",
+      "shampoo",
+      "sponge",
+      "swab",
+      "sweep",
+      "wash",
+      "wipe",
+      "clean",
+      "cleanse",
+      "deterge",
+      "GI",
+      "turn out",
+      "decontaminate",
+      "purge",
+      "purify",
+      "disinfect",
+      "sanitize",
+      "brighten",
+      "deodorize",
+      "freshen",
+      "spruce (up)",
+      "sweeten",
+      "pick up",
+      "straighten (up)",
+      "tidy",
+      "unclutter"
+    ],
+    "sentences": [
+      "… people who live in a vacuum … so that the world outside them is of no moment …",
+      "… the power vacuum in Indochina after the departure of the French …",
+      "vacuum the living room",
+      "separated by means of vacuum distillation"
+    ]
+  },
+  "vagabond": {
+    "synonyms": [
+      "bindle stiff",
+      "bum",
+      "bummer",
+      "hobo",
+      "sundowner",
+      "swaggie",
+      "swagman",
+      "tramp",
+      "vagrant",
+      "drifter",
+      "gadabout",
+      "knockabout",
+      "maunderer",
+      "nomad",
+      "rambler",
+      "roamer",
+      "rover",
+      "stroller",
+      "wanderer",
+      "wayfarer"
+    ],
+    "sentences": []
+  },
+  "vagrant": {
+    "synonyms": [
+      "ambulant",
+      "ambulatory",
+      "errant",
+      "fugitive",
+      "gallivanting",
+      "itinerant",
+      "nomad",
+      "nomadic",
+      "perambulatory",
+      "peregrine",
+      "peripatetic",
+      "ranging",
+      "roaming",
+      "roving",
+      "vagabond",
+      "wandering",
+      "wayfaring"
+    ],
+    "sentences": [
+      "California gulls have turned up as vagrants in other nearby states, including New York, Maryland and Pennsylvania.",
+      "a vagrant breeze",
+      "a vagrant impulse"
+    ]
+  },
+  "vainglory": {
+    "synonyms": [
+      "amour propre",
+      "bighead",
+      "complacence",
+      "complacency",
+      "conceit",
+      "conceitedness",
+      "ego",
+      "egotism",
+      "pomposity",
+      "pompousness",
+      "pride",
+      "pridefulness",
+      "self-admiration",
+      "self-assumption",
+      "self-conceit",
+      "self-congratulation",
+      "self-esteem",
+      "self-glory",
+      "self-importance",
+      "self-love",
+      "self-opinion",
+      "self-satisfaction",
+      "smugness",
+      "swelled head",
+      "swellheadedness",
+      "vaingloriousness",
+      "vainness",
+      "vanity"
+    ],
+    "sentences": []
+  },
+  "vale": {
+    "synonyms": [
+      "dale",
+      "dene",
+      "hollow",
+      "valley"
+    ],
+    "sentences": [
+      "this vale of tears"
+    ]
+  },
+  "valedictory": {
+    "synonyms": [
+      "farewell",
+      "parting"
+    ],
+    "sentences": []
+  },
+  "valid": {
+    "synonyms": [
+      "analytic",
+      "coherent",
+      "consequent",
+      "good",
+      "logical",
+      "rational",
+      "reasonable",
+      "sensible",
+      "sound",
+      "well-founded",
+      "well-grounded",
+      "commonsense",
+      "commonsensible",
+      "commonsensical",
+      "firm",
+      "hard",
+      "informed",
+      "just",
+      "justified",
+      "levelheaded",
+      "reasoned",
+      "sober",
+      "solid"
+    ],
+    "sentences": [
+      "a telling example of bureaucratic waste",
+      "a convincing argument for welfare reform",
+      "the prosecutor's cogent summation won over the jury",
+      "a sound proposal for reviving the economy",
+      "a valid reason for being absent",
+      "a valid marriage",
+      "every craft has its own valid methods",
+      "a valid argument",
+      "valid inference",
+      "a valid theory",
+      "a valid contract"
+    ]
+  },
+  "valorous": {
+    "synonyms": [
+      "bold",
+      "brave",
+      "courageous",
+      "dauntless",
+      "doughty",
+      "fearless",
+      "gallant",
+      "greathearted",
+      "gutsy",
+      "gutty",
+      "heroic",
+      "intrepid",
+      "lionhearted",
+      "manful",
+      "stalwart",
+      "stout",
+      "stouthearted",
+      "undauntable",
+      "undaunted",
+      "valiant"
+    ],
+    "sentences": []
+  },
+  "vapid": {
+    "synonyms": [
+      "common",
+      "commonplace",
+      "ordinary",
+      "tepid",
+      "unexceptional",
+      "unsurprising",
+      "arid",
+      "boring",
+      "colorless",
+      "drab",
+      "dreary",
+      "drudging",
+      "dry",
+      "dull",
+      "dusty",
+      "flat",
+      "heavy",
+      "ho-hum",
+      "humdrum",
+      "jading",
+      "jejune",
+      "leaden",
+      "mind-numbing",
+      "monochromatic",
+      "monotonous",
+      "numbing",
+      "old",
+      "pedestrian",
+      "ponderous",
+      "slow",
+      "stale",
+      "stodgy",
+      "stuffy",
+      "stupid",
+      "tame",
+      "tedious",
+      "tiresome",
+      "tiring",
+      "uninteresting",
+      "wearisome",
+      "weary",
+      "wearying",
+      "aseptic",
+      "barren",
+      "blah",
+      "dullish",
+      "pleasureless",
+      "prosaic",
+      "prosy",
+      "soggy",
+      "spiritless",
+      "blank",
+      "earthbound",
+      "gray",
+      "inanimate",
+      "pallid",
+      "pedantic",
+      "sterile",
+      "suspenseless",
+      "undramatic",
+      "uneventful",
+      "unexciting",
+      "unimaginative",
+      "uninspiring",
+      "unnewsworthy",
+      "unrewarding",
+      "unsensational",
+      "unspectacular",
+      "longsome",
+      "palling",
+      "cumbersome",
+      "lumbering",
+      "plodding",
+      "poky"
+    ],
+    "sentences": [
+      "an inane interpretation of the play",
+      "a banal tale of unrequited love",
+      "a jejune and gassy speech",
+      "although well-regarded in its day, the novel now seems flat",
+      "an exciting story given a vapid treatment",
+      "an insipid romance with platitudes on every page",
+      "… a gossipy, vapid woman, obsessed by her own elegance …",
+      "London was not all vapid dissipation"
+    ]
+  },
+  "variable": {
+    "synonyms": [
+      "adaptable",
+      "adjustable",
+      "alterable",
+      "changeable",
+      "elastic",
+      "flexible",
+      "fluid",
+      "malleable",
+      "modifiable",
+      "pliable",
+      "capricious",
+      "changeful",
+      "fickle",
+      "flickery",
+      "fluctuating",
+      "inconsistent",
+      "inconstant",
+      "mercurial",
+      "mutable",
+      "skittish",
+      "temperamental",
+      "uncertain",
+      "unpredictable",
+      "unsettled",
+      "unstable",
+      "unsteady",
+      "volatile"
+    ],
+    "sentences": [
+      "variable winds",
+      "variable costs"
+    ]
+  },
+  "variance": {
+    "synonyms": [
+      "conflict",
+      "disaccord",
+      "discord",
+      "discordance",
+      "discordancy",
+      "disharmony",
+      "dissension",
+      "dissent",
+      "dissidence",
+      "dissonance",
+      "disunion",
+      "disunity",
+      "division",
+      "friction",
+      "infighting",
+      "inharmony",
+      "schism",
+      "strife",
+      "war",
+      "warfare"
+    ],
+    "sentences": [
+      "cultural variances that work against a national identity",
+      "religious dissension threatened to split the colony",
+      "several points of contention about the new zoning law",
+      "the conflict of freedom and responsibility",
+      "during his brief reign the empire was never free of civil strife",
+      "a political party long racked by discord",
+      "a zoning variance",
+      "yearly variance in crops"
+    ]
+  },
+  "variant": {
+    "synonyms": [
+      "divers",
+      "miscellaneous",
+      "mixed",
+      "several",
+      "sundry",
+      "varied",
+      "various",
+      "different",
+      "disparate",
+      "dissimilar",
+      "distant",
+      "distinct",
+      "distinctive",
+      "distinguishable",
+      "diverse",
+      "nonidentical",
+      "other",
+      "unalike",
+      "unlike",
+      "differentiable",
+      "discriminable",
+      "alternate",
+      "alternative",
+      "individual",
+      "particular",
+      "peculiar",
+      "single",
+      "disproportionate",
+      "divergent",
+      "unequal"
+    ],
+    "sentences": [
+      "variant readings",
+      "variant spellings",
+      "variant forms of a disease",
+      "a variant bacterial strain",
+      "variant interpretations/opinions",
+      "Scientists now find that a variant of a specific gene may contribute to the disorder …",
+      "Ambient music, as it is sometimes called, was originally a variant of techno music without the beats.",
+      "We played all kinds of weird and wacky poker variants, many involving wild cards …",
+      "Since the summer, independently owned restaurants and music venues in Colorado have instituted their own vaccine protocols in response to the spread of the highly contagious delta variant.",
+      "Experts have said that Omicron appears to be causing less severe disease in people than the Delta variant did.",
+      "Although the omicron variant has now surpassed delta in the region, hospitals like St. Luke's are likely still treating people who have been infected by the delta variant.",
+      "Florida's rocketing number of COVID-19 cases likely will peak by mid-January as the highly contagious omicron variant potentially infects most of the state's population during this wave alone, according to disease modelers with the University of Florida's Emerging Pathogens Institute.",
+      "Covid-19 infections in children have typically been mild so far in the pandemic, but the sheer magnitude of cases caused by the very contagious Omicron variant is sending children under age 18 to hospitals in record numbers, according to data from the CDC."
+    ]
+  },
+  "variation": {
+    "synonyms": [
+      "interpretation",
+      "riff",
+      "take",
+      "alteration",
+      "change",
+      "difference",
+      "modification",
+      "redoing",
+      "refashioning",
+      "remaking",
+      "remodeling",
+      "revamping",
+      "review",
+      "revise",
+      "revision",
+      "reworking"
+    ],
+    "sentences": []
+  },
+  "variegate": {
+    "synonyms": [
+      "checker",
+      "dapple",
+      "daub",
+      "fleck",
+      "marble",
+      "mottle",
+      "pattern",
+      "polychrome",
+      "speck",
+      "speckle",
+      "streak",
+      "striate",
+      "stripe",
+      "darken",
+      "embrown",
+      "tone (down)",
+      "brighten",
+      "lighten",
+      "bepaint",
+      "color",
+      "dye",
+      "paint",
+      "pigment",
+      "stain",
+      "tincture",
+      "tinge",
+      "tint"
+    ],
+    "sentences": []
+  },
+  "vegetarian": {
+    "synonyms": [
+      "herbivorous",
+      "gentle",
+      "submissive",
+      "tame"
+    ],
+    "sentences": [
+      "a vegetarian diet",
+      "vegetarian lunch",
+      "a vegetarian restaurant"
+    ]
+  },
+  "vegetate": {
+    "synonyms": [
+      "bum",
+      "dally",
+      "dawdle",
+      "dillydally",
+      "drone",
+      "footle",
+      "goof (off)",
+      "hack (around)",
+      "hang (around or out)",
+      "idle",
+      "laze",
+      "loaf",
+      "veg out",
+      "zone out",
+      "chill",
+      "chill out",
+      "decompress",
+      "de-stress",
+      "loosen up",
+      "mellow (out)",
+      "relax",
+      "unwind",
+      "wind down",
+      "unbend",
+      "bask",
+      "kick back",
+      "loll",
+      "lounge",
+      "repose",
+      "rest",
+      "alleviate",
+      "comfort",
+      "ease",
+      "relieve",
+      "calm",
+      "compose",
+      "cool",
+      "quiet",
+      "settle"
+    ],
+    "sentences": []
+  },
+  "vegetation": {
+    "synonyms": [
+      "flora",
+      "foliage",
+      "green",
+      "greenery",
+      "herbage",
+      "leafage",
+      "verdure"
+    ],
+    "sentences": [
+      "fibrin vegetations on the mitral valve"
+    ]
+  },
+  "vehement": {
+    "synonyms": [
+      "aggressive",
+      "assertive",
+      "dynamic",
+      "emphatic",
+      "energetic",
+      "forceful",
+      "full-blooded",
+      "muscular",
+      "resounding",
+      "strenuous",
+      "vigorous",
+      "violent",
+      "acute",
+      "almighty",
+      "blistering",
+      "deep",
+      "dreadful",
+      "excruciating",
+      "explosive",
+      "exquisite",
+      "fearful",
+      "fearsome",
+      "ferocious",
+      "fierce",
+      "frightful",
+      "furious",
+      "ghastly",
+      "hard",
+      "heavy",
+      "heavy-duty",
+      "hellacious",
+      "intense",
+      "intensive",
+      "keen",
+      "profound",
+      "terrible",
+      "vicious",
+      "ardent",
+      "blazing",
+      "burning",
+      "charged",
+      "demonstrative",
+      "emotional",
+      "fervent",
+      "fervid",
+      "feverish",
+      "fiery",
+      "flaming",
+      "glowing",
+      "hot-blooded",
+      "impassioned",
+      "incandescent",
+      "passional",
+      "passionate",
+      "perfervid",
+      "red-hot",
+      "religious",
+      "superheated",
+      "torrid",
+      "warm",
+      "warm-blooded"
+    ],
+    "sentences": [
+      "a vehement debate",
+      "vehement denunciations",
+      "a vehement suspicion",
+      "vehement patriotism",
+      "a vehement wind"
+    ]
+  },
+  "velocity": {
+    "synonyms": [
+      "celerity",
+      "fastness",
+      "fleetness",
+      "haste",
+      "hurry",
+      "quickness",
+      "rapidity",
+      "rapidness",
+      "speed",
+      "speediness",
+      "swiftness"
+    ],
+    "sentences": [
+      "the velocity of money",
+      "… the velocity of historical change …",
+      "The power pitcher relies on velocity …",
+      "[my horse's] strong suit is grace & personal comeliness, rather than velocity",
+      "the velocity of sound"
+    ]
+  },
+  "velvety": {
+    "synonyms": [
+      "cottony",
+      "downy",
+      "satin",
+      "satiny",
+      "silken",
+      "silklike",
+      "silky",
+      "soft",
+      "velvetlike"
+    ],
+    "sentences": [
+      "a velvety wine",
+      "velvety hair",
+      "a velvety green pasture"
+    ]
+  },
+  "venal": {
+    "synonyms": [
+      "bribable",
+      "corruptible",
+      "dirty",
+      "purchasable"
+    ],
+    "sentences": [
+      "a venal arrangement with the police",
+      "a venal legislator"
+    ]
+  },
+  "vendor": {
+    "synonyms": [
+      "broker",
+      "dealer",
+      "merchandiser",
+      "seller"
+    ],
+    "sentences": []
+  },
+  "veneer": {
+    "synonyms": [
+      "facade",
+      "gloss",
+      "window dressing",
+      "exterior",
+      "face",
+      "outside",
+      "shell",
+      "skin",
+      "surface"
+    ],
+    "sentences": [
+      "a veneer of tolerance"
+    ]
+  },
+  "venerable": {
+    "synonyms": [
+      "hallowed",
+      "revered",
+      "reverend",
+      "sacred",
+      "venerated",
+      "age-old",
+      "aged",
+      "ancient",
+      "antediluvian",
+      "antique",
+      "dateless",
+      "hoar",
+      "hoary",
+      "immemorial",
+      "old"
+    ],
+    "sentences": [
+      "a computer that makes earlier models obsolete",
+      "the play used archaic language to convey a sense of period",
+      "antiquated teaching methods",
+      "collected antique Chippendale furniture",
+      "the family's venerable patriarch",
+      "ancient accounts of dragons",
+      "old houses",
+      "an old sweater of mine",
+      "under venerable pines",
+      "encouraged by the venerable doctor's head-nodding",
+      "a venerable jazz musician"
+    ]
+  },
+  "venerate": {
+    "synonyms": [
+      "adore",
+      "deify",
+      "glorify",
+      "revere",
+      "reverence",
+      "worship"
+    ],
+    "sentences": [
+      "we adored our doctor",
+      "worships their memory",
+      "heroes still venerated",
+      "reverenced the academy's code of honor",
+      "a professor revered by her students"
+    ]
+  },
+  "venial": {
+    "synonyms": [
+      "condonable",
+      "excusable",
+      "forgivable",
+      "pardonable",
+      "remissible",
+      "remittable"
+    ],
+    "sentences": [
+      "venial faults"
+    ]
+  },
+  "venom": {
+    "synonyms": [
+      "bane",
+      "poison",
+      "toxic",
+      "toxin",
+      "cattiness",
+      "despite",
+      "hatefulness",
+      "malevolence",
+      "malice",
+      "maliciousness",
+      "malignance",
+      "malignancy",
+      "malignity",
+      "meanness",
+      "nastiness",
+      "spite",
+      "spitefulness",
+      "spleen",
+      "viciousness"
+    ],
+    "sentences": [
+      "Our manager was spitting blood/venom when he found out what had happened."
+    ]
+  },
+  "veracious": {
+    "synonyms": [
+      "honest",
+      "truthful",
+      "accurate",
+      "authentic",
+      "exact",
+      "faithful",
+      "precise",
+      "right",
+      "strict",
+      "true",
+      "bang on",
+      "correct",
+      "dead-on",
+      "good",
+      "on-target",
+      "proper",
+      "so",
+      "spot-on"
+    ],
+    "sentences": []
+  },
+  "veracity": {
+    "synonyms": [
+      "honesty",
+      "integrity",
+      "probity",
+      "truthfulness",
+      "verity",
+      "accuracy",
+      "accurateness",
+      "closeness",
+      "delicacy",
+      "exactitude",
+      "exactness",
+      "fineness",
+      "nicety",
+      "perfection",
+      "preciseness",
+      "precision",
+      "rigor",
+      "rigorousness",
+      "ultraprecision"
+    ],
+    "sentences": [
+      "makes lies sound like veracities"
+    ]
+  },
+  "verbatim": {
+    "synonyms": [
+      "ad verbum",
+      "directly",
+      "exactly",
+      "word for word"
+    ],
+    "sentences": [
+      "quoted the speech verbatim",
+      "a verbatim report of the meeting"
+    ]
+  },
+  "verbiage": {
+    "synonyms": [
+      "circumlocution",
+      "diffuseness",
+      "diffusion",
+      "garrulity",
+      "garrulousness",
+      "logorrhea",
+      "long-windedness",
+      "periphrasis",
+      "prolixity",
+      "redundancy",
+      "verbalism",
+      "verboseness",
+      "verbosity",
+      "windiness",
+      "wordage",
+      "wordiness",
+      "bombast",
+      "fustian",
+      "gas",
+      "grandiloquence",
+      "hot air",
+      "oratory",
+      "rhetoric",
+      "wind",
+      "diction",
+      "language",
+      "phraseology",
+      "phrasing",
+      "wording"
+    ],
+    "sentences": [
+      "… sportswriters guarded their verbiage so jealously.",
+      "… such a tangled maze of evasive verbiage as a typical party platform …"
+    ]
+  },
+  "verbose": {
+    "synonyms": [
+      "circuitous",
+      "circumlocutory",
+      "diffuse",
+      "garrulous",
+      "logorrheic",
+      "long-winded",
+      "pleonastic",
+      "prolix",
+      "rambling",
+      "windy",
+      "wordy"
+    ],
+    "sentences": [
+      "diffuse memoirs that are so many shaggy-dog stories",
+      "habitually transformed brief anecdotes into prolix sagas",
+      "the verbose position papers",
+      "a wordy speech",
+      "a verbose orator",
+      "a verbose style",
+      "a verbose reply"
+    ]
+  },
+  "verdant": {
+    "synonyms": [
+      "green",
+      "grown",
+      "leafy",
+      "lush",
+      "luxuriant",
+      "overgrown"
+    ],
+    "sentences": [
+      "verdant fields"
+    ]
+  },
+  "verification": {
+    "synonyms": [
+      "authentication",
+      "attestation",
+      "confirmation",
+      "corroboration",
+      "documentation",
+      "evidence",
+      "proof",
+      "substantiation",
+      "testament",
+      "testimonial",
+      "testimony",
+      "validation",
+      "voucher",
+      "witness",
+      "identification",
+      "manifestation",
+      "(the) goods",
+      "certificate",
+      "document",
+      "exhibit",
+      "paper",
+      "demonstration",
+      "illustration"
+    ],
+    "sentences": []
+  },
+  "verify": {
+    "synonyms": [
+      "argue",
+      "attest",
+      "authenticate",
+      "bear out",
+      "certify",
+      "confirm",
+      "corroborate",
+      "substantiate",
+      "support",
+      "validate",
+      "vindicate"
+    ],
+    "sentences": [
+      "validated the hypothesis by experiments",
+      "handwriting experts authenticated the diaries",
+      "all statements of fact in the article have been verified",
+      "the claims have yet to be substantiated",
+      "witnesses corroborated his story",
+      "confirmed the reports",
+      "verify the claim"
+    ]
+  },
+  "verily": {
+    "synonyms": [
+      "actually",
+      "admittedly",
+      "forsooth",
+      "frankly",
+      "honestly",
+      "indeed",
+      "really",
+      "truly",
+      "truthfully",
+      "even",
+      "nay",
+      "yea"
+    ],
+    "sentences": []
+  },
+  "verity": {
+    "synonyms": [
+      "facticity",
+      "factuality",
+      "sooth",
+      "trueness",
+      "truth",
+      "honesty",
+      "integrity",
+      "probity",
+      "truthfulness",
+      "veracity"
+    ],
+    "sentences": [
+      "The king-becoming graces, as justice, verity …",
+      "such eternal verities as honor, love, and patriotism"
+    ]
+  },
+  "vermin": {
+    "synonyms": [
+      "bastard",
+      "beast",
+      "bleeder",
+      "blighter",
+      "boor",
+      "bounder",
+      "bugger",
+      "buzzard",
+      "cad",
+      "chuff",
+      "churl",
+      "clown",
+      "creep",
+      "cretin",
+      "crud",
+      "crumb",
+      "cur",
+      "dirtbag",
+      "dog",
+      "fink",
+      "heel",
+      "hound",
+      "jerk",
+      "joker",
+      "louse",
+      "lout",
+      "pill",
+      "rat",
+      "rat fink",
+      "reptile",
+      "rotter",
+      "schmuck",
+      "scum",
+      "scumbag",
+      "scuzzball",
+      "skunk",
+      "sleaze",
+      "sleazebag",
+      "sleazeball",
+      "slime",
+      "slimeball",
+      "slob",
+      "snake",
+      "so-and-so",
+      "sod",
+      "stinkard",
+      "stinker",
+      "swine",
+      "toad",
+      "varmint"
+    ],
+    "sentences": []
+  },
+  "vernacular": {
+    "synonyms": [
+      "colloquial",
+      "conversational",
+      "informal",
+      "nonformal",
+      "nonliterary",
+      "unbookish",
+      "unliterary",
+      "vulgar"
+    ],
+    "sentences": [
+      "vernacular architecture",
+      "the vernacular name"
+    ]
+  },
+  "vernal": {
+    "synonyms": [
+      "fresh",
+      "young",
+      "youthful",
+      "modern",
+      "new",
+      "recent",
+      "contemporary",
+      "current",
+      "latest",
+      "mod",
+      "novel",
+      "present-day",
+      "ultramodern",
+      "untested",
+      "untried",
+      "brand-new",
+      "unused",
+      "unworn"
+    ],
+    "sentences": [
+      "vernal equinox",
+      "vernal sunshine"
+    ]
+  },
+  "versatile": {
+    "synonyms": [
+      "adaptable",
+      "all-around",
+      "protean",
+      "universal"
+    ],
+    "sentences": [
+      "versatile antennae",
+      "a versatile toe of a bird",
+      "a versatile disposition",
+      "versatile building material"
+    ]
+  },
+  "version": {
+    "synonyms": [
+      "account",
+      "interpretation",
+      "performance",
+      "reading",
+      "rendition"
+    ],
+    "sentences": [
+      "an experimental version of the airplane",
+      "the movie version of the novel"
+    ]
+  },
+  "vertex": {
+    "synonyms": [
+      "extreme",
+      "extremity",
+      "tip",
+      "acme",
+      "apex",
+      "apogee",
+      "capstone",
+      "climax",
+      "crescendo",
+      "crest",
+      "crown",
+      "culmination",
+      "head",
+      "height",
+      "high noon",
+      "high-water mark",
+      "meridian",
+      "ne plus ultra",
+      "noon",
+      "noontime",
+      "peak",
+      "pinnacle",
+      "sum",
+      "summit",
+      "tip-top",
+      "top",
+      "zenith",
+      "bloom",
+      "blossom",
+      "flood tide",
+      "flower",
+      "glory",
+      "heyday",
+      "prime",
+      "cap",
+      "ceiling",
+      "roof",
+      "high",
+      "highlight",
+      "highspot"
+    ],
+    "sentences": [
+      "the vertex of the hill"
+    ]
+  },
+  "vertical": {
+    "synonyms": [
+      "erect",
+      "perpendicular",
+      "plumb",
+      "raised",
+      "stand-up",
+      "standing",
+      "upright",
+      "upstanding"
+    ],
+    "sentences": [
+      "make sure that the wall is plumb",
+      "the parallel bars are perpendicular to the support posts",
+      "the side of the cliff is almost vertical",
+      "vertical inheritance",
+      "… decreasing the rate of vertical transmission of HIV to the fetus by two-thirds, so that the numbers of children with the condition are diminishing.",
+      "the vertical arrangement of society",
+      "a vertical monopoly"
+    ]
+  },
+  "vestige": {
+    "synonyms": [
+      "echo",
+      "ghost",
+      "relic",
+      "shadow",
+      "trace",
+      "footmark",
+      "footprint",
+      "footstep",
+      "step"
+    ],
+    "sentences": [
+      "the fossilized tracks of dinosaurs",
+      "boulders that are vestiges of the last ice age",
+      "the killer left no traces"
+    ]
+  },
+  "veto": {
+    "synonyms": [
+      "ban",
+      "embargo",
+      "interdict",
+      "interdiction",
+      "prohibition",
+      "proscription"
+    ],
+    "sentences": [
+      "a veto-proof bill"
+    ]
+  },
+  "vicissitude": {
+    "synonyms": [
+      "adversity",
+      "affliction",
+      "asperity",
+      "misadventure",
+      "mischance",
+      "misfortune",
+      "mishap",
+      "privation",
+      "tragedy",
+      "tribulation",
+      "trouble",
+      "woe",
+      "cross",
+      "crucible",
+      "fire",
+      "gauntlet",
+      "ordeal",
+      "trial",
+      "baptism",
+      "initiation",
+      "acid test",
+      "litmus test",
+      "challenge",
+      "complication",
+      "difficulty",
+      "grief",
+      "grievance",
+      "hardship",
+      "rigor",
+      "annoyance",
+      "discomfort",
+      "inconvenience",
+      "nuisance"
+    ],
+    "sentences": [
+      "the vicissitudes of daily life"
+    ]
+  },
+  "vie": {
+    "synonyms": [
+      "battle",
+      "compete",
+      "contend",
+      "face off",
+      "fight",
+      "race",
+      "rival"
+    ],
+    "sentences": []
+  },
+  "vigilance": {
+    "synonyms": [
+      "alert",
+      "alertness",
+      "attentiveness",
+      "qui vive",
+      "red alert",
+      "watch",
+      "watchfulness"
+    ],
+    "sentences": [
+      "A person suffering from PTSD may have sleep disturbances, irritability, hypervigilance, heightened startle responses and flashbacks of the original trauma.",
+      "One common trait among fearful fliers is hypervigilance; they often spend the entire trip watching the flight attendants, analyzing the chime system, and assessing the sounds of the engines."
+    ]
+  },
+  "vigilant": {
+    "synonyms": [
+      "alert",
+      "Argus-eyed",
+      "attentive",
+      "awake",
+      "observant",
+      "open-eyed",
+      "tenty",
+      "watchful",
+      "wide-awake"
+    ],
+    "sentences": [
+      "alert traders anticipated the stock market's slide",
+      "wide-awake companies latched onto the new technology",
+      "eternally vigilant in the safeguarding of democracy",
+      "the watchful eye of the department supervisor",
+      "After an accident or an assault, most people tend to feel unsafe, to have a reduced startle threshold, and to be hypervigilant.",
+      "Through its hypervigilant security measures, this state-run airline keeps its passengers safe from everyone except its own surly flight attendants.",
+      "We all have to be hyper-vigilant about our own affairs and those of our kids and elderly loved ones.",
+      "The students did their work under the watchful/vigilant eye of their teacher."
+    ]
+  },
+  "vignette": {
+    "synonyms": [
+      "definition",
+      "delineation",
+      "depiction",
+      "description",
+      "picture",
+      "portrait",
+      "portraiture",
+      "portrayal",
+      "rendering",
+      "sketch"
+    ],
+    "sentences": []
+  },
+  "vincible": {
+    "synonyms": [
+      "superable",
+      "surmountable",
+      "vulnerable",
+      "exposed",
+      "imperiled",
+      "insecure",
+      "liable",
+      "open",
+      "susceptible",
+      "unguarded",
+      "unprotected",
+      "unsafe",
+      "defenseless",
+      "helpless",
+      "powerless",
+      "weak"
+    ],
+    "sentences": []
+  },
+  "vindicate": {
+    "synonyms": [
+      "absolve",
+      "acquit",
+      "clear",
+      "exculpate",
+      "exonerate",
+      "argue",
+      "attest",
+      "authenticate",
+      "bear out",
+      "certify",
+      "confirm",
+      "corroborate",
+      "substantiate",
+      "support",
+      "validate",
+      "verify"
+    ],
+    "sentences": [
+      "the action was used to justify military intervention",
+      "his success vindicated our faith in him",
+      "defended his voting record",
+      "asserted her rights",
+      "steadfastly maintained his innocence",
+      "her judgment was vindicated",
+      "voted to acquit the defendant",
+      "exonerated by the investigation",
+      "cannot be absolved of blame",
+      "exculpating himself from the charge of overenthusiasm",
+      "Today's decision on its face does little to vindicate tribal sovereignty …",
+      "felt vindicated when the truth became known",
+      "These discoveries vindicate their theory.",
+      "… there was a mad scramble to discover artifacts that might vindicate various claims about the Bible.",
+      "a non-profit group that works to vindicate those wrongly convicted",
+      "They have evidence that will vindicate =exonerate her."
+    ]
+  },
+  "violator": {
+    "synonyms": [
+      "breach",
+      "break",
+      "contravene",
+      "fracture",
+      "infringe (on or upon)",
+      "offend",
+      "traduce",
+      "transgress",
+      "defile",
+      "desecrate",
+      "profane",
+      "assault",
+      "force",
+      "rape",
+      "ravish"
+    ],
+    "sentences": [
+      "… violate the peace of a spring evening.",
+      "violate a shrine",
+      "violate the law"
+    ]
+  },
+  "violation": {
+    "synonyms": [
+      "breach",
+      "crime",
+      "debt",
+      "error",
+      "lawbreaking",
+      "malefaction",
+      "misdeed",
+      "misdoing",
+      "offense",
+      "sin",
+      "transgression",
+      "trespass",
+      "wrongdoing",
+      "contravention",
+      "infraction",
+      "infringement",
+      "assault",
+      "rape",
+      "ravishment",
+      "sexual assault"
+    ],
+    "sentences": [
+      "The evidence was seized in violation of the law."
+    ]
+  },
+  "virago": {
+    "synonyms": [
+      "battle-ax",
+      "dragon lady",
+      "fury",
+      "harpy",
+      "harridan",
+      "shrew",
+      "termagant",
+      "vixen"
+    ],
+    "sentences": []
+  },
+  "virile": {
+    "synonyms": [
+      "male",
+      "man-size",
+      "manlike",
+      "manly",
+      "mannish",
+      "masculine"
+    ],
+    "sentences": []
+  },
+  "virtu": {
+    "synonyms": [
+      "curiosa",
+      "ephemera",
+      "curio",
+      "curiosity",
+      "exotic",
+      "objet d'art",
+      "oddity",
+      "oddment",
+      "rarity",
+      "found object",
+      "objet trouvé",
+      "marvel",
+      "prodigy",
+      "rara avis",
+      "rare bird",
+      "wonder",
+      "abnormality",
+      "anomaly",
+      "freak",
+      "monster",
+      "monstrosity",
+      "malformation",
+      "mutant",
+      "mutation"
+    ],
+    "sentences": []
+  },
+  "virtual": {
+    "synonyms": [
+      "so-called",
+      "apparent",
+      "assumed",
+      "evident",
+      "ostensible",
+      "presumed",
+      "seeming",
+      "supposed",
+      "akin",
+      "analogous",
+      "cognate",
+      "comparable",
+      "connate",
+      "correspondent",
+      "corresponding",
+      "ditto",
+      "like",
+      "matching",
+      "parallel",
+      "resemblant",
+      "resembling",
+      "similar",
+      "such",
+      "suchlike",
+      "approaching",
+      "approximating",
+      "close",
+      "equal",
+      "equivalent",
+      "fungible",
+      "identical",
+      "indistinguishable",
+      "interchangeable",
+      "selfsame",
+      "substitutable",
+      "formal",
+      "nominal",
+      "paper",
+      "titular"
+    ],
+    "sentences": [
+      "virtual photons",
+      "a virtual tour",
+      "virtual shopping",
+      "print or virtual books",
+      "a virtual keyboard",
+      "a virtual dictator",
+      "He persuaded its users to communicate through a virtual private network, or VPN, a secure channel that sends encrypted messages between computers …",
+      "Tony, like all savvy Internet thieves, uses a virtual private network that masks his computer's true Internet Protocol address every time he logs on."
+    ]
+  },
+  "virtuoso": {
+    "synonyms": [
+      "adroit",
+      "artful",
+      "bravura",
+      "deft",
+      "delicate",
+      "dexterous",
+      "expert",
+      "masterful",
+      "masterly",
+      "practiced",
+      "skillful",
+      "workmanlike",
+      "accomplished",
+      "ace",
+      "adept",
+      "compleat",
+      "complete",
+      "consummate",
+      "crack",
+      "crackerjack",
+      "educated",
+      "experienced",
+      "good",
+      "great",
+      "master",
+      "professed",
+      "proficient",
+      "skilled",
+      "versed",
+      "veteran"
+    ],
+    "sentences": [
+      "a virtuoso cellist",
+      "virtuoso performances",
+      "Canto LXXX … provides a particularly virtuoso example of the poet's ear for dialects and languages.",
+      "In the eighteenth century, rich \"virtuosos\" like Richard Payne Knight and his friend Charles Townley assembled vast collections of everything from Roman sculpture to skewered beetles …",
+      "[Samuel] Pepys was a characteristic product of his day, a virtuoso, a man sympathetic to every new trend in science and scholarship.",
+      "… instances in which young computer virtuosos occasionally cross the legal boundaries of remote computer systems.",
+      "Although hockey has been more team-oriented than any other major sport, through the years there have been virtuosos who packed the houses.",
+      "a piano/violin virtuoso",
+      "a jazz virtuoso",
+      "But the heart of the program was Beethoven, the Quartet in E Minor, Opus 59, No. 2, \"Razoumovsky.\" This is where the modern string quartet begins, quartets that became the property of virtuosos instead of amateurs …",
+      "Hailed far and wide as a virtuoso, perhaps the greatest glass artist of the 20th century …"
+    ]
+  },
+  "virulence": {
+    "synonyms": [
+      "acidity",
+      "acidness",
+      "acridity",
+      "acridness",
+      "acrimony",
+      "asperity",
+      "bile",
+      "bitterness",
+      "cattiness",
+      "corrosiveness",
+      "mordancy",
+      "tartness",
+      "virulency",
+      "vitriol"
+    ],
+    "sentences": [
+      "Breast cancer is as diverse as the breast itself, appearing in many different guises. Some cancers seem to erupt out of ordinary breast tissue with an awesome virulence, spreading rapidly throughout the body.",
+      "With its newly acquired virulence, this otherwise mild-mannered avian influenza virus went wild.",
+      "a bacterial strain of low virulence",
+      "the virulence of a novel virus",
+      "the virulence of their hatred",
+      "She said the rising virulence of the rhetoric against Muslims has flooded her with sadness, grief, alienation and fear.",
+      "But the virulence of the campaign, on both sides … provides a clue to the deeper forces at work: the polarizing of politics in a traditionally moderate place.",
+      "hypervirulence of novel clostridial strains",
+      "hypervirulent strains of the bacteria"
+    ]
+  },
+  "virulent": {
+    "synonyms": [
+      "bad",
+      "bitchy",
+      "catty",
+      "cruel",
+      "despiteful",
+      "hateful",
+      "malevolent",
+      "malicious",
+      "malign",
+      "malignant",
+      "mean",
+      "nasty",
+      "spiteful",
+      "vicious"
+    ],
+    "sentences": [
+      "virulent criticism",
+      "virulent racists",
+      "virulent bacteria",
+      "a virulent infection",
+      "hypervirulence of novel clostridial strains",
+      "hypervirulent strains of the bacteria"
+    ]
+  },
+  "visage": {
+    "synonyms": [
+      "cast",
+      "countenance",
+      "expression",
+      "face",
+      "look",
+      "kisser",
+      "mug",
+      "pan",
+      "puss"
+    ],
+    "sentences": [
+      "the grimy visage of a mining town"
+    ]
+  },
+  "viscount": {
+    "synonyms": [
+      "baron",
+      "baronet",
+      "count",
+      "duke",
+      "earl",
+      "esquire",
+      "marchese",
+      "margrave",
+      "marquess",
+      "master",
+      "prince",
+      "princelet",
+      "princeling",
+      "raja",
+      "don",
+      "hidalgo",
+      "nabob",
+      "nawab",
+      "seigneur",
+      "seignior",
+      "sheikh",
+      "lordship",
+      "sire",
+      "cavalier",
+      "chevalier",
+      "knight",
+      "country gentleman",
+      "squire",
+      "gentleman",
+      "grandee",
+      "lord",
+      "milord",
+      "nobleman",
+      "peer"
+    ],
+    "sentences": []
+  },
+  "vista": {
+    "synonyms": [
+      "command",
+      "lookout",
+      "outlook",
+      "panorama",
+      "perspective",
+      "prospect",
+      "view"
+    ],
+    "sentences": []
+  },
+  "visual": {
+    "synonyms": [
+      "ocular",
+      "optic",
+      "optical",
+      "apparent",
+      "observable",
+      "seeable",
+      "visible",
+      "graphic",
+      "imaginal",
+      "pictorial",
+      "delineated",
+      "picturesque",
+      "vivid"
+    ],
+    "sentences": [
+      "visual navigation",
+      "visual objects",
+      "visual impressions",
+      "visual organs",
+      "… once you have seen the subvisual world through the microscope, you stop inventing demons and magic as the agents of change.",
+      "Auroras have a wide range of brightness, usually rated from 0 to 4 on a logarithmic scale … in which each number is 10 times brighter than the previous one. Zero means subvisual, detected only with instruments."
+    ]
+  },
+  "visualize": {
+    "synonyms": [
+      "conceit",
+      "conceive",
+      "conjure (up)",
+      "dream",
+      "envisage",
+      "envision",
+      "fancy",
+      "fantasize",
+      "fantasy",
+      "feature",
+      "ideate",
+      "image",
+      "imagine",
+      "picture",
+      "see",
+      "vision"
+    ],
+    "sentences": [
+      "trying to visualize the problem"
+    ]
+  },
+  "vitality": {
+    "synonyms": [
+      "animation",
+      "briskness",
+      "exuberance",
+      "jazziness",
+      "liveliness",
+      "lustiness",
+      "peppiness",
+      "robustness",
+      "sprightliness",
+      "vibrance",
+      "vibrancy",
+      "vigorousness",
+      "beans",
+      "bounce",
+      "brio",
+      "dash",
+      "drive",
+      "dynamism",
+      "energy",
+      "esprit",
+      "gas",
+      "get-up-and-go",
+      "ginger",
+      "go",
+      "gusto",
+      "hardihood",
+      "juice",
+      "life",
+      "moxie",
+      "oomph",
+      "pep",
+      "punch",
+      "sap",
+      "snap",
+      "starch",
+      "verve",
+      "vigor",
+      "vim",
+      "vinegar",
+      "zing",
+      "zip"
+    ],
+    "sentences": []
+  },
+  "vitalize": {
+    "synonyms": [
+      "amp (up)",
+      "animate",
+      "brace",
+      "energize",
+      "enliven",
+      "fillip",
+      "fire",
+      "ginger (up)",
+      "invigorate",
+      "jazz (up)",
+      "juice up",
+      "jump-start",
+      "liven (up)",
+      "pep (up)",
+      "quicken",
+      "spike",
+      "stimulate",
+      "vivify",
+      "zip (up)"
+    ],
+    "sentences": []
+  },
+  "vitiate": {
+    "synonyms": [
+      "blemish",
+      "darken",
+      "mar",
+      "poison",
+      "spoil",
+      "stain",
+      "taint",
+      "tarnish",
+      "touch",
+      "bloody",
+      "break",
+      "compromise",
+      "crab",
+      "cripple",
+      "cross (up)",
+      "damage",
+      "deface",
+      "disfigure",
+      "endamage",
+      "flaw",
+      "harm",
+      "hurt",
+      "impair",
+      "injure",
+      "abase",
+      "bastardize",
+      "canker",
+      "cheapen",
+      "corrupt",
+      "debase",
+      "debauch",
+      "degrade",
+      "demean",
+      "demoralize",
+      "deprave",
+      "deteriorate",
+      "lessen",
+      "pervert",
+      "profane",
+      "prostitute",
+      "subvert",
+      "warp"
+    ],
+    "sentences": [
+      "perverted the original goals of the institute",
+      "the long stay on a tropical isle had debauched the ship's crew",
+      "the belief that bureaucratese corrupts the language",
+      "the claim that society is depraved by pornography",
+      "a foreign policy vitiated by partisanship",
+      "commercialism has debased the holiday",
+      "fraud vitiates a contract",
+      "a mind vitiated by prejudice",
+      "… the comic impact is vitiated by obvious haste …"
+    ]
+  },
+  "vivacity": {
+    "synonyms": [
+      "animation",
+      "giddiness",
+      "jauntiness",
+      "liveliness",
+      "perkiness",
+      "brightness",
+      "cheer",
+      "cheerfulness",
+      "chirpiness",
+      "effervescence",
+      "friskiness",
+      "pizzazz",
+      "sparkle",
+      "spirit",
+      "spunk",
+      "verve",
+      "vivaciousness",
+      "eagerness",
+      "ebullience",
+      "ebulliency",
+      "enthusiasm",
+      "keenness",
+      "spiritedness",
+      "sprightliness",
+      "spunkiness",
+      "briskness",
+      "exuberance",
+      "jazziness",
+      "lustiness",
+      "peppiness",
+      "robustness",
+      "vibrance",
+      "vibrancy",
+      "vigorousness",
+      "vitality",
+      "beans",
+      "bounce",
+      "brio",
+      "dash",
+      "drive",
+      "dynamism",
+      "energy",
+      "esprit",
+      "gas",
+      "get-up-and-go",
+      "ginger",
+      "go",
+      "gusto",
+      "hardihood",
+      "juice",
+      "life",
+      "moxie",
+      "oomph",
+      "pep",
+      "punch",
+      "sap",
+      "snap",
+      "starch",
+      "vigor",
+      "vim",
+      "vinegar",
+      "zing",
+      "zip",
+      "ardor",
+      "élan",
+      "fervor",
+      "fire",
+      "passion",
+      "zeal",
+      "cheeriness",
+      "festivity",
+      "gaiety",
+      "gayness",
+      "glee",
+      "gleefulness",
+      "hilarity",
+      "jocundity",
+      "joviality",
+      "merriment",
+      "merriness",
+      "mirth",
+      "mirthfulness",
+      "buoyancy",
+      "good-humoredness",
+      "good-naturedness",
+      "humor",
+      "springiness",
+      "sunniness",
+      "gamesomeness",
+      "insouciance",
+      "lightheartedness",
+      "playfulness",
+      "sportiveness",
+      "joyfulness",
+      "joyousness",
+      "jubilance",
+      "rejoicing"
+    ],
+    "sentences": []
+  },
+  "vivify": {
+    "synonyms": [
+      "amp (up)",
+      "animate",
+      "brace",
+      "energize",
+      "enliven",
+      "fillip",
+      "fire",
+      "ginger (up)",
+      "invigorate",
+      "jazz (up)",
+      "juice up",
+      "jump-start",
+      "liven (up)",
+      "pep (up)",
+      "quicken",
+      "spike",
+      "stimulate",
+      "vitalize",
+      "zip (up)"
+    ],
+    "sentences": [
+      "new blood needed to vivify the dying club",
+      "enlivened her lectures with humorous anecdotes",
+      "happiness animated his conversation",
+      "the arrival of spring quickens the earth",
+      "… concentrating this union of quality and meaning in a way which vivifies both.",
+      "rains that vivify the barren hills"
+    ]
+  },
+  "vivisection": {
+    "synonyms": [
+      "biopsy"
+    ],
+    "sentences": [
+      "… it is cogent to say that I am a strong anti-vivisectionist.",
+      "anti-vivisection ads",
+      "an anti-vivisection organization"
+    ]
+  },
+  "vociferate": {
+    "synonyms": [
+      "bawl",
+      "bay",
+      "bellow",
+      "call",
+      "cry",
+      "holler",
+      "hollo",
+      "roar",
+      "shout",
+      "sound off",
+      "thunder",
+      "yell"
+    ],
+    "sentences": []
+  },
+  "vociferous": {
+    "synonyms": [
+      "blatant",
+      "caterwauling",
+      "clamant",
+      "clamorous",
+      "obstreperous",
+      "squawking",
+      "vociferant",
+      "vociferating",
+      "yawping",
+      "yowling"
+    ],
+    "sentences": [
+      "the obstreperous demonstrators were arrested",
+      "a boisterous crowd of party goers",
+      "heard the strident cry of the crow",
+      "blatant rock music",
+      "a blatant clamor for impeachment",
+      "clamorous demands for prison reforms",
+      "vociferous cries of protest and outrage"
+    ]
+  },
+  "vogue": {
+    "synonyms": [
+      "big",
+      "crowd-pleasing",
+      "du jour",
+      "faddish",
+      "faddy",
+      "fashionable",
+      "favorite",
+      "happening",
+      "hot",
+      "in",
+      "large",
+      "modish",
+      "pop",
+      "popular",
+      "popularized",
+      "red-hot",
+      "voguish"
+    ],
+    "sentences": [
+      "Cajun food was the rage nearly everywhere for a time",
+      "crossword puzzles once seemed just a passing craze but have lasted",
+      "last year's fad is over",
+      "short skirts are back in vogue",
+      "slim bodies are the mode at this resort",
+      "a media baron used to traveling in style",
+      "the current fashion"
+    ]
+  },
+  "volatile": {
+    "synonyms": [
+      "capricious",
+      "changeable",
+      "changeful",
+      "fickle",
+      "flickery",
+      "fluctuating",
+      "fluid",
+      "inconsistent",
+      "inconstant",
+      "mercurial",
+      "mutable",
+      "skittish",
+      "temperamental",
+      "uncertain",
+      "unpredictable",
+      "unsettled",
+      "unstable",
+      "unsteady",
+      "variable"
+    ],
+    "sentences": [
+      "volatile suspicions",
+      "a volatile temper",
+      "a volatile market"
+    ]
+  },
+  "volition": {
+    "synonyms": [
+      "accord",
+      "autonomy",
+      "choice",
+      "free will",
+      "self-determination",
+      "will",
+      "alternative",
+      "discretion",
+      "druthers",
+      "election",
+      "liberty",
+      "option",
+      "pick",
+      "preference",
+      "selection",
+      "way"
+    ],
+    "sentences": [
+      "He left the company of his own volition."
+    ]
+  },
+  "voluble": {
+    "synonyms": [
+      "articulate",
+      "fluent",
+      "glib",
+      "well-spoken",
+      "blabby",
+      "chatty",
+      "conversational",
+      "gabby",
+      "garrulous",
+      "loquacious",
+      "motormouthed",
+      "mouthy",
+      "talkative",
+      "talky",
+      "communicative",
+      "expansive",
+      "demonstrative",
+      "effusive",
+      "gushing",
+      "free-spoken",
+      "outspoken",
+      "unreserved",
+      "vocal",
+      "gossipy",
+      "talebearing",
+      "tale-telling",
+      "long-winded",
+      "prolix",
+      "rambling",
+      "verbose",
+      "windy",
+      "wordy",
+      "extroverted",
+      "gregarious",
+      "outgoing",
+      "sociable"
+    ],
+    "sentences": [
+      "a voluble raconteur",
+      "garrulous traveling companions",
+      "a loquacious spokesperson",
+      "a talkative neighbor"
+    ]
+  },
+  "voluptuous": {
+    "synonyms": [
+      "carnal",
+      "fleshly",
+      "luscious",
+      "lush",
+      "sensual",
+      "sensuous"
+    ],
+    "sentences": [
+      "a voluptuous feast",
+      "a luxurious hotel",
+      "a life devoted to sensual pleasures",
+      "the sensuous delights of great music",
+      "… a long and voluptuous holiday …",
+      "a voluptuous dance",
+      "voluptuous ornamentation",
+      "a voluptuous wine",
+      "voluptuous nudes"
+    ]
+  },
+  "voracious": {
+    "synonyms": [
+      "edacious",
+      "esurient",
+      "gluttonous",
+      "greedy",
+      "hoggish",
+      "piggish",
+      "rapacious",
+      "ravenous",
+      "swinish",
+      "agog",
+      "antsy",
+      "anxious",
+      "ardent",
+      "athirst",
+      "avid",
+      "bonkers",
+      "crazy",
+      "desirous",
+      "eager",
+      "enthused",
+      "enthusiastic",
+      "excited",
+      "gaga",
+      "geeked",
+      "great",
+      "gung ho",
+      "hepped up",
+      "hopped-up",
+      "hot",
+      "hungry",
+      "impatient",
+      "juiced",
+      "keen",
+      "nuts",
+      "pumped",
+      "raring",
+      "solicitous",
+      "stoked",
+      "thirsty",
+      "wild"
+    ],
+    "sentences": [
+      "rapacious developers indifferent to environmental concerns",
+      "a nation with a ravenous lust for territorial expansion",
+      "an admiral who was gluttonous for glory",
+      "teenagers are often voracious eaters",
+      "a voracious reader"
+    ]
+  },
+  "vortex": {
+    "synonyms": [
+      "gulf",
+      "maelstrom",
+      "whirlpool"
+    ],
+    "sentences": [
+      "… the hellish vortex of battle …"
+    ]
+  },
+  "votary": {
+    "synonyms": [
+      "acolyte",
+      "adherent",
+      "convert",
+      "disciple",
+      "epigone",
+      "follower",
+      "liege man",
+      "partisan",
+      "pupil",
+      "votarist"
+    ],
+    "sentences": []
+  },
+  "vulgarity": {
+    "synonyms": [
+      "coarseness",
+      "commonness",
+      "crassness",
+      "crudeness",
+      "crudity",
+      "grossness",
+      "indelicacy",
+      "indelicateness",
+      "lowness",
+      "raffishness",
+      "rawness",
+      "roughness",
+      "rudeness",
+      "tastelessness",
+      "bawdiness",
+      "blueness",
+      "dirt",
+      "dirtiness",
+      "filth",
+      "filthiness",
+      "foulness",
+      "impureness",
+      "impurity",
+      "indecency",
+      "lasciviousness",
+      "lewdness",
+      "nastiness",
+      "obscenity",
+      "profanity",
+      "raunch",
+      "raunchiness",
+      "ribaldry",
+      "smut",
+      "smuttiness",
+      "wantonness"
+    ],
+    "sentences": []
+  },
+  "vulnerable": {
+    "synonyms": [
+      "endangered",
+      "exposed",
+      "liable",
+      "open",
+      "sensitive",
+      "subject (to)",
+      "susceptible",
+      "defenseless",
+      "helpless",
+      "undefended",
+      "unguarded",
+      "unprotected",
+      "unresistant"
+    ],
+    "sentences": [
+      "vulnerable to criticism",
+      "The fort was undefended and vulnerable.",
+      "Your computer may be vulnerable to viruses.",
+      "The patient may be more vulnerable to infection immediately after surgery.",
+      "The lenses in children's eyes are clear and thus more vulnerable to light."
+    ]
+  },
+  "vegetal": {
+    "synonyms": [],
+    "sentences": [
+      "vegetal blastomeres"
+    ]
+  },
+  "vegetative": {
+    "synonyms": [],
+    "sentences": [
+      "the vegetative properties of soil",
+      "a vegetative nucleus"
+    ]
+  },
+  "venereal": {
+    "synonyms": [],
+    "sentences": [
+      "venereal sarcoma",
+      "a high venereal rate",
+      "venereal infections"
+    ]
+  },
+  "venous": {
+    "synonyms": [],
+    "sentences": [
+      "a venous thrombosis",
+      "a venous rock"
+    ]
+  },
+  "vertigo": {
+    "synonyms": [],
+    "sentences": [
+      "Doctors eventually told her she probably had benign paroxysmal positional vertigo, an inner-ear disorder, and gave her head-movement exercises to treat it."
+    ]
+  },
+  "vicarious": {
+    "synonyms": [],
+    "sentences": [
+      "vicarious menstruation manifested by bleeding from the nose",
+      "a vicarious sacrifice",
+      "vicarious authority",
+      "a vicarious thrill"
+    ]
+  },
+  "votive": {
+    "synonyms": [],
+    "sentences": [
+      "a votive prayer",
+      "… I will light a votive for those who need affordable housing and pray their needs are met.",
+      "A simple picture-propping shelf can display votives and flowers.",
+      "Male and female patrons crowd together at small tables where flames wobble on colored votive candles.",
+      "… in some parts of the church you still bake. A lot of churches have gotten rid of votive candles because of the soot and the heat."
+    ]
+  }
+}

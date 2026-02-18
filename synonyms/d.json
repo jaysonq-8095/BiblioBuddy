@@ -16,7 +16,21 @@
       "venturesome",
       "venturous"
     ],
-    "sentences": []
+    "sentences": [
+      "the foolhardy sailor ventured into the storm",
+      "a reckless driver",
+      "a rash decision",
+      "daredevil motorcyclists",
+      "daring mountain climbers",
+      "venturesome stunt pilots",
+      "adventurous pioneers",
+      "the actress dared a new interpretation of the classic role",
+      "dared the anger of his family",
+      "dared him to jump",
+      "try it if you dare",
+      "no one dared say a word",
+      "she dare not let herself love"
+    ]
   },
   "darkling": {
     "synonyms": [
@@ -70,7 +84,21 @@
       "point",
       "specific"
     ],
-    "sentences": []
+    "sentences": [
+      "The data is compelling.",
+      "Little data is available.",
+      "That data is flawed.",
+      "Is this data accurate?",
+      "As for the data we've seen, it's inconclusive.",
+      "The data are compelling.",
+      "These data are incorrect.",
+      "More data are needed.",
+      "As for the data currently available, they are inconclusive.",
+      "measuring the distance between datum points",
+      "… make things more efficient for those of us whose work requires a time datum.",
+      "an important historical datum",
+      "This enormous expense—and considerable risk—to pick up a datum or two about geriatrics?"
+    ]
   },
   "dauntless": {
     "synonyms": [
@@ -95,7 +123,9 @@
       "valiant",
       "valorous"
     ],
-    "sentences": []
+    "sentences": [
+      "a dauntless hero"
+    ]
   },
   "dead-heat": {
     "synonyms": [
@@ -130,7 +160,9 @@
       "want",
       "absence"
     ],
-    "sentences": []
+    "sentences": [
+      "a dearth of evidence"
+    ]
   },
   "debase": {
     "synonyms": [
@@ -166,7 +198,17 @@
       "smirch",
       "take down"
     ],
-    "sentences": []
+    "sentences": [
+      "perverted the original goals of the institute",
+      "the long stay on a tropical isle had debauched the ship's crew",
+      "the belief that bureaucratese corrupts the language",
+      "the claim that society is depraved by pornography",
+      "a foreign policy vitiated by partisanship",
+      "commercialism has debased the holiday",
+      "debased himself by lying to his supporters",
+      "… a constitutional amendment that would allow Congress to outlaw debasing the American flag.",
+      "This is not to say that you should be prepared to debase camping standards."
+    ]
   },
   "debatable": {
     "synonyms": [
@@ -191,7 +233,10 @@
       "suspect",
       "suspicious"
     ],
-    "sentences": []
+    "sentences": [
+      "the debatable wisdom of his advice",
+      "debatable border territory"
+    ]
   },
   "debonair": {
     "synonyms": [
@@ -211,7 +256,9 @@
       "svelte",
       "urbane"
     ],
-    "sentences": []
+    "sentences": [
+      "a debonair performer"
+    ]
   },
   "debut": {
     "synonyms": [
@@ -265,7 +312,12 @@
       "well",
       "wellspring"
     ],
-    "sentences": []
+    "sentences": [
+      "in honor of their daughter's debut",
+      "made her singing debut",
+      "the writer's debut novel",
+      "debut a new product"
+    ]
   },
   "decalogue": {
     "synonyms": [
@@ -346,7 +398,12 @@
       "mendacity",
       "untruthfulness"
     ],
-    "sentences": []
+    "sentences": [
+      "… far from deceit or guile.",
+      "Her excuse turned out to be a deceit.",
+      "achieving one's goals through a web of deceit",
+      "Mrs. Grant … could, by the easiest self-deceit, persuade herself that she was doing the kindest thing by Fanny …"
+    ]
   },
   "deceitful": {
     "synonyms": [
@@ -366,7 +423,14 @@
       "misleading",
       "specious"
     ],
-    "sentences": []
+    "sentences": [
+      "an untruthful account of their actions",
+      "mendacious tales of adventure",
+      "the secret affairs of a deceitful spouse",
+      "a swindle usually involves two dishonest people",
+      "deceitful advertising",
+      "a deceitful person"
+    ]
   },
   "deceive": {
     "synonyms": [
@@ -404,7 +468,26 @@
       "take in",
       "trick"
     ],
-    "sentences": []
+    "sentences": [
+      "was beguiled by false promises",
+      "we were deluded into thinking we were safe",
+      "I was misled by the confusing sign",
+      "tried to deceive me about the cost",
+      "appearances can deceive",
+      "… deceived me of a good sum of money …",
+      "These occupations oftentimes deceived the listless hour …",
+      "… nor are my hopes deceived.",
+      "You have deceived our trust …",
+      "… he it was whose guile … deceived the mother of mankind …",
+      "deceiving customers about the condition of the cars",
+      "bluffing at poker in order to deceive the other players",
+      "It's no use deceiving ourselves into thinking that everything will be fine.",
+      "Self-deceivers are people who don't see their own values, motives and beliefs clearly.",
+      "self-deceiving people/beliefs",
+      "One of her [Jane Austen's] novels, Emma, is narrated so much through the consciousness of its self-deceived heroine that the reader too keeps being deceived.",
+      "We are all invited … to change or to retrench and double down on the self-deceived notion that we have things all figured out.",
+      "Faced with the choice between attributing their performance to the presence of the answers or their own ability, people chose to self-deceive, convincing themselves that their performance was due not to the answers but to themselves."
+    ]
   },
   "decency": {
     "synonyms": [
@@ -475,7 +558,18 @@
       "serviceable",
       "tolerable"
     ],
-    "sentences": []
+    "sentences": [
+      "preferred more modest swimsuits",
+      "decent people didn't go to such movies",
+      "the pure of heart",
+      "they maintained chaste relations",
+      "decent wages",
+      "decent language",
+      "decent behavior",
+      "hard-working and decent folks",
+      "it's very decent of them to help",
+      "I'm willing to eat anywhere as long as the food is halfway decent."
+    ]
   },
   "deciduous": {
     "synonyms": [
@@ -494,7 +588,18 @@
       "transient",
       "transitory"
     ],
-    "sentences": []
+    "sentences": [
+      "There is much that is deciduous in books …",
+      "a deciduous forest",
+      "maples, birches, and other deciduous trees",
+      "deciduous dentition",
+      "deciduous leaves",
+      "deciduous scales",
+      "Occasionally, cats are born with duplicate or missing teeth, but the most common developmental problem is retained deciduous teeth …",
+      "Both sisters had severe dental caries as young children that necessitated the extraction of all deciduous teeth.",
+      "Whereas most mammals retain their milk teeth for months, some bat species lose these teeth soon after birth and have adult dentition even before they are weaned.",
+      "… a restless, rambunctious boy, who at the beginning of the year had lost two front milk teeth that still showed no signs of being replaced by adult ones."
+    ]
   },
   "decimal": {
     "synonyms": [
@@ -509,7 +614,9 @@
       "cipher",
       "symbol"
     ],
-    "sentences": []
+    "sentences": [
+      "decimal coinage"
+    ]
   },
   "decimate": {
     "synonyms": [
@@ -536,7 +643,14 @@
       "wrack",
       "wreck"
     ],
-    "sentences": []
+    "sentences": [
+      "A fire decimated the city.",
+      "an industry decimated by recession",
+      "An outbreak of cholera decimated the population.",
+      "Kamieniecki's return comes at a crucial time for a pitching staff that has been decimated by injuries.",
+      "… poor as a decimated Cavalier …",
+      "decimate a regiment"
+    ]
   },
   "decipher": {
     "synonyms": [
@@ -575,7 +689,12 @@
       "twig",
       "understand"
     ],
-    "sentences": []
+    "sentences": [
+      "decipher the poem",
+      "trying to decipher her handwriting",
+      "… with her majesty's name deciphered in gold letters …",
+      "decipher a secret message"
+    ]
   },
   "decisive": {
     "synonyms": [
@@ -608,7 +727,19 @@
       "definitive",
       "last"
     ],
-    "sentences": []
+    "sentences": [
+      "the definitive biography",
+      "the determinative factor in the court's decision",
+      "a decisive battle",
+      "conclusive evidence",
+      "a decisive superiority",
+      "a decisive manner",
+      "decisive leaders",
+      "a decisive editor",
+      "The council president cast the decisive vote.",
+      "In emergency situations, one must be able to take decisive action.",
+      "Cost was the decisive/deciding/determining factor in their decision."
+    ]
   },
   "declamation": {
     "synonyms": [
@@ -619,7 +750,13 @@
       "speech",
       "talk"
     ],
-    "sentences": []
+    "sentences": [
+      "His moving declamation of the Rupert Brooke poem The Soldier at Armistice Day celebrations on Friday … confirmed his ability to inhabit the two roles of Royal figurehead and private man.",
+      "Higher education was exclusively devoted to debate and declamation and was in the hands of a rhetor, a specialist teacher of public speaking.",
+      "During her declamation Eustacia held her head erect, and spoke as roughly as she could, feeling pretty secure from observation.",
+      "Flaubert invited a small party of friends … to a private reading—or, rather, a declamation, for he liked to bray his work at the top of his lungs—that lasted for ten hours.",
+      "Iacocca talks nonstop, like the salesman he is. If not for the humor and the regular flashes of common sense, his declamations would be rants."
+    ]
   },
   "declamatory": {
     "synonyms": [
@@ -663,7 +800,9 @@
       "learned",
       "literary"
     ],
-    "sentences": []
+    "sentences": [
+      "declamatory speeches"
+    ]
   },
   "declension": {
     "synonyms": [
@@ -726,7 +865,21 @@
       "pretty (up)",
       "trim"
     ],
-    "sentences": []
+    "sentences": [
+      "an entrée garnished with parsley",
+      "a house all decked out for Christmas",
+      "will beautify the grounds with flower beds",
+      "embellish a page with floral borders",
+      "a white house ornamented with green shutters",
+      "decorate a birthday cake",
+      "a diamond necklace adorned her neck",
+      "decorating for the party",
+      "a soldier decorated for valor",
+      "highly decorated war veterans",
+      "decorate a room with artwork",
+      "decorating the Christmas tree",
+      "… decorated commerce with the splendid virtues of honor and loyalty …"
+    ]
   },
   "decorous": {
     "synonyms": [
@@ -748,14 +901,28 @@
       "stiff-necked",
       "stilted"
     ],
-    "sentences": []
+    "sentences": [
+      "decorous conduct",
+      "Ever decorous, she periodically excuses herself to another room rather than allow a guest to witness her blowing her nose."
+    ]
   },
   "decoy": {
     "synonyms": [
       "bait",
       "lure"
     ],
-    "sentences": []
+    "sentences": [
+      "had a decoy distract the guard",
+      "… the commander of that sub … took us to be a decoy …",
+      "seduced by assurances of assistance",
+      "tempted by the offer of money",
+      "attempting to decoy the enemy into an ambush",
+      "fund-raisers inveigling wealthy alumni",
+      "advertising designed to entice new customers",
+      "lured naive investors with get-rich-quick schemes",
+      "decoying ducks to a pond",
+      "The undercover cop decoyed the fugitive into a trap."
+    ]
   },
   "decrepit": {
     "synonyms": [
@@ -804,7 +971,18 @@
       "unsound",
       "wrecked"
     ],
-    "sentences": []
+    "sentences": [
+      "the dowager's decrepit retainers",
+      "infirm residents requiring constant care",
+      "a reclusive poet too fragile for the rigors of this world",
+      "a frail teenager unable to enjoy sports",
+      "a feeble attempt to walk",
+      "felt weak after the surgery",
+      "an old, decrepit hotel",
+      "a decrepit industry",
+      "a decrepit school bus",
+      "a decrepit old man"
+    ]
   },
   "dedication": {
     "synonyms": [
@@ -825,7 +1003,14 @@
       "steadfastness",
       "troth"
     ],
-    "sentences": []
+    "sentences": [
+      "attended the building's dedication nearly fifty years ago",
+      "her dedication to the cause",
+      "required hard work and dedication",
+      "mentioned his family in a brief dedication in his novel",
+      "the dedication of funds raised from the bake sale to the class trip",
+      "the dedication of the temple"
+    ]
   },
   "deduce": {
     "synonyms": [
@@ -840,7 +1025,16 @@
       "reason",
       "understand"
     ],
-    "sentences": []
+    "sentences": [
+      "gathered their desire to be alone without a word",
+      "judge people by their actions",
+      "concluded that only the accused could be guilty",
+      "denied we could deduce anything important from human mortality",
+      "from that remark, I inferred that they knew each other",
+      "deduce their lineage",
+      "deduce the age of ancient artifacts",
+      "She deduced, from the fur stuck to his clothes, that he owned a cat."
+    ]
   },
   "deface": {
     "synonyms": [
@@ -865,7 +1059,9 @@
       "spoil",
       "vitiate"
     ],
-    "sentences": []
+    "sentences": [
+      "deface an inscription"
+    ]
   },
   "defamation": {
     "synonyms": [
@@ -884,7 +1080,12 @@
       "vilification",
       "vilifying"
     ],
-    "sentences": []
+    "sentences": [
+      "repeated the defamation",
+      "defamation of character",
+      "a defamation lawsuit",
+      "anti-defamation laws"
+    ]
   },
   "defame": {
     "synonyms": [
@@ -904,7 +1105,17 @@
       "incriminate",
       "indict"
     ],
-    "sentences": []
+    "sentences": [
+      "town gossips slandered their good name",
+      "sued them for defaming her reputation",
+      "falsely calumniated as a traitor",
+      "no criminal was more vilified in the press",
+      "both candidates aspersed the other's motives",
+      "so traduced the governor that he was driven from office",
+      "the most maligned monarch in British history",
+      "defamed of witchcraft",
+      "defamed her character"
+    ]
   },
   "default": {
     "synonyms": [
@@ -917,7 +1128,21 @@
       "nonfeasance",
       "oversight"
     ],
-    "sentences": []
+    "sentences": [
+      "using the default settings",
+      "remained the club's president by default",
+      "the default candidate",
+      "lost the game by default",
+      "The defendant is in default.",
+      "was in default on her loan",
+      "mortgage defaults",
+      "was defaulted from the tournament",
+      "defaulted the game",
+      "default a loan",
+      "The program defaults to a standard font.",
+      "default on a loan",
+      "She's in default on her loan."
+    ]
   },
   "defendant": {
     "synonyms": [
@@ -970,7 +1195,10 @@
       "relapser",
       "repeater"
     ],
-    "sentences": []
+    "sentences": [
+      "if the jury finds the defendant not guilty",
+      "… the defendant argued that it was plain error for the trial court to have permitted the prosecution to treat his co-defendant as hostile …"
+    ]
   },
   "defensible": {
     "synonyms": [
@@ -981,14 +1209,29 @@
       "supportable",
       "sustainable"
     ],
-    "sentences": []
+    "sentences": [
+      "defensible theories",
+      "a defensible hill"
+    ]
   },
   "defensive": {
     "synonyms": [
       "protective",
       "self-protective"
     ],
-    "sentences": []
+    "sentences": [
+      "a defensive bid",
+      "a defensive card in bridge",
+      "a defensive lineman",
+      "a player with good defensive skills",
+      "made a brilliant defensive play",
+      "defensive behavior",
+      "He became defensive when I brought up his spending habits.",
+      "defensive fortifications",
+      "keeping his political opponent on the defensive",
+      "a self-defensive person",
+      "a self-defensive attitude"
+    ]
   },
   "defer": {
     "synonyms": [
@@ -1003,7 +1246,24 @@
       "remit",
       "shelve"
     ],
-    "sentences": []
+    "sentences": [
+      "the governor stayed the execution",
+      "business will be suspended while repairs are underway",
+      "the game is postponed until Saturday",
+      "deferred buying a car until spring",
+      "I defer to your expertise in these matters",
+      "finally relented and let the children stay up late",
+      "a stage actor succumbing to the lure of Hollywood",
+      "officials capitulated to the protesters' demands",
+      "a repentant sinner vowing to submit to the will of God",
+      "yields too easily in any argument",
+      "deferred to their father's wishes",
+      "… he could defer his job to no one.",
+      "The court defers to precedent in cases like these.",
+      "He deferred to his parents' wishes.",
+      "You have more experience with this, so I'm going to defer to you.",
+      "deferring to the experts"
+    ]
   },
   "deference": {
     "synonyms": [
@@ -1015,7 +1275,13 @@
       "obedience",
       "submissiveness"
     ],
-    "sentences": []
+    "sentences": [
+      "showed no deference to their elders",
+      "great reverence for my father",
+      "paying homage to Shakespeare",
+      "the nomination is an honor",
+      "returned early in deference to her parents' wishes"
+    ]
   },
   "defiant": {
     "synonyms": [
@@ -1040,7 +1306,11 @@
       "wayward",
       "willful"
     ],
-    "sentences": []
+    "sentences": [
+      "defiant rebels",
+      "a defiant refusal",
+      "Mantor struck a defiant pose, his chin out, and rocked for a moment on the heels of his boots."
+    ]
   },
   "deficiency": {
     "synonyms": [
@@ -1065,7 +1335,12 @@
       "undersupply",
       "want"
     ],
-    "sentences": []
+    "sentences": [
+      "a vitamin C deficiency",
+      "hormone deficiencies",
+      "staffing deficiencies",
+      "suffers from a deficiency of critical thinking"
+    ]
   },
   "deficient": {
     "synonyms": [
@@ -1107,7 +1382,12 @@
       "short",
       "shy"
     ],
-    "sentences": []
+    "sentences": [
+      "deficient strength",
+      "… rusted and aging pipes … abetted by deficient maintenance and sabotage.",
+      "deficient in judgment",
+      "bones deficient in calcium"
+    ]
   },
   "definite": {
     "synonyms": [
@@ -1172,7 +1452,23 @@
       "utter",
       "very"
     ],
-    "sentences": []
+    "sentences": [
+      "two specific criticisms",
+      "her express wishes",
+      "the law is definite in such cases",
+      "explicit instructions",
+      "a definite inflorescence",
+      "stamens definite",
+      "set definite standards for pupils to meet",
+      "… the side striking the new coin is flattened and less definite.",
+      "the definite article the",
+      "the quarterback was a definite hero today",
+      "a definite masterpiece",
+      "saw a definite improvement in her grades",
+      "demanded a definite answer",
+      "Her position on the issue was definite.",
+      "positive definite quadratic forms"
+    ]
   },
   "deflect": {
     "synonyms": [
@@ -1184,7 +1480,13 @@
       "wheel",
       "whip"
     ],
-    "sentences": []
+    "sentences": [
+      "the shot deflected off the goalie's shoulder pad",
+      "was able to deflect criticism",
+      "armor that deflects bullets",
+      "deflecting attention from the troubled economy",
+      "deflect a question"
+    ]
   },
   "deforest": {
     "synonyms": [
@@ -1204,7 +1506,10 @@
       "defoliate",
       "pare"
     ],
-    "sentences": []
+    "sentences": [
+      "As eroded hillsides become useless, the displaced farmers move still farther up the mountains, deforesting still more land.",
+      "Overgrazing has joined with the wide use of wood fuels to deforest large areas."
+    ]
   },
   "deform": {
     "synonyms": [
@@ -1216,7 +1521,14 @@
       "torture",
       "warp"
     ],
-    "sentences": []
+    "sentences": [
+      "warped floorboards",
+      "the odd camera angle distorts the figure",
+      "disease had contorted her body",
+      "a face deformed by hatred",
+      "a marriage deformed by jealousy",
+      "a face deformed by bitterness"
+    ]
   },
   "deformity": {
     "synonyms": [
@@ -1278,7 +1590,14 @@
       "thimblerig",
       "victimize"
     ],
-    "sentences": []
+    "sentences": [
+      "swindled of their savings by con artists",
+      "defrauded of her inheritance by an unscrupulous lawyer",
+      "always able to cozen her grandfather out of a few dollars",
+      "cheated me out of a dollar",
+      "trying to defraud the public",
+      "Investors in the scheme were defrauded of their life savings."
+    ]
   },
   "defray": {
     "synonyms": [
@@ -1318,7 +1637,9 @@
       "provide (for)",
       "refund"
     ],
-    "sentences": []
+    "sentences": [
+      "sold advertising on the website to help defray the cost of running it"
+    ]
   },
   "degeneracy": {
     "synonyms": [
@@ -1386,7 +1707,31 @@
       "unwholesome",
       "warped"
     ],
-    "sentences": []
+    "sentences": [
+      "a degenerate regime propped up by foreign powers",
+      "city hall was rife with corrupt politicians",
+      "the nefarious rackets of organized crime",
+      "an iniquitous system of taxation",
+      "a villainous assault",
+      "a vicious gangster",
+      "degenerate energy level",
+      "degenerate oscillation",
+      "a degenerate star",
+      "degenerate matter",
+      "a degenerate hyperbola",
+      "the functionally degenerate wings of the species",
+      "a degenerate schemer",
+      "a despairing and degenerate world had sunk into servitude beneath him",
+      "… fruit so degenerate that the insects weren't even interested …",
+      "… the last degenerate member of a noble family …",
+      "degenerated into dependent parasites",
+      "the poetry gradually degenerates into jingles",
+      "… the sitcom has degenerated into a sparring ring of personal insult",
+      "The debate degenerated into a shouting match.",
+      "At the same time, discotheques degenerated into seedier venues … —shifty, often Mob-run last-martini stops for business commuters …",
+      "Her fixed mysterious smile degenerated into a fatuous stare …",
+      "social degenerates"
+    ]
   },
   "degradation": {
     "synonyms": [
@@ -1424,7 +1769,14 @@
       "rakishness",
       "turpitude"
     ],
-    "sentences": []
+    "sentences": [
+      "… educated him in the bestiality and degradation that war brings.",
+      "'A dependence upon him,' said Kate, 'would embitter my whole life. I should feel begging a far less degradation.'",
+      "Some houses are found spotless, others in a wretched degradation …",
+      "environmental degradation",
+      "the gradual degradation of organic matter",
+      "suffer the degradations of poverty and abuse"
+    ]
   },
   "degrade": {
     "synonyms": [
@@ -1466,7 +1818,17 @@
       "smirch",
       "take down"
     ],
-    "sentences": []
+    "sentences": [
+      "plastics that don't easily degrade",
+      "causes the meat to degrade in quality",
+      "degraded the hillside",
+      "material degraded by exposure to sunlight",
+      "claimed that the ads degraded women",
+      "… impelled, by misfortune and misery, to the vice that has degraded them.",
+      "Their actions have degraded their profession.",
+      "comments intended to humiliate and degrade others",
+      "degrade the image quality"
+    ]
   },
   "dehydrate": {
     "synonyms": [
@@ -1517,7 +1879,11 @@
       "condescend",
       "stoop"
     ],
-    "sentences": []
+    "sentences": [
+      "… never so much as deigning a glance …",
+      "would not even deign to talk to him",
+      "One iconoclastic architect, for example, doesn't deign to speak of bathrooms."
+    ]
   },
   "deist": {
     "synonyms": [
@@ -1560,7 +1926,11 @@
       "godhead",
       "godhood"
     ],
-    "sentences": []
+    "sentences": [
+      "… such established American deities as Daniel Boone, Kit Carson …",
+      "the deities of the banking world",
+      "the deities of ancient Greece"
+    ]
   },
   "deject": {
     "synonyms": [
@@ -1653,7 +2023,11 @@
       "toothy",
       "yummy"
     ],
-    "sentences": []
+    "sentences": [
+      "a delectable meal",
+      "a delectable melody",
+      "pastries and other delectables"
+    ]
   },
   "delectation": {
     "synonyms": [
@@ -1698,7 +2072,15 @@
       "prejudicial",
       "wicked"
     ],
-    "sentences": []
+    "sentences": [
+      "the detrimental effects of excessive drinking",
+      "a diet found to have deleterious effects",
+      "noxious chemical fumes",
+      "the baneful notion that discipline destroys creativity",
+      "the claim that pornography has a pernicious effect on society",
+      "deleterious effects",
+      "deleterious to health"
+    ]
   },
   "delicacy": {
     "synonyms": [
@@ -1757,7 +2139,17 @@
       "sensitivity",
       "sharpness"
     ],
-    "sentences": []
+    "sentences": [
+      "an electronic instrument of great delicacy",
+      "the delicacy of his taste in art",
+      "the delicacy of the tense negotiations",
+      "Hunger knows no delicacy.",
+      "handled the difficult situation with delicacy",
+      "the delicacy of his health",
+      "lace of great delicacy",
+      "the delicacy of a spider web",
+      "considered caviar a delicacy"
+    ]
   },
   "delineate": {
     "synonyms": [
@@ -1777,7 +2169,11 @@
       "render",
       "set out"
     ],
-    "sentences": []
+    "sentences": [
+      "lights delineating the narrow streets",
+      "delineate a character in the story",
+      "delineate the steps to be taken by the government"
+    ]
   },
   "deliquesce": {
     "synonyms": [
@@ -1809,7 +2205,11 @@
       "violent",
       "wild"
     ],
-    "sentences": []
+    "sentences": [
+      "delirious with fever",
+      "delirious fans",
+      "delirious mutterings"
+    ]
   },
   "delude": {
     "synonyms": [
@@ -1847,7 +2247,14 @@
       "take in",
       "trick"
     ],
-    "sentences": []
+    "sentences": [
+      "was beguiled by false promises",
+      "we were deluded into thinking we were safe",
+      "I was misled by the confusing sign",
+      "tried to deceive me about the cost",
+      "… people he regards as deluded by the romantic idea that children somehow possess innate knowledge …",
+      "… Hamilton apparently deluded himself, as the first Treasury secretary, into thinking his policies patriotic when their effect, Mr. Phillips says, was to put money into silken purses."
+    ]
   },
   "deluge": {
     "synonyms": [
@@ -1871,7 +2278,11 @@
       "storm",
       "wet"
     ],
-    "sentences": []
+    "sentences": [
+      "received a deluge of angry phone calls",
+      "a deluge causing mudslides in the area",
+      "The store was deluged with complaints."
+    ]
   },
   "delusion": {
     "synonyms": [
@@ -1899,7 +2310,20 @@
       "old wives' tale",
       "untruth"
     ],
-    "sentences": []
+    "sentences": [
+      "claimed a balanced budget is a mirage",
+      "suffered from terrifying hallucinations",
+      "an illusion of safety",
+      "delusions of persecution",
+      "… accused the Bohemian of having practised the most abominable arts of delusion among the younger brethren.",
+      "the delusion that someone was out to hurt him",
+      "under the delusion that they will finish on schedule",
+      "delusions of grandeur",
+      "… a star of immense talent who harbored no self-delusions.",
+      "My god-given talent for self-delusion keeps me believing that the increasing amount of time I spend alone is of my own choice …",
+      "They know what they are doing is wrong. And it's our job to remind them of it. Because when we don't continually remind them, people devolve into self-delusion.",
+      "He still labors under the delusion that other people value his opinion."
+    ]
   },
   "demagogue": {
     "synonyms": [
@@ -1914,7 +2338,11 @@
       "provocateur",
       "rabble-rouser"
     ],
-    "sentences": []
+    "sentences": [
+      "The ruin of civil liberty had silenced the demagogues of Athens, and the tribunes of Rome …",
+      "His opponent called him a demagogue.",
+      "The most fervent devotees of a cult or demagogue are those who mistake courtship for love and the power of a leader for their own."
+    ]
   },
   "demeanor": {
     "synonyms": [
@@ -1927,7 +2355,17 @@
       "deportment",
       "geste"
     ],
-    "sentences": []
+    "sentences": [
+      "the kind of carriage learned at boarding school",
+      "the imperious manner of a man used to giving orders",
+      "a mien of supreme self-satisfaction",
+      "the haughty demeanor of the headwaiter",
+      "your deportment was atrocious",
+      "a woman of regal bearing",
+      "a shy/friendly/warm demeanor",
+      "His quiet demeanor had a calming effect on all of us.",
+      "Sabrina has an incredibly gentle demeanor and loves snuggling up with pillows and soft blankets."
+    ]
   },
   "demented": {
     "synonyms": [
@@ -1958,7 +2396,11 @@
       "unsound",
       "wud"
     ],
-    "sentences": []
+    "sentences": [
+      "At least one-third of people serving as caregivers for a demented husband or wife become chronically depressed.",
+      "The advertising campaign for the movie version is trying to sell it as a prankish comedy, with the eccentric aunt who appears from nowhere as a demented Mary Poppins.",
+      "… the violence was instigated directly by Serbian nationalists in Bosnia and in Belgrade as part of their demented project to separate the two intermixed ethnic communities once and for all,"
+    ]
   },
   "demerit": {
     "synonyms": [
@@ -2004,7 +2446,10 @@
       "flameout",
       "Götterdämmerung"
     ],
-    "sentences": []
+    "sentences": [
+      "the property has demised to the king's heirs",
+      "demise an estate"
+    ]
   },
   "demobilize": {
     "synonyms": [
@@ -2047,7 +2492,16 @@
       "explode",
       "pop"
     ],
-    "sentences": []
+    "sentences": [
+      "demolished the pizza",
+      "demolished her debate opponents",
+      "demolish a stereotype",
+      "demolished myths about the disease",
+      "… a filibuster which would effectively demolish the issue …",
+      "… a performance so awkward and apathetic it instantly appeared to demolish any chance of restoring her declining career …",
+      "His car was demolished in the accident.",
+      "demolish a building"
+    ]
   },
   "demonstrable": {
     "synonyms": [
@@ -2097,7 +2551,23 @@
       "exemplify",
       "instance"
     ],
-    "sentences": []
+    "sentences": [
+      "demonstrated their approval by loud applause",
+      "evinced not the slightest fear",
+      "a commitment evidenced by years of loyal service",
+      "manifested musical ability at an early age",
+      "careful not to show his true feelings",
+      "Allow me to demonstrate.",
+      "crowds demonstrating for the right to vote",
+      "demonstrate a new kitchen gadget",
+      "demonstrate a procedure",
+      "crowded classrooms that demonstrate the need for more schools in the area",
+      "demonstrate a willingness to cooperate",
+      "must demonstrate mastery of the subject matter in order to pass the class",
+      "The police demonstrated calm restraint during the riot.",
+      "Some counterdemonstrators gathered around a park bench and took turns addressing the crowd with a microphone, while others shouted from a distance at the people gathered for the rally.",
+      "Thousands of activists in most major cities gathered to counter-demonstrate against official rallies."
+    ]
   },
   "demonstrative": {
     "synonyms": [
@@ -2132,7 +2602,13 @@
       "warm",
       "warm-blooded"
     ],
-    "sentences": []
+    "sentences": [
+      "a demonstrative preacher",
+      "made a demonstrative gesture",
+      "demonstrative pronouns",
+      "demonstrative adjectives",
+      "the demonstratives \"this,\" \"that,\" \"these,\" and \"those\""
+    ]
   },
   "demonstrator": {
     "synonyms": [
@@ -2179,7 +2655,10 @@
       "provoker",
       "agent provocateur"
     ],
-    "sentences": []
+    "sentences": [
+      "Some counterdemonstrators gathered around a park bench and took turns addressing the crowd with a microphone, while others shouted from a distance at the people gathered for the rally.",
+      "Thousands of activists in most major cities gathered to counter-demonstrate against official rallies."
+    ]
   },
   "denizen": {
     "synonyms": [
@@ -2198,7 +2677,11 @@
       "resider",
       "tenant"
     ],
-    "sentences": []
+    "sentences": [
+      "… daylilies, purple loosestrife, and other roadside denizens now firmly rooted in Maine …",
+      "nightclub denizens",
+      "denizens of the forest"
+    ]
   },
   "denominate": {
     "synonyms": [
@@ -2216,7 +2699,9 @@
       "term",
       "title"
     ],
-    "sentences": []
+    "sentences": [
+      "will denominate prices in U.S. dollars"
+    ]
   },
   "denomination": {
     "synonyms": [
@@ -2232,7 +2717,13 @@
       "nomenclature",
       "title"
     ],
-    "sentences": []
+    "sentences": [
+      "people from several different Christian denominations",
+      "listed under the general denomination of gifts",
+      "bills in $20 and $50 denominations",
+      "metric denominations",
+      "the denomination of prices in U.S. dollars"
+    ]
   },
   "denominator": {
     "synonyms": [
@@ -2244,7 +2735,10 @@
       "similarity",
       "similitude"
     ],
-    "sentences": []
+    "sentences": [
+      "Some critics argue that reality TV poses a new low denominator for television content …",
+      "a common denominator"
+    ]
   },
   "denote": {
     "synonyms": [
@@ -2260,7 +2754,14 @@
       "point (to)",
       "tell (of)"
     ],
-    "sentences": []
+    "sentences": [
+      "the symbol / denotes \"or,\" \"and or,\" or \"per\"",
+      "An epiphany is, literally, a showing. In Christian terminology it denotes the showing of the infant Jesus to the three Magi.",
+      "In the Southern U.S., the word \"toboggan\" denotes a stocking cap.",
+      "His crestfallen look denoted his distress.",
+      "red flares denoting danger",
+      "But as yet, no floating bough, no tern … to denote our proximity to land."
+    ]
   },
   "denouement": {
     "synonyms": [
@@ -2302,7 +2803,11 @@
       "side effect",
       "spin-off"
     ],
-    "sentences": []
+    "sentences": [
+      "the competition's exciting denouement",
+      "In the novel's denouement, the two hostages escape to freedom.",
+      "It is an intentionally unsettling denouement, which is in keeping with the tone and purpose of the entire miniseries."
+    ]
   },
   "denounce": {
     "synonyms": [
@@ -2329,7 +2834,19 @@
       "reproach",
       "reprove"
     ],
-    "sentences": []
+    "sentences": [
+      "a pastoral letter denouncing abortion",
+      "condemned the government's racial policies",
+      "reprobated his son's unconventional lifestyle",
+      "a Senator formally censured by his peers",
+      "reprehends the self-centeredness of today's students",
+      "criticized the police for using violence",
+      "denounced the arrangement with their former ally",
+      "was denounced to the authorities",
+      "called on the group to denounce violence",
+      "They denounced him as a bigot.",
+      "Others might cry or get bent out of shape when their personal tastes are denounced and ridiculed, but not him …"
+    ]
   },
   "denude": {
     "synonyms": [
@@ -2365,7 +2882,12 @@
       "riot act",
       "stricture"
     ],
-    "sentences": []
+    "sentences": [
+      "drew strong denunciations from world leaders",
+      "the denunciation of violence",
+      "the denunciation of one's enemies",
+      "their denunciation of him as a spy"
+    ]
   },
   "deplete": {
     "synonyms": [
@@ -2395,7 +2917,17 @@
       "lower",
       "reduce"
     ],
-    "sentences": []
+    "sentences": [
+      "war had bankrupted the nation of resources",
+      "impoverished soil",
+      "her lecture exhausted the subject",
+      "personal tragedy had drained him of all spirit",
+      "depleting our natural resources",
+      "deplete our life savings",
+      "their depleted resources",
+      "The lake was depleted of water.",
+      "depleting the country of its natural resources"
+    ]
   },
   "deplorable": {
     "synonyms": [
@@ -2431,7 +2963,11 @@
       "unlucky",
       "woeful"
     ],
-    "sentences": []
+    "sentences": [
+      "a deplorable death",
+      "deplorable living conditions",
+      "deplorable behavior"
+    ]
   },
   "deplore": {
     "synonyms": [
@@ -2457,7 +2993,15 @@
       "repent",
       "rue"
     ],
-    "sentences": []
+    "sentences": [
+      "fans bewailed the defeat",
+      "purists bemoaning the corruption of the language",
+      "lamenting the loss of their only child",
+      "deplores the breakdown in family values",
+      "many critics deplore his methods",
+      "deplore my own actions",
+      "deplore the death of a friend"
+    ]
   },
   "depopulate": {
     "synonyms": [
@@ -2482,7 +3026,18 @@
       "demean",
       "quit"
     ],
-    "sentences": []
+    "sentences": [
+      "acquitted herself well in her first assignment",
+      "comported themselves as gentlemen",
+      "the hero deported himself in accord with the code of chivalry",
+      "conducted herself with unfailing good humor",
+      "the children behaved in church",
+      "a convict who was transported to Australia",
+      "migrants may be deported",
+      "a writer who exiled himself for political reasons",
+      "banished for seditious activities",
+      "… over two hundred miners … were forcibly deported from their homes …"
+    ]
   },
   "deportment": {
     "synonyms": [
@@ -2495,7 +3050,16 @@
       "demeanor",
       "geste"
     ],
-    "sentences": []
+    "sentences": [
+      "the kind of carriage learned at boarding school",
+      "the imperious manner of a man used to giving orders",
+      "a mien of supreme self-satisfaction",
+      "the haughty demeanor of the headwaiter",
+      "your deportment was atrocious",
+      "a woman of regal bearing",
+      "were instructed in proper dress and deportment",
+      "His features are strong and masculine …, all his motions graceful, and his deportment majestic."
+    ]
   },
   "deposition": {
     "synonyms": [
@@ -2506,7 +3070,13 @@
       "sediment",
       "settlings"
     ],
-    "sentences": []
+    "sentences": [
+      "deposition of a king",
+      "Moraines are glacial depositions.",
+      "the deposition of earth and stone by glaciers",
+      "gave a videotaped deposition about what she witnessed",
+      "20nm of aluminium oxide was used as a gate insulator, built-up by atomic layer deposition over a seed layer of oxidised aluminium on the graphene surface."
+    ]
   },
   "depositor": {
     "synonyms": [
@@ -2524,7 +3094,12 @@
       "situate",
       "stick"
     ],
-    "sentences": []
+    "sentences": [
+      "layers of mud that had been deposited by the flood",
+      "deposited himself in the chair next to me",
+      "having your paycheck automatically deposited into your bank account",
+      "depositing her tools in the trunk of the car"
+    ]
   },
   "depository": {
     "synonyms": [
@@ -2535,7 +3110,11 @@
       "storehouse",
       "warehouse"
     ],
-    "sentences": []
+    "sentences": [
+      "a book depository",
+      "a depository for government funds",
+      "a depository of ancient tradition"
+    ]
   },
   "deprave": {
     "synonyms": [
@@ -2559,7 +3138,14 @@
       "vitiate",
       "warp"
     ],
-    "sentences": []
+    "sentences": [
+      "perverted the original goals of the institute",
+      "the long stay on a tropical isle had debauched the ship's crew",
+      "the belief that bureaucratese corrupts the language",
+      "the claim that society is depraved by pornography",
+      "a foreign policy vitiated by partisanship",
+      "commercialism has debased the holiday"
+    ]
   },
   "deprecate": {
     "synonyms": [
@@ -2598,7 +3184,14 @@
       "tut (over or about)",
       "tut-tut (over or about)"
     ],
-    "sentences": []
+    "sentences": [
+      "… deprecate the wrath … of the Roman people.",
+      "… the Google Drive app for PC and Mac is officially being deprecated and the company's developers announced … that it will no longer be supported …",
+      "In the case of the Windows 10 Fall Creators Update, Microsoft is deprecating and removing more than 20 features.",
+      "… the most reluctantly admired and least easily deprecated of … novelists.",
+      "… speaks five languages … but deprecates this facility …",
+      "deprecates such attempts at humor"
+    ]
   },
   "depreciate": {
     "synonyms": [
@@ -2638,7 +3231,15 @@
       "trash-talk",
       "vilipend"
     ],
-    "sentences": []
+    "sentences": [
+      "belittled the achievements of others",
+      "disparaged polo as a game for the rich",
+      "critics depreciate his plays for being unabashedly sentimental",
+      "decried their defeatist attitude",
+      "advised us to sell the stock before it depreciates",
+      "depreciate property",
+      "often depreciates the importance of their work"
+    ]
   },
   "depreciation": {
     "synonyms": [
@@ -2651,7 +3252,9 @@
       "disparagement",
       "put-down"
     ],
-    "sentences": []
+    "sentences": [
+      "depreciation of the role of art in school"
+    ]
   },
   "depress": {
     "synonyms": [
@@ -2684,7 +3287,11 @@
       "shove",
       "weigh (on or upon)"
     ],
-    "sentences": []
+    "sentences": [
+      "don't let the news depress you",
+      "drugs that may depress the appetite",
+      "depress the backspace key"
+    ]
   },
   "depression": {
     "synonyms": [
@@ -2744,7 +3351,23 @@
       "shrinkage",
       "step-down"
     ],
-    "sentences": []
+    "sentences": [
+      "a tropical depression",
+      "The chickenpox left several depressions in her skin.",
+      "a country heading towards a depression",
+      "periods of economic depression",
+      "a depression of the tab key",
+      "a depression in trade",
+      "Mild depression is a normal condition, a sadness brought on by life's circumstances. Clinical depression, on the other hand, is a sadness so deep that it can lead to suicide if left untreated.",
+      "After the 1906 catastrophe, demand for office space caused rents in the Block to spike, and insurance companies and steamship firms replaced artists and writers. During the Great Depression, however, rents dropped again and the bohemians returned.",
+      "From 1937 to 1938, during the height of the Great Depression, the Farm Securities Administration briefly ran a migrant labor camp in the area.",
+      "Episodes of major depression usually last several months and may recur throughout a lifetime.",
+      "Psychiatrists have found that among distinguished artists, the rates of manic depression and major depression are 10 to 30 times as prevalent as in the population at large.",
+      "Strictly defined, postpartum depression is diagnosed by the criteria for major depression—overwhelming feelings of sadness, guilt or worthlessness for at least two weeks—beginning sometime in the month after the baby is born.",
+      "… 10 to 20 percent of new mothers in the United States feel so depressed within six months of childbirth that they have trouble with normal functioning. This is postpartum depression … and it can occur after the birth of any child.",
+      "… it turns out that men can also have postpartum depression, and its effects can be every bit as disruptive—not just on the father but on mother and child.",
+      "Providers should ask whether the patient has a history of bipolar disorder, or manic depression, which may be misdiagnosed as unipolar depression."
+    ]
   },
   "depth": {
     "synonyms": [
@@ -2765,7 +3388,28 @@
       "extremity",
       "limit"
     ],
-    "sentences": []
+    "sentences": [
+      "a team that lacks depth in the outfield",
+      "a study will be made in depth",
+      "a subject being discussed in depth =thoroughly, comprehensively",
+      "the depth of her experience",
+      "depth of a color",
+      "the depth of his voice",
+      "the depth of the problem",
+      "the depth of the pass",
+      "the depth of a bookshelf",
+      "the depth of a swimming pool",
+      "the depths of the depression",
+      "the depths of winter",
+      "I can't believe he lied. He's really sunk to new depths.",
+      "the depths of sorrow",
+      "the depths of the woods",
+      "fish living at great depths",
+      "an actor who is out of his depth in serious drama",
+      "an in-depth study",
+      "in-depth news coverage",
+      "… recently launched a podcast designed to take a more in-depth look at certain topics on his show."
+    ]
   },
   "derelict": {
     "synonyms": [
@@ -2789,7 +3433,12 @@
       "vacated",
       "void"
     ],
-    "sentences": []
+    "sentences": [
+      "derelict in his duty",
+      "derelict landlords",
+      "a derelict industrial area",
+      "derelict warehouses"
+    ]
   },
   "deride": {
     "synonyms": [
@@ -2802,7 +3451,15 @@
       "shoot down",
       "skewer"
     ],
-    "sentences": []
+    "sentences": [
+      "hometown fans taunted the visiting team",
+      "the other kids mocked the way he laughed",
+      "derided their efforts to start their own business",
+      "consistently ridiculed everything she said",
+      "These artists were a plucky band of underdogs and the conventional art community found all kinds of ways to deride them.",
+      "politicians deriding their opponents",
+      "… how they mock and deride him as he slinks away."
+    ]
   },
   "derision": {
     "synonyms": [
@@ -2817,7 +3474,9 @@
       "target",
       "ridicule"
     ],
-    "sentences": []
+    "sentences": [
+      "I was a derision to all my people …"
+    ]
   },
   "derivation": {
     "synonyms": [
@@ -2828,14 +3487,33 @@
       "outgrowth",
       "spin-off"
     ],
-    "sentences": []
+    "sentences": [
+      "derivationally related words",
+      "… subjects' ability to auditorily recognize the correct form of derivational relationships where consonant and vowel alternation occurs.",
+      "debating the possible derivation of birds from dinosaurs",
+      "more like an exact copy than a derivation",
+      "derivation from royal ancestors",
+      "foods of French derivation",
+      "research into the derivation of \"Yankee\"",
+      "\"Strategize\" was formed by derivation from \"strategy.\""
+    ]
   },
   "derivative": {
     "synonyms": [
       "secondary",
       "secondhand"
     ],
-    "sentences": []
+    "sentences": [
+      "Petroleum is a derivative of coal tar.",
+      "soybean derivatives",
+      "… the sonata form (itself a derivative of opera) …",
+      "the name \"Mia\" is a derivative of \"Maria\"",
+      "\"pointy,\" \"pointed,\" and other derivatives of \"point\"",
+      "a derivative performance",
+      "a film using a derivative plot device",
+      "a derivative philosophy",
+      "a derivative word"
+    ]
   },
   "derive": {
     "synonyms": [
@@ -2850,7 +3528,24 @@
       "reason",
       "understand"
     ],
-    "sentences": []
+    "sentences": [
+      "industries stemming from space research",
+      "advice that proceeds from the best of intentions",
+      "reports emanating from the capital",
+      "blood issued from the cut",
+      "words flowed easily from her pen",
+      "the holiday derives from an ancient Roman feast",
+      "the fire originated in the basement",
+      "new questions have arisen",
+      "slowly rose to prominence",
+      "an idea that springs to mind",
+      "The novel's appeal derives entirely from the complexity of its characters.",
+      "We can derive the word \"chauffeur\" from French.",
+      "… inconvenience that will be derived to them from stopping all imports …",
+      "what was derived from their observations",
+      "Petroleum is derived from coal tar.",
+      "Some of his tennis skill set does derive from his mother, and some of it is his own."
+    ]
   },
   "descendant": {
     "synonyms": [
@@ -2870,7 +3565,12 @@
       "stooping",
       "weeping"
     ],
-    "sentences": []
+    "sentences": [
+      "listed in descendant order",
+      "Italian and other descendants of Latin",
+      "descendants of King David",
+      "a descendant of an ancient grass"
+    ]
   },
   "descendent": {
     "synonyms": [
@@ -2890,7 +3590,12 @@
       "stooping",
       "weeping"
     ],
-    "sentences": []
+    "sentences": [
+      "listed in descendant order",
+      "Italian and other descendants of Latin",
+      "descendants of King David",
+      "a descendant of an ancient grass"
+    ]
   },
   "descent": {
     "synonyms": [
@@ -2965,7 +3670,20 @@
       "hang",
       "hanging"
     ],
-    "sentences": []
+    "sentences": [
+      "the descent of the family into poverty",
+      "unprepared for the descent of her in-laws",
+      "descent of the locusts",
+      "… from the extremest upward of thy head to the descent and dust below thy foot …",
+      "a nearly perpendicular descent",
+      "His pedigree shows eleven descents.",
+      "begin our descent down the mountain",
+      "… could trace a faint but sure descent from Roman law.",
+      "the descent of modern humans and chimpanzees from a common ancestor",
+      "of French descent",
+      "patrilineal descent",
+      "They claim to be of royal descent."
+    ]
   },
   "descry": {
     "synonyms": [
@@ -3013,7 +3731,9 @@
       "view",
       "witness"
     ],
-    "sentences": []
+    "sentences": [
+      "… I descried a sail …"
+    ]
   },
   "desert": {
     "synonyms": [
@@ -3024,7 +3744,29 @@
       "waste",
       "wasteland"
     ],
-    "sentences": []
+    "sentences": [
+      "For many years, the city was a cultural desert, but now there are several museums.",
+      "There are deserts within the ocean—places that, although not entirely barren, don't hold a lot of nutrients for marine life to fully thrive there.",
+      "How the pupfish ended up in the Nevada desert is not known for certain.",
+      "The first season is set in the desert of the Australian outback, while season two takes place against the lush greenery of Ireland.",
+      "Being native burghers of this desert city …",
+      "stranded on a desert island",
+      "a forsaken lover",
+      "a deserted town",
+      "abandoned children",
+      "soldiers who deserted during the last weeks of the war",
+      "desert the army",
+      "hoping our courage would not desert us",
+      "a vow to never desert a friend in trouble",
+      "The headlines landed with hard edges on L.A. fans who had come to assume their hometown hero would never desert them.",
+      "desert a town",
+      "If the nest is disturbed, the bird may desert it.",
+      "The term rogue planet suggests that these objects desert their stars on purpose, striking out on their own to carve a new path through the Milky Way.",
+      "Only as desert can be proved by the acquisition of knowledge and the exhibition of high moral character …",
+      "… the gaiety of this rich lodging exceeds my imagination as much as it does my desert.",
+      "We were glad to see those criminals get their just deserts.",
+      "Despite the common perception of food deserts as city neighborhoods where fast food chains and convenience stores dominate, many of Kansas' food deserts are in rural areas. In some, residents have to drive 20 miles or farther to find a source of healthful food."
+    ]
   },
   "designate": {
     "synonyms": [
@@ -3051,7 +3793,23 @@
       "term",
       "title"
     ],
-    "sentences": []
+    "sentences": [
+      "a particle designated the neutron",
+      "associate names with the people they designate",
+      "to be sent by a designated shipper",
+      "… the area we designate as that of spiritual values …",
+      "a marker designating the battle",
+      "designate someone to plan the party",
+      "land designated as a wildlife refuge",
+      "ambassador designate",
+      "He was designated as team captain.",
+      "The park has been designated as a wildlife refuge.",
+      "I designate you as the one in charge.",
+      "predesignate someone for the job",
+      "predesignate your beneficiary",
+      "predesignated routes",
+      "met in a predesignated location"
+    ]
   },
   "desist": {
     "synonyms": [
@@ -3074,7 +3832,16 @@
       "pass away",
       "perish"
     ],
-    "sentences": []
+    "sentences": [
+      "desisted from further efforts to persuade them",
+      "we have discontinued the manufacture of that item",
+      "the engine faltered, sputtered, then quit altogether",
+      "by nightfall the fighting had ceased",
+      "stopped at the red light",
+      "a court order to desist from selling the product",
+      "They were notified to cease and desist.",
+      "The company was ordered by the court to cease and desist from selling the photographs."
+    ]
   },
   "desistance": {
     "synonyms": [
@@ -3098,7 +3865,15 @@
       "shut off",
       "stop"
     ],
-    "sentences": []
+    "sentences": [
+      "desisted from further efforts to persuade them",
+      "we have discontinued the manufacture of that item",
+      "the engine faltered, sputtered, then quit altogether",
+      "by nightfall the fighting had ceased",
+      "stopped at the red light",
+      "a court order to desist from selling the product",
+      "They were notified to cease and desist."
+    ]
   },
   "despair": {
     "synonyms": [
@@ -3114,7 +3889,14 @@
       "dismay",
       "dispiritedness"
     ],
-    "sentences": []
+    "sentences": [
+      "He was the despair of his parents.",
+      "The team blew a commanding lead, much to the despair of the fans.",
+      "a cry of despair",
+      "finally gave up in despair",
+      "It'll turn out all right. Don't despair.",
+      "We began to despair of ever winning."
+    ]
   },
   "desperado": {
     "synonyms": [
@@ -3197,7 +3979,21 @@
       "forlorn",
       "hopeless"
     ],
-    "sentences": []
+    "sentences": [
+      "the situation of the trapped miners is hopeless",
+      "one last desperate attempt to turn the tide of battle",
+      "despairing appeals for the return of the kidnapped child",
+      "despondent about yet another rejection",
+      "a desperate shortage of supplies",
+      "a desperate situation",
+      "desperate for money",
+      "desperate to prove she was innocent",
+      "celebrities desperate for attention",
+      "made a desperate leap for the rope",
+      "victims made desperate by lack of any sign of rescue",
+      "Their financial outlook was desperate.",
+      "a desperate spirit crying for relief"
+    ]
   },
   "despicable": {
     "synonyms": [
@@ -3238,7 +4034,14 @@
       "pathetic",
       "sad"
     ],
-    "sentences": []
+    "sentences": [
+      "a scurvy crew of hangers-on",
+      "this rattletrap is a sorry excuse for a car",
+      "a pitiable attempt at tragedy",
+      "a despicable crime",
+      "a contemptible liar",
+      "despicable behavior"
+    ]
   },
   "despite": {
     "synonyms": [
@@ -3246,7 +4049,14 @@
       "regardless of",
       "with"
     ],
-    "sentences": []
+    "sentences": [
+      "played despite an injury",
+      "I know of no government which stands to its obligations, even in its own despite, more solidly …",
+      "Despite appearances, her company is very successful.",
+      "She stared at the couple despite herself.",
+      "Despite myself, I began to enjoy the movie.",
+      "They grew to love each other, almost despite themselves."
+    ]
   },
   "despond": {
     "synonyms": [
@@ -3328,7 +4138,13 @@
       "woeful",
       "wretched"
     ],
-    "sentences": []
+    "sentences": [
+      "the situation of the trapped miners is hopeless",
+      "one last desperate attempt to turn the tide of battle",
+      "despairing appeals for the return of the kidnapped child",
+      "despondent about yet another rejection",
+      "despondent about his health"
+    ]
   },
   "despot": {
     "synonyms": [
@@ -3341,7 +4157,10 @@
       "tyrannizer",
       "tyrant"
     ],
-    "sentences": []
+    "sentences": [
+      "regards the basketball coach as a despot",
+      "tyrannical despots"
+    ]
   },
   "despotism": {
     "synonyms": [
@@ -3356,7 +4175,11 @@
       "totalitarianism",
       "tyranny"
     ],
-    "sentences": []
+    "sentences": [
+      "enduring the despotism of the czars",
+      "… rescued countless schoolchildren from the despotism of persnickety pedagogues.",
+      "An excess of law is despotism, from which free men revolt."
+    ]
   },
   "destitute": {
     "synonyms": [
@@ -3387,7 +4210,11 @@
       "devoid",
       "void"
     ],
-    "sentences": []
+    "sentences": [
+      "a destitute old man",
+      "a lake destitute of fish",
+      "The charity provides food and clothing for the destitute."
+    ]
   },
   "desultory": {
     "synonyms": [
@@ -3413,7 +4240,12 @@
       "rambling",
       "wandering"
     ],
-    "sentences": []
+    "sentences": [
+      "a desultory fifth place finish",
+      "a desultory wine",
+      "desultory comments",
+      "… a dragged-out ordeal of … desultory shopping."
+    ]
   },
   "deter": {
     "synonyms": [
@@ -3421,7 +4253,11 @@
       "dissuade",
       "inhibit"
     ],
-    "sentences": []
+    "sentences": [
+      "painting to deter rust",
+      "Some buyers were deterred by the high price.",
+      "The new law deterred advertisers from making false claims."
+    ]
   },
   "deteriorate": {
     "synonyms": [
@@ -3458,7 +4294,11 @@
       "vitiate",
       "warp"
     ],
-    "sentences": []
+    "sentences": [
+      "allowed a tradition of academic excellence to deteriorate",
+      "His health deteriorated.",
+      "Exposure to sunlight may deteriorate the paint."
+    ]
   },
   "determinate": {
     "synonyms": [
@@ -3484,7 +4324,12 @@
       "narrow",
       "restricted"
     ],
-    "sentences": []
+    "sentences": [
+      "determinate tomato plants",
+      "a determinate answer",
+      "a determinate order of precedence",
+      "a determinate period of time"
+    ]
   },
   "determination": {
     "synonyms": [
@@ -3514,7 +4359,15 @@
       "inference",
       "sequitur"
     ],
-    "sentences": []
+    "sentences": [
+      "more precise determination of the size of the tumor",
+      "a woman of great courage and determination",
+      "fierce determination to succeed",
+      "Inspectors made the determination that the building is unsafe.",
+      "the court's determination in that case",
+      "documents that will be used for the determination of ownership",
+      "judicial determinations"
+    ]
   },
   "deterrent": {
     "synonyms": [
@@ -3545,7 +4398,10 @@
       "stumbling block",
       "trammel"
     ],
-    "sentences": []
+    "sentences": [
+      "a deterrent view of punishment",
+      "The ads had a deterrent effect on youth smoking."
+    ]
   },
   "detest": {
     "synonyms": [
@@ -3556,7 +4412,15 @@
       "hate",
       "loathe"
     ],
-    "sentences": []
+    "sentences": [
+      "loathed the mere sight of them",
+      "abominates all forms of violence",
+      "a crime abhorred by all",
+      "detests cowards",
+      "hated the enemy with a passion",
+      "detests politics",
+      "They seem to truly detest each other."
+    ]
   },
   "detract": {
     "synonyms": [
@@ -3566,7 +4430,12 @@
       "divert",
       "throw off"
     ],
-    "sentences": []
+    "sentences": [
+      "didn't mean to detract attention from the guest of honor",
+      "small errors that do not seriously detract from the book",
+      "They worried that the scandal would seriously detract from her chances for reelection.",
+      "The overcooked vegetables detracted somewhat from an otherwise fine meal."
+    ]
   },
   "detriment": {
     "synonyms": [
@@ -3580,7 +4449,14 @@
       "disfavor",
       "penalty"
     ],
-    "sentences": []
+    "sentences": [
+      "a detriment to progress",
+      "did hard work without detriment to their health",
+      "He puts all his time into his career to the detriment of  = in a way that is harmful to his personal life.",
+      "relying on bad advice, much to your detriment",
+      "He puts all his time into his career, to the detriment of his personal life.",
+      "She was able to work long hours without detriment to her health."
+    ]
   },
   "deviate": {
     "synonyms": [
@@ -3595,7 +4471,20 @@
       "unnatural",
       "untypical"
     ],
-    "sentences": []
+    "sentences": [
+      "after school their paths diverged",
+      "a professor prone to digress",
+      "occasionally departs from his own guidelines",
+      "never deviated from her daily routine",
+      "at that point the path veers to the right",
+      "swerved to avoid hitting the dog",
+      "The dam deviates the river into the valley.",
+      "a flight forced by weather to deviate south",
+      "rarely deviates from his usual routine",
+      "behaviors that deviate from the norm",
+      "deviating from the subject",
+      "deviate behavior"
+    ]
   },
   "devilry": {
     "synonyms": [
@@ -3712,7 +4601,15 @@
       "unnatural",
       "untypical"
     ],
-    "sentences": []
+    "sentences": [
+      "upon devious coasts",
+      "devious breezes",
+      "a devious path",
+      "a devious trick",
+      "a devious plot",
+      "a devious politician",
+      "devious conduct"
+    ]
   },
   "devise": {
     "synonyms": [
@@ -3730,7 +4627,10 @@
       "trump up",
       "vamp (up)"
     ],
-    "sentences": []
+    "sentences": [
+      "devise one's death",
+      "devise a new strategy"
+    ]
   },
   "devout": {
     "synonyms": [
@@ -3754,7 +4654,13 @@
       "sainted",
       "saintly"
     ],
-    "sentences": []
+    "sentences": [
+      "a devout wish for peace",
+      "a devout baseball fan",
+      "born a devout coward",
+      "a devout attitude",
+      "a devout Catholic"
+    ]
   },
   "dexterity": {
     "synonyms": [
@@ -3767,7 +4673,9 @@
       "nimbleness",
       "spryness"
     ],
-    "sentences": []
+    "sentences": [
+      "manual dexterity"
+    ]
   },
   "diabolic": {
     "synonyms": [
@@ -3780,7 +4688,9 @@
       "Luciferian",
       "satanic"
     ],
-    "sentences": []
+    "sentences": [
+      "a diabolical plot"
+    ]
   },
   "diacritical": {
     "synonyms": [
@@ -3799,7 +4709,10 @@
       "discriminable",
       "distinguishable"
     ],
-    "sentences": []
+    "sentences": [
+      "students of superior diacritical powers",
+      "… the diacritical elements in culture."
+    ]
   },
   "diagnose": {
     "synonyms": [
@@ -3839,7 +4752,12 @@
       "deconstruct",
       "dissect"
     ],
-    "sentences": []
+    "sentences": [
+      "The mechanic diagnosed the problem with the engine.",
+      "The physicist and cosmologist was diagnosed with Lou Gehrig's disease when he was a 21-year-old student at Cambridge University.",
+      "The other method of diagnosing gallstones is through an ultrasound examination, which has the advantages of being simple, safe and quick.",
+      "Pulmonary embolus was diagnosed in two of the actively treated patients …"
+    ]
   },
   "diagnosis": {
     "synonyms": [
@@ -3854,7 +4772,10 @@
       "resolution",
       "verdict"
     ],
-    "sentences": []
+    "sentences": [
+      "diagnosis of engine trouble",
+      "the doctor's diagnosis"
+    ]
   },
   "dialect": {
     "synonyms": [
@@ -3872,7 +4793,14 @@
       "terminology",
       "vocabulary"
     ],
-    "sentences": []
+    "sentences": [
+      "spoke a peasant dialect",
+      "… such dialects as politics and advertising …",
+      "French and Italian are Romance dialects.",
+      "the Doric dialect of ancient Greek",
+      "a dialect of Chinese spoken in Hong Kong",
+      "Today Aleut is a single language with two main dialects, Western (Attuan and Atkan subdialects) and Eastern."
+    ]
   },
   "dialogue": {
     "synonyms": [
@@ -3901,7 +4829,17 @@
       "discourse",
       "exchange"
     ],
-    "sentences": []
+    "sentences": [
+      "The dialogue between winds and strings here mimics the speech patterns of this friend.",
+      "The two actors rehearsed a dialogue between lost loves.",
+      "Vice foreign ministers from Japan and China held a strategic dialogue Monday …",
+      "organized a series of dialogues on human rights",
+      "Type your questions into the dialogue box.",
+      "very little dialogue in this film",
+      "writes realistic dialogue",
+      "managers dialoguing with employees",
+      "… and dialogued for him what he would say …"
+    ]
   },
   "diaphanous": {
     "synonyms": [
@@ -3915,7 +4853,12 @@
       "sheer",
       "transparent"
     ],
-    "sentences": []
+    "sentences": [
+      "had only a diaphanous hope of success",
+      "painted diaphanous landscapes",
+      "diaphanous fabrics",
+      "a diaphanous curtain"
+    ]
   },
   "diatribe": {
     "synonyms": [
@@ -3970,7 +4913,10 @@
       "theory",
       "thesis"
     ],
-    "sentences": []
+    "sentences": [
+      "must follow the dictum \"First, do no harm\"",
+      "awaiting the king's dictum"
+    ]
   },
   "didactic": {
     "synonyms": [
@@ -3981,7 +4927,14 @@
       "sententious",
       "sermonic"
     ],
-    "sentences": []
+    "sentences": [
+      "Never didactic, Martin gently nudges readers toward open-mindedness at the prospect of eating bugs: \"Why not make the best of what we have the most of?\"",
+      "Poe was in general not a didactic writer; in fact, he criticized stories and poems that sought to inculcate virtue and convey the truth.",
+      "The best of her poems are brilliant and compelling; others are uneven and feel talky or didactic.",
+      "didactic poetry/fiction",
+      "Taking an enlightening new approach to Johnson's Dictionary, DeMaria examines the 16,000 illustrative citations and finds that they not only serve linguistic ends but have educational and didactic purposes.",
+      "The first part of the book is more didactic, with lengthy descriptions of how the operating system actually works."
+    ]
   },
   "difference": {
     "synonyms": [
@@ -4024,7 +4977,19 @@
       "reworking",
       "variation"
     ],
-    "sentences": []
+    "sentences": [
+      "It makes no difference to me.",
+      "their difference in age",
+      "unable to settle their differences",
+      "Timing is often the difference between success and failure.",
+      "… an absolute gentleman, full of the most excellent differences …",
+      "noted the differences in color and texture",
+      "the difference between right and wrong",
+      "The new model is supposed to be better, but I can't tell the difference.",
+      "… every individual has something that differences it from another …",
+      "There seems to be a difference of opinion about what we should do next.",
+      "There's a 15-year age difference between her oldest and youngest children."
+    ]
   },
   "differentia": {
     "synonyms": [
@@ -4060,7 +5025,13 @@
       "discriminative",
       "discriminatory"
     ],
-    "sentences": []
+    "sentences": [
+      "differential melting",
+      "differential tax rates",
+      "differential characteristics",
+      "a locking rear differential",
+      "a price differential"
+    ]
   },
   "differentiate": {
     "synonyms": [
@@ -4071,7 +5042,18 @@
       "secern",
       "separate"
     ],
-    "sentences": []
+    "sentences": [
+      "when the cells begin to differentiate",
+      "difficult to differentiate between the two",
+      "differentiate poetry and prose",
+      "cells that are differentiated from stem cells",
+      "What differentiated a laborer from another man …",
+      "features that differentiate the twins",
+      "how we differentiate ourselves from our competitors",
+      "the ability to self-differentiate",
+      "self-differentiating experiences",
+      "In this new biography, he sets out to persuade us that Cézanne embarked as a young man on a project of self-definition and self-differentiation."
+    ]
   },
   "diffidence": {
     "synonyms": [
@@ -4133,7 +5115,13 @@
       "shy",
       "withdrawn"
     ],
-    "sentences": []
+    "sentences": [
+      "put off by her coy manner",
+      "modest about her success",
+      "felt diffident about raising an objection",
+      "a bashful boy out on his first date",
+      "shy with strangers"
+    ]
   },
   "diffusion": {
     "synonyms": [
@@ -4154,7 +5142,9 @@
       "wordage",
       "wordiness"
     ],
-    "sentences": []
+    "sentences": [
+      "the diffusion of knowledge"
+    ]
   },
   "dignitary": {
     "synonyms": [
@@ -4227,7 +5217,15 @@
       "prattle",
       "waffle"
     ],
-    "sentences": []
+    "sentences": [
+      "after school their paths diverged",
+      "a professor prone to digress",
+      "occasionally departs from his own guidelines",
+      "never deviated from her daily routine",
+      "at that point the path veers to the right",
+      "swerved to avoid hitting the dog",
+      "If I may digress, I'd like to address another issue."
+    ]
   },
   "dilapidated": {
     "synonyms": [
@@ -4256,7 +5254,10 @@
       "timeworn",
       "tumbledown"
     ],
-    "sentences": []
+    "sentences": [
+      "a dilapidated old house",
+      "… furniture is dilapidated by use …"
+    ]
   },
   "dilate": {
     "synonyms": [
@@ -4309,7 +5310,28 @@
       "strengthen",
       "maximize"
     ],
-    "sentences": []
+    "sentences": [
+      "dilated pupils",
+      "an inflated ego",
+      "a distended abdomen",
+      "the bureaucracy swelled to unmanageable proportions",
+      "amplify the statement with details",
+      "a business that expands every year",
+      "Do me the favor to dilate at full / What hath befallen of them …",
+      "dilate our cultural knowledge",
+      "Like millions of other urban youths in the 1960s, Tian got a chance to dilate his horizons when he was sent into the countryside during the Cultural Revolution to learn from the peasantry.",
+      "Nitric oxide is a potent vasodilator that increases blood flow by dilating blood vessels.",
+      "Inhalers, the standard treatment for asthma, relieve wheezing by delivering an agent that dilates the bronchioles …",
+      "Cocaine … increases the heart rate, raises the blood pressure and, in large doses, increases the body temperature and dilates the pupils of the eyes.",
+      "It's no small irony that a man who made a career out of dilating on failure should have ended up a success.",
+      "He dwells and dilates upon every highlight and lowlight …",
+      "Understandably, a tendency to philosophize dilated with old age.",
+      "Time dilates when you mentally hop continents.",
+      "The expectant mother was dilating slowly. =The expectant mother's cervix was dilating slowly.",
+      "Kim's eyes dilated while the outdoor stadium rocked in celebration.",
+      "… arterioles continually dilate and constrict.",
+      "We spent a long evening listening to him dilate on the need for tax relief."
+    ]
   },
   "dilatory": {
     "synonyms": [
@@ -4332,7 +5354,10 @@
       "tardy",
       "unhurried"
     ],
-    "sentences": []
+    "sentences": [
+      "dilatory in paying bills",
+      "dilatory tactics"
+    ]
   },
   "dilemma": {
     "synonyms": [
@@ -4357,7 +5382,13 @@
       "sticky wicket",
       "swamp"
     ],
-    "sentences": []
+    "sentences": [
+      "Unemployment … the great central dilemma of our advancing technology.",
+      "… the dilemma of \"liberty versus order.\"",
+      "Lords and bailiffs were in a terrible dilemma.",
+      "Here am I brought to a very pretty dilemma; I must commit murder or commit matrimony …",
+      "faces this dilemma: raise prices or reduce staff"
+    ]
   },
   "dilettante": {
     "synonyms": [
@@ -4372,7 +5403,16 @@
       "unskilled",
       "unskillful"
     ],
-    "sentences": []
+    "sentences": [
+      "shows talent but is still a mere tyro",
+      "a dabbler who started novels but never finished them",
+      "had no patience for dilettantes",
+      "remained an amateur despite lucrative offers",
+      "a painting obviously done by an amateur",
+      "It was unparalleled, undreamed-of, that I, Humphrey Van Weyden, a scholar and a dilettante, if you please, in things artistic and literary, should be lying here on a Bering Sea seal-hunting schooner.",
+      "Mr. Carroll often criticizes the superficial lives of the dilettantes … who mingle in New York.",
+      "Whitman ran an amateurish campaign … and was painted as an aristocratic dilettante."
+    ]
   },
   "diligence": {
     "synonyms": [
@@ -4383,7 +5423,13 @@
       "sedulity",
       "sedulousness"
     ],
-    "sentences": []
+    "sentences": [
+      "Go, hence with diligence!",
+      "showed great diligence in tracking down the story",
+      "He had earned universal respect for his integrity, fairness, and diligence.",
+      "The railway had driven coach companies out of business. … Once, the journey had taken three days by diligence.",
+      "failed to exercise due diligence in trying to prevent the accident"
+    ]
   },
   "dilute": {
     "synonyms": [
@@ -4402,7 +5448,15 @@
       "polluted",
       "tainted"
     ],
-    "sentences": []
+    "sentences": [
+      "dilute a color",
+      "But spreading the light out also dilutes it …",
+      "diluted the bleach with water",
+      "diluting juice with water",
+      "dilute the power of the mayoralty",
+      "diluting the quality of the finished product",
+      "a dilute acid solution"
+    ]
   },
   "diminution": {
     "synonyms": [
@@ -4423,7 +5477,9 @@
       "shrinkage",
       "step-down"
     ],
-    "sentences": []
+    "sentences": [
+      "a diminution in value"
+    ]
   },
   "dimly": {
     "synonyms": [
@@ -4438,14 +5494,28 @@
       "shadily",
       "shadowily"
     ],
-    "sentences": []
+    "sentences": [
+      "dim eyes",
+      "too dim to understand the joke",
+      "takes a dim view of human nature",
+      "a dim future",
+      "had only a dim notion of what was going on",
+      "a dim outline",
+      "a dim echo of the past",
+      "dim colors",
+      "dim stars",
+      "a dim lamp",
+      "a dim hallway"
+    ]
   },
   "diplomacy": {
     "synonyms": [
       "tact",
       "tactfulness"
     ],
-    "sentences": []
+    "sentences": [
+      "handled the awkward situation with diplomacy"
+    ]
   },
   "diplomat": {
     "synonyms": [
@@ -4506,14 +5576,28 @@
       "rep",
       "representative"
     ],
-    "sentences": []
+    "sentences": [
+      "a foreign diplomat"
+    ]
   },
   "diplomatic": {
     "synonyms": [
       "politic",
       "tactful"
     ],
-    "sentences": []
+    "sentences": [
+      "a cunningly politic manager",
+      "a smooth salesman",
+      "a bland master of ceremonies",
+      "a diplomatic negotiator",
+      "an urbane traveler",
+      "a suave public relations coordinator",
+      "a diplomatic way to say no",
+      "diplomatic relations",
+      "a diplomatic edition",
+      "She is an important member of the diplomatic corps.",
+      "traveling with the benefit of diplomatic cover"
+    ]
   },
   "diplomatist": {
     "synonyms": [
@@ -4567,7 +5651,12 @@
       "dissent",
       "nonconcur"
     ],
-    "sentences": []
+    "sentences": [
+      "fried foods disagree with me",
+      "he disagreed with me on every topic",
+      "the two accounts disagree",
+      "He likes golf and his wife likes tennis, so when it comes to sports, they have agreed to disagree."
+    ]
   },
   "disallow": {
     "synonyms": [
@@ -4606,7 +5695,21 @@
       "sink",
       "vanish"
     ],
-    "sentences": []
+    "sentences": [
+      "VICE has disappeared the post from its Web site.",
+      "The … waitress disappears the debris from the floor …",
+      "After class, while waiting for Halmoni to pick me up, I devoured as many of those rainbow morsels as I could, as if disappearing them might also disappear my shame.",
+      "He shares his opinion that based on his early findings, the bullets didn't come from Locke's gun, which is important because, as Lucca Quinn points out, Peter would have no reason to disappear the evidence if it exonerated Locke.",
+      "Her son was disappeared during Argentina's so-called Dirty War.",
+      "Under his repressive regime, tens of thousands of Chileans were \"disappeared,\" tortured and killed; hundreds of thousands were forced into exile.",
+      "Fearing that he would be kidnapped or \"disappeared\" in Syria under some false pretext, Mr. Omar made a video, which he posted on YouTube, to establish that he had defected.",
+      "When early efforts of containment failed, journalists and doctors who spoke out against the threat were disappeared, these sources said.",
+      "Orwell's novel was published in 1949 in the wake of World War II, when both fascism and socialism seemed to loom as threats to democracy, and it imagines a secretive regime that surveils its people and polices even their thoughts, disappearing anyone who rebels against the order.",
+      "dinosaurs disappeared from the earth",
+      "My keys seem to have disappeared again.",
+      "The moon disappeared behind a cloud.",
+      "The papers seem to have vanished into thin air."
+    ]
   },
   "disappoint": {
     "synonyms": [
@@ -4615,7 +5718,11 @@
       "fail",
       "let down"
     ],
-    "sentences": []
+    "sentences": [
+      "… where the show disappoints most is in the work of the younger generation.",
+      "The team disappointed its fans.",
+      "He disappointed his parents with his decision."
+    ]
   },
   "disapprove": {
     "synonyms": [
@@ -4652,7 +5759,12 @@
       "placate",
       "propitiate"
     ],
-    "sentences": []
+    "sentences": [
+      "disarm a bomb",
+      "disarm a ship",
+      "disarm captured troops",
+      "disarmed criticism by admitting her errors"
+    ]
   },
   "disarrange": {
     "synonyms": [
@@ -4680,7 +5792,9 @@
       "tumble",
       "upset"
     ],
-    "sentences": []
+    "sentences": [
+      "hair disarranged by the wind"
+    ]
   },
   "disavow": {
     "synonyms": [
@@ -4698,7 +5812,11 @@
       "reject",
       "repudiate"
     ],
-    "sentences": []
+    "sentences": [
+      "party leaders disavowed him",
+      "… have publicly disavowed any claim on the Graceland estate.",
+      "disavowed the actions of his subordinates"
+    ]
   },
   "disavowal": {
     "synonyms": [
@@ -4712,7 +5830,11 @@
       "rejection",
       "repudiation"
     ],
-    "sentences": []
+    "sentences": [
+      "party leaders disavowed him",
+      "… have publicly disavowed any claim on the Graceland estate.",
+      "disavowed the actions of his subordinates"
+    ]
   },
   "disbeliever": {
     "synonyms": [
@@ -4739,7 +5861,12 @@
       "relieve",
       "rid"
     ],
-    "sentences": []
+    "sentences": [
+      "the vessels disburdened at the dock",
+      "disburdened their merchandise in the town square",
+      "disburden your conscience",
+      "disburden a pack animal"
+    ]
   },
   "disburse": {
     "synonyms": [
@@ -4753,7 +5880,10 @@
       "shell out",
       "spend"
     ],
-    "sentences": []
+    "sentences": [
+      "disburse a bill",
+      "disburse money"
+    ]
   },
   "discard": {
     "synonyms": [
@@ -4762,7 +5892,19 @@
       "rejection",
       "second"
     ],
-    "sentences": []
+    "sentences": [
+      "scrap all the old ways",
+      "would junk our educational system",
+      "shed a bad habit",
+      "finally sloughed off the depression",
+      "cast off her friends",
+      "discard old clothes",
+      "discard at the end of your turn",
+      "discarded an ace",
+      "a pile of discarded tires",
+      "They quickly discarded the idea.",
+      "collected the discards"
+    ]
   },
   "discernible": {
     "synonyms": [
@@ -4774,7 +5916,14 @@
       "perceptible",
       "sensible"
     ],
-    "sentences": []
+    "sentences": [
+      "a discernibly better product",
+      "two materials that are not discernibly different",
+      "When a recipe says to brown the meat, it is calling for a deep brown sear and a discernibly thick crust on all sides …",
+      "a discernible difference",
+      "It is thought that the genes that normally produce a white underbelly in the gray squirrel are active in a wider area of their bodies, often leaving discernible gray patches on the spine and head.",
+      "Downpours are a near-daily occurrence throughout the year, and there are few discernible changes of season. Sunlight, warmth, and moisture are constants."
+    ]
   },
   "disciple": {
     "synonyms": [
@@ -4789,7 +5938,13 @@
       "votarist",
       "votary"
     ],
-    "sentences": []
+    "sentences": [
+      "partisans of the President",
+      "disciples of Gandhi",
+      "adherents to Marxism",
+      "an evangelist and his followers",
+      "a disciple of Freud"
+    ]
   },
   "disciplinary": {
     "synonyms": [
@@ -4804,7 +5959,14 @@
       "penalizing",
       "punitive"
     ],
-    "sentences": []
+    "sentences": [
+      "academic disciplinary specialization",
+      "took disciplinary action",
+      "disciplinary problems",
+      "Treatment requires a multidisciplinary approach involving physicians, nutritionists, psychologists, trainers, and gynecologists …",
+      "However, the task of interpreting such spectra … will take a multidisciplinary team of astrophysicists, Earth scientists, climate scientists, and biologists.",
+      "Indeed, nanotechnology may change the way we think about mechanical engineering altogether, making it a more multidisciplinary field, one as concerned with atomic-level effects as electrical engineering or chemistry is."
+    ]
   },
   "discipline": {
     "synonyms": [
@@ -4855,7 +6017,40 @@
       "self-restraint",
       "suppression"
     ],
-    "sentences": []
+    "sentences": [
+      "following the disciplines of priesthood",
+      "Across the Games, around 10,500 athletes competed in 48 sports disciplines.",
+      "academic disciplines",
+      "… keep the discipline of putting money toward your savings regularly.",
+      "Practicing running at this marathon pace … will be good discipline.",
+      "was responsible for meting out discipline",
+      "lacked the discipline to practice regularly",
+      "The troops were praised for their dedication and discipline.",
+      "struggled to maintain discipline in the classroom",
+      "schooled the horse in five gaits",
+      "a disciplined mind",
+      "trained foreign pilots to operate the new aircraft",
+      "more things than formal schooling serve to educate a person",
+      "instructs raw recruits in military drill",
+      "taught us a lot about our planet",
+      "the function of prison is to correct the wrongdoer",
+      "parents must discipline their children",
+      "chastened by a landslide election defeat",
+      "an editorial castigating the entire city council",
+      "chastised his son for neglecting his studies",
+      "punished for stealing",
+      "Serious writers discipline and refine their writing styles.",
+      "discipline troops",
+      "I'm trying to discipline myself to exercise each morning.",
+      "debates about the proper way to discipline a child",
+      "was disciplined for misbehaving in class",
+      "a player repeatedly disciplined by the league",
+      "… leadership challenges in a multidiscipline department …",
+      "A $20,000 grant … helped the staff develop a large, multidiscipline area divided into areas focusing on science, technology, math, language arts, art, music and engineering …",
+      "The system is designed to support multidiscipline classroom use, change the table height to adapt to a particular activity, integrate the latest teaching technology, meet ADA requirements, and decrease the size required for science classrooms.",
+      "Organic chemistry is a subdiscipline of chemistry.",
+      "The management of programmers is a discipline unto itself. There are subdisciplines that deal with how coders communicate."
+    ]
   },
   "disclaim": {
     "synonyms": [
@@ -4873,7 +6068,9 @@
       "refute",
       "reject"
     ],
-    "sentences": []
+    "sentences": [
+      "disclaimed any knowledge of the contents of the letter"
+    ]
   },
   "discolor": {
     "synonyms": [
@@ -4948,7 +6145,16 @@
       "nonplus",
       "rattle"
     ],
-    "sentences": []
+    "sentences": [
+      "rattled by all the television cameras",
+      "disconcerted by finding so many in attendance",
+      "abashed by her swift and cutting retort",
+      "hecklers discomfited the speaker",
+      "the question embarrassed her so much she couldn't answer",
+      "… was discomfited in a great battle …",
+      "discomfit our foes",
+      "was discomfited by the question"
+    ]
   },
   "discomfort": {
     "synonyms": [
@@ -5004,7 +6210,11 @@
       "unlink",
       "unyoke"
     ],
-    "sentences": []
+    "sentences": [
+      "disconnects into dark moods",
+      "are disconnected from meaningful relationships",
+      "… a huge disconnect … between the nation's capital and the rest of the country."
+    ]
   },
   "disconsolate": {
     "synonyms": [
@@ -5084,7 +6294,10 @@
       "woebegone",
       "woeful"
     ],
-    "sentences": []
+    "sentences": [
+      "the team returned disconsolate from three losses",
+      "… a clutch of disconsolate houses."
+    ]
   },
   "discontinuance": {
     "synonyms": [
@@ -5139,7 +6352,18 @@
       "war",
       "warfare"
     ],
-    "sentences": []
+    "sentences": [
+      "cultural variances that work against a national identity",
+      "religious dissension threatened to split the colony",
+      "several points of contention about the new zoning law",
+      "the conflict of freedom and responsibility",
+      "during his brief reign the empire was never free of civil strife",
+      "a political party long racked by discord",
+      "The song ends on a discord.",
+      "marital discord",
+      "discord between the two parties",
+      "… must we fall into the jabber and babel of discord while victory is still unattained?"
+    ]
   },
   "discountenance": {
     "synonyms": [
@@ -5151,7 +6375,9 @@
       "dislike",
       "displeasure"
     ],
-    "sentences": []
+    "sentences": [
+      "discountenanced all bellicose statements"
+    ]
   },
   "discover": {
     "synonyms": [
@@ -5199,7 +6425,20 @@
       "unmask",
       "unveil"
     ],
-    "sentences": []
+    "sentences": [
+      "I learned her name only today",
+      "learning Greek",
+      "unearth old records",
+      "unable to determine the origin of the word",
+      "attempts to ascertain the population of the region",
+      "discovered the source of the river",
+      "discovered he was out of gas",
+      "discover the solution",
+      "discovered a new Italian restaurant",
+      "… discovering himself … as her adoring and magnanimous lover …",
+      "Dr. Seaborg has played a key role in basic research as codiscoverer of a number of new elements of matter …",
+      "… James D. Watson, the scientist who co-discovered the double-helical structure of DNA …"
+    ]
   },
   "discredit": {
     "synonyms": [
@@ -5215,7 +6454,14 @@
       "reproach",
       "shame"
     ],
-    "sentences": []
+    "sentences": [
+      "personal attacks meant to discredit his opponent",
+      "trying to discredit the claims of a rival",
+      "a discredited theory",
+      "discredit a rumor",
+      "contradictions cast discredit on his testimony",
+      "I knew stories to the discredit of England …"
+    ]
   },
   "discreet": {
     "synonyms": [
@@ -5228,7 +6474,13 @@
       "unnoticeable",
       "unobtrusive"
     ],
-    "sentences": []
+    "sentences": [
+      "… the warmth and discreet elegance of a civilized home.",
+      "followed at a discreet distance",
+      "a discreet gesture",
+      "a discreet way to handle the problem",
+      "making discreet inquiries about the job"
+    ]
   },
   "discrepant": {
     "synonyms": [
@@ -5244,7 +6496,9 @@
       "mutually exclusive",
       "repugnant"
     ],
-    "sentences": []
+    "sentences": [
+      "widely discrepant conclusions"
+    ]
   },
   "discriminate": {
     "synonyms": [
@@ -5255,7 +6509,16 @@
       "secern",
       "separate"
     ],
-    "sentences": []
+    "sentences": [
+      "discriminate the individual voices in the choir",
+      "discriminate right from wrong",
+      "discriminate hundreds of colors",
+      "Depth perception may be defined as the ability to appreciate or discriminate the third dimension …",
+      "fostering an ability to discriminate",
+      "… depression doesn't discriminate and can affect people from all walks of life.",
+      "to illegally/unlawfully discriminate on the basis of sex/race/age",
+      "… the court ruled the ID law was intended to discriminate against voters of color …"
+    ]
   },
   "discursive": {
     "synonyms": [
@@ -5270,7 +6533,11 @@
       "rambling",
       "wandering"
     ],
-    "sentences": []
+    "sentences": [
+      "discursive practices",
+      "gave a discursive lecture",
+      "discursive prose"
+    ]
   },
   "discussion": {
     "synonyms": [
@@ -5299,7 +6566,15 @@
       "discourse",
       "exchange"
     ],
-    "sentences": []
+    "sentences": [
+      "A discussion on the topic is included in the first chapter.",
+      "a heated political discussion",
+      "The issue is not open for discussion.",
+      "The proposed law became the central topic of discussion for the candidates.",
+      "She usually has an opinion about whatever subject/topic/issue is under discussion.",
+      "During the period under discussion, the town grew in size.",
+      "The proposal is up for discussion at today's meeting."
+    ]
   },
   "disenfranchise": {
     "synonyms": [
@@ -5314,7 +6589,9 @@
       "invalidate",
       "nullify"
     ],
-    "sentences": []
+    "sentences": [
+      "disenfranchising the poor and elderly"
+    ]
   },
   "disengage": {
     "synonyms": [
@@ -5351,7 +6628,12 @@
       "disadvantage",
       "penalty"
     ],
-    "sentences": []
+    "sentences": [
+      "fell into disfavor",
+      "practices looked upon with disfavor",
+      "The style fell into disfavor a decade ago.",
+      "The theory has long been in disfavor."
+    ]
   },
   "disfigure": {
     "synonyms": [
@@ -5374,7 +6656,9 @@
       "spoil",
       "vitiate"
     ],
-    "sentences": []
+    "sentences": [
+      "a face disfigured by smallpox"
+    ]
   },
   "dishabille": {
     "synonyms": [
@@ -5406,7 +6690,12 @@
       "defrauding",
       "false"
     ],
-    "sentences": []
+    "sentences": [
+      "an untruthful account of their actions",
+      "mendacious tales of adventure",
+      "the secret affairs of a deceitful spouse",
+      "a swindle usually involves two dishonest people"
+    ]
   },
   "disillusion": {
     "synonyms": [
@@ -5414,7 +6703,10 @@
       "disenchant",
       "undeceive"
     ],
-    "sentences": []
+    "sentences": [
+      "suffered romantic disillusions",
+      "The job disillusioned her about working in retail."
+    ]
   },
   "disinfect": {
     "synonyms": [
@@ -5454,7 +6746,13 @@
       "tidy",
       "unclutter"
     ],
-    "sentences": []
+    "sentences": [
+      "The earliest viruses were relatively simple routines, and virus detectors could easily disinfect computers.",
+      "But the big question is this: If the bill becomes law, will it truly disinfect our politics?",
+      "… medical experts say some scopes can be difficult to disinfect through conventional cleaning because of their design, so bacteria are transmitted from patient to patient.",
+      "Trihalomethanes are chemicals formed when chlorine used to disinfect water reacts with organic matter, such as animal waste, treated sewage, leaves, or soil.",
+      "Clean your humidifier often. Although some parts may be washable in the dishwasher, they still need to be descaled with vinegar and disinfected with bleach."
+    ]
   },
   "disinfectant": {
     "synonyms": [
@@ -5520,7 +6818,22 @@
       "unbiased",
       "unprejudiced"
     ],
-    "sentences": []
+    "sentences": [
+      "judged by a panel of disinterested observers",
+      "observed family gatherings with detached amusement",
+      "aloof from his coworkers",
+      "incurious about the world",
+      "unconcerned about the homeless",
+      "indifferent to the dictates of fashion",
+      "when I grow tired or disinterested in anything, I experience a disgust",
+      "the need for a disinterested referee",
+      "uninterested in attending",
+      "checked her watch in a disinterested manner",
+      "a disinterested audience",
+      "a disinterested decision",
+      "A disinterested third party mediated the dispute.",
+      "disinterested intellectual curiosity is the lifeblood of real civilization"
+    ]
   },
   "dislocate": {
     "synonyms": [
@@ -5676,7 +6989,17 @@
       "vilipend",
       "write off"
     ],
-    "sentences": []
+    "sentences": [
+      "belittled the achievements of others",
+      "disparaged polo as a game for the rich",
+      "critics depreciate his plays for being unabashedly sentimental",
+      "decried their defeatist attitude",
+      "… but let every man … not think himself disparaged, if another of his neighbours have better than he.",
+      "Mr Miles said changing the hospital's name was not designed to disparage the name or recognition of Lady Cilento.",
+      "disparage a political opponent",
+      "comments that disparage others",
+      "… disparaged the novels as propaganda …"
+    ]
   },
   "disparity": {
     "synonyms": [
@@ -5696,7 +7019,11 @@
       "otherness",
       "unlikeness"
     ],
-    "sentences": []
+    "sentences": [
+      "economic/income disparities",
+      "The fact is that America's colleges … have lately been exacerbating more than ameliorating the widening disparity of wealth and opportunity in American society.",
+      "… in no other composer is the disparity between the man and his work so immense. Bach's life is considered stupefyingly ordinary, but his music is divine …"
+    ]
   },
   "dispel": {
     "synonyms": [
@@ -5707,7 +7034,13 @@
       "scatter",
       "squander"
     ],
-    "sentences": []
+    "sentences": [
+      "an authoritative statement that dispelled all doubt",
+      "the fog was dissipated by the morning sun",
+      "police dispersed the crowd",
+      "the bowling ball scattered the pins",
+      "dispel a rumor"
+    ]
   },
   "dispensation": {
     "synonyms": [
@@ -5720,7 +7053,14 @@
       "division",
       "issuance"
     ],
-    "sentences": []
+    "sentences": [
+      "… one of the most remarkable cultural dispensations in the country's history, the paperback book.",
+      "the dispensation of medication",
+      "requested a dispensation to form another lodge",
+      "may be granted a dispensation from the rule",
+      "involving special dispensation by the Church",
+      "a privilege maintained under the new dispensation"
+    ]
   },
   "displace": {
     "synonyms": [
@@ -5757,7 +7097,14 @@
       "unseat",
       "unthrone"
     ],
-    "sentences": []
+    "sentences": [
+      "the new edition supersedes all previous ones",
+      "was abruptly supplanted in her affections by another",
+      "war had displaced thousands",
+      "replaced the broken window",
+      "a floating object displaces water",
+      "displaced persons"
+    ]
   },
   "dispossess": {
     "synonyms": [
@@ -5765,7 +7112,9 @@
       "expropriate",
       "oust"
     ],
-    "sentences": []
+    "sentences": [
+      "dispossessed the nobles of their land"
+    ]
   },
   "disputation": {
     "synonyms": [
@@ -5781,7 +7130,10 @@
       "firestorm",
       "nonconcurrence"
     ],
-    "sentences": []
+    "sentences": [
+      "continuous disputation between them",
+      "ideological disputations"
+    ]
   },
   "disqualify": {
     "synonyms": [
@@ -5828,7 +7180,17 @@
       "unease",
       "worry"
     ],
-    "sentences": []
+    "sentences": [
+      "his declaration of love completely flustered her",
+      "the family's constant bickering upsets the youngest child",
+      "in his agitated state we could see he was unable to work",
+      "perturbed by her husband's strange behavior",
+      "the discrepancy in accounts disturbed me",
+      "the disquieting news of factories closing",
+      "discomposed by the loss of his beloved wife",
+      "were disquieted by recent events",
+      "great disquiet among shareholders"
+    ]
   },
   "disregard": {
     "synonyms": [
@@ -5844,7 +7206,17 @@
       "torpor",
       "unconcern"
     ],
-    "sentences": []
+    "sentences": [
+      "forget what others say",
+      "slighted several major authors in her survey",
+      "in my rush I overlooked a key example",
+      "ignored the snide remark",
+      "disregarded the wishes of his family",
+      "habitually neglected his studies",
+      "Please disregard what I said in my last email.",
+      "He disregarded her advice.",
+      "showed a complete disregard for the rules"
+    ]
   },
   "disreputable": {
     "synonyms": [
@@ -5878,7 +7250,16 @@
       "reproach",
       "shame"
     ],
-    "sentences": []
+    "sentences": [
+      "the ignominy of being arrested",
+      "a day that lives in infamy",
+      "a once proud name fallen into disrepute",
+      "preferred death to life with dishonor",
+      "sent home in disgrace",
+      "The star player's drug use will bring the game into disrepute.",
+      "The technique has fallen into disrepute.",
+      "The theory has been in disrepute for years."
+    ]
   },
   "disrobe": {
     "synonyms": [
@@ -5922,7 +7303,14 @@
       "tumble",
       "upset"
     ],
-    "sentences": []
+    "sentences": [
+      "In contrast, the digital technologies that allowed personal computers to disrupt minicomputers improved much more quickly; Compaq was able to increase revenue more than tenfold and reach parity with the industry leader, DEC, in only 12 years.",
+      "… this innovative service that might disrupt the industry comes at the low end of the product/service/technology, a place where these high-end consumers have neither interest nor experience. This low-end attack, which initially does not attract much attention, might grow to be a high quality service that supplants the incumbent.",
+      "The banking industry, on the other hand, is being disrupted by a breakdown of the model of paying money on deposits and taking interest on loans.",
+      "… disrupted a bridge game by permanently hiding up the ace of spades …",
+      "demonstrators trying to disrupt the meeting",
+      "Three periods of faulting disrupted the rocks."
+    ]
   },
   "dissatisfy": {
     "synonyms": [
@@ -5946,7 +7334,14 @@
       "cut",
       "deconstruct"
     ],
-    "sentences": []
+    "sentences": [
+      "break down the budget",
+      "commentators dissected every word of the speech",
+      "analyzed the collected data",
+      "dissect a problem",
+      "dissect an earthworm",
+      "dissecting flowers"
+    ]
   },
   "dissection": {
     "synonyms": [
@@ -5978,7 +7373,11 @@
       "let on",
       "make out"
     ],
-    "sentences": []
+    "sentences": [
+      "He had dissembled about the risks involved.",
+      "She lay down and dissembled sleep.",
+      "dissembling the facts"
+    ]
   },
   "disseminate": {
     "synonyms": [
@@ -5987,7 +7386,9 @@
       "propagate",
       "spread"
     ],
-    "sentences": []
+    "sentences": [
+      "disseminate ideas"
+    ]
   },
   "dissension": {
     "synonyms": [
@@ -6023,7 +7424,16 @@
       "firestorm",
       "nonconcurrence"
     ],
-    "sentences": []
+    "sentences": [
+      "cultural variances that work against a national identity",
+      "religious dissension threatened to split the colony",
+      "several points of contention about the new zoning law",
+      "the conflict of freedom and responsibility",
+      "during his brief reign the empire was never free of civil strife",
+      "a political party long racked by discord",
+      "causing dissension within the police department",
+      "a colony threatened by religious dissension"
+    ]
   },
   "dissent": {
     "synonyms": [
@@ -6051,7 +7461,13 @@
       "heterodoxy",
       "nonconformity"
     ],
-    "sentences": []
+    "sentences": [
+      "Three of the justices dissented from the majority opinion.",
+      "attempts to suppress domestic dissent",
+      "cited an earlier case in her dissent",
+      "permitted no dissent from church teachings",
+      "heard voices of dissent at the meeting"
+    ]
   },
   "dissentient": {
     "synonyms": [
@@ -6093,7 +7509,9 @@
       "prolegomenon",
       "study"
     ],
-    "sentences": []
+    "sentences": [
+      "wrote her dissertation on an obscure 16th-century poet"
+    ]
   },
   "disservice": {
     "synonyms": [
@@ -6106,7 +7524,9 @@
       "unjustness",
       "wrong"
     ],
-    "sentences": []
+    "sentences": [
+      "misinformation that does a disservice to readers"
+    ]
   },
   "dissever": {
     "synonyms": [
@@ -6147,7 +7567,13 @@
       "unalike",
       "unlike"
     ],
-    "sentences": []
+    "sentences": [
+      "people with dissimilar backgrounds",
+      "dissimilar materials",
+      "The responsibilities of the resident were not dissimilar to those of the intern …",
+      "A not dissimilar situation has occurred overseas.",
+      "The question is not dissimilar to one asked earlier."
+    ]
   },
   "dissipate": {
     "synonyms": [
@@ -6171,7 +7597,18 @@
       "disassemble",
       "dissolve"
     ],
-    "sentences": []
+    "sentences": [
+      "an authoritative statement that dispelled all doubt",
+      "the fog was dissipated by the morning sun",
+      "police dispersed the crowd",
+      "the bowling ball scattered the pins",
+      "his extended dissipating of the night before",
+      "The clouds dissipated and the sun came out.",
+      "The team's early momentum has dissipated.",
+      "dissipated the family fortune in reckless business ventures",
+      "… one's sympathy is eventually dissipated.",
+      "dissipate a crowd"
+    ]
   },
   "dissipation": {
     "synonyms": [
@@ -6201,7 +7638,12 @@
       "dispersion",
       "scattering"
     ],
-    "sentences": []
+    "sentences": [
+      "lived a life of dissipation",
+      "the dissipation of the family's fortune",
+      "the dissipation of the smoke",
+      "the dissipation of enemy forces"
+    ]
   },
   "dissolute": {
     "synonyms": [
@@ -6227,7 +7669,10 @@
       "unwholesome",
       "warped"
     ],
-    "sentences": []
+    "sentences": [
+      "leading a dissolute lifestyle",
+      "the dissolute and degrading aspects of human nature"
+    ]
   },
   "dissolution": {
     "synonyms": [
@@ -6276,7 +7721,13 @@
       "quietus",
       "sleep"
     ],
-    "sentences": []
+    "sentences": [
+      "the dissolution of ice",
+      "the dissolution of the legislature",
+      "the dissolution of the republic",
+      "their marriage's dissolution",
+      "… grew convinced of his friend's approaching dissolution …"
+    ]
   },
   "dissolve": {
     "synonyms": [
@@ -6315,7 +7766,27 @@
       "dissipate",
       "scatter"
     ],
-    "sentences": []
+    "sentences": [
+      "The scene dissolves to a Victorian parlor.",
+      "hate dissolved into fear",
+      "He dissolved into tears.",
+      "Salt dissolves in water.",
+      "glaciers dissolving into the sea",
+      "His strength had dissolved.",
+      "The temporary committee will be made to dissolve.",
+      "… the mist … dissolved as it touched the valleys …",
+      "dissolve a problem",
+      "She was dissolved in tears.",
+      "The heat will dissolve the chocolate.",
+      "dissolve sugar in water",
+      "dissolve a chlorine tablet",
+      "dissolve an injunction",
+      "the marriage was dissolved",
+      "the king's power to dissolve parliament",
+      "their partnership was dissolved",
+      "dissolved the company into smaller units",
+      "… do not dissolve and deface the laws of charity …"
+    ]
   },
   "dissonance": {
     "synonyms": [
@@ -6340,7 +7811,10 @@
       "war",
       "warfare"
     ],
-    "sentences": []
+    "sentences": [
+      "The mingling of bitter comedy and stark tragedy produces sharp dissonances …",
+      "the dissonance between the truth and what people want to believe"
+    ]
   },
   "dissonant": {
     "synonyms": [
@@ -6359,7 +7833,10 @@
       "discourage",
       "inhibit"
     ],
-    "sentences": []
+    "sentences": [
+      "unable to dissuade him from going",
+      "… dissuading us from base thoughts, low ends, ignoble gains …"
+    ]
   },
   "distemper": {
     "synonyms": [
@@ -6381,7 +7858,10 @@
       "sickness",
       "trouble"
     ],
-    "sentences": []
+    "sentences": [
+      "Vice and folly are situated not in human nature … but in distempers of intellect.",
+      "The larger challenge for the press … was getting a handle on the public distemper …"
+    ]
   },
   "distend": {
     "synonyms": [
@@ -6439,7 +7919,16 @@
       "follow up",
       "parlay"
     ],
-    "sentences": []
+    "sentences": [
+      "dilated pupils",
+      "an inflated ego",
+      "a distended abdomen",
+      "the bureaucracy swelled to unmanageable proportions",
+      "amplify the statement with details",
+      "a business that expands every year",
+      "causing the stomach to distend",
+      "… the main outlines of the land yet lay clearly distended before them."
+    ]
   },
   "distention": {
     "synonyms": [
@@ -6488,7 +7977,13 @@
       "garble",
       "purify"
     ],
-    "sentences": []
+    "sentences": [
+      "distill the experience into a poem",
+      "distill whiskey",
+      "able to distill humor from personal loss",
+      "distill molasses into rum",
+      "… a goodly sized back-log of red oak … still hissed with the heat, and distilled streams of water from each end …"
+    ]
   },
   "distinction": {
     "synonyms": [
@@ -6559,7 +8054,18 @@
       "discrimination",
       "separation"
     ],
-    "sentences": []
+    "sentences": [
+      "Mr. Hemingway's … prose is of the first distinction.",
+      "holds the distinction of being the only American to win the prize",
+      "took a law degree with distinction",
+      "won many distinctions",
+      "a politician of some distinction",
+      "no distinction of facial features in the twins",
+      "regional distinctions",
+      "the distinction between imply and infer",
+      "without distinction as to race, sex, or religion",
+      "He graduated with distinction."
+    ]
   },
   "distort": {
     "synonyms": [
@@ -6584,7 +8090,18 @@
       "squinch",
       "torture"
     ],
-    "sentences": []
+    "sentences": [
+      "warped floorboards",
+      "the odd camera angle distorts the figure",
+      "disease had contorted her body",
+      "a face deformed by hatred",
+      "Heat caused the wax figures to distort.",
+      "distort justice",
+      "the new lights distorted colors",
+      "The singer's voice was electronically distorted.",
+      "a face distorted by pain",
+      "distorted the facts"
+    ]
   },
   "distraught": {
     "synonyms": [
@@ -6596,7 +8113,10 @@
       "frenzied",
       "hysterical"
     ],
-    "sentences": []
+    "sentences": [
+      "… canst thou quake … / As if thou wert distraught and mad with terror?",
+      "distraught mourners"
+    ]
   },
   "distrust": {
     "synonyms": [
@@ -6659,7 +8179,13 @@
       "day-to-day",
       "quotidian"
     ],
-    "sentences": []
+    "sentences": [
+      "diurnal tides",
+      "diurnal tasks",
+      "diurnal flowers",
+      "the city's diurnal noises",
+      "diurnal animals"
+    ]
   },
   "divagation": {
     "synonyms": [
@@ -6716,7 +8242,17 @@
       "peculiar",
       "single"
     ],
-    "sentences": []
+    "sentences": [
+      "tried various methods",
+      "disparate notions of freedom",
+      "went on to pursue divergent careers",
+      "such diverse interests as dancing and football",
+      "different foods",
+      "a divergent lens",
+      "the divergent interests of capital and labor",
+      "divergent paths",
+      "The finches that Charles Darwin described in the Galapagos Islands are a classic example of divergent evolution. The beaks of different species evolved in response to specific evolutionary forces—different foods available on the various islands."
+    ]
   },
   "diverse": {
     "synonyms": [
@@ -6732,7 +8268,15 @@
       "unalike",
       "unlike"
     ],
-    "sentences": []
+    "sentences": [
+      "tried various methods",
+      "disparate notions of freedom",
+      "went on to pursue divergent careers",
+      "such diverse interests as dancing and football",
+      "different foods",
+      "a diverse population",
+      "people with diverse interests"
+    ]
   },
   "diversion": {
     "synonyms": [
@@ -6752,7 +8296,12 @@
       "divergence",
       "divergency"
     ],
-    "sentences": []
+    "sentences": [
+      "You create a diversion while I sneak inside the building.",
+      "Hiking is one of her favorite diversions.",
+      "a welcome diversion from the pressures of the job",
+      "Bad weather forced the diversion of several flights."
+    ]
   },
   "diversity": {
     "synonyms": [
@@ -6781,7 +8330,22 @@
       "otherness",
       "unlikeness"
     ],
-    "sentences": []
+    "sentences": [
+      "diversity programs/efforts",
+      "a diversity committee",
+      "promoting diversity in the workplace",
+      "She has a diversity of interests.",
+      "saw a diversity of shorebirds at the park",
+      "linguistic diversity",
+      "an island with great diversity in plant life",
+      "There's a diversity of opinion on the matter.",
+      "Whether within a company or in the community, achieving diversity, equity and inclusion (DEI) is a journey and a job that is far from done.",
+      "Virtually every university, government agency and major corporation has embraced some type of diversity, equity and inclusion policies … to ostensibly promote a more open, equitable and, well, inclusive workplace.",
+      "The legal battle comes amid a string of attacks against diversity, equity and inclusion (DEI) programs in corporate America, schools and higher education in recent months.",
+      "Through our continued focus on diversity, equity and inclusion, we are increasing the number of female attorneys, people of color, and members of the LGBTQ+ community in the leadership pipeline.",
+      "… we strongly believe in diversity, equity, and inclusion and take many steps toward promoting this through mentoring, internship programs and ensuring equity in pay and opportunity …",
+      "This means we practice diversity, equity and inclusion in all we do. It includes investing in our people and creating a culture of care."
+    ]
   },
   "divert": {
     "synonyms": [
@@ -6803,7 +8367,17 @@
       "distract",
       "throw off"
     ],
-    "sentences": []
+    "sentences": [
+      "a magician entertaining children at a party",
+      "a light comedy to divert the tired businessman",
+      "amuse yourselves while I make dinner",
+      "children diverting themselves with their toys",
+      "trying to divert her attention",
+      "divert traffic to a side street",
+      "diverted funds from the company",
+      "studied law but diverted to diplomacy",
+      "He was trying to divert/distract attention away from his friend's mistake."
+    ]
   },
   "divest": {
     "synonyms": [
@@ -6822,7 +8396,21 @@
       "deprive",
       "strip"
     ],
-    "sentences": []
+    "sentences": [
+      "The remainder of the book will divest you of that notion.",
+      "a room divested of furnishings",
+      "She divested herself of her coat.",
+      "… made the decision to divest from fossil fuels …",
+      "… urged the university to divest its endowment from arms manufacturers.",
+      "divesting assets to raise capital",
+      "must divest to avoid risk/loss",
+      "divest themselves of nonbanking interests",
+      "They want … unions divested of their power …",
+      "He divested himself of his coat.",
+      "She divested herself of most of her possessions.",
+      "He was divested of his title/power/dignity.",
+      "The document does not divest her of her right to use the property."
+    ]
   },
   "divination": {
     "synonyms": [
@@ -6859,7 +8447,9 @@
     "synonyms": [
       "separable"
     ],
-    "sentences": []
+    "sentences": [
+      "a number divisible by 3"
+    ]
   },
   "divulge": {
     "synonyms": [
@@ -6877,7 +8467,15 @@
       "unmask",
       "unveil"
     ],
-    "sentences": []
+    "sentences": [
+      "a blush that betrayed her embarrassment",
+      "told them what he had overheard",
+      "refused to divulge an anonymous source",
+      "candidates must disclose their financial assets",
+      "divine will as revealed in sacred writings",
+      "refused to divulge the name of her informant",
+      "divulge the company's sales figures"
+    ]
   },
   "divulgence": {
     "synonyms": [
@@ -6885,7 +8483,15 @@
       "exposure",
       "revelation"
     ],
-    "sentences": []
+    "sentences": [
+      "a blush that betrayed her embarrassment",
+      "told them what he had overheard",
+      "refused to divulge an anonymous source",
+      "candidates must disclose their financial assets",
+      "divine will as revealed in sacred writings",
+      "refused to divulge the name of her informant",
+      "divulge the company's sales figures"
+    ]
   },
   "docile": {
     "synonyms": [
@@ -6898,7 +8504,14 @@
       "submissive",
       "tractable"
     ],
-    "sentences": []
+    "sentences": [
+      "amenable to new ideas",
+      "tractable animals",
+      "a docile child",
+      "obedient to the government",
+      "a docile pony",
+      "a docile pupil"
+    ]
   },
   "docket": {
     "synonyms": [
@@ -6908,7 +8521,10 @@
       "schedule",
       "timetable"
     ],
-    "sentences": []
+    "sentences": [
+      "The new library will be the first item on the committee's docket.",
+      "The judge had to postpone some of the cases on the docket."
+    ]
   },
   "doe": {
     "synonyms": [
@@ -6933,7 +8549,14 @@
       "philosophy",
       "testament"
     ],
-    "sentences": []
+    "sentences": [
+      "Religion I take to be concerned with faith. … Connected with this are spiritual teachings or dogma, ritual, prayer, and so on.",
+      "… I remember well the dogma and fervor that went alongside grammar rules.",
+      "pedagogical dogma",
+      "… these bills represent a ragged break from the neoliberal dogma that undermined climate legislation for decades.",
+      "… the results threatened to alter accepted biological dogma about the origins of living creatures on this planet …",
+      "Fiscal expansion bothers people because it violates the dogma that government is the problem, not the solution …"
+    ]
   },
   "dogmatic": {
     "synonyms": [
@@ -6944,7 +8567,14 @@
       "pontifical",
       "self-opinionated"
     ],
-    "sentences": []
+    "sentences": [
+      "a designer who is the oracular voice of fashion",
+      "a doctrinaire approach to improving the economy",
+      "dogmatic about what is art and what is not",
+      "the magisterial tone of his pronouncements",
+      "exercised dictatorial control over the office",
+      "a dogmatic critic"
+    ]
   },
   "doleful": {
     "synonyms": [
@@ -7006,7 +8636,11 @@
       "woebegone",
       "wretched"
     ],
-    "sentences": []
+    "sentences": [
+      "a doleful loss",
+      "a doleful melody",
+      "a doleful face"
+    ]
   },
   "dolesome": {
     "synonyms": [
@@ -7108,7 +8742,19 @@
       "terrain",
       "walk"
     ],
-    "sentences": []
+    "sentences": [
+      "Our domain is Merriam-Webster.com.",
+      "The domain ca is used for sites located in Canada.",
+      "the domain of biblical scholarship",
+      "outside the domain of city police",
+      "a domain of rushing streams, tall trees, and lakes",
+      "The forest is part of the king's domain.",
+      "… our highways and roads have been in the domain of state and local governments …",
+      "the integers under the operations of addition and multiplication form an integral domain",
+      "The forests are part of the public domain.",
+      "The software has entered the public domain.",
+      "The software is in the public domain."
+    ]
   },
   "domicile": {
     "synonyms": [
@@ -7128,7 +8774,10 @@
       "residence",
       "roof"
     ],
-    "sentences": []
+    "sentences": [
+      "Report your change of domicile.",
+      "the state where the decedent was domiciled"
+    ]
   },
   "dominance": {
     "synonyms": [
@@ -7156,7 +8805,13 @@
       "superiority",
       "transcendence"
     ],
-    "sentences": []
+    "sentences": [
+      "right brain dominance",
+      "male dominance",
+      "political dominance",
+      "companies competing for dominance in the market",
+      "dominance over their rivals"
+    ]
   },
   "dominant": {
     "synonyms": [
@@ -7192,7 +8847,22 @@
       "sovereign",
       "supreme"
     ],
-    "sentences": []
+    "sentences": [
+      "preponderant evidence in her favor",
+      "unemployment was the paramount issue in the campaign",
+      "a predominant emotion",
+      "a dominant social class",
+      "dominant eye",
+      "used her dominant hand",
+      "dominant genes",
+      "dominant and recessive traits",
+      "a dominant hill",
+      "a dominant theme",
+      "a dominant industry",
+      "the team's dominant performance",
+      "the dominant culture",
+      "dominant conifers"
+    ]
   },
   "dominate": {
     "synonyms": [
@@ -7207,7 +8877,15 @@
       "command",
       "overlook"
     ],
-    "sentences": []
+    "sentences": [
+      "his desire to dominate",
+      "a dominating factor in industrial growth",
+      "name brands dominate the market",
+      "maples dominate the forest",
+      "a hill that dominates the town",
+      "ambition dominated his life",
+      "an empire that dominated the world"
+    ]
   },
   "domination": {
     "synonyms": [
@@ -7278,7 +8956,18 @@
       "present",
       "volunteer"
     ],
-    "sentences": []
+    "sentences": [
+      "the trees afford shade",
+      "a development that affords us some hope",
+      "confer an honorary degree",
+      "bestow unwanted advice",
+      "donate a piano to the orphanage",
+      "present an award",
+      "give alms",
+      "gave her a ride on a pony",
+      "give my love to your mother",
+      "She donates/gives blood twice a year."
+    ]
   },
   "donator": {
     "synonyms": [
@@ -7332,7 +9021,17 @@
       "unused",
       "vacant"
     ],
-    "sentences": []
+    "sentences": [
+      "a potential disaster",
+      "the disease was quiescent",
+      "their passion had lain dormant",
+      "a latent desire for success",
+      "dormant grafting",
+      "dormant creatures",
+      "seeds will remain dormant until spring",
+      "reawaken her dormant emotions",
+      "a dormant volcano"
+    ]
   },
   "doublet": {
     "synonyms": [
@@ -7372,7 +9071,11 @@
       "twice",
       "twofold"
     ],
-    "sentences": []
+    "sentences": [
+      "The gentle rain was a doubly good thing because it washed the pollen off our cars.",
+      "doubly glad",
+      "doubly frustrating"
+    ]
   },
   "dowry": {
     "synonyms": [
@@ -7427,7 +9130,10 @@
       "bequest",
       "legacy"
     ],
-    "sentences": []
+    "sentences": [
+      "Beauty should be the dowry of every man and woman, as invariably as sensation; but it is rare.",
+      "cultures in which marriage rarely occurs without dowry or bride-price"
+    ]
   },
   "dragoon": {
     "synonyms": [
@@ -7447,7 +9153,9 @@
       "pressure",
       "sandbag"
     ],
-    "sentences": []
+    "sentences": [
+      "Somehow I was dragooned into working overtime."
+    ]
   },
   "dramatist": {
     "synonyms": [
@@ -7549,7 +9257,10 @@
       "undersupply",
       "want"
     ],
-    "sentences": []
+    "sentences": [
+      "a drought of creativity",
+      "resistant to drought"
+    ]
   },
   "drowsy": {
     "synonyms": [
@@ -7563,7 +9274,12 @@
       "somniferous",
       "soporific"
     ],
-    "sentences": []
+    "sentences": [
+      "a drowsy village",
+      "drowsy bureaucrats",
+      "drowsy music",
+      "The pills made her drowsy."
+    ]
   },
   "drudgery": {
     "synonyms": [
@@ -7578,7 +9294,15 @@
       "toil",
       "travail"
     ],
-    "sentences": []
+    "sentences": [
+      "the grind of the assembly line",
+      "an editorial job with a good deal of drudgery",
+      "his lot would be years of back-breaking toil",
+      "years of travail were lost when the house burned",
+      "farmers demanding fair compensation for their labor",
+      "too tired to do any work",
+      "the drudgery of his job"
+    ]
   },
   "dubious": {
     "synonyms": [
@@ -7620,7 +9344,15 @@
       "unsettled",
       "unsure"
     ],
-    "sentences": []
+    "sentences": [
+      "a man of questionable honesty",
+      "whether the project will ever be finished is problematic",
+      "dubious about the practicality of the scheme",
+      "doubtful about whether I said the right thing",
+      "the practice is of dubious legality",
+      "a dubious plan",
+      "I was dubious about the plan."
+    ]
   },
   "ductile": {
     "synonyms": [
@@ -7649,7 +9381,16 @@
       "lithesome",
       "willowy"
     ],
-    "sentences": []
+    "sentences": [
+      "computer hardware that is adaptable",
+      "the malleable properties of gold",
+      "ductile metals such as copper",
+      "an athletic shoe with a pliant sole",
+      "pliable rubber tubing",
+      "plastic materials allow the sculptor greater freedom",
+      "a vast portion of the public feels rather than thinks, a ductile multitude drawn easily by the arts of the demagogue",
+      "ductile iron"
+    ]
   },
   "dun": {
     "synonyms": [
@@ -7659,7 +9400,10 @@
       "requisition",
       "ultimatum"
     ],
-    "sentences": []
+    "sentences": [
+      "… dunned by troubles literary and monetary.",
+      "dunning their members for contributions"
+    ]
   },
   "duplex": {
     "synonyms": [
@@ -7701,7 +9445,9 @@
       "guilefulness",
       "wiliness"
     ],
-    "sentences": []
+    "sentences": [
+      "… the simplicity and openness of their lives brought out for him the duplicity that lay at the bottom of ours."
+    ]
   },
   "duration": {
     "synonyms": [
@@ -7723,7 +9469,12 @@
       "persistence",
       "subsistence"
     ],
-    "sentences": []
+    "sentences": [
+      "were there for the duration of the concert",
+      "gradually increase the duration of your workout",
+      "The camera remained on the President for the duration of his speech.",
+      "He was living in England when the war began and remained there for the duration."
+    ]
   },
   "duteous": {
     "synonyms": [
@@ -7783,7 +9534,10 @@
       "regardful",
       "respectful"
     ],
-    "sentences": []
+    "sentences": [
+      "a dutiful effort",
+      "a dutiful child"
+    ]
   },
   "dwindle": {
     "synonyms": [
@@ -7822,6 +9576,70 @@
       "taper off",
       "wane"
     ],
-    "sentences": []
+    "sentences": [
+      "their provisions dwindled slowly",
+      "the storm abated",
+      "you must reduce your caloric intake",
+      "his visual acuity has diminished",
+      "has been unable to lessen her debt",
+      "slowly decreased the amount of pressure",
+      "Their savings dwindled to nothing.",
+      "a dwindling population"
+    ]
+  },
+  "Darwinism": {
+    "synonyms": [],
+    "sentences": [
+      "economic Darwinism",
+      "Anti-Darwinists say the alternative ideas should be taught in science classrooms as part of discussions about evolution's flaws and weaknesses.",
+      "anti-Darwinist beliefs",
+      "We shall be inviting responses to Mr. McGinnis's argument from these various schools of anti-Darwinism."
+    ]
+  },
+  "declarative": {
+    "synonyms": [],
+    "sentences": [
+      "a declarative sentence",
+      "The statement \"they went to school\" is in the declarative."
+    ]
+  },
+  "deponent": {
+    "synonyms": [],
+    "sentences": [
+      "the deponent verbs in Latin and Greek"
+    ]
+  },
+  "diffusible": {
+    "synonyms": [],
+    "sentences": [
+      "heat from the radiator diffusing throughout the room",
+      "The civilization diffused westward.",
+      "put up a screen to diffuse the light",
+      "a government in which power is diffused",
+      "diffusing their ideas throughout the continent",
+      "a drop of blue dye diffused in a glass of water"
+    ]
+  },
+  "disjunctive": {
+    "synonyms": [],
+    "sentences": [
+      "a disjunctive narrative sequence",
+      "disjunctive pleading",
+      "the disjunctive conjunction or"
+    ]
+  },
+  "distillation": {
+    "synonyms": [],
+    "sentences": [
+      "gradual distillation of the truth"
+    ]
+  },
+  "drastic": {
+    "synonyms": [],
+    "sentences": [
+      "drastic measures",
+      "made drastic changes",
+      "a drastic purgative"
+    ]
   }
 }

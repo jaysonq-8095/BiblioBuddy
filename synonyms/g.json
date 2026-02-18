@@ -17,7 +17,18 @@
       "scale",
       "span"
     ],
-    "sentences": []
+    "sentences": [
+      "fine service is one touchstone of a first-class restaurant",
+      "housing construction as a yardstick of economic growth",
+      "polls as a gauge of voter dissatisfaction",
+      "questioned the critic's criteria for excellence",
+      "standards of behavior",
+      "surveys are a gauge of public sentiment",
+      "a 12-gauge shotgun",
+      "hard to gauge his moods",
+      "a broad-gauge statesman",
+      "a broad-gauge effort"
+    ]
   },
   "gaiety": {
     "synonyms": [
@@ -123,7 +134,9 @@
       "promptness",
       "warp speed"
     ],
-    "sentences": []
+    "sentences": [
+      "the leisurely gait of summer"
+    ]
   },
   "gallant": {
     "synonyms": [
@@ -179,7 +192,16 @@
       "splendid",
       "stately"
     ],
-    "sentences": []
+    "sentences": [
+      "a chivalrous display of duty",
+      "a gallant suitor of the old school",
+      "clerks who were unfailingly courteous to customers",
+      "if you can't be pleasant, at least be polite",
+      "owed the questioner a civil reply",
+      "gallant efforts against the enemy",
+      "a gallant ship",
+      "… used to gallant her in his youth …"
+    ]
   },
   "galore": {
     "synonyms": [
@@ -201,7 +223,10 @@
       "plentiful",
       "plenty"
     ],
-    "sentences": []
+    "sentences": [
+      "bargains galore",
+      "The New York Transit Museum spans a full block underground, with vintage cars galore."
+    ]
   },
   "galvanic": {
     "synonyms": [
@@ -227,7 +252,12 @@
       "stirring",
       "thrilling"
     ],
-    "sentences": []
+    "sentences": [
+      "had a galvanic effect on the audience",
+      "a galvanic performance",
+      "… an effective alternative to conventional copper paints that cause galvanic corrosion of metals underwater.",
+      "a galvanic cell"
+    ]
   },
   "galvanize": {
     "synonyms": [
@@ -241,7 +271,11 @@
       "titillate",
       "turn on"
     ],
-    "sentences": []
+    "sentences": [
+      "they galvanized into action",
+      "an issue that would galvanize public opinion",
+      "galvanize a muscle"
+    ]
   },
   "gamble": {
     "synonyms": [
@@ -255,7 +289,11 @@
       "throw",
       "venture"
     ],
-    "sentences": []
+    "sentences": [
+      "She gambled away her inheritance.",
+      "gambling the city's future away",
+      "He was taking a (big) gamble by investing in the struggling young company."
+    ]
   },
   "gambol": {
     "synonyms": [
@@ -291,7 +329,16 @@
       "spread",
       "stretch"
     ],
-    "sentences": []
+    "sentences": [
+      "within that restricted orbit they tried to effect social change",
+      "as time went on, the scope of the investigation widened",
+      "the book covers the entire sweep of criminal activity",
+      "your concerns lie beyond the narrow compass of this study",
+      "a performance that ran the gamut of emotions",
+      "the entire range of human experience",
+      "ran the gamut from praise to contempt",
+      "Her emotions ran the gamut from joy to despair."
+    ]
   },
   "garnish": {
     "synonyms": [
@@ -310,7 +357,17 @@
       "setoff",
       "trim"
     ],
-    "sentences": []
+    "sentences": [
+      "an entrée garnished with parsley",
+      "a house all decked out for Christmas",
+      "will beautify the grounds with flower beds",
+      "embellish a page with floral borders",
+      "a white house ornamented with green shutters",
+      "decorate a birthday cake",
+      "a diamond necklace adorned her neck",
+      "Convicted offenders who don't pay their fines can have their driver's licenses suspended, and wages can be garnished if the Department of Taxation is notified.",
+      "garnished the fish with parsley leaves"
+    ]
   },
   "garrison": {
     "synonyms": [
@@ -386,7 +443,13 @@
       "windy",
       "wordy"
     ],
-    "sentences": []
+    "sentences": [
+      "a voluble raconteur",
+      "garrulous traveling companions",
+      "a loquacious spokesperson",
+      "a talkative neighbor",
+      "garrulous speeches"
+    ]
   },
   "gaseous": {
     "synonyms": [
@@ -400,7 +463,9 @@
       "rhetorical",
       "windy"
     ],
-    "sentences": []
+    "sentences": [
+      "… trick phrases and gaseous circumlocutions …"
+    ]
   },
   "gastronomy": {
     "synonyms": [
@@ -409,7 +474,9 @@
       "cooking",
       "cuisine"
     ],
-    "sentences": []
+    "sentences": [
+      "Chinese gastronomy"
+    ]
   },
   "gendarme": {
     "synonyms": [
@@ -482,7 +549,9 @@
       "majority",
       "preponderance"
     ],
-    "sentences": []
+    "sentences": [
+      "the generality of the population"
+    ]
   },
   "generally": {
     "synonyms": [
@@ -506,7 +575,10 @@
       "principally",
       "substantially"
     ],
-    "sentences": []
+    "sentences": [
+      "generally speaking",
+      "Generally speaking, people like her as a leader."
+    ]
   },
   "generate": {
     "synonyms": [
@@ -535,7 +607,17 @@
       "work",
       "yield"
     ],
-    "sentences": []
+    "sentences": [
+      "These stories … generate a good deal of psychological suspense …",
+      "generate electricity",
+      "generating profits/growth",
+      "images generated by a computer",
+      "… allowing the school the capability to self-generate power until the power grid is restored.",
+      "Gregory Smith, associate dean for business and financial affairs for the Law Center, said the tuition increase is something the Law Center applied for through LSU out of a need to self-generate revenue after state appropriations were cut by about 25 percent.",
+      "Just raising rates for those who cannot self-generate, while those who can do so leave the grid, is not acceptable to us, as a matter of community well-being and fairness.",
+      "Her inflammatory speech generated/produced more heat than light on the topic.",
+      "The provocative new book generates more heat than light."
+    ]
   },
   "generic": {
     "synonyms": [
@@ -548,7 +630,11 @@
       "overall",
       "universal"
     ],
-    "sentences": []
+    "sentences": [
+      "generic restaurants",
+      "generic drugs",
+      "\"Romantic comedy\" is the generic term for such films."
+    ]
   },
   "generosity": {
     "synonyms": [
@@ -564,7 +650,10 @@
       "philanthropy",
       "unselfishness"
     ],
-    "sentences": []
+    "sentences": [
+      "great generosity of spirit",
+      "a person of great generosity"
+    ]
   },
   "genesis": {
     "synonyms": [
@@ -589,7 +678,9 @@
       "start",
       "threshold"
     ],
-    "sentences": []
+    "sentences": [
+      "the genesis of a new political movement"
+    ]
   },
   "geniality": {
     "synonyms": [
@@ -607,7 +698,17 @@
       "pleasantness",
       "sweetness"
     ],
-    "sentences": []
+    "sentences": [
+      "sociable people who enjoy entertaining",
+      "a genial companion with a ready quip",
+      "though wealthy, she was affable to all",
+      "our host was cordial as he greeted us",
+      "the gracious award winner thanked her colleagues",
+      "… the genial bed …",
+      "genial insights",
+      "genial sunshine",
+      "your genial host"
+    ]
   },
   "genteel": {
     "synonyms": [
@@ -647,7 +748,13 @@
       "mannerly",
       "well-bred"
     ],
-    "sentences": []
+    "sentences": [
+      "timid and genteel artistic style",
+      "was genteel on the surface, but had a hard heart",
+      "a shabby genteel mansion",
+      "the genteel manners of an old southern gentleman",
+      "a person of genteel upbringing"
+    ]
   },
   "gentile": {
     "synonyms": [
@@ -668,7 +775,16 @@
       "relative",
       "relevant"
     ],
-    "sentences": []
+    "sentences": [
+      "the quip was apropos",
+      "the rule is not applicable in this case",
+      "add an apposite quotation to the definition",
+      "a pertinent observation",
+      "facts material to the investigation",
+      "a point not germane to the discussion",
+      "found material relevant to her case",
+      "omit details that are not germane to the discussion"
+    ]
   },
   "germinate": {
     "synonyms": [
@@ -712,7 +828,10 @@
       "rear",
       "tend"
     ],
-    "sentences": []
+    "sentences": [
+      "waiting for the seeds to germinate",
+      "… before Western civilization began to germinate …"
+    ]
   },
   "gestation": {
     "synonyms": [
@@ -743,7 +862,9 @@
       "flourish",
       "shrug"
     ],
-    "sentences": []
+    "sentences": [
+      "arguing and gesticulating wildly"
+    ]
   },
   "gesture": {
     "synonyms": [
@@ -760,7 +881,11 @@
       "pleasantry",
       "politeness"
     ],
-    "sentences": []
+    "sentences": [
+      "… a political gesture to draw popular support …",
+      "raised his hand overhead in a gesture of triumph",
+      "The president's visit was mainly a symbolic gesture."
+    ]
   },
   "ghastly": {
     "synonyms": [
@@ -822,7 +947,16 @@
       "spine-chilling",
       "terrifying"
     ],
-    "sentences": []
+    "sentences": [
+      "the lurid details of a crime",
+      "a macabre tale of premature burial",
+      "an unusually grisly murder",
+      "suffered a gruesome death",
+      "a ghastly accident",
+      "a ghastly mistake",
+      "… such a life seems ghastly in its emptiness and sterility.",
+      "a ghastly crime"
+    ]
   },
   "gibe": {
     "synonyms": [
@@ -835,7 +969,22 @@
       "shoot down",
       "skewer"
     ],
-    "sentences": []
+    "sentences": [
+      "flouted the conventions of polite society",
+      "sneered at anything romantic",
+      "the saucy jackanapes fleered at my credulity",
+      "hooted and gibed at the umpire",
+      "the crowd jeered at the prisoners",
+      "scoffed at their concerns",
+      "boxers gibing each other before a fight",
+      "… Rock made a gibe at the 50-year-old Pinkett Smith's shaved head …",
+      "The billionaire … has romped across the service hurling gibes and memes …",
+      "Many of those struggling economically say Macron is out of touch, and a common gibe labels him the \"president of the rich.\"",
+      "To be sure, his jibes at CNN and other news outlets were an important part of his political persona from the start.",
+      "this maneuver was bound to force her to jibe her mainsail from one side to the other",
+      "… was the most amazed when he saw me work the boat to and again in the sea by the rudder, and how the sail jibed, and filled this way or that way as the course we sailed changed …",
+      "the cutter had lost all four foremost men by the violent jibing of a boom"
+    ]
   },
   "giddy": {
     "synonyms": [
@@ -876,7 +1025,11 @@
       "rapturous",
       "rhapsodic"
     ],
-    "sentences": []
+    "sentences": [
+      "was giddy with delight",
+      "a giddy height",
+      "giddy from the unaccustomed exercise"
+    ]
   },
   "gigantic": {
     "synonyms": [
@@ -926,7 +1079,15 @@
       "whacking",
       "whopping"
     ],
-    "sentences": []
+    "sentences": [
+      "a mammoth boulder",
+      "a colossal statue of Lincoln",
+      "a gigantic sports stadium",
+      "the vast Russian steppes",
+      "incurred a huge debt",
+      "an enormous expense",
+      "an immense shopping mall"
+    ]
   },
   "giver": {
     "synonyms": [
@@ -991,7 +1152,13 @@
       "unfriendly",
       "unsympathetic"
     ],
-    "sentences": []
+    "sentences": [
+      "progress on the bill has been glacial",
+      "glacial acetic acid",
+      "maintained a glacial calm",
+      "a glacial handshake",
+      "a glacial wind"
+    ]
   },
   "gladden": {
     "synonyms": [
@@ -1009,7 +1176,11 @@
       "suit",
       "warm"
     ],
-    "sentences": []
+    "sentences": [
+      "Her news will gladden her mother's heart.",
+      "Her news will gladden the hearts of her family and friends.",
+      "My heart was gladdened by his recovery."
+    ]
   },
   "glimmer": {
     "synonyms": [
@@ -1057,7 +1228,23 @@
       "tang",
       "whiff"
     ],
-    "sentences": []
+    "sentences": [
+      "a shimmering satin dress",
+      "a distant glimmering light",
+      "glistening wet sidewalk",
+      "glittering diamonds",
+      "the sparkling waters",
+      "glinting steel",
+      "lights gleamed in the valley",
+      "lightning flashed",
+      "Her white satin dress glimmered in the dusk.",
+      "The candles glimmered in the windows.",
+      "a glimmer of intelligence",
+      "a glimmer of hope",
+      "gave them a glimmer of what they could expect",
+      "the first glimmer of dawn",
+      "The doctor says there's a glimmer/ray of hope that he'll improve."
+    ]
   },
   "glimpse": {
     "synonyms": [
@@ -1072,7 +1259,11 @@
       "sight",
       "view"
     ],
-    "sentences": []
+    "sentences": [
+      "glimpsed at the letter and then threw it aside",
+      "glimpsed him as he sped by in his car",
+      "caught only a glimpse of the mugger"
+    ]
   },
   "globular": {
     "synonyms": [
@@ -1080,7 +1271,9 @@
       "round",
       "spherical"
     ],
-    "sentences": []
+    "sentences": [
+      "globular proteins"
+    ]
   },
   "glorious": {
     "synonyms": [
@@ -1106,7 +1299,17 @@
       "splendid",
       "stately"
     ],
-    "sentences": []
+    "sentences": [
+      "her singing was superb",
+      "a vision of sublime beauty",
+      "a glorious sunset",
+      "a gorgeous red dress",
+      "resplendent in her jewelry",
+      "the wedding was a splendid occasion",
+      "had a glorious weekend",
+      "a glorious victory",
+      "had a long and glorious military career"
+    ]
   },
   "glutinous": {
     "synonyms": [
@@ -1134,7 +1337,13 @@
       "swinish",
       "voracious"
     ],
-    "sentences": []
+    "sentences": [
+      "rapacious developers indifferent to environmental concerns",
+      "a nation with a ravenous lust for territorial expansion",
+      "an admiral who was gluttonous for glory",
+      "teenagers are often voracious eaters",
+      "a gluttonous appetite"
+    ]
   },
   "gnash": {
     "synonyms": [
@@ -1145,7 +1354,11 @@
       "scrape",
       "scrunch"
     ],
-    "sentences": []
+    "sentences": [
+      "His opponents have been gnashing their teeth in/with frustration since he won the election.",
+      "His election has caused some weeping and gnashing of teeth among his opponents.",
+      "He gnashed his teeth in his sleep."
+    ]
   },
   "Gordian knot": {
     "synonyms": [
@@ -1232,7 +1445,10 @@
       "sheer",
       "transparent"
     ],
-    "sentences": []
+    "sentences": [
+      "… the gossamer of youth's dreams …",
+      "a gossamer white veil"
+    ]
   },
   "gourd": {
     "synonyms": [
@@ -1263,7 +1479,15 @@
       "unsound",
       "wud"
     ],
-    "sentences": []
+    "sentences": [
+      "Walking through the various barrios, you might see people sharing sips from a little gourd with a straw in it.",
+      "… a basketball-size gourd draped with a veil of wooden beads—to incite individual bursts of improvisation from the orchestra's players.",
+      "You can't climb up there! Are you out of your mind?",
+      "He was bored out of his mind/skull/gourd/tree.",
+      "I feel like I'm going out of my mind.",
+      "That noise is driving me out of my mind! =that noise is bothering me very much",
+      "I was out of my mind with worry. = I was going out of my mind with worry =I was extremely worried"
+    ]
   },
   "graceless": {
     "synonyms": [
@@ -1324,7 +1548,10 @@
       "undiplomatic",
       "unwise"
     ],
-    "sentences": []
+    "sentences": [
+      "graceless dancing",
+      "a graceless accusation"
+    ]
   },
   "gradient": {
     "synonyms": [
@@ -1364,7 +1591,10 @@
       "sublimeness",
       "superbness"
     ],
-    "sentences": []
+    "sentences": [
+      "visited the awesome grandeurs of the American West",
+      "… the glory that was Greece and the grandeur that was Rome."
+    ]
   },
   "grandiloquent": {
     "synonyms": [
@@ -1387,7 +1617,9 @@
       "orotund",
       "windy"
     ],
-    "sentences": []
+    "sentences": [
+      "was urged to follow up his grandiloquence with positive action"
+    ]
   },
   "grandiose": {
     "synonyms": [
@@ -1421,7 +1653,17 @@
       "pretentious",
       "snippy"
     ],
-    "sentences": []
+    "sentences": [
+      "grandiose schemes",
+      "grandiose hydroelectric projects",
+      "a majestic waterfall",
+      "the stately procession",
+      "an imposing edifice",
+      "magnificent paintings",
+      "a grand staircase",
+      "had grandiose plans for the city",
+      "They did not believe his grandiose claims."
+    ]
   },
   "grantee": {
     "synonyms": [
@@ -1460,7 +1702,18 @@
       "confer",
       "vest"
     ],
-    "sentences": []
+    "sentences": [
+      "awarded the company a huge defense contract",
+      "accorded all the honors befitting a head of state",
+      "vouchsafed the secret to only a few chosen disciples",
+      "even her critics concede she can be charming",
+      "granted them a new hearing",
+      "granting that you are correct",
+      "I grant you that the house is not in perfect condition.",
+      "grant a scholarship to a student",
+      "luggage allowances granted to passengers",
+      "grant a request"
+    ]
   },
   "granular": {
     "synonyms": [
@@ -1469,7 +1722,10 @@
       "grainy",
       "granulated"
     ],
-    "sentences": []
+    "sentences": [
+      "granular reports",
+      "nongranular white blood cells"
+    ]
   },
   "granule": {
     "synonyms": [
@@ -1525,7 +1781,11 @@
       "war",
       "warfare"
     ],
-    "sentences": []
+    "sentences": [
+      "their grapple with tyranny",
+      "locked in a desperate grapple with his foe",
+      "Officials grappled with an increase in violent crimes."
+    ]
   },
   "gratification": {
     "synonyms": [
@@ -1541,7 +1801,11 @@
       "relish",
       "satisfaction"
     ],
-    "sentences": []
+    "sentences": [
+      "found gratification in getting his novel published",
+      "the gratification of physical appetites",
+      "monetary gratification for a job well done"
+    ]
   },
   "gratify": {
     "synonyms": [
@@ -1562,7 +1826,10 @@
       "suit",
       "warm"
     ],
-    "sentences": []
+    "sentences": [
+      "gratify a whim",
+      "It gratified him to have his wife wear jewels …"
+    ]
   },
   "gratuitous": {
     "synonyms": [
@@ -1579,7 +1846,14 @@
       "unnecessary",
       "unwarranted"
     ],
-    "sentences": []
+    "sentences": [
+      "has gratuitous permission to pass over private land",
+      "It was printed in France at the author's expense, for gratuitous distribution to educators and others.",
+      "We mistake the gratuitous blessings of Heaven for the fruits of our own industry.",
+      "a gratuitous insult",
+      "a gratuitous assumption",
+      "a movie criticized for gratuitous violence"
+    ]
   },
   "gratuity": {
     "synonyms": [
@@ -1596,7 +1870,9 @@
       "perk",
       "throw-in"
     ],
-    "sentences": []
+    "sentences": [
+      "added a gratuity for the server"
+    ]
   },
   "gravity": {
     "synonyms": [
@@ -1612,7 +1888,10 @@
       "solemnness",
       "staidness"
     ],
-    "sentences": []
+    "sentences": [
+      "the gravity of the offense",
+      "a person of gravity and learning"
+    ]
   },
   "gregarious": {
     "synonyms": [
@@ -1627,7 +1906,11 @@
       "social",
       "colonial"
     ],
-    "sentences": []
+    "sentences": [
+      "gregarious activities/pursuits",
+      "gregarious animals",
+      "is friendly, outgoing, and gregarious"
+    ]
   },
   "grief": {
     "synonyms": [
@@ -1651,7 +1934,22 @@
       "pip",
       "vexation"
     ],
-    "sentences": []
+    "sentences": [
+      "nagging regret for missed opportunities",
+      "cries of woe echoed throughout the bombed city",
+      "the anguish felt by the parents of the kidnapped child",
+      "the inexpressible grief of the bereaved parents",
+      "a family united in sorrow upon the patriarch's death",
+      "a fender bender and other griefs that marred the trip",
+      "The boat came to grief on the rocks.",
+      "getting grief from his friends",
+      "enough grief for one day",
+      "life's joys and griefs",
+      "his grief over his son's death",
+      "The death of his son has left him grief-stricken.",
+      "The campaign came to grief.",
+      "\"He's burned the toast.\" \"Good grief! Can't he do anything right?\""
+    ]
   },
   "grievance": {
     "synonyms": [
@@ -1683,7 +1981,14 @@
       "whinge",
       "yammer"
     ],
-    "sentences": []
+    "sentences": [
+      "a list of employee grievances",
+      "determined to right society's wrongs",
+      "libel constitutes a legal injury",
+      "the injustices suffered by the lower classes",
+      "filed a grievance against her employer",
+      "Their chief grievance was the unsafe work environment."
+    ]
   },
   "grievous": {
     "synonyms": [
@@ -1741,14 +2046,23 @@
       "unlucky",
       "woeful"
     ],
-    "sentences": []
+    "sentences": [
+      "grievous fault",
+      "grievous costs of war",
+      "a grievous wound",
+      "a grievous loss"
+    ]
   },
   "grimace": {
     "synonyms": [
       "mouth",
       "mug"
     ],
-    "sentences": []
+    "sentences": [
+      "a grimace of hate and rage",
+      "Grimacing slightly, he runs his finger over the back of his heel, where a deep … fissure has opened inside a callus.",
+      "My father shifted his weight and grimaced. The sheet slid off his injured leg, the calf swollen, purple as a plum …"
+    ]
   },
   "grisly": {
     "synonyms": [
@@ -1774,7 +2088,16 @@
       "terrible",
       "terrific"
     ],
-    "sentences": []
+    "sentences": [
+      "the lurid details of a crime",
+      "a macabre tale of premature burial",
+      "an unusually grisly murder",
+      "suffered a gruesome death",
+      "a ghastly accident",
+      "a grisly account of the fire",
+      "grisly tales of murder",
+      "… houses that were dark and grisly under the blank, cold sky …"
+    ]
   },
   "grotesque": {
     "synonyms": [
@@ -1798,7 +2121,16 @@
       "unsightly",
       "vile"
     ],
-    "sentences": []
+    "sentences": [
+      "an ornate structure, embellished with grotesques",
+      "grotesque statues on the cathedral",
+      "though grieving, she made a grotesque attempt at a smile",
+      "a bizarre medieval castle in the heart of a modern city",
+      "dreamed up fantastic rumors",
+      "a grotesque distortion of the facts",
+      "animals with grotesque deformities",
+      "a grotesque Halloween costume"
+    ]
   },
   "grotto": {
     "synonyms": [
@@ -1860,7 +2192,43 @@
       "land",
       "terra firma"
     ],
-    "sentences": []
+    "sentences": [
+      "wallpaper with black diamonds on a white ground",
+      "sufficient grounds for divorce",
+      "ground for complaint",
+      "The boat struck ground.",
+      "… the nutrient-rich soil that lies deep in the ground.",
+      "He covered a lot of ground in his lecture.",
+      "We toured the grounds of the estate.",
+      "a grassy picnic ground",
+      "fishing grounds",
+      "the cost of ground transportation",
+      "the airport's ground crew",
+      "sent in ground troops",
+      "the country's ground forces",
+      "fighting a ground war",
+      "She sat down on the ground.",
+      "a patch of uneven ground",
+      "One person was flown by helicopter and another transported by ground …",
+      "grounded back to the pitcher",
+      "The ship grounded on a mud bank.",
+      "grounded her for a week",
+      "ground a pilot",
+      "The plane was grounded for repairs.",
+      "… an understanding … that is grounded in fact.",
+      "… our fears about technological change may be well grounded.",
+      "ground beef",
+      "ground coffee beans",
+      "grinding away at the task",
+      "grind for an exam",
+      "gears grinding",
+      "grind a hand organ",
+      "ground dirt into the carpet",
+      "grind the teeth",
+      "tyrants who grind their subjects",
+      "grind an ax",
+      "grind the coffee beans"
+    ]
   },
   "guess": {
     "synonyms": [
@@ -1894,7 +2262,21 @@
       "hold",
       "think"
     ],
-    "sentences": []
+    "sentences": [
+      "We can only guess at what really happened.",
+      "\"Are you done?\" \"I guess so.\"",
+      "guess the answer",
+      "I guess you're right",
+      "She could only guess what he meant.",
+      "I don't know how old you are, but I'll venture a guess.",
+      "… lived royally by his ability to second-guess the stock market.",
+      "second-guess the general's strategy",
+      "… meet almost every morning and, over coffee, second-guess the local coach.",
+      "What causes these changes is anybody's guess.",
+      "It's anyone's guess what his next book will be about.",
+      "\"What's her problem?\" \"I have no idea. Your guess is as good as mine.\"",
+      "\"I have no idea how many peanuts are in the jar.\" \"Take a wild guess.\""
+    ]
   },
   "guile": {
     "synonyms": [
@@ -1932,7 +2314,9 @@
       "fakery",
       "fraud"
     ],
-    "sentences": []
+    "sentences": [
+      "a war that called for guile rather than firepower"
+    ]
   },
   "guileless": {
     "synonyms": [
@@ -1951,7 +2335,9 @@
       "unpretending",
       "unpretentious"
     ],
-    "sentences": []
+    "sentences": [
+      "a straightforward man with a guileless smile"
+    ]
   },
   "guise": {
     "synonyms": [
@@ -1982,7 +2368,14 @@
       "outward",
       "seeming"
     ],
-    "sentences": []
+    "sentences": [
+      "the same basic recipe in a different guise",
+      "swindles people under the guise of friendship",
+      "The android is a machine in human guise.",
+      "attended the masquerade in the guise of a court jester",
+      "a story about a demon in the guise of an angel",
+      "She swindles people under the guise of friendship."
+    ]
   },
   "gullible": {
     "synonyms": [
@@ -1995,7 +2388,9 @@
       "unwary",
       "wide-eyed"
     ],
-    "sentences": []
+    "sentences": [
+      "selling overpriced souvenirs to gullible tourists"
+    ]
   },
   "gumption": {
     "synonyms": [
@@ -2012,7 +2407,9 @@
       "wisdom",
       "wit"
     ],
-    "sentences": []
+    "sentences": [
+      "lacked the gumption to try"
+    ]
   },
   "gusto": {
     "synonyms": [
@@ -2046,7 +2443,11 @@
       "zing",
       "zip"
     ],
-    "sentences": []
+    "sentences": [
+      "different gustoes",
+      "could not match the gusto of their competitors",
+      "described the adventure with great gusto"
+    ]
   },
   "guy": {
     "synonyms": [
@@ -2101,7 +2502,18 @@
       "thing",
       "wight"
     ],
-    "sentences": []
+    "sentences": [
+      "The other dogs pale in comparison to this little guy.",
+      "saw her and the rest of the guys",
+      "As a coach sometimes you have to be the bad guy.",
+      "Parenting isn't just about having beautiful kids and being busy. It's about dealing with problems, and your success as a parent depends on your willingness to be the bad guy. If you aren't willing to be the bad guy, you shouldn't be a parent.",
+      "Meanwhile, it's the environmentalists who are now portrayed as the bad guys, hiring lots of lawyers, consorting with congressmen …",
+      "… a decision that owes more to parochial conflicts within the Armed Forces than to doing the best job of surveilling bad guys.",
+      "Designed to keep guns out of the hands of bad guys and children …",
+      "played the bad guy in the movie",
+      "a fall guy for his boss's errors",
+      "It's hard to tell the good guys from the bad guys in this movie."
+    ]
   },
   "guzzle": {
     "synonyms": [
@@ -2127,7 +2539,10 @@
       "soak",
       "tipple"
     ],
-    "sentences": []
+    "sentences": [
+      "devices that guzzle electricity",
+      "guzzle beer"
+    ]
   },
   "gyrate": {
     "synonyms": [
@@ -2142,6 +2557,64 @@
       "wheel",
       "whirl"
     ],
-    "sentences": []
+    "sentences": [
+      "gyrate branches of a tree"
+    ]
+  },
+  "generalize": {
+    "synonyms": [],
+    "sentences": [
+      "She's always generalizing about men.",
+      "generalize a law"
+    ]
+  },
+  "genital": {
+    "synonyms": [],
+    "sentences": [
+      "nongenital herpes infection",
+      "the pregenital segments of a grasshopper",
+      "a crustacean's pregenital limbs",
+      "pregenital impulses",
+      "pregenital fixations"
+    ]
+  },
+  "geology": {
+    "synonyms": [],
+    "sentences": [
+      "the geology of Arizona"
+    ]
+  },
+  "globose": {
+    "synonyms": [],
+    "sentences": [
+      "globose pollen"
+    ]
+  },
+  "gradation": {
+    "synonyms": [],
+    "sentences": [
+      "gradations of social progress",
+      "the gradations of evolutionary development"
+    ]
+  },
+  "granulate": {
+    "synonyms": [],
+    "sentences": [
+      "an open granulating wound"
+    ]
+  },
+  "grindstone": {
+    "synonyms": [],
+    "sentences": [
+      "You'll do well at school if you just keep your nose to the grindstone.",
+      "My nose was to the grindstone the whole month of August."
+    ]
+  },
+  "guinea": {
+    "synonyms": [],
+    "sentences": [
+      "Guinea worm disease is a parasitic infection known as dracunculiasis that can be prevented by boiling or filtering drinking water through a finely woven cloth.",
+      "Akoon, like other sufferers, contract guinea worm disease by drinking from stagnant water infested with a flea called cyclops, which swallows but cannot digest guinea worm larvae."
+    ]
   }
 }
