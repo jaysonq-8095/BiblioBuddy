@@ -28,17 +28,27 @@
       </header>
 
       <section class="mode-bar">
-        <button class="mode-button" data-mode="definitions">Definitions</button>
-        <button class="mode-button" data-mode="synonyms">Synonyms</button>
-        <button class="mode-button" data-mode="fitb">Fill in the Blank</button>
+        <div class="mode-group">
+          <button class="mode-button" data-mode="definitions">Definitions</button>
+          <button class="mode-button" data-mode="synonyms">Synonyms</button>
+          <button class="mode-button" data-mode="fitb">Fill in the Blank</button>
+          <button id="settingsTabButton" class="mode-button" data-mode="settings">Settings</button>
+        </div>
+        <div class="mode-actions">
+          <button id="resetMode" class="ghost-button reset-button">Reset this mode</button>
+        </div>
       </section>
 
-      <section class="control-bar">
-        <label class="toggle">
-          <input id="reviewMastered" type="checkbox" />
-          <span>Review mastered words</span>
-        </label>
-        <button id="resetMode" class="ghost-button">Reset this mode</button>
+      <section id="settingsPanel" class="settings-panel" hidden>
+        <div class="settings-card">
+          <h3>Settings</h3>
+          <p class="settings-note">Save or restore your progress across modes.</p>
+          <div class="settings-actions">
+            <button id="saveData" class="save-button">Save user data</button>
+            <button id="loadData" class="load-button">Load user data</button>
+            <input id="loadInput" type="file" accept="application/json" hidden />
+          </div>
+        </div>
       </section>
 
       <main class="layout">
@@ -52,14 +62,38 @@
           </div>
           <p id="questionPrompt" class="question-prompt"></p>
           <div id="options" class="options"></div>
+          <p id="feedback" class="feedback"></p>
+          <section id="answerDetails" class="answer-details" aria-live="polite">
+            <div class="answer-grid">
+              <div>
+                <p class="detail-label">Correct answer</p>
+                <p id="detailWord" class="detail-value"></p>
+              </div>
+              <div>
+                <p class="detail-label">Part of speech</p>
+                <p id="detailPos" class="detail-value"></p>
+              </div>
+              <div class="detail-span">
+                <p class="detail-label">Definition</p>
+                <p id="detailDefinition" class="detail-value"></p>
+              </div>
+              <div class="detail-span">
+                <p class="detail-label">Synonyms</p>
+                <ul id="detailSynonyms" class="detail-list"></ul>
+              </div>
+              <div class="detail-span">
+                <p class="detail-label">Example sentences</p>
+                <ul id="detailSentences" class="detail-list"></ul>
+              </div>
+            </div>
+          </section>
           <div class="question-footer">
-            <p id="feedback" class="feedback"></p>
             <button id="nextButton" class="primary-button" disabled>Next</button>
           </div>
         </section>
 
         <aside class="stats">
-          <div class="stats-card">
+          <div class="stats-card stats-link" onclick="window.location.href='progress_snapshot.html'">
             <h3>Progress Snapshot</h3>
             <div id="statsGrid" class="stats-grid"></div>
           </div>
@@ -70,6 +104,10 @@
               Non-mastered words cap at 50 per mode. When the cap is reached, new
               words pause.
             </p>
+            <label class="review-toggle">
+              <input id="reviewMastered" type="checkbox" />
+              <span>Review mastered words</span>
+            </label>
           </div>
         </aside>
       </main>

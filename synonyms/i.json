@@ -109,7 +109,7 @@
       "standout",
       "star",
       "superstar",
-      "VIP",
+      "vip",
       "illustration",
       "likeness",
       "picture"
@@ -363,7 +363,7 @@
   "illiberal": {
     "synonyms": [
       "insular",
-      "Lilliputian",
+      "lilliputian",
       "little",
       "narrow",
       "narrow-minded",
@@ -951,7 +951,7 @@
       "chaste",
       "clean",
       "decent",
-      "G-rated",
+      "g-rated",
       "modest",
       "pure",
       "vestal",
@@ -1069,7 +1069,7 @@
   "immense": {
     "synonyms": [
       "astronomical",
-      "Brobdingnagian",
+      "brobdingnagian",
       "bumper",
       "colossal",
       "cosmic",
@@ -1084,7 +1084,7 @@
       "grand",
       "herculean",
       "heroic",
-      "Himalayan",
+      "himalayan",
       "huge",
       "humongous",
       "jumbo",
@@ -1113,8 +1113,8 @@
       "walloping",
       "whacking",
       "whopping",
-      "A-OK",
-      "A1",
+      "a-ok",
+      "a1",
       "awesome",
       "bang-up",
       "banner",
@@ -1356,7 +1356,7 @@
       "wicked",
       "wrong",
       "cutthroat",
-      "Machiavellian",
+      "machiavellian",
       "unconscionable",
       "unprincipled",
       "unscrupulous"
@@ -2936,7 +2936,7 @@
       "unprintable",
       "vulgar",
       "wanton",
-      "X-rated"
+      "x-rated"
     ],
     "sentences": [
       "having impure thoughts",
@@ -4032,7 +4032,7 @@
       "inconsiderable",
       "insignificant",
       "little",
-      "Mickey Mouse",
+      "mickey mouse",
       "minor",
       "minute",
       "negligible",
@@ -4085,7 +4085,7 @@
       "inconsequential",
       "insignificant",
       "little",
-      "Mickey Mouse",
+      "mickey mouse",
       "minor",
       "minute",
       "negligible",
@@ -5872,7 +5872,7 @@
       "inventive",
       "original",
       "originative",
-      "Promethean",
+      "promethean",
       "artful"
     ],
     "sentences": [
@@ -6654,7 +6654,7 @@
       "uncanny",
       "ambiguous",
       "dark",
-      "Delphic",
+      "delphic",
       "double-edged",
       "elliptical",
       "equivocal",
@@ -6970,7 +6970,7 @@
       "inconsequential",
       "inconsiderable",
       "little",
-      "Mickey Mouse",
+      "mickey mouse",
       "minor",
       "minute",
       "negligible",
@@ -7435,7 +7435,7 @@
   "insular": {
     "synonyms": [
       "illiberal",
-      "Lilliputian",
+      "lilliputian",
       "little",
       "narrow",
       "narrow-minded",
@@ -7859,7 +7859,7 @@
       "plea",
       "prayer",
       "supplication",
-      "Godspeed",
+      "godspeed",
       "sanctification",
       "benediction",
       "benison",
@@ -8389,7 +8389,7 @@
       "grog",
       "hooch",
       "inebriant",
-      "John Barleycorn",
+      "john barleycorn",
       "juice",
       "liquor",
       "lush",
@@ -8764,7 +8764,7 @@
       "deluge",
       "flood",
       "flood tide",
-      "Niagara",
+      "niagara",
       "overflow",
       "spate",
       "torrent"
@@ -8943,7 +8943,7 @@
       "innovatory",
       "original",
       "originative",
-      "Promethean"
+      "promethean"
     ],
     "sentences": [
       "an inventive method",
@@ -10125,7 +10125,7 @@
   "itinerary": {
     "synonyms": [
       "blog",
-      "Weblog",
+      "weblog",
       "daybook",
       "diary",
       "journal",

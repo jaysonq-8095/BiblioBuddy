@@ -120,7 +120,7 @@
       "prejudiced",
       "small-minded",
       "insular",
-      "Lilliputian",
+      "lilliputian",
       "little",
       "parochial",
       "petty",
@@ -309,7 +309,7 @@
   },
   "naval": {
     "synonyms": [
-      "GI",
+      "gi",
       "gladiatorial",
       "mercenary",
       "soldierly",
@@ -523,7 +523,7 @@
       "conjurer",
       "enchanter",
       "mage",
-      "Magian",
+      "magian",
       "magician",
       "magus",
       "sorcerer",
@@ -541,7 +541,7 @@
     "synonyms": [
       "boneyard",
       "cemetery",
-      "God's acre",
+      "god's acre",
       "graveyard",
       "memorial park",
       "potter's field"
@@ -809,7 +809,7 @@
       "inconsiderable",
       "insignificant",
       "measly",
-      "Mickey Mouse",
+      "mickey mouse",
       "minute",
       "niggling",
       "no-account",
@@ -872,7 +872,7 @@
       "negotiable securities"
     ]
   },
-  "Nemesis": {
+  "nemesis": {
     "synonyms": [
       "avenger",
       "castigator",
@@ -900,7 +900,7 @@
       "Many a pursued man fell before his nemesis in the streets …"
     ]
   },
-  "Neolithic": {
+  "neolithic": {
     "synonyms": [
       "antiquated",
       "archaic",
@@ -913,7 +913,7 @@
       "moribund",
       "mossy",
       "moth-eaten",
-      "Noachian",
+      "noachian",
       "obsolete",
       "out-of-date",
       "outdated",
@@ -922,7 +922,7 @@
       "passé",
       "prehistoric",
       "rusty",
-      "Stone Age",
+      "stone age",
       "superannuated"
     ],
     "sentences": []
@@ -1594,7 +1594,7 @@
       "inconsiderable",
       "insignificant",
       "measly",
-      "Mickey Mouse",
+      "mickey mouse",
       "minute",
       "negligible",
       "niggling",
@@ -2265,7 +2265,7 @@
       "inconsiderable",
       "insignificant",
       "little",
-      "Mickey Mouse",
+      "mickey mouse",
       "minor",
       "minute",
       "negligible",

@@ -4,7 +4,7 @@
       "conspiracy",
       "crew",
       "gang",
-      "Mafia",
+      "mafia",
       "mob",
       "ring",
       "syndicate"
@@ -307,7 +307,7 @@
       "denounced his opponent for his defamatory insinuations and calumny"
     ]
   },
-  "Calvary": {
+  "calvary": {
     "synonyms": [
       "affliction",
       "cross",
@@ -316,7 +316,7 @@
       "trial",
       "tribulation",
       "agony",
-      "Gehenna",
+      "gehenna",
       "hell",
       "horror",
       "misery",
@@ -1376,7 +1376,7 @@
       "flood",
       "flood tide",
       "inundation",
-      "Niagara",
+      "niagara",
       "overflow",
       "spate",
       "torrent",
@@ -1412,7 +1412,7 @@
       "flood",
       "flood tide",
       "inundation",
-      "Niagara",
+      "niagara",
       "overflow",
       "spate",
       "torrent"
@@ -3455,8 +3455,8 @@
       "proportioned",
       "regular",
       "symmetrical",
-      "Apollinian",
-      "Apollonian",
+      "apollinian",
+      "apollonian",
       "balanced",
       "congruous",
       "consonant",
@@ -4063,7 +4063,7 @@
       "dreadnought",
       "elephant",
       "giant",
-      "Goliath",
+      "goliath",
       "jumbo",
       "leviathan",
       "mammoth",
@@ -6166,7 +6166,7 @@
       "churchman",
       "clergyman",
       "father",
-      "Holy Joe",
+      "holy joe",
       "padre",
       "clergyperson",
       "cleric",
@@ -7525,7 +7525,7 @@
       "betrayer",
       "double-crosser",
       "double-dealer",
-      "Judas",
+      "judas",
       "quisling",
       "recreant",
       "serpent",
@@ -8604,7 +8604,7 @@
       "donator",
       "donor",
       "fairy godmother",
-      "Maecenas",
+      "maecenas",
       "patron",
       "sugar daddy",
       "benefactress",
@@ -9119,7 +9119,7 @@
       "sports car",
       "sport-utility vehicle",
       "station wagon",
-      "SUV",
+      "suv",
       "town car",
       "wagon",
       "woody",
@@ -9138,7 +9138,7 @@
       "minicar",
       "sedan",
       "subcompact",
-      "V-8",
+      "v-8",
       "auto",
       "automobile",
       "bus",
@@ -9830,7 +9830,7 @@
   "cosmic": {
     "synonyms": [
       "astronomical",
-      "Brobdingnagian",
+      "brobdingnagian",
       "bumper",
       "colossal",
       "cyclopean",
@@ -9844,7 +9844,7 @@
       "grand",
       "herculean",
       "heroic",
-      "Himalayan",
+      "himalayan",
       "huge",
       "humongous",
       "immense",
@@ -10042,13 +10042,13 @@
       "feigned",
       "hypocritical",
       "insincere",
-      "Janus-faced",
+      "janus-faced",
       "jive",
       "left-handed",
       "lip",
       "mealy",
       "mealymouthed",
-      "Pecksniffian",
+      "pecksniffian",
       "phony-baloney",
       "pretended",
       "two-faced",
@@ -11107,8 +11107,8 @@
       "scrawl",
       "scribble",
       "autograph",
-      "John Hancock",
-      "John Henry",
+      "john hancock",
+      "john henry",
       "signature"
     ],
     "sentences": []
@@ -11375,7 +11375,7 @@
       "cardiac patients"
     ]
   },
-  "Catholicism": {
+  "catholicism": {
     "synonyms": [],
     "sentences": [
       "Bowker speculates that Orwell's \"Catholic education\" may have been the source of the notorious anti-Catholicism of his later writings, …",
@@ -11415,7 +11415,7 @@
       "a choral group"
     ]
   },
-  "Christ": {
+  "christ": {
     "synonyms": [],
     "sentences": [
       "With time this contrast hardened into hacker iconography. Gates was the anti-Christ, a man whose corporate stranglehold on the software industry had left it awash in ugly products."

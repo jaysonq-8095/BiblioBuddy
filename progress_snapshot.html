@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BiblioBuddy Progress Snapshot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Vocabulary Atelier</p>
+          <h1>Progress Snapshot</h1>
+          <p class="subtitle">Browse words by category and revisit any word card.</p>
+        </div>
+        <div class="hero-card">
+          <p class="hero-label">Current Mode</p>
+          <div id="modeCapsule" class="hero-mode">Definitions</div>
+        </div>
+      </header>
+
+      <section class="mode-bar">
+        <div class="mode-group">
+          <button class="mode-button" data-mode="definitions">Definitions</button>
+          <button class="mode-button" data-mode="synonyms">Synonyms</button>
+          <button class="mode-button" data-mode="fitb">Fill in the Blank</button>
+        </div>
+        <a href="index.html" class="ghost-button back-button">Back to Quiz</a>
+      </section>
+
+      <main class="snapshot-layout">
+        <section class="snapshot-column" id="categoryColumn"></section>
+        <section class="word-card">
+          <p class="question-meta">Word Card</p>
+          <h2 id="cardWord">Select a word</h2>
+          <div class="question-badge" id="cardPos"></div>
+          <section class="answer-details visible" aria-live="polite">
+            <div class="answer-grid">
+              <div>
+                <p class="detail-label">Definition</p>
+                <p id="cardDefinition" class="detail-value"></p>
+              </div>
+              <div class="detail-span">
+                <p class="detail-label">Synonyms</p>
+                <ul id="cardSynonyms" class="detail-list"></ul>
+              </div>
+              <div class="detail-span">
+                <p class="detail-label">Example sentences</p>
+                <ul id="cardSentences" class="detail-list"></ul>
+              </div>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="progress_snapshot.js"></script>
+  </body>
+</html>

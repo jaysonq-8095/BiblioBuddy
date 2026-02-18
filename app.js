@@ -19,19 +19,31 @@ const MODES = {
 };
 
 const elements = {
+  questionCard: document.querySelector(".question-card"),
   modeButtons: Array.from(document.querySelectorAll(".mode-button")),
   modeCapsule: document.getElementById("modeCapsule"),
   capNotice: document.getElementById("capNotice"),
   reviewMastered: document.getElementById("reviewMastered"),
   resetMode: document.getElementById("resetMode"),
+  settingsPanel: document.getElementById("settingsPanel"),
+  saveData: document.getElementById("saveData"),
+  loadData: document.getElementById("loadData"),
+  loadInput: document.getElementById("loadInput"),
   questionMeta: document.getElementById("questionMeta"),
   questionTitle: document.getElementById("questionTitle"),
   questionPrompt: document.getElementById("questionPrompt"),
   posBadge: document.getElementById("posBadge"),
   options: document.getElementById("options"),
+  answerDetails: document.getElementById("answerDetails"),
+  detailWord: document.getElementById("detailWord"),
+  detailPos: document.getElementById("detailPos"),
+  detailDefinition: document.getElementById("detailDefinition"),
+  detailSynonyms: document.getElementById("detailSynonyms"),
+  detailSentences: document.getElementById("detailSentences"),
   feedback: document.getElementById("feedback"),
   nextButton: document.getElementById("nextButton"),
   statsGrid: document.getElementById("statsGrid"),
+  statsAside: document.querySelector('.stats'),
   limitSummary: document.getElementById("limitSummary"),
 };
 
@@ -63,7 +75,12 @@ async function init() {
 function bindEvents() {
   elements.modeButtons.forEach((button) => {
     button.addEventListener("click", () => {
-      setMode(button.dataset.mode);
+      const mode = button.dataset.mode;
+      if (mode === "settings") {
+        toggleSettings();
+      } else {
+        setMode(mode);
+      }
     });
   });
 
@@ -75,8 +92,29 @@ function bindEvents() {
   });
 
   elements.resetMode.addEventListener("click", () => {
+    const confirmed = window.confirm("Are you sure you want to reset?");
+    if (!confirmed) {
+      return;
+    }
     localStorage.removeItem(getStorageKey(state.mode));
     setMode(state.mode);
+  });
+
+  elements.saveData.addEventListener("click", () => {
+    downloadUserData();
+  });
+
+  elements.loadData.addEventListener("click", () => {
+    elements.loadInput.click();
+  });
+
+  elements.loadInput.addEventListener("change", (event) => {
+    const file = event.target.files?.[0];
+    if (!file) {
+      return;
+    }
+    readUserData(file);
+    event.target.value = "";
   });
 
   elements.nextButton.addEventListener("click", () => {
@@ -143,15 +181,69 @@ function setMode(mode) {
     button.classList.toggle("active", button.dataset.mode === mode);
   });
 
+  // ensure settings panel is closed and main UI is visible
+  elements.settingsPanel.setAttribute("hidden", "");
+  elements.questionCard.style.display = "";
+  elements.statsAside.style.display = "";
+  elements.resetMode.style.display = "";
+
   const modeState = getModeState(mode);
   elements.reviewMastered.checked = Boolean(modeState.reviewMastered);
   elements.modeCapsule.textContent = MODES[mode].label;
   renderQuestion();
 }
 
+function toggleSettings() {
+  const isHidden = elements.settingsPanel.hasAttribute("hidden");
+  if (isHidden) {
+    // show settings, hide main UI
+    elements.settingsPanel.removeAttribute("hidden");
+    elements.questionCard.style.display = "none";
+    elements.statsAside.style.display = "none";
+    elements.resetMode.style.display = "none";
+    elements.modeButtons.forEach((button) => {
+      if (button.dataset.mode !== "settings") {
+        button.classList.remove("active");
+      } else {
+        button.classList.add("active");
+      }
+    });
+  } else {
+    // hide settings, restore main UI
+    elements.settingsPanel.setAttribute("hidden", "");
+    elements.questionCard.style.display = "";
+    elements.statsAside.style.display = "";
+    elements.resetMode.style.display = "";
+    elements.modeButtons.forEach((button) => {
+      button.classList.remove("active");
+    });
+    setMode(state.mode);
+  }
+}
+
 function renderQuestion() {
   const modeState = getModeState(state.mode);
   const selection = selectWordForMode(state.mode, modeState);
+
+  // special cases when user selected "review mastered"
+  if (selection && selection.special) {
+    elements.questionMeta.textContent = MODES[state.mode].label;
+    elements.questionTitle.textContent = "";
+    elements.posBadge.textContent = "";
+    elements.options.innerHTML = "";
+    elements.answerDetails.classList.remove("visible");
+    elements.questionCard.classList.remove("correct", "incorrect");
+    elements.nextButton.disabled = true;
+
+    if (selection.special === "no-mastered") {
+      elements.questionPrompt.textContent = "No mastered words to review.";
+    } else if (selection.special === "not-enough-mastered") {
+      elements.questionPrompt.textContent = "Not enough mastered words to review.";
+    }
+
+    updateStats(modeState, selection.eligible || [], selection.trackedCount || 0, selection.masteredCount || 0);
+    return;
+  }
 
   if (!selection) {
     elements.questionMeta.textContent = "No words available";
@@ -175,6 +267,8 @@ function renderQuestion() {
   elements.posBadge.textContent = entry.pos.toUpperCase();
   elements.feedback.textContent = "";
   elements.nextButton.disabled = true;
+  elements.answerDetails.classList.remove("visible");
+  elements.questionCard.classList.remove("correct", "incorrect");
 
   renderOptions(question.options, entry, modeState);
   updateStats(modeState, selection.eligible, selection.trackedCount, selection.masteredCount);
@@ -200,8 +294,9 @@ function handleAnswer(button, isCorrect, entry, modeState) {
   const category = getCategory(score);
   const resultLabel = isCorrect ? "Correct" : "Incorrect";
 
-  elements.feedback.textContent = `${resultLabel}. Score: ${score} (${categoryLabels[category]}).`;
+  elements.feedback.textContent = resultLabel;
   elements.nextButton.disabled = false;
+  elements.questionCard.classList.add(isCorrect ? "correct" : "incorrect");
 
   Array.from(elements.options.children).forEach((child) => {
     child.disabled = true;
@@ -213,6 +308,9 @@ function handleAnswer(button, isCorrect, entry, modeState) {
       child.classList.add("incorrect");
     }
   });
+
+  renderAnswerDetails(entry);
+  elements.answerDetails.classList.add("visible");
 
   saveModeState(state.mode, modeState);
   updateStats(modeState, getEligibleEntries(state.mode), countTrackedNonMastered(modeState, state.mode), countMastered(modeState, state.mode));
@@ -235,11 +333,35 @@ function selectWordForMode(mode, modeState) {
   const unencountered = eligible.filter((entry) => modeState.scores[entry.word] === undefined);
 
   const capReached = tracked.length >= MAX_ACTIVE_NON_MASTERED;
-  let pool = capReached ? tracked.slice() : tracked.concat(unencountered);
 
+  // If user opted into reviewing mastered words, restrict to mastered-only
   if (modeState.reviewMastered) {
-    pool = pool.concat(mastered);
+    if (mastered.length === 0) {
+      return { special: "no-mastered" };
+    }
+    if (mastered.length < 10) {
+      return { special: "not-enough-mastered", count: mastered.length };
+    }
+    const entry = mastered[Math.floor(Math.random() * mastered.length)];
+    const question = buildQuestion(mode, entry);
+    if (!question) {
+      return null;
+    }
+
+    elements.capNotice.textContent = capReached
+      ? "Cap reached: new words paused"
+      : "";
+
+    return {
+      entry,
+      question,
+      eligible,
+      trackedCount: tracked.length,
+      masteredCount: mastered.length,
+    };
   }
+
+  let pool = capReached ? tracked.slice() : tracked.concat(unencountered);
 
   if (pool.length === 0) {
     return null;
@@ -361,11 +483,47 @@ function updateStats(modeState, eligible, trackedCount, masteredCount) {
   const counts = countCategories(modeState, eligible);
   const rows = Object.keys(categoryLabels).map((key) => {
     const count = counts[key] || 0;
-    return `<div class="stats-row"><span>${categoryLabels[key]}</span><span>${count}</span></div>`;
+    return `<div class="stats-row stats-${key}"><span>${categoryLabels[key]}</span><span>${count}</span></div>`;
   });
   elements.statsGrid.innerHTML = rows.join("");
 
   elements.limitSummary.textContent = `Active non-mastered: ${trackedCount}/${MAX_ACTIVE_NON_MASTERED}. Mastered: ${masteredCount}.`;
+}
+
+function renderAnswerDetails(entry) {
+  const data = state.synonymsData[entry.word] || {};
+  const synonyms = Array.isArray(data.synonyms) ? data.synonyms : [];
+  const sentences = Array.isArray(data.sentences) ? data.sentences : [];
+  const limitedSynonyms = pickRandomSubset(synonyms, 10);
+
+  elements.detailWord.textContent = entry.word;
+  elements.detailPos.textContent = entry.pos.toUpperCase();
+  elements.detailDefinition.textContent = entry.definition;
+  fillList(elements.detailSynonyms, limitedSynonyms, "No synonyms available.");
+  fillList(elements.detailSentences, sentences, "No example sentences available.");
+}
+
+function fillList(listEl, items, emptyMessage) {
+  listEl.innerHTML = "";
+  if (!items || items.length === 0) {
+    const item = document.createElement("li");
+    item.textContent = emptyMessage;
+    listEl.appendChild(item);
+    return;
+  }
+
+  items.forEach((value) => {
+    const item = document.createElement("li");
+    item.textContent = value;
+    listEl.appendChild(item);
+  });
+}
+
+function pickRandomSubset(items, maxCount) {
+  if (!Array.isArray(items) || items.length <= maxCount) {
+    return items || [];
+  }
+  return shuffle(items.slice()).slice(0, maxCount);
 }
 
 function countCategories(modeState, eligible) {
@@ -453,6 +611,55 @@ function getStorageKey(mode) {
   return `${STORAGE_PREFIX}.${mode}`;
 }
 
+function downloadUserData() {
+  const payload = {
+    version: 1,
+    savedAt: new Date().toISOString(),
+    data: collectUserData(),
+  };
+
+  const blob = new Blob([JSON.stringify(payload, null, 2)], {
+    type: "application/json",
+  });
+  const url = URL.createObjectURL(blob);
+  const anchor = document.createElement("a");
+  anchor.href = url;
+  anchor.download = `biblioBuddy-data-${payload.savedAt.slice(0, 10)}.json`;
+  document.body.appendChild(anchor);
+  anchor.click();
+  anchor.remove();
+  URL.revokeObjectURL(url);
+}
+
+function collectUserData() {
+  const data = {};
+  Object.keys(localStorage).forEach((key) => {
+    if (key.startsWith(STORAGE_PREFIX)) {
+      data[key] = localStorage.getItem(key);
+    }
+  });
+  return data;
+}
+
+function readUserData(file) {
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const payload = JSON.parse(reader.result);
+      const stored = payload?.data || {};
+      Object.entries(stored).forEach(([key, value]) => {
+        if (key.startsWith(STORAGE_PREFIX) && typeof value === "string") {
+          localStorage.setItem(key, value);
+        }
+      });
+      setMode(state.mode);
+    } catch (error) {
+      console.error("Failed to load user data:", error);
+    }
+  };
+  reader.readAsText(file);
+}
+
 function normalizePos(type) {
   const value = String(type).toLowerCase();
   if (value.includes("v.")) return "verb";
@@ -464,7 +671,7 @@ function normalizePos(type) {
 
 function blankSentence(sentence, word) {
   const escaped = escapeRegExp(word);
-  const regex = new RegExp(`\\b${escaped}\\b`, "i");
+  const regex = new RegExp(`\\b${escaped}(?:['’]s|s)?\\b`, "i");
   if (regex.test(sentence)) {
     return sentence.replace(regex, "____");
   }

@@ -49,7 +49,7 @@
       "novice",
       "prioress",
       "religious",
-      "Reverend Mother",
+      "reverend mother",
       "votary",
       "nun",
       "sister",
@@ -87,7 +87,7 @@
       "churchman",
       "clergyman",
       "father",
-      "Holy Joe",
+      "holy joe",
       "padre",
       "abbé",
       "curate",
@@ -143,7 +143,7 @@
       "churchman",
       "clergyman",
       "father",
-      "Holy Joe",
+      "holy joe",
       "padre",
       "chaplain",
       "confessor",
@@ -1402,7 +1402,7 @@
       "care (for)",
       "countenance",
       "favor",
-      "OK",
+      "ok",
       "subscribe (to)",
       "believe",
       "buy",
@@ -1994,7 +1994,7 @@
       "finalize",
       "formalize",
       "homologate",
-      "OK",
+      "ok",
       "ratify",
       "sanction"
     ],
@@ -3099,7 +3099,7 @@
       "bon voyage",
       "congé",
       "farewell",
-      "Godspeed",
+      "godspeed",
       "good-bye"
     ],
     "sentences": [
@@ -4569,9 +4569,9 @@
       "laborer",
       "swamper",
       "worker",
-      "gal Friday",
-      "girl Friday",
-      "man Friday",
+      "gal friday",
+      "girl friday",
+      "man friday",
       "right hand"
     ],
     "sentences": []
@@ -4813,7 +4813,7 @@
       "hooch",
       "inebriant",
       "intoxicant",
-      "John Barleycorn",
+      "john barleycorn",
       "juice",
       "liquor",
       "lush",
@@ -5287,7 +5287,7 @@
       "flood",
       "flood tide",
       "inundation",
-      "Niagara",
+      "niagara",
       "overflow",
       "spate",
       "torrent"
@@ -5642,7 +5642,7 @@
       "donator",
       "donor",
       "fairy godmother",
-      "Maecenas",
+      "maecenas",
       "patron",
       "sugar daddy",
       "benefactress",
@@ -5730,7 +5730,7 @@
       "backyard",
       "jackleg",
       "nonprofessional",
-      "Sunday",
+      "sunday",
       "amateurish",
       "dilettante",
       "dilettantish",
@@ -5823,7 +5823,7 @@
       "cryptic",
       "dark",
       "deep",
-      "Delphic",
+      "delphic",
       "double-edged",
       "elliptical",
       "enigmatic",
@@ -5913,7 +5913,7 @@
   "ambulance": {
     "synonyms": [
       "pettifogger",
-      "Philadelphia lawyer",
+      "philadelphia lawyer",
       "shyster",
       "advocate",
       "attorney",
@@ -6612,7 +6612,7 @@
       "transcendental",
       "unearthly",
       "unworldly",
-      "Olympian",
+      "olympian",
       "paradisiacal",
       "utopian",
       "celestial",
@@ -7875,7 +7875,7 @@
       "betrayer",
       "double-crosser",
       "double-dealer",
-      "Judas",
+      "judas",
       "quisling",
       "serpent",
       "snake",
@@ -8255,7 +8255,7 @@
       "blessing",
       "favor",
       "imprimatur",
-      "OK"
+      "ok"
     ],
     "sentences": [
       "a plan that has won the approbation of the mayor",
@@ -8517,7 +8517,7 @@
       "mossy",
       "moth-eaten",
       "neolithic",
-      "Noachian",
+      "noachian",
       "obsolete",
       "out-of-date",
       "outdated",
@@ -8526,7 +8526,7 @@
       "passé",
       "prehistoric",
       "rusty",
-      "Stone Age",
+      "stone age",
       "superannuated"
     ],
     "sentences": [
@@ -8585,7 +8585,7 @@
       "churchman",
       "clergyman",
       "father",
-      "Holy Joe",
+      "holy joe",
       "padre",
       "chaplain",
       "confessor",
@@ -8830,7 +8830,7 @@
       "quality",
       "upper class",
       "upper crust",
-      "A-list",
+      "a-list",
       "best",
       "choice",
       "corps d'elite",
@@ -10851,7 +10851,7 @@
       "absolutism",
       "authoritarianism",
       "autocracy",
-      "Caesarism",
+      "caesarism",
       "czarism",
       "despotism",
       "dictatorship",
@@ -10984,7 +10984,7 @@
       "absolutism",
       "autarchy",
       "authoritarianism",
-      "Caesarism",
+      "caesarism",
       "czarism",
       "despotism",
       "dictatorship",
@@ -11118,7 +11118,7 @@
       "flush",
       "gush",
       "inundation",
-      "Niagara",
+      "niagara",
       "outburst",
       "outflow",
       "outpouring",
@@ -11520,13 +11520,13 @@
       "anagrammed the letters of \"battle\" to form \"tablet\""
     ]
   },
-  "Antarctic": {
+  "antarctic": {
     "synonyms": [],
     "sentences": [
       "Like its Patagonian relative, the Antarctic toothfish … is commonly known as Chilean sea bass. Popular for their mild, fatty flesh, the slow-maturing toothfish are inherently vulnerable to overfishing."
     ]
   },
-  "Antichrist": {
+  "antichrist": {
     "synonyms": [],
     "sentences": [
       "With time this contrast hardened into hacker iconography. Gates was the anti-Christ, a man whose corporate stranglehold on the software industry had left it awash in ugly products."

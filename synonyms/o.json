@@ -665,7 +665,7 @@
   "observant": {
     "synonyms": [
       "alert",
-      "Argus-eyed",
+      "argus-eyed",
       "attentive",
       "awake",
       "open-eyed",
@@ -735,7 +735,7 @@
       "mossy",
       "moth-eaten",
       "neolithic",
-      "Noachian",
+      "noachian",
       "obsolete",
       "outdated",
       "outmoded",
@@ -744,7 +744,7 @@
       "passé",
       "prehistoric",
       "rusty",
-      "Stone Age",
+      "stone age",
       "superannuated",
       "discarded",
       "disused",
@@ -807,7 +807,7 @@
       "mossy",
       "moth-eaten",
       "neolithic",
-      "Noachian",
+      "noachian",
       "outdated",
       "outmoded",
       "out-of-date",
@@ -815,7 +815,7 @@
       "passé",
       "prehistoric",
       "rusty",
-      "Stone Age",
+      "stone age",
       "superannuated"
     ],
     "sentences": [
@@ -876,7 +876,7 @@
       "aidman",
       "nurse",
       "nurse-practitioner",
-      "EMT",
+      "emt",
       "paramedic",
       "physical therapist",
       "physiotherapist"
@@ -1175,7 +1175,7 @@
       "uncanny",
       "ambiguous",
       "dark",
-      "Delphic",
+      "delphic",
       "double-edged",
       "elliptical",
       "equivocal",
@@ -1359,7 +1359,7 @@
       "dithyramb",
       "eclogue",
       "elegy",
-      "English sonnet",
+      "english sonnet",
       "epic",
       "epigram",
       "epode",
@@ -1743,7 +1743,7 @@
       "There are a few omissions in the list."
     ]
   },
-  "Omnipotent": {
+  "omnipotent": {
     "synonyms": [
       "all-powerful",
       "almighty"
@@ -1968,7 +1968,7 @@
       "cryptic",
       "dark",
       "deep",
-      "Delphic",
+      "delphic",
       "double-edged",
       "elliptical",
       "enigmatic",
@@ -2516,10 +2516,10 @@
       "well-heeled",
       "well-off",
       "well-to-do",
-      "Babylonian",
+      "babylonian",
       "deluxe",
       "lavish",
-      "Lucullan",
+      "lucullan",
       "luxe",
       "luxuriant",
       "luxurious",
@@ -2608,7 +2608,7 @@
   "oratorio": {
     "synonyms": [
       "mass",
-      "Gloria Patri",
+      "gloria patri",
       "hallelujah",
       "paean",
       "processional",
@@ -2813,7 +2813,7 @@
       "innovatory",
       "inventive",
       "originative",
-      "Promethean",
+      "promethean",
       "fresh",
       "new",
       "novel",
@@ -2992,7 +2992,7 @@
       "aidman",
       "nurse",
       "nurse-practitioner",
-      "EMT",
+      "emt",
       "paramedic"
     ],
     "sentences": [
@@ -3078,7 +3078,7 @@
   "osculate": {
     "synonyms": [
       "buss",
-      "French-kiss",
+      "french-kiss",
       "lip",
       "smack",
       "kiss",
@@ -3685,7 +3685,7 @@
       "village",
       "whistle-stop",
       "cow town",
-      "Podunk",
+      "podunk",
       "colony",
       "dependency",
       "mandate",
@@ -4169,14 +4169,14 @@
   "overlord": {
     "synonyms": [
       "authoritarian",
-      "Big Brother",
+      "big brother",
       "despot",
       "dictator",
       "führer",
       "monocrat",
       "paramount",
       "tyrant",
-      "Caesar",
+      "caesar",
       "czar",
       "emir",
       "emperor",

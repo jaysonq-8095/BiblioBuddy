@@ -348,13 +348,13 @@
       "feigned",
       "hypocritical",
       "insincere",
-      "Janus-faced",
+      "janus-faced",
       "jive",
       "left-handed",
       "lip",
       "mealy",
       "mealymouthed",
-      "Pecksniffian",
+      "pecksniffian",
       "phony",
       "phony-baloney",
       "pretended",
@@ -794,8 +794,8 @@
   },
   "satyr": {
     "synonyms": [
-      "Casanova",
-      "Don Juan",
+      "casanova",
+      "don juan",
       "lecher",
       "lothario",
       "lounge lizard",
@@ -1121,7 +1121,7 @@
       "coscript a movie"
     ]
   },
-  "Scriptural": {
+  "scriptural": {
     "synonyms": [
       "biblical",
       "blessed",
@@ -2804,7 +2804,7 @@
       "fairish",
       "fine",
       "good",
-      "OK",
+      "ok",
       "passable",
       "respectable",
       "satisfactory",
@@ -3768,7 +3768,7 @@
     "synonyms": [
       "disbeliever",
       "doubter",
-      "doubting Thomas",
+      "doubting thomas",
       "questioner",
       "unbeliever"
     ],
@@ -3897,7 +3897,7 @@
       "hydrofoil",
       "hydroplane",
       "assault boat",
-      "PT boat",
+      "pt boat",
       "torpedo boat"
     ],
     "sentences": []
@@ -3995,7 +3995,7 @@
       "inconsiderable",
       "insignificant",
       "little",
-      "Mickey Mouse",
+      "mickey mouse",
       "minor",
       "minute",
       "negligible",
@@ -4011,7 +4011,7 @@
       "dwarfish",
       "fine",
       "half-pint",
-      "Lilliputian",
+      "lilliputian",
       "pint-size",
       "pocket",
       "pocket-size",
@@ -4146,7 +4146,7 @@
       "commie",
       "communist",
       "comrade",
-      "Red"
+      "red"
     ],
     "sentences": [
       "For the most part, however, the writings of the antisocialists remain neglected or derided as doctrinaire tracts …",
@@ -4351,7 +4351,7 @@
       "bleak",
       "cheerless",
       "chill",
-      "Cimmerian",
+      "cimmerian",
       "cloudy",
       "cold",
       "comfortless",
@@ -4434,7 +4434,7 @@
       "dithyramb",
       "eclogue",
       "elegy",
-      "English sonnet",
+      "english sonnet",
       "epic",
       "epigram",
       "epode",
@@ -4599,7 +4599,7 @@
       "reasonless",
       "senseless",
       "silly",
-      "Kafkaesque",
+      "kafkaesque",
       "odd",
       "peculiar",
       "strange",
@@ -4816,7 +4816,7 @@
       "a meager portion of meat"
     ]
   },
-  "Spartan": {
+  "spartan": {
     "synonyms": [
       "austere",
       "no-frills",
@@ -5891,7 +5891,7 @@
       "elegant",
       "exquisite",
       "glorious",
-      "Junoesque",
+      "junoesque",
       "magnificent",
       "resplendent",
       "splendid",
@@ -6054,8 +6054,8 @@
       "astral",
       "star",
       "starry",
-      "A-OK",
-      "A1",
+      "a-ok",
+      "a1",
       "awesome",
       "bang-up",
       "banner",
@@ -6177,8 +6177,8 @@
   },
   "sterling": {
     "synonyms": [
-      "A-OK",
-      "A1",
+      "a-ok",
+      "a1",
       "awesome",
       "bang-up",
       "banner",
@@ -6380,7 +6380,7 @@
       "hooch",
       "inebriant",
       "intoxicant",
-      "John Barleycorn",
+      "john barleycorn",
       "juice",
       "liquor",
       "lush",
@@ -6525,7 +6525,7 @@
     ],
     "sentences": []
   },
-  "Stoicism": {
+  "stoicism": {
     "synonyms": [
       "bloodlessness",
       "impassiveness",
@@ -6844,7 +6844,7 @@
     "synonyms": [
       "conditioned",
       "natural",
-      "Pavlovian",
+      "pavlovian",
       "reactive",
       "reflex",
       "simple",
@@ -6903,7 +6903,7 @@
     "synonyms": [
       "conditioned",
       "natural",
-      "Pavlovian",
+      "pavlovian",
       "reactive",
       "reflex",
       "simple",
@@ -7948,10 +7948,10 @@
   },
   "sumptuous": {
     "synonyms": [
-      "Babylonian",
+      "babylonian",
       "deluxe",
       "lavish",
-      "Lucullan",
+      "lucullan",
       "luxe",
       "luxuriant",
       "luxurious",
@@ -7999,8 +7999,8 @@
   },
   "superb": {
     "synonyms": [
-      "A-OK",
-      "A1",
+      "a-ok",
+      "a1",
       "awesome",
       "bang-up",
       "banner",
@@ -8323,8 +8323,8 @@
   },
   "superlative": {
     "synonyms": [
-      "A-OK",
-      "A1",
+      "a-ok",
+      "a1",
       "awesome",
       "bang-up",
       "banner",
@@ -9184,7 +9184,7 @@
     ],
     "sentences": []
   },
-  "Sybarite": {
+  "sybarite": {
     "synonyms": [
       "debauchee",
       "decadent",
@@ -9301,8 +9301,8 @@
       "correspondent",
       "matched",
       "matching",
-      "Apollinian",
-      "Apollonian"
+      "apollinian",
+      "apollonian"
     ],
     "sentences": [
       "symmetrical rash",
@@ -9476,7 +9476,7 @@
       "conspiracy",
       "crew",
       "gang",
-      "Mafia",
+      "mafia",
       "mob",
       "ring",
       "cartel",
