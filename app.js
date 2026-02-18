@@ -1,7 +1,7 @@
 const WORDS_PATH = "freevocabulary_words.json";
 const SYNONYMS_DIR = "synonyms";
 const STORAGE_PREFIX = "biblioBuddy.v1";
-const MAX_ACTIVE_NON_MASTERED = 75;
+const MAX_ACTIVE_NON_MASTERED = 50;
 
 const MODES = {
   definitions: {
