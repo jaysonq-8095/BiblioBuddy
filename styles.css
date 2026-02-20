@@ -116,6 +116,15 @@ h1 {
   cursor: pointer;
   transition: all 0.2s ease;
 }
+.mode-button:hover,
+.mode-button:focus,
+.mode-button:active {
+  background: rgba(255, 255, 255, 0.7);
+}
+.mode-button.active {
+  background: var(--ink) !important;
+  color: #fff;
+}
 
 .mode-button.active {
   background: var(--ink);
@@ -141,11 +150,16 @@ h1 {
 
 .ghost-button {
   border: 1px solid var(--ink);
-  background: transparent;
+  background: #fff;
   padding: 10px 16px;
   border-radius: 999px;
   cursor: pointer;
   font-weight: 600;
+}
+.ghost-button:hover,
+.ghost-button:focus,
+.ghost-button:active {
+  background: #fff;
 }
 
 .settings-button {
@@ -232,8 +246,11 @@ h1 {
   color: #fff !important;
 }
 
-.back-button:hover {
+.back-button:hover,
+.back-button:focus,
+.back-button:active {
   filter: brightness(0.95);
+  background: #4aa06a;
 }
 
 
@@ -515,8 +532,18 @@ h1 {
 .category-block summary {
   cursor: pointer;
   font-weight: 600;
+  background: transparent;
+  -webkit-tap-highlight-color: transparent;
 }
 
+.category-block summary:focus {
+  outline: none;
+  background: transparent;
+}
+
+.category-block[open] summary {
+  background: transparent;
+}
 .word-list {
   display: flex;
   flex-wrap: wrap;
@@ -536,8 +563,17 @@ h1 {
   font-family: var(--sans);
 }
 
-.word-chip:hover {
+.word-chip:focus,
+.word-chip:active {
+  outline: none;
+  background: #fff;
+}
+
+.word-chip:hover,
+.word-chip:focus,
+.word-chip:active {
   border-color: var(--ink);
+  background: #fff;
 }
 
 .word-card {
@@ -545,6 +581,11 @@ h1 {
   border-radius: var(--radius);
   padding: 24px;
   box-shadow: 0 24px 60px var(--shadow);
+  position: sticky;
+  top: 80px; /* leave room for header */
+  align-self: start; /* stay at top of column */
+  max-height: calc(100vh - 120px); /* allow scrolling within card */
+  overflow: auto;
 }
 
 .word-card h2 {
