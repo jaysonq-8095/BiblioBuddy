@@ -1208,6 +1208,19 @@
       "martial prowess"
     ]
   },
+  "martian": {
+    "synonyms": [
+      "extraterrestrial",
+      "alien",
+      "martianese",
+      "martianish"
+    ],
+    "sentences": [
+      "a Martian landscape",
+      "Martian soil",
+      "a Martian colony"
+    ]
+  },
   "martyrdom": {
     "synonyms": [
       "self-destruction",
@@ -1726,7 +1739,9 @@
       "whirl"
     ],
     "sentences": [
-      "a maze of regulations"
+      "a maze of regulations",
+      "He was not able to complete the maze in under 10 minutes.",
+      "a maze of streets"
     ]
   },
   "mead": {
@@ -4099,7 +4114,8 @@
       "belie"
     ],
     "sentences": [
-      "misrepresented the facts"
+      "He misrepresented the facts in his report.",
+      "The report misrepresents the true situation."
     ]
   },
   "misrule": {

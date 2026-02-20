@@ -495,12 +495,13 @@ function renderAnswerDetails(entry) {
   const synonyms = Array.isArray(data.synonyms) ? data.synonyms : [];
   const sentences = Array.isArray(data.sentences) ? data.sentences : [];
   const limitedSynonyms = pickRandomSubset(synonyms, 10);
+  const limitedSentences = pickRandomSubset(sentences, 10);
 
   elements.detailWord.textContent = entry.word;
   elements.detailPos.textContent = entry.pos.toUpperCase();
   elements.detailDefinition.textContent = entry.definition;
   fillList(elements.detailSynonyms, limitedSynonyms, "No synonyms available.");
-  fillList(elements.detailSentences, sentences, "No example sentences available.");
+  fillList(elements.detailSentences, limitedSentences, "No example sentences available.");
 }
 
 function fillList(listEl, items, emptyMessage) {

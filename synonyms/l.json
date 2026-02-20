@@ -2059,7 +2059,23 @@
       "hagiographer",
       "editor"
     ],
-    "sentences": []
+    "sentences": [
+      "a linguist who speaks six languages",
+      "She is a linguist specializing in ancient Greek."
+    ]
+  },
+  "linguistics": {
+    "synonyms": [
+      "grammar",
+      "language",
+      "philology",
+      "semantics",
+      "syntax"
+    ],
+    "sentences": [
+      "The linguistics of the English language is complex.",
+      "She studied linguistics at university."
+    ]
   },
   "liniment": {
     "synonyms": [

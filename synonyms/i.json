@@ -7933,6 +7933,18 @@
     ],
     "sentences": []
   },
+  "interlocutor": {
+    "synonyms": [
+      "conversationalist",
+      "interviewee",
+      "interviewer",
+      "speaker"
+    ],
+    "sentences": [
+      "my interlocutor offered several arguments on the relative merits of the proposal",
+      "the interlocutors in the debate were the two candidates for governor"
+    ]
+  },
   "intermediate": {
     "synonyms": [
       "average",

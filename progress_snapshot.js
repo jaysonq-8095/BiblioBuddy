@@ -160,7 +160,7 @@ function renderWordCard(word) {
   elements.cardPos.textContent = entry.pos.toUpperCase();
   elements.cardDefinition.textContent = entry.definition;
   fillList(elements.cardSynonyms, pickRandomSubset(synonyms, 10), "No synonyms available.");
-  fillList(elements.cardSentences, sentences, "No example sentences available.");
+  fillList(elements.cardSentences, pickRandomSubset(sentences, 10), "No example sentences available.");
 }
 
 function fillList(listEl, items, emptyMessage) {

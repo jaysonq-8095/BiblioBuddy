@@ -507,7 +507,13 @@
       "virtue",
       "virtuousness"
     ],
-    "sentences": []
+    "sentences": [
+      "the decency of his character",
+      "the decency of her behavior",
+      "a loose dress, rather too low-cut for decency",
+      "she had the decency to come and confess",
+      "Decency, not fear of punishment, caused them to do the right thing"
+    ]
   },
   "decent": {
     "synonyms": [
@@ -4456,6 +4462,22 @@
       "relying on bad advice, much to your detriment",
       "He puts all his time into his career, to the detriment of his personal life.",
       "She was able to work long hours without detriment to her health."
+    ]
+  },
+  "detrude": {
+    "synonyms": [
+      "depress",
+      "displace",
+      "dive",
+      "drop",
+      "fall",
+      "plunge",
+      "sink"
+    ],
+    "sentences": [
+      "If you get in his way he will detrude you to the floor.",
+      "detruded the enemy into the sea",
+      "detruded the enemy into the river"
     ]
   },
   "deviate": {
