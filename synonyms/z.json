@@ -51,7 +51,11 @@
       "puff",
       "waft"
     ],
-    "sentences": []
+    "sentences": [
+      "A warm summer zephyr gently rustled the green leaves of the tall trees.",
+      "The pleasant zephyr provided quick relief from the hot afternoon sun.",
+      "She enjoyed the cool evening zephyr blowing off the calm blue ocean."
+    ]
   },
   "zodiac": {
     "synonyms": [
@@ -64,6 +68,20 @@
     "sentences": [
       "… a zodiac of feasts and fasts …",
       "the 12 signs of the zodiac"
+    ]
+  },
+  "zeitgeist": {
+    "synonyms": [
+      "spirit",
+      "mood",
+      "feeling",
+      "trend",
+      "atmosphere"
+    ],
+    "sentences": [
+      "The blockbuster film perfectly captured the anxious zeitgeist of the early 1990s.",
+      "Her revolutionary fashion designs became a visual representation of the cultural zeitgeist.",
+      "Historians study popular music because it so often reflects the political zeitgeist of its era."
     ]
   }
 }

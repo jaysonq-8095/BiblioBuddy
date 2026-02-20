@@ -66,7 +66,11 @@
       "foursquare",
       "square"
     ],
-    "sentences": []
+    "sentences": [
+      "The architect designed a perfectly quadrate courtyard.",
+      "His actions did not quadrate with his promises.",
+      "The ancient city was laid out in a quadrate plan."
+    ]
   },
   "qualification": {
     "synonyms": [
@@ -406,7 +410,11 @@
       "symphony",
       "symphony orchestra"
     ],
-    "sentences": []
+    "sentences": [
+      "The string quartet played beautifully at the wedding.",
+      "A barbershop quartet sang songs in the park.",
+      "The jazz quartet practices every Tuesday evening."
+    ]
   },
   "quarto": {
     "synonyms": [
@@ -450,7 +458,11 @@
       "omnibus",
       "picture book"
     ],
-    "sentences": []
+    "sentences": [
+      "He examined a rare quarto of Shakespeare's play.",
+      "The old manuscript was printed as a large quarto.",
+      "The library preserves this valuable first quarto carefully."
+    ]
   },
   "quay": {
     "synonyms": [
@@ -463,7 +475,11 @@
       "quai",
       "wharf"
     ],
-    "sentences": []
+    "sentences": [
+      "The sailors tied their boat to the stone quay.",
+      "We took a walk along the busy harbor quay.",
+      "Several fishing vessels were docked at the quay."
+    ]
   },
   "querulous": {
     "synonyms": [
@@ -551,7 +567,11 @@
       "tiff",
       "wrangle"
     ],
-    "sentences": []
+    "sentences": [
+      "Let us not quibble over such small details.",
+      "His only quibble with the plan was the cost.",
+      "The lawyers started to quibble over the contract wording."
+    ]
   },
   "quiescence": {
     "synonyms": [
@@ -572,7 +592,11 @@
       "inertness",
       "nonaction"
     ],
-    "sentences": []
+    "sentences": [
+      "The volcano entered a long period of quiescence.",
+      "He enjoyed the deep quiescence of the winter forest.",
+      "The disease is currently in a state of quiescence."
+    ]
   },
   "quiescent": {
     "synonyms": [
@@ -753,7 +777,11 @@
       "symphony",
       "symphony orchestra"
     ],
-    "sentences": []
+    "sentences": [
+      "The woodwind quintet performed a new piece tonight.",
+      "A vocal quintet sang hymns at the church service.",
+      "The famous jazz quintet released a new album."
+    ]
   },
   "quite": {
     "synonyms": [
@@ -842,7 +870,12 @@
     ]
   },
   "quadruple": {
-    "synonyms": [],
+    "synonyms": [
+      "fourfold",
+      "tetrad",
+      "quadruplicate",
+      "fourway"
+    ],
     "sentences": [
       "quadruple meter"
     ]

@@ -34,7 +34,11 @@
       "hostility",
       "rancor"
     ],
-    "sentences": []
+    "sentences": [
+      "The sick patient's yellow skin was a clear sign of severe jaundice.",
+      "A tiny, newborn baby will sometimes develop a mild, safe case of jaundice.",
+      "He looked at the highly suspicious new plan with a healthy dose of jaundice."
+    ]
   },
   "jeopardize": {
     "synonyms": [
@@ -67,7 +71,11 @@
       "war hawk",
       "warmonger"
     ],
-    "sentences": []
+    "sentences": [
+      "The loud, aggressive politician was labeled a dangerous jingo by the quiet press.",
+      "A true jingo will always loudly demand massive military action.",
+      "His angry, blind patriotism slowly turned him into a highly predictable jingo."
+    ]
   },
   "jocose": {
     "synonyms": [
@@ -141,7 +149,11 @@
       "vibrate",
       "wobble"
     ],
-    "sentences": []
+    "sentences": [
+      "The rough, bumpy road will totally joggle the heavy boxes in the back of the truck.",
+      "He had to quickly joggle the broken key to finally get the locked door open.",
+      "The sudden earthquake caused the massive stone statue to deeply joggle."
+    ]
   },
   "jovial": {
     "synonyms": [
@@ -305,7 +317,11 @@
       "inquisition",
       "kangaroo court"
     ],
-    "sentences": []
+    "sentences": [
+      "The highest court in the land holds the supreme judicature over all heavy laws.",
+      "He carefully studied the deep, complex history of the entire British judicature.",
+      "The strict new rules will completely reform the state's slow judicature."
+    ]
   },
   "judiciary": {
     "synonyms": [
@@ -325,7 +341,11 @@
       "inquisition",
       "kangaroo court"
     ],
-    "sentences": []
+    "sentences": [
+      "The independent judiciary is entirely responsible for deeply interpreting the law.",
+      "The president nominated a highly smart new judge to the federal judiciary.",
+      "A truly fair and completely honest judiciary is vital for any good democracy."
+    ]
   },
   "judicious": {
     "synonyms": [
@@ -392,7 +412,11 @@
       "trickery",
       "wile"
     ],
-    "sentences": []
+    "sentences": [
+      "The clever street performer amazed the happy crowd with his fast, complex jugglery.",
+      "The corrupt accountant was finally arrested for his illegal financial jugglery.",
+      "The amazing magic show featured an impressive display of fire jugglery."
+    ]
   },
   "jugular": {
     "synonyms": [
@@ -454,7 +478,11 @@
       "crossway(s)",
       "intersection"
     ],
-    "sentences": []
+    "sentences": [
+      "We safely stopped at the busy, noisy railway junction to wait for the fast train.",
+      "A large, bright stoplight was finally built at the dangerous road junction.",
+      "The small, quiet town slowly grew right at the massive river junction."
+    ]
   },
   "juncture": {
     "synonyms": [
@@ -696,7 +724,13 @@
     ]
   },
   "judicial": {
-    "synonyms": [],
+    "synonyms": [
+      "legal",
+      "judiciary",
+      "magisterial",
+      "official",
+      "impartial"
+    ],
     "sentences": [
       "judicial robes",
       "judicial dignity",
@@ -705,6 +739,48 @@
       "judicial powers",
       "quasi-judicial review",
       "quasi-judicial bodies"
+    ]
+  },
+  "journalize": {
+    "synonyms": [
+      "record",
+      "log",
+      "document",
+      "register",
+      "write"
+    ],
+    "sentences": [
+      "The accountant's first daily task was to journalize all the cash transactions from the previous day.",
+      "The therapist encouraged her patient to journalize his anxious thoughts before going to bed.",
+      "The ship's captain must carefully journalize every change in heading and weather condition."
+    ]
+  },
+  "juridical": {
+    "synonyms": [
+      "legal",
+      "judicial",
+      "statutory",
+      "lawful",
+      "forensic"
+    ],
+    "sentences": [
+      "The complex international treaty required extensive juridical review to ensure it complied with existing human rights laws.",
+      "Her profound understanding of juridical principles allowed her to navigate the arcane legal framework of maritime disputes.",
+      "The ancient civilization left behind tablets detailing their strict juridical system, complete with harsh penalties for perjury."
+    ]
+  },
+  "juror": {
+    "synonyms": [
+      "peer",
+      "voter",
+      "judge",
+      "trier",
+      "adjudicator"
+    ],
+    "sentences": [
+      "The sequestered juror felt a heavy burden of responsibility as they deliberated the fate of the accused embezzler.",
+      "During the lengthy trial, an observant juror noticed a glaring inconsistency in the forensic expert's testimony.",
+      "The judge dismissed the alternate juror before the panel retreated to the locked room to reach a final verdict."
     ]
   }
 }

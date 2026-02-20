@@ -126,7 +126,11 @@
       "importunity",
       "requisition"
     ],
-    "sentences": []
+    "sentences": [
+      "The tired mother issued a final ultimatum to her messy children.",
+      "The proud king gave the rebels a strict ultimatum to surrender.",
+      "He received a harsh ultimatum from his unhappy boss today."
+    ]
   },
   "umbrage": {
     "synonyms": [
@@ -180,7 +184,11 @@
       "unpretending",
       "unpretentious"
     ],
-    "sentences": []
+    "sentences": [
+      "She remained remarkably unaffected by the loud public criticism.",
+      "The sturdy old cabin was unaffected by the fierce winter storm.",
+      "He spoke in a charming and beautifully unaffected manner."
+    ]
   },
   "unanimous": {
     "synonyms": [
@@ -193,7 +201,11 @@
       "kindred",
       "united"
     ],
-    "sentences": []
+    "sentences": [
+      "The eager committee reached a swift unanimous decision this morning.",
+      "The bright student received a rare unanimous vote of high approval.",
+      "Their unanimous agreement finally ended the long bitter debate."
+    ]
   },
   "unanimity": {
     "synonyms": [
@@ -204,7 +216,11 @@
       "consensus",
       "unison"
     ],
-    "sentences": []
+    "sentences": [
+      "The sudden unanimity of the large group surprised everyone present.",
+      "They worked hard to achieve true unanimity on the tough issue.",
+      "Clear unanimity is often quite rare in busy local politics."
+    ]
   },
   "unavoidable": {
     "synonyms": [
@@ -273,7 +289,11 @@
       "incredulity",
       "nonbelief"
     ],
-    "sentences": []
+    "sentences": [
+      "He stared at the winning lottery ticket in sheer breathless unbelief.",
+      "She shook her head in silent unbelief at the ridiculous story.",
+      "His obvious unbelief offended the dedicated guest speaker."
+    ]
   },
   "unbiased": {
     "synonyms": [
@@ -473,7 +493,11 @@
       "disenchant",
       "disillusion"
     ],
-    "sentences": []
+    "sentences": [
+      "I must gently undeceive you about your false romantic hopes.",
+      "The harsh truth will quickly undeceive the foolish young boy.",
+      "She tried to undeceive her trusting friend about the clever scam."
+    ]
   },
   "undercharge": {
     "synonyms": [
@@ -674,7 +698,11 @@
       "junior",
       "subordinate"
     ],
-    "sentences": []
+    "sentences": [
+      "The cruel manager yelled at a nervous young underling.",
+      "A loyal underling brought the tired king his heavy golden crown.",
+      "She refused to be treated like a mere insignificant underling."
+    ]
   },
   "undermine": {
     "synonyms": [
@@ -975,7 +1003,11 @@
       "plaster",
       "poultice"
     ],
-    "sentences": []
+    "sentences": [
+      "The wise healer applied a soothing unguent to the painful burn.",
+      "A fragrant floral unguent was kept safely in the small jar.",
+      "The thick white unguent quickly cured the itchy red rash."
+    ]
   },
   "unify": {
     "synonyms": [
@@ -1515,7 +1547,11 @@
       "uncouple",
       "unlink"
     ],
-    "sentences": []
+    "sentences": [
+      "The weary farmer began to unyoke the heavy brown oxen.",
+      "It is time to unyoke the gentle horses after a long day.",
+      "We must unyoke ourselves from these unfair financial burdens."
+    ]
   },
   "up-keep": {
     "synonyms": [
@@ -1528,7 +1564,11 @@
       "preserving",
       "sustentation"
     ],
-    "sentences": []
+    "sentences": [
+      "The large old mansion requires a lot of expensive daily up-keep.",
+      "He pays a small monthly fee for the basic up-keep of the garden.",
+      "Regular up-keep will make your reliable car last much longer."
+    ]
   },
   "upbraid": {
     "synonyms": [
@@ -1594,7 +1634,11 @@
       "hoist",
       "jack (up)"
     ],
-    "sentences": []
+    "sentences": [
+      "The strong earthquake caused the paved street to violently upheave.",
+      "Deep frost can sometimes upheave the delicate roots of young plants.",
+      "The angry crowd threatened to upheave the whole peaceful town."
+    ]
   },
   "uppermost": {
     "synonyms": [
@@ -1748,7 +1792,11 @@
       "courtesy",
       "politeness"
     ],
-    "sentences": []
+    "sentences": [
+      "He charmed the formal dinner guests with his smooth urbanity.",
+      "The polite diplomat possessed a quiet and very natural urbanity.",
+      "Her refined urbanity made her a perfect elegant party host."
+    ]
   },
   "urchin": {
     "synonyms": [
@@ -1894,22 +1942,208 @@
     ]
   },
   "unction": {
-    "synonyms": [],
+    "synonyms": [
+      "ointment",
+      "salve",
+      "balm",
+      "oil",
+      "lotion"
+    ],
     "sentences": [
       "… the unrelieved tone of solemn unction … tends rapidly to cloy.",
       "… the young prelate … spoke with earnest unction."
     ]
   },
   "unicellular": {
-    "synonyms": [],
+    "synonyms": [
+      "microscopic",
+      "single",
+      "cellular",
+      "simple",
+      "organism"
+    ],
     "sentences": [
       "unicellular microorganisms"
     ]
   },
   "usurious": {
-    "synonyms": [],
+    "synonyms": [
+      "extortionate",
+      "greedy",
+      "grasping",
+      "exploitative",
+      "exorbitant"
+    ],
     "sentences": [
       "usurious interest rates"
+    ]
+  },
+  "ultramundane": {
+    "synonyms": [
+      "spiritual",
+      "heavenly",
+      "celestial",
+      "ethereal",
+      "otherworldly"
+    ],
+    "sentences": [
+      "The cult leader claimed to possess ultramundane knowledge.",
+      "The science fiction novel explored an ultramundane dimension.",
+      "She meditated to seek answers from an ultramundane source."
+    ]
+  },
+  "ultramontane": {
+    "synonyms": [
+      "papal",
+      "conservative",
+      "roman",
+      "foreign",
+      "beyond"
+    ],
+    "sentences": [
+      "The ultramontane faction argued that the Pope should have absolute authority.",
+      "The historical text detailed the rise of ultramontane politics in Europe.",
+      "He held strict ultramontane views on church governance."
+    ]
+  },
+  "underexposed": {
+    "synonyms": [
+      "dark",
+      "dim",
+      "shadowy",
+      "unclear",
+      "faint"
+    ],
+    "sentences": [
+      "The photograph came out dark because the film was underexposed.",
+      "An underexposed image loses all detail in the shadows.",
+      "The photographer adjusted the aperture to fix the underexposed shot."
+    ]
+  },
+  "undergarment": {
+    "synonyms": [
+      "underwear",
+      "lingerie",
+      "clothes",
+      "layer",
+      "base"
+    ],
+    "sentences": [
+      "She purchased a thermal undergarment for the winter ski trip.",
+      "The historical museum displayed a linen undergarment from the 18th century.",
+      "The rigid undergarment restricted her breathing."
+    ]
+  },
+  "underman": {
+    "synonyms": [
+      "understaff",
+      "short",
+      "deplete",
+      "reduce",
+      "weaken"
+    ],
+    "sentences": [
+      "The factory manager decided to underman the night shift to save money.",
+      "If we underman the ship, we will struggle to navigate a storm.",
+      "Budget cuts forced the hospital to underman the emergency room."
+    ]
+  },
+  "undulous": {
+    "synonyms": [
+      "wavy",
+      "rolling",
+      "heaving",
+      "rippling",
+      "billowing"
+    ],
+    "sentences": [
+      "The snake moved with an undulous motion across the sand.",
+      "The hills roll in an undulous line toward the horizon.",
+      "The dancer matched the undulous rhythm of the music."
+    ]
+  },
+  "univalence": {
+    "synonyms": [
+      "single",
+      "valency",
+      "chemistry",
+      "bond",
+      "power"
+    ],
+    "sentences": [
+      "The chemist explained that hydrogen exhibits univalence because it forms one bond.",
+      "The univalence of the atom determines how it reacts with other elements.",
+      "We studied the univalence of the specific radical in the laboratory."
+    ]
+  },
+  "unisonant": {
+    "synonyms": [
+      "harmonious",
+      "agreeing",
+      "matching",
+      "sounding",
+      "accordant"
+    ],
+    "sentences": [
+      "The choir raised a unisonant voice that filled the cathedral.",
+      "The crowd shouted a unisonant agreement to the proposal.",
+      "The engines produced a unisonant hum as the plane took off."
+    ]
+  },
+  "unitarian": {
+    "synonyms": [
+      "liberal",
+      "church",
+      "dissenter",
+      "believer",
+      "religion"
+    ],
+    "sentences": [
+      "The unitarian minister preached a sermon on universal tolerance.",
+      "He attends a unitarian church that welcomes all belief systems.",
+      "The unitarian philosophy rejects the traditional concept of the Trinity."
+    ]
+  },
+  "upcast": {
+    "synonyms": [
+      "throw",
+      "toss",
+      "heave",
+      "upward",
+      "shaft"
+    ],
+    "sentences": [
+      "The miner examined the upcast shaft used to ventilate the tunnel.",
+      "She gave an upcast glance at the approaching storm clouds.",
+      "The volcanic eruption resulted in a massive upcast of ash."
+    ]
+  },
+  "usury": {
+    "synonyms": [
+      "interest",
+      "lending",
+      "extortion",
+      "profiteering",
+      "exploitation"
+    ],
+    "sentences": [
+      "The moneylender was arrested for charging interest rates that amounted to usury.",
+      "Ancient laws strictly prohibited the practice of usury.",
+      "The borrower fell into deep debt because of the hidden usury."
+    ]
+  },
+  "utilitarianism": {
+    "synonyms": [
+      "practicality",
+      "usefulness",
+      "pragmatism",
+      "ethics",
+      "philosophy"
+    ],
+    "sentences": [
+      "The philosopher argued for utilitarianism, seeking the greatest good for the greatest number.",
+      "Her political decisions are strictly guided by utilitarianism.",
+      "Critics of utilitarianism argue that it often ignores individual rights."
     ]
   }
 }

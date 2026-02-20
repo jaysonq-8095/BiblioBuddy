@@ -1,1 +1,16 @@
-{}
+{
+  "yearling": {
+    "synonyms": [
+      "animal",
+      "calf",
+      "foal",
+      "young",
+      "beast"
+    ],
+    "sentences": [
+      "The rancher moved the energetic yearling into a separate pasture away from the older horses.",
+      "At the livestock auction, the prized yearling fetched a much higher price than expected.",
+      "The young deer, now a sturdy yearling, returned to the apple orchard to forage for food."
+    ]
+  }
+}

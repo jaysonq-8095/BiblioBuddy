@@ -61,7 +61,11 @@
       "report",
       "story"
     ],
-    "sentences": []
+    "sentences": [
+      "The documentary features voice narration by a famous actor.",
+      "Her clear narration made the audio book enjoyable.",
+      "The play uses constant narration to tell the story."
+    ]
   },
   "narrative": {
     "synonyms": [
@@ -129,7 +133,11 @@
       "sectarian",
       "small"
     ],
-    "sentences": []
+    "sentences": [
+      "The narrow-minded boss refused to hear new ideas.",
+      "It is hard to argue with a truly narrow-minded person.",
+      "He grew up in a very strict and narrow-minded town."
+    ]
   },
   "nasal": {
     "synonyms": [
@@ -156,7 +164,11 @@
       "treble",
       "whistling"
     ],
-    "sentences": []
+    "sentences": [
+      "The medicine quickly cleared his blocked nasal passages.",
+      "She spoke with a very distinct nasal tone.",
+      "The doctor prescribed a daily nasal spray for allergies."
+    ]
   },
   "nationality": {
     "synonyms": [
@@ -243,7 +255,11 @@
       "sicken",
       "turn off"
     ],
-    "sentences": []
+    "sentences": [
+      "The strong smell of gasoline can easily nauseate me.",
+      "Riding the spinning roller coaster will nauseate him.",
+      "Do not let the gory horror movie nauseate you."
+    ]
   },
   "nauseous": {
     "synonyms": [
@@ -324,7 +340,11 @@
       "regular",
       "paramilitary"
     ],
-    "sentences": []
+    "sentences": [
+      "The large ship joined the country's growing naval fleet.",
+      "He proudly wore his dark blue naval uniform.",
+      "They built a brand new naval base by the deep harbor."
+    ]
   },
   "navel": {
     "synonyms": [
@@ -515,7 +535,11 @@
       "obit",
       "obituary"
     ],
-    "sentences": []
+    "sentences": [
+      "The library kept a local necrology.",
+      "He searched the necrology for his ancestor's name.",
+      "The historian published a detailed necrology of the town."
+    ]
   },
   "necromancer": {
     "synonyms": [
@@ -546,7 +570,11 @@
       "memorial park",
       "potter's field"
     ],
-    "sentences": []
+    "sentences": [
+      "They discovered an ancient Egyptian necropolis.",
+      "The vast necropolis was located outside the city walls.",
+      "Many beautiful stone tombs fill the ancient necropolis."
+    ]
   },
   "nectar": {
     "synonyms": [
@@ -577,7 +605,11 @@
     "synonyms": [
       "embroidery"
     ],
-    "sentences": []
+    "sentences": [
+      "Her intricate needlework won a prize at the fair.",
+      "He learned beautiful needlework from his grandmother.",
+      "The old tapestry is a fine example of colorful needlework."
+    ]
   },
   "needy": {
     "synonyms": [
@@ -714,7 +746,11 @@
       "rescindment",
       "voiding"
     ],
-    "sentences": []
+    "sentences": [
+      "A quiet shake of the head is a clear negation.",
+      "The court's ruling was a sudden negation of his rights.",
+      "She answered the tricky question with a simple negation."
+    ]
   },
   "neglectful": {
     "synonyms": [
@@ -749,7 +785,11 @@
       "nightgown",
       "nightshirt"
     ],
-    "sentences": []
+    "sentences": [
+      "She packed a silk negligee for her weekend vacation.",
+      "The vintage negligee was trimmed with white lace.",
+      "She wore a pink negligee while getting ready for bed."
+    ]
   },
   "negligence": {
     "synonyms": [
@@ -925,7 +965,11 @@
       "stone age",
       "superannuated"
     ],
-    "sentences": []
+    "sentences": [
+      "The museum displayed carved tools from the neolithic period.",
+      "Early neolithic humans learned how to successfully farm.",
+      "We studied a tiny neolithic settlement in history class."
+    ]
   },
   "neophyte": {
     "synonyms": [
@@ -1241,7 +1285,11 @@
       "zilch",
       "zip"
     ],
-    "sentences": []
+    "sentences": [
+      "His chances of winning the lottery were practically nil.",
+      "The home team's score remained nil until the very end.",
+      "The company reported that their yearly profits were nil."
+    ]
   },
   "nimble": {
     "synonyms": [
@@ -1724,7 +1772,11 @@
       "proposition",
       "suggestion"
     ],
-    "sentences": []
+    "sentences": [
+      "She proudly accepted the nomination for class president.",
+      "His unexpected nomination surprised everyone at the meeting.",
+      "The wonderful film received a nomination for best picture."
+    ]
   },
   "nominee": {
     "synonyms": [
@@ -1768,7 +1820,11 @@
       "transient",
       "wanderer"
     ],
-    "sentences": []
+    "sentences": [
+      "The daily parking fee is much higher for a non-resident.",
+      "As a non-resident, he could not vote in the local election.",
+      "Many non-resident students must pay extra college tuition."
+    ]
   },
   "nonchalance": {
     "synonyms": [
@@ -1792,7 +1848,11 @@
     "synonyms": [
       "civilian"
     ],
-    "sentences": []
+    "sentences": [
+      "A medical doctor is strictly classified as a non-combatant.",
+      "The peace treaty protects every non-combatant in the area.",
+      "The village was completely filled with non-combatant civilians."
+    ]
   },
   "nondescript": {
     "synonyms": [
@@ -1845,7 +1905,11 @@
       "zero",
       "zilch"
     ],
-    "sentences": []
+    "sentences": [
+      "He felt like a total nonentity at the huge celebrity party.",
+      "The rude boss treated the new worker as a complete nonentity.",
+      "She rose quickly from a mere nonentity to a famous star."
+    ]
   },
   "nonpareil": {
     "synonyms": [
@@ -2339,7 +2403,11 @@
       "lamasery",
       "vihara"
     ],
-    "sentences": []
+    "sentences": [
+      "The quiet nunnery was located high up in the mountains.",
+      "She decided to join a nunnery and live a peaceful life.",
+      "The old stone nunnery features truly beautiful gardens."
+    ]
   },
   "nuptial": {
     "synonyms": [
@@ -2450,10 +2518,20 @@
       "nutritional",
       "nutritious"
     ],
-    "sentences": []
+    "sentences": [
+      "Fresh green spinach has a very high nutritive value.",
+      "The clever chef focused on the nutritive qualities of the meal.",
+      "Cooking vegetables too long can destroy their nutritive benefits."
+    ]
   },
   "natal": {
-    "synonyms": [],
+    "synonyms": [
+      "native",
+      "birth",
+      "infant",
+      "congenital",
+      "natural"
+    ],
     "sentences": [
       "a natal star",
       "\"Love, relationships, and compatibility are so much more complex and involved than the sun sign … Each person has an entire natal chart that reflects the planetary placements of all the planets at the time of birth, and each one symbolizes a different aspect of the person's life as well as personality.\"",
@@ -2463,13 +2541,25 @@
     ]
   },
   "neural": {
-    "synonyms": [],
+    "synonyms": [
+      "nervous",
+      "neurological",
+      "cerebral",
+      "mental",
+      "brain"
+    ],
     "sentences": [
       "The neural arch puts limits on the range of a spine's movement with pairs of interlocking tabs known as zygapophyses."
     ]
   },
   "niggardly": {
-    "synonyms": [],
+    "synonyms": [
+      "miserly",
+      "stingy",
+      "parsimonious",
+      "cheap",
+      "frugal"
+    ],
     "sentences": [
       "a miserly couple devoid of social conscience",
       "the penurious eccentric bequeathed a fortune",
@@ -2482,11 +2572,241 @@
     ]
   },
   "numerical": {
-    "synonyms": [],
+    "synonyms": [
+      "mathematical",
+      "statistical",
+      "arithmetic",
+      "numbered",
+      "quantitative"
+    ],
     "sentences": [
       "numerical standing in a class",
       "a numerical code",
       "the numerical superiority of the enemy"
+    ]
+  },
+  "naphtha": {
+    "synonyms": [
+      "solvent",
+      "petroleum",
+      "fuel",
+      "oil",
+      "gas"
+    ],
+    "sentences": [
+      "The campers used liquid naphtha to fuel their portable stove.",
+      "Industrial painters use naphtha as a solvent to thin varnishes.",
+      "The hazardous materials team cleaned up the naphtha spill near the refinery."
+    ]
+  },
+  "narcissus": {
+    "synonyms": [
+      "flower",
+      "bulb",
+      "daffodil",
+      "plant",
+      "bloom"
+    ],
+    "sentences": [
+      "The yellow narcissus is always the first flower to bloom in our garden.",
+      "According to myth, Narcissus perished because he could not look away from his own reflection.",
+      "The florist arranged a bouquet featuring a white narcissus at its center."
+    ]
+  },
+  "nebula": {
+    "synonyms": [
+      "cloud",
+      "galaxy",
+      "gas",
+      "dust",
+      "cosmos"
+    ],
+    "sentences": [
+      "The Hubble telescope captured a stunning image of the Orion Nebula.",
+      "Stars are often born within the collapsing gas of a stellar nebula.",
+      "The planetary nebula expanded outward after the dying star shed its outer layers."
+    ]
+  },
+  "necrosis": {
+    "synonyms": [
+      "death",
+      "decay",
+      "gangrene",
+      "rot",
+      "mortification"
+    ],
+    "sentences": [
+      "The severe frostbite caused irreversible necrosis in the mountaineer's toes.",
+      "If the snake venom is not neutralized, localized tissue necrosis will begin around the bite.",
+      "The surgeon amputated the limb to prevent the bacterial necrosis from spreading."
+    ]
+  },
+  "nectarine": {
+    "synonyms": [
+      "peach",
+      "fruit",
+      "produce",
+      "stonefruit",
+      "sweet"
+    ],
+    "sentences": [
+      "She bit into the ripe nectarine, letting the juice run down her chin.",
+      "The orchard produces both fuzzy peaches and smooth-skinned nectarines.",
+      "He baked a tart using a hybrid variety of white nectarine from the market."
+    ]
+  },
+  "neocracy": {
+    "synonyms": [
+      "government",
+      "new",
+      "regime",
+      "rule",
+      "administration"
+    ],
+    "sentences": [
+      "The revolution replaced the seasoned politicians with a chaotic neocracy.",
+      "Critics argued that the startup's young management team operated like a neocracy.",
+      "Established diplomats struggled to negotiate with the unpredictable leaders of the neocracy."
+    ]
+  },
+  "neo-darwinsim": {
+    "synonyms": [
+      "evolution",
+      "theory",
+      "science",
+      "genetics",
+      "biology"
+    ],
+    "sentences": [
+      "Neo-Darwinism explains natural selection through the mechanism of genetic mutation.",
+      "The professor emphasized that modern neo-Darwinism incorporates molecular biology into evolutionary theory.",
+      "Critics of Lamarckian inheritance point to the overwhelming evidence supporting neo-Darwinism."
+    ]
+  },
+  "neo-latin": {
+    "synonyms": [
+      "language",
+      "romance",
+      "revival",
+      "scholarly",
+      "classic"
+    ],
+    "sentences": [
+      "Carl Linnaeus relied on Neo-Latin to create his universal system of binomial nomenclature.",
+      "The Renaissance scholar wrote his treatises in Neo-Latin to reach a pan-European audience.",
+      "Many modern medical terms are actually Neo-Latin constructs rather than classical Roman vocabulary."
+    ]
+  },
+  "neopaganism": {
+    "synonyms": [
+      "religion",
+      "wicca",
+      "paganism",
+      "earth",
+      "spiritual"
+    ],
+    "sentences": [
+      "The festival attracted practitioners of neopaganism who gathered to celebrate the changing of the seasons.",
+      "Wicca is one of the most widely recognized traditions within neopaganism.",
+      "He explored neopaganism in his search for a spirituality connected to the environment."
+    ]
+  },
+  "neology": {
+    "synonyms": [
+      "coinage",
+      "word",
+      "expression",
+      "novelty",
+      "innovation"
+    ],
+    "sentences": [
+      "The rapid advancement of internet technology has triggered an explosion of neology.",
+      "The linguist studied the teenage subculture to document their rapid neology.",
+      "While purists despise the corporate jargon, linguists view it as a fascinating example of neology."
+    ]
+  },
+  "neurology": {
+    "synonyms": [
+      "medicine",
+      "brain",
+      "nerves",
+      "science",
+      "study"
+    ],
+    "sentences": [
+      "The patient was referred to a specialist in neurology to determine the cause of his migraines.",
+      "Breakthroughs in neurology have provided new treatments for brain diseases.",
+      "She decided to study neurology after witnessing her grandfather's struggle with Parkinson's disease."
+    ]
+  },
+  "newtonian": {
+    "synonyms": [
+      "classical",
+      "physics",
+      "mechanics",
+      "scientific",
+      "mathematical"
+    ],
+    "sentences": [
+      "Newtonian physics perfectly describes the motion of a baseball thrown across a field.",
+      "While Newtonian mechanics works for everyday objects, quantum mechanics is needed for subatomic particles.",
+      "The astronomer used Newtonian formulas to calculate the orbital path of the comet."
+    ]
+  },
+  "nomic": {
+    "synonyms": [
+      "customary",
+      "conventional",
+      "ordinary",
+      "regular",
+      "standard"
+    ],
+    "sentences": [
+      "The philosopher debated whether human morality is a nomic construct or a biological imperative.",
+      "We played a game of Nomic, where the objective was to continuously change the rules.",
+      "He studied the nomic traditions of the indigenous tribe to understand their legal disputes."
+    ]
+  },
+  "norman": {
+    "synonyms": [
+      "french",
+      "conqueror",
+      "historical",
+      "architecture",
+      "invader"
+    ],
+    "sentences": [
+      "The stone castle was built in the Norman architectural style, featuring rounded arches.",
+      "After the battle of Hastings, the English language absorbed a vast amount of Norman vocabulary.",
+      "The historian traced the lineage of the aristocracy back to the original Norman conquerors."
+    ]
+  },
+  "novellette": {
+    "synonyms": [
+      "story",
+      "tale",
+      "fiction",
+      "novella",
+      "book"
+    ],
+    "sentences": [
+      "The author published a sci-fi novelette between her larger epic fantasy series.",
+      "She read a historical novelette on the train ride to pass the time.",
+      "The magazine specialized in printing a complete detective novelette in every issue."
+    ]
+  },
+  "numeration": {
+    "synonyms": [
+      "counting",
+      "numbering",
+      "calculation",
+      "tally",
+      "reckoning"
+    ],
+    "sentences": [
+      "The librarian used a system of decimal numeration to organize the reference books.",
+      "Ancient Mayan cultures developed a base-20 numeration system that included zero.",
+      "The census relies on accurate numeration to determine the population distribution."
     ]
   }
 }

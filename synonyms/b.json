@@ -5042,5 +5042,481 @@
       "Designing a robust health bureaucracy, … and boosting patient satisfaction …",
       "… the role played by the unelected bureaucracy in implementing policy …"
     ]
+  },
+  "baconian": {
+    "synonyms": [
+      "inductive",
+      "scientific",
+      "philosophical",
+      "empirical",
+      "methodical"
+    ],
+    "sentences": [
+      "The scientist structured his experiment using strictly baconian principles of inductive reasoning.",
+      "The literature professor dismissed the baconian theory regarding the authorship of Hamlet.",
+      "He argued that a baconian approach to data collection would eliminate researcher bias."
+    ]
+  },
+  "bailiff": {
+    "synonyms": [
+      "officer",
+      "deputy",
+      "warden",
+      "guard",
+      "keeper"
+    ],
+    "sentences": [
+      "The judge instructed the bailiff to escort the disruptive witness from the courtroom.",
+      "The estate's bailiff collected rent from the tenant farmers at the end of the month.",
+      "A sworn bailiff stood guard outside the jury deliberation room."
+    ]
+  },
+  "baize": {
+    "synonyms": [
+      "fabric",
+      "cloth",
+      "felt",
+      "material",
+      "textile"
+    ],
+    "sentences": [
+      "The gambler slid his chips across the green baize of the poker table.",
+      "The antique billiards table required a completely new layer of baize.",
+      "Servants covered the dining room doors with green baize to muffle the sounds from the kitchen."
+    ]
+  },
+  "balsam": {
+    "synonyms": [
+      "resin",
+      "balm",
+      "salve",
+      "ointment",
+      "sap"
+    ],
+    "sentences": [
+      "The apothecary mixed a soothing balsam to apply to the burn victim's skin.",
+      "The air in the mountain cabin smelled strongly of pine balsam.",
+      "He added a few drops of liquid balsam to the boiling water to ease his chest congestion."
+    ]
+  },
+  "barograph": {
+    "synonyms": [
+      "barometer",
+      "gauge",
+      "instrument",
+      "meter",
+      "recorder"
+    ],
+    "sentences": [
+      "The meteorologist checked the paper cylinder on the barograph to track the overnight pressure drop.",
+      "An antique brass barograph sat on the captain's desk, steadily recording the atmospheric changes.",
+      "The sudden dip on the barograph warned the sailors of the approaching hurricane."
+    ]
+  },
+  "baritone": {
+    "synonyms": [
+      "singer",
+      "voice",
+      "vocalist",
+      "pitch",
+      "register"
+    ],
+    "sentences": [
+      "The choir director assigned him to the baritone section because his voice lacked the high range of a tenor.",
+      "The operatic baritone delivered a powerful solo during the second act.",
+      "He spoke in a deep, resonant baritone that commanded the attention of the boardroom."
+    ]
+  },
+  "belate": {
+    "synonyms": [
+      "delay",
+      "retard",
+      "hinder",
+      "stall",
+      "detain"
+    ],
+    "sentences": [
+      "The heavy snowstorm threatened to belate the arrival of the crucial supply train.",
+      "Do not let your hesitation belate the urgent response needed to secure the contract.",
+      "The sudden breakdown of the printing press will certainly belate the publication of the morning paper."
+    ]
+  },
+  "benefice": {
+    "synonyms": [
+      "living",
+      "endowment",
+      "stipend",
+      "rectory",
+      "vicarage"
+    ],
+    "sentences": [
+      "The bishop granted the young priest a wealthy benefice in a rural parish.",
+      "He resigned his benefice after a theological dispute with the local church authorities.",
+      "The income from the benefice allowed the clergyman to focus entirely on his theological writing."
+    ]
+  },
+  "bethink": {
+    "synonyms": [
+      "remember",
+      "recall",
+      "recollect",
+      "consider",
+      "reflect"
+    ],
+    "sentences": [
+      "The traveler must bethink himself of the dangers before venturing into the dense forest alone.",
+      "I must bethink me of a suitable excuse for missing the mandatory meeting.",
+      "She paused to bethink her next move on the chessboard before touching the knight."
+    ]
+  },
+  "bibliomania": {
+    "synonyms": [
+      "obsession",
+      "infatuation",
+      "fascination",
+      "craze",
+      "mania"
+    ],
+    "sentences": [
+      "His untreated bibliomania left him with thousands of rare volumes stacked haphazardly in his small apartment.",
+      "The auction house specifically targeted wealthy collectors suffering from severe bibliomania.",
+      "Her lifelong bibliomania drove her to spend her entire inheritance on medieval manuscripts."
+    ]
+  },
+  "biograph": {
+    "synonyms": [
+      "film",
+      "cinema",
+      "movie",
+      "picture",
+      "projector"
+    ],
+    "sentences": [
+      "The historical society restored an original biograph to project silent films at the museum.",
+      "Families gathered at the local theater to watch short actualities on the newly installed biograph.",
+      "The inventor patented an improvement to the biograph mechanism to prevent the celluloid film from tearing."
+    ]
+  },
+  "boatswain": {
+    "synonyms": [
+      "officer",
+      "seaman",
+      "sailor",
+      "mariner",
+      "mate"
+    ],
+    "sentences": [
+      "The captain ordered the boatswain to inspect the rigging before they set sail.",
+      "A loud whistle from the boatswain signaled the deckhands to haul in the anchor.",
+      "The experienced boatswain supervised the repairs to the damaged lifeboats."
+    ]
+  },
+  "bodice": {
+    "synonyms": [
+      "top",
+      "corset",
+      "vest",
+      "blouse",
+      "shirt"
+    ],
+    "sentences": [
+      "The seamstress carefully sewed intricate lace details onto the velvet bodice of the wedding gown.",
+      "She loosened the tight lacing of her bodice so she could breathe easier.",
+      "The historical costume featured a stiff bodice reinforced with whalebone."
+    ]
+  },
+  "bolero": {
+    "synonyms": [
+      "jacket",
+      "dance",
+      "vest",
+      "garment",
+      "music"
+    ],
+    "sentences": [
+      "The orchestra played a rhythmic, building bolero that captivated the audience.",
+      "She wore a cropped, black bolero over her sleeveless evening dress to keep her shoulders warm.",
+      "The dancers synchronized their complex footwork to the traditional tempo of the bolero."
+    ]
+  },
+  "boll": {
+    "synonyms": [
+      "pod",
+      "capsule",
+      "burr",
+      "seedpod",
+      "husk"
+    ],
+    "sentences": [
+      "The farmer inspected the swollen cotton boll to see if it was ready for harvest.",
+      "An infestation of weevils destroyed nearly every boll in the entire field.",
+      "Workers hand-picked the white fibers directly from the open boll."
+    ]
+  },
+  "bombardier": {
+    "synonyms": [
+      "gunner",
+      "crewman",
+      "airman",
+      "soldier",
+      "artilleryman"
+    ],
+    "sentences": [
+      "The skilled bombardier peered through the targeting sight to align the payload with the factory below.",
+      "The army promoted him to the rank of bombardier after he completed the artillery training course.",
+      "The aircraft commander relied on the bombardier to calculate the wind speed before release."
+    ]
+  },
+  "botany": {
+    "synonyms": [
+      "flora",
+      "vegetation",
+      "plants",
+      "biology",
+      "phytology"
+    ],
+    "sentences": [
+      "The university student majored in botany to study the genetic modifications of agricultural crops.",
+      "Her extensive knowledge of botany helped her identify the poisonous berries in the forest.",
+      "The explorer published a comprehensive book on the botany of the newly discovered island."
+    ]
+  },
+  "brae": {
+    "synonyms": [
+      "hill",
+      "slope",
+      "bank",
+      "incline",
+      "hillside"
+    ],
+    "sentences": [
+      "The sheep grazed peacefully on the green brae overlooking the loch.",
+      "The hiker struggled to climb the steep brae during the sudden rainstorm.",
+      "A small stone cottage sat nestled near the foot of the heather-covered brae."
+    ]
+  },
+  "braze": {
+    "synonyms": [
+      "solder",
+      "weld",
+      "fuse",
+      "join",
+      "bond"
+    ],
+    "sentences": [
+      "The metalworker used a blowtorch to braze the two brass pipes together securely.",
+      "You must braze the joint at a high temperature to ensure it withstands the water pressure.",
+      "The mechanic opted to braze the cracked radiator rather than replace the entire unit."
+    ]
+  },
+  "brazier": {
+    "synonyms": [
+      "heater",
+      "grill",
+      "pan",
+      "receptacle",
+      "barbecue"
+    ],
+    "sentences": [
+      "The street vendor huddled next to a charcoal brazier to stay warm through the freezing night.",
+      "Sparks flew from the bronze brazier as the blacksmith added more fuel to the fire.",
+      "The ancient temple was illuminated entirely by a single brazier burning in the center of the room."
+    ]
+  },
+  "brigadier": {
+    "synonyms": [
+      "general",
+      "commander",
+      "officer",
+      "leader",
+      "soldier"
+    ],
+    "sentences": [
+      "The commanding brigadier ordered his troops to hold the defensive line along the river.",
+      "After thirty years of distinguished service, the colonel was finally promoted to brigadier.",
+      "The general met with the brigadier to discuss the strategy for the upcoming offensive."
+    ]
+  },
+  "britannia": {
+    "synonyms": [
+      "britain",
+      "kingdom",
+      "empire",
+      "allegory",
+      "symbol"
+    ],
+    "sentences": [
+      "The silver coin featured an engraved image of britannia holding a trident and a shield.",
+      "The silversmith crafted the affordable teapot from a pewter-like britannia alloy.",
+      "Patriotic songs often invoke britannia to represent the strength of the nation's naval fleet."
+    ]
+  },
+  "briticism": {
+    "synonyms": [
+      "idiom",
+      "expression",
+      "phrase",
+      "anglicism",
+      "custom"
+    ],
+    "sentences": [
+      "The American editor removed the unfamiliar briticism from the manuscript before publishing the novel overseas.",
+      "Using the word lorry instead of truck is a common briticism.",
+      "The linguistics student compiled a dictionary specifically focused on translating slang and the occasional briticism."
+    ]
+  },
+  "brogan": {
+    "synonyms": [
+      "shoe",
+      "boot",
+      "footwear",
+      "clodhopper",
+      "oxford"
+    ],
+    "sentences": [
+      "The laborer laced up his leather brogan before heading out to the muddy construction site.",
+      "A heavy brogan provides essential ankle support for farmers walking across uneven fields.",
+      "He wiped the dried clay from the thick sole of his left brogan."
+    ]
+  },
+  "brogue": {
+    "synonyms": [
+      "accent",
+      "dialect",
+      "shoe",
+      "twang",
+      "inflection"
+    ],
+    "sentences": [
+      "The bartender spoke with a thick, melodic Irish brogue that charmed the tourists.",
+      "The actor spent months working with a dialect coach to perfect his Scottish brogue.",
+      "He purchased a new pair of leather shoes featuring a classic wingtip brogue design."
+    ]
+  },
+  "brokerage": {
+    "synonyms": [
+      "fee",
+      "commission",
+      "agency",
+      "firm",
+      "business"
+    ],
+    "sentences": [
+      "The investor transferred his retirement portfolio to a different brokerage with lower trading fees.",
+      "The real estate firm charged a standard five percent brokerage for facilitating the commercial property sale.",
+      "She secured an entry-level position as an analyst at a prominent Wall Street brokerage."
+    ]
+  },
+  "bromine": {
+    "synonyms": [
+      "element",
+      "halogen",
+      "chemical",
+      "liquid",
+      "substance"
+    ],
+    "sentences": [
+      "The pool technician added a specific compound containing bromine to sanitize the hot tub water.",
+      "Liquid bromine emits a toxic, suffocating vapor if exposed to the open air.",
+      "The chemistry teacher warned the students about the corrosive nature of elemental bromine."
+    ]
+  },
+  "bronchitis": {
+    "synonyms": [
+      "inflammation",
+      "infection",
+      "illness",
+      "disease",
+      "cough"
+    ],
+    "sentences": [
+      "The doctor prescribed an inhaler to help ease the severe coughing caused by acute bronchitis.",
+      "Smoking heavily increases a person's risk of developing chronic bronchitis over time.",
+      "Her lingering cold eventually settled in her chest and developed into painful bronchitis."
+    ]
+  },
+  "bronchus": {
+    "synonyms": [
+      "airway",
+      "tube",
+      "windpipe",
+      "passage",
+      "vessel"
+    ],
+    "sentences": [
+      "The surgeon successfully removed the small tumor blocking the patient's right primary bronchus.",
+      "An inhaled peanut became lodged deep inside the left bronchus of the toddler.",
+      "The medical diagram illustrated how the trachea splits into a left and right bronchus."
+    ]
+  },
+  "brooch": {
+    "synonyms": [
+      "pin",
+      "clasp",
+      "clip",
+      "jewelry",
+      "ornament"
+    ],
+    "sentences": [
+      "She pinned a sparkling diamond brooch to the lapel of her dark winter coat.",
+      "The antique silver brooch belonged to her great-grandmother and was passed down as a family heirloom.",
+      "The jeweler repaired the broken clasp on the back of the enameled brooch."
+    ]
+  },
+  "bullock": {
+    "synonyms": [
+      "steer",
+      "ox",
+      "calf",
+      "bovine",
+      "animal"
+    ],
+    "sentences": [
+      "The farmer trained the young bullock to pull the heavy wooden plow across the field.",
+      "The butcher purchased a healthy bullock from the livestock auction.",
+      "The wagon became stuck in the mud until a second bullock was hitched to the yoke to provide extra pulling power."
+    ]
+  },
+  "bulrush": {
+    "synonyms": [
+      "reed",
+      "cattail",
+      "sedge",
+      "grass",
+      "plant"
+    ],
+    "sentences": [
+      "The red-winged blackbird built its nest cleverly hidden among the dense stalks of bulrush along the marsh.",
+      "The weaver gathered dried bulrush from the riverbank to craft traditional water-resistant baskets.",
+      "According to the biblical story, the infant Moses was hidden in a basket among the bulrush."
+    ]
+  },
+  "burgess": {
+    "synonyms": [
+      "citizen",
+      "freeman",
+      "representative",
+      "official",
+      "townsman"
+    ],
+    "sentences": [
+      "The local burgess cast his vote at the town hall meeting to decide the new tax laws.",
+      "Historical records list him as a wealthy burgess who owned several properties within the walled city.",
+      "The assembly elected a representative burgess to petition the king on their behalf."
+    ]
+  },
+  "bursar": {
+    "synonyms": [
+      "treasurer",
+      "controller",
+      "accountant",
+      "officer",
+      "paymaster"
+    ],
+    "sentences": [
+      "The student visited the office of the bursar to dispute a late fee on his tuition bill.",
+      "The university bursar released a statement regarding the upcoming increase in campus housing costs.",
+      "Scholarship funds are distributed directly through the bursar to cover the enrolled students' account balances."
+    ]
   }
 }

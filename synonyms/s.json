@@ -35,7 +35,11 @@
       "irreverence",
       "profanation"
     ],
-    "sentences": []
+    "sentences": [
+      "Stealing from the ancient temple was a terrible sacrilege.",
+      "Many consider it a clear sacrilege to disrespect the holy site.",
+      "The careless vandalism felt like a genuine sacrilege."
+    ]
   },
   "sacrilegious": {
     "synonyms": [
@@ -262,7 +266,11 @@
       "salute",
       "welcome"
     ],
-    "sentences": []
+    "sentences": [
+      "He offered a warm salutation to the visiting guests.",
+      "Her polite salutation was accompanied by a slight bow.",
+      "They exchanged a friendly morning salutation in the hallway."
+    ]
   },
   "salutatory": {
     "synonyms": [
@@ -289,7 +297,11 @@
       "presentation",
       "spiel"
     ],
-    "sentences": []
+    "sentences": [
+      "The principal delivered a brief salutatory address to the graduates.",
+      "His salutatory remarks welcomed the eager new students.",
+      "She prepared a thoughtful salutatory speech for the opening ceremony."
+    ]
   },
   "salvage": {
     "synonyms": [
@@ -304,7 +316,11 @@
       "disentangle",
       "extricate"
     ],
-    "sentences": []
+    "sentences": [
+      "The brave crew tried to salvage the wrecked ship from the reef.",
+      "She managed to salvage her damp notes after the sudden rain.",
+      "They hope to salvage some useful parts from the broken engine."
+    ]
   },
   "salvo": {
     "synonyms": [
@@ -431,7 +447,11 @@
       "saintliness",
       "saintship"
     ],
-    "sentences": []
+    "sentences": [
+      "The quiet monks protect the peaceful sanctity of the old church.",
+      "He deeply respects the solemn sanctity of the ancient forest.",
+      "They swore to uphold the absolute sanctity of their marriage vows."
+    ]
   },
   "sanguinary": {
     "synonyms": [
@@ -507,7 +527,11 @@
       "sanguinary",
       "sanguine"
     ],
-    "sentences": []
+    "sentences": [
+      "The fierce battle left a dark sanguineous stain on the field.",
+      "The doctor examined the sanguineous fluid from the deep wound.",
+      "The historical account described a truly sanguineous medieval conflict."
+    ]
   },
   "sapid": {
     "synonyms": [
@@ -537,7 +561,11 @@
       "heavy",
       "rich"
     ],
-    "sentences": []
+    "sentences": [
+      "The skilled chef prepared a very sapid and aromatic stew.",
+      "We enjoyed a remarkably sapid meal at the new local restaurant.",
+      "The fresh green herbs made the simple potato soup quite sapid."
+    ]
   },
   "sapience": {
     "synonyms": [
@@ -622,7 +650,11 @@
       "coffin",
       "pall"
     ],
-    "sentences": []
+    "sentences": [
+      "The city museum displayed a heavy stone sarcophagus from Egypt.",
+      "Explorers found an ornate carved sarcophagus in the dark tomb.",
+      "The ancient king was laid to rest in a golden sarcophagus."
+    ]
   },
   "sardonic": {
     "synonyms": [
@@ -794,7 +826,11 @@
       "personate",
       "play"
     ],
-    "sentences": []
+    "sentences": [
+      "The clever play was written to sharply satirize greedy politicians.",
+      "He loves to satirize modern society in his weekly comic strip.",
+      "The funny movie managed to accurately satirize the fashion industry."
+    ]
   },
   "satyr": {
     "synonyms": [
@@ -808,7 +844,11 @@
       "wolf",
       "womanizer"
     ],
-    "sentences": []
+    "sentences": [
+      "The old Greek myth featured a wild and joyful satyr.",
+      "The carved wooden statue depicted a dancing satyr with small horns.",
+      "He dressed as a mischievous woodland satyr for the costume party."
+    ]
   },
   "savage": {
     "synonyms": [
@@ -893,7 +933,11 @@
       "undersupply",
       "want"
     ],
-    "sentences": []
+    "sentences": [
+      "The severe summer drought caused a sudden scarcity of fresh water.",
+      "A noticeable scarcity of skilled workers hurt the busy local factory.",
+      "The long freezing winter led to a dangerous scarcity of stored food."
+    ]
   },
   "scholarly": {
     "synonyms": [
@@ -909,7 +953,11 @@
       "intellectual",
       "scholastic"
     ],
-    "sentences": []
+    "sentences": [
+      "She wrote a dense and scholarly article on ancient Roman architecture.",
+      "The quiet history professor spent his days engaged in scholarly pursuits.",
+      "He built an impressive scholarly reputation at the prestigious university."
+    ]
   },
   "scholastic": {
     "synonyms": [
@@ -1063,7 +1111,11 @@
       "villain",
       "wretch"
     ],
-    "sentences": []
+    "sentences": [
+      "The dishonest scoundrel cheated the poor farmer out of his land.",
+      "The brave local sheriff vowed to quickly catch the sneaky scoundrel.",
+      "Everyone knew he was a lying scoundrel who could not be trusted."
+    ]
   },
   "scribble": {
     "synonyms": [
@@ -1102,7 +1154,11 @@
       "pen",
       "writer"
     ],
-    "sentences": []
+    "sentences": [
+      "The royal scribe carefully copied the new laws onto clean parchment.",
+      "An ancient Egyptian scribe recorded the daily agricultural trade records.",
+      "The busy scribe kept his black ink and sharp quill ready."
+    ]
   },
   "script": {
     "synonyms": [
@@ -1324,7 +1380,11 @@
       "zip",
       "zoom"
     ],
-    "sentences": []
+    "sentences": [
+      "The terrified little crab began to scuttle across the wet sand.",
+      "They decided to actively scuttle the old ship to create a reef.",
+      "The sudden bad news will surely scuttle our fun weekend plans."
+    ]
   },
   "sear": {
     "synonyms": [
@@ -1349,7 +1409,11 @@
       "separate",
       "sequester"
     ],
-    "sentences": []
+    "sentences": [
+      "He decided to seclude himself in the quiet wooden mountain cabin.",
+      "The strict monks seclude their community from the noisy modern world.",
+      "She needed to seclude herself upstairs to finish writing her novel."
+    ]
   },
   "seclusion": {
     "synonyms": [
@@ -1587,7 +1651,11 @@
       "lay",
       "settle"
     ],
-    "sentences": []
+    "sentences": [
+      "A thick layer of muddy sediment settled at the bottom of the lake.",
+      "The fast flowing river carries rich sediment to the wide ocean delta.",
+      "The expensive wine bottle had a dark crust of sediment inside."
+    ]
   },
   "sedition": {
     "synonyms": [
@@ -1610,14 +1678,22 @@
       "sabotage",
       "subversion"
     ],
-    "sentences": []
+    "sentences": [
+      "The angry rebel leader was quickly arrested for clear sedition.",
+      "Writing that fiery political pamphlet was considered an act of sedition.",
+      "The nervous king feared any quiet whisper of sedition among his guards."
+    ]
   },
   "seditious": {
     "synonyms": [
       "incendiary",
       "inflammatory"
     ],
-    "sentences": []
+    "sentences": [
+      "The secret rebel group held seditious meetings in the dark tavern.",
+      "He was harshly punished for his bold and seditious public speeches.",
+      "The strict government banned all seditious literature from the walled city."
+    ]
   },
   "seduce": {
     "synonyms": [
@@ -1682,7 +1758,11 @@
       "soothsayer",
       "visionary"
     ],
-    "sentences": []
+    "sentences": [
+      "The old blind seer predicted a harsh and freezing winter season.",
+      "The worried villagers visited the wise seer for helpful future guidance.",
+      "She firmly claimed to be a true seer with powerful magical visions."
+    ]
   },
   "seethe": {
     "synonyms": [
@@ -1747,7 +1827,11 @@
       "nobleman",
       "peer"
     ],
-    "sentences": []
+    "sentences": [
+      "The wealthy seignior collected daily taxes from the poor tired farmers.",
+      "The medieval seignior ruled his vast green lands with absolute power.",
+      "The loyal bold knights fought bravely for their noble seignior."
+    ]
   },
   "seize": {
     "synonyms": [
@@ -1880,7 +1964,11 @@
       "self-esteem",
       "self-regard"
     ],
-    "sentences": []
+    "sentences": [
+      "His strong sense of self-respect kept him from begging for food.",
+      "She quit the terrible corporate job to maintain her basic self-respect.",
+      "A healthy amount of personal self-respect is important for your happiness."
+    ]
   },
   "semblance": {
     "synonyms": [
@@ -1930,7 +2018,11 @@
       "tame",
       "tamed"
     ],
-    "sentences": []
+    "sentences": [
+      "The brave explorers encountered a remote and semicivilized island tribe.",
+      "The rugged dusty frontier town was only a semicivilized lonely outpost.",
+      "He considered their brutal sporting events to be entirely semicivilized."
+    ]
   },
   "semiconscious": {
     "synonyms": [
@@ -1958,7 +2050,11 @@
       "sleepwalking",
       "somnambulant"
     ],
-    "sentences": []
+    "sentences": [
+      "The injured driver was found in a dazed and semiconscious state.",
+      "The strong new medicine left her groggy and semiconscious all morning.",
+      "He muttered a few confusing words while still largely semiconscious."
+    ]
   },
   "semicircle": {
     "synonyms": [
@@ -1978,7 +2074,11 @@
       "half",
       "moiety"
     ],
-    "sentences": []
+    "sentences": [
+      "The eager children sat in a wide semicircle around the kind storyteller.",
+      "The modern theater seats are deliberately arranged in a large semicircle.",
+      "We formed a tight semicircle around the warm and bright evening campfire."
+    ]
   },
   "seminar": {
     "synonyms": [
@@ -1993,7 +2093,11 @@
       "roundtable",
       "symposium"
     ],
-    "sentences": []
+    "sentences": [
+      "The busy college professor led an advanced history seminar today.",
+      "I attended a helpful weekend seminar on clever digital marketing strategies.",
+      "The difficult graduate seminar required a lot of heavy weekly reading."
+    ]
   },
   "seminary": {
     "synonyms": [
@@ -2565,7 +2669,11 @@
       "sepulture",
       "tomb"
     ],
-    "sentences": []
+    "sentences": [
+      "The brave fallen knight was buried in a cold stone sepulcher.",
+      "The heavy iron door of the royal sepulcher was locked incredibly tight.",
+      "We visited the dark and ancient sepulcher resting under the grand cathedral."
+    ]
   },
   "sequel": {
     "synonyms": [
@@ -2590,7 +2698,11 @@
       "sequence",
       "upshot"
     ],
-    "sentences": []
+    "sentences": [
+      "The successful loud action movie quickly spawned a bigger sequel.",
+      "She eagerly waited for the thrilling sequel to her absolute favorite book.",
+      "The funny unexpected sequel was actually much better than the original film."
+    ]
   },
   "sequence": {
     "synonyms": [
@@ -2659,7 +2771,11 @@
       "successional",
       "successive"
     ],
-    "sentences": []
+    "sentences": [
+      "The heavy spring rain and the sequent flooding ruined the fresh crops.",
+      "The smart historian explained the complex and sequent events of the war.",
+      "We carefully analyzed the immediate cause and the sequent logical result."
+    ]
   },
   "sequester": {
     "synonyms": [
@@ -2723,7 +2839,11 @@
       "police officer",
       "shamus"
     ],
-    "sentences": []
+    "sentences": [
+      "The strict army sergeant yelled loud orders to his nervous new recruits.",
+      "The busy police sergeant assigned the daily patrol routes for the officers.",
+      "He was proudly promoted to the respected rank of sergeant just last week."
+    ]
   },
   "service": {
     "synonyms": [
@@ -2829,7 +2949,11 @@
       "thralldom",
       "yoke"
     ],
-    "sentences": []
+    "sentences": [
+      "The captured soldiers were forced into harsh daily servitude.",
+      "The cruel foreign dictator kept his poor people in endless servitude.",
+      "They finally escaped their terrible exhausting years of forced servitude."
+    ]
   },
   "severance": {
     "synonyms": [
@@ -2908,7 +3032,11 @@
       "disenchantment",
       "disillusionment"
     ],
-    "sentences": []
+    "sentences": [
+      "The fired factory worker received a generous severance package from the company.",
+      "The sudden sad severance of their long childhood friendship was very painful.",
+      "The sharp sudden severance of the heavy steel cable caused the bridge to sway."
+    ]
   },
   "severely": {
     "synonyms": [
@@ -3039,7 +3167,11 @@
       "symphony",
       "symphony orchestra"
     ],
-    "sentences": []
+    "sentences": [
+      "The talented jazz sextet played smooth live music at the busy club.",
+      "The famous composer wrote a complex new piece for a classical string sextet.",
+      "A joyful vocal sextet sang beautiful happy harmonies at the outdoor wedding."
+    ]
   },
   "sheer": {
     "synonyms": [
@@ -3273,7 +3405,11 @@
       "contract",
       "shrink"
     ],
-    "sentences": []
+    "sentences": [
+      "The extreme summer heat will quickly shrivel the delicate purple flowers.",
+      "Without steady daily water, the green leaves will dry up and shrivel.",
+      "The harsh unexpected cold caused the plump grapes to shrivel on the vine."
+    ]
   },
   "shuffle": {
     "synonyms": [
@@ -3354,7 +3490,11 @@
       "whish",
       "whiz"
     ],
-    "sentences": []
+    "sentences": [
+      "The angry snake's scary warning was a sharp and clear sibilance.",
+      "The microphone caught a loud sibilance when she pronounced the letter S.",
+      "The soft steady sibilance of the gentle ocean waves was quite relaxing."
+    ]
   },
   "sibilant": {
     "synonyms": [
@@ -3501,7 +3641,11 @@
       "sense",
       "significance"
     ],
-    "sentences": []
+    "sentences": [
+      "The deep true signification of the ancient poem is very hard to grasp.",
+      "He tried to carefully explain the exact signification of the strange drawn symbol.",
+      "The unique old word has a slightly different signification in modern everyday English."
+    ]
   },
   "similar": {
     "synonyms": [
@@ -3655,7 +3799,11 @@
       "scorch",
       "sear"
     ],
-    "sentences": []
+    "sentences": [
+      "The hot bright candle flame will quickly singe your loose hair.",
+      "Be very careful not to singe the delicate silk fabric with the hot iron.",
+      "He managed to slightly singe his fingers on the hot kitchen stove."
+    ]
   },
   "sinister": {
     "synonyms": [
@@ -3697,7 +3845,11 @@
       "winding",
       "windy"
     ],
-    "sentences": []
+    "sentences": [
+      "The dark muddy river took a beautiful sinuous path through the green valley.",
+      "The sleek black cat moved with a quiet and incredibly sinuous grace.",
+      "We drove very carefully down the steep and dangerous sinuous mountain road."
+    ]
   },
   "siren": {
     "synonyms": [
@@ -3766,7 +3918,11 @@
       "fold",
       "membership"
     ],
-    "sentences": []
+    "sentences": [
+      "The close lifelong friends formed a loyal and supportive sisterhood.",
+      "The busy college sorority promotes a strong sense of lasting sisterhood.",
+      "The quiet devoted nuns belong to a strict religious sisterhood."
+    ]
   },
   "skeptic": {
     "synonyms": [
@@ -3776,7 +3932,11 @@
       "questioner",
       "unbeliever"
     ],
-    "sentences": []
+    "sentences": [
+      "The natural stubborn skeptic demanded concrete proof of the wild scientific claim.",
+      "He remains a firm skeptic about the existence of friendly household ghosts.",
+      "Even a harsh skeptic must admit the impressive results of the medical trial."
+    ]
   },
   "skepticism": {
     "synonyms": [
@@ -3904,7 +4064,11 @@
       "pt boat",
       "torpedo boat"
     ],
-    "sentences": []
+    "sentences": [
+      "He rowed the small wooden skiff across the calm lake.",
+      "A sudden strong wave tipped the fragile skiff over.",
+      "She tied the freshly painted skiff to the old dock."
+    ]
   },
   "skirmish": {
     "synonyms": [
@@ -3962,7 +4126,11 @@
       "nimbleness",
       "spryness"
     ],
-    "sentences": []
+    "sentences": [
+      "The clever magician used a quick sleight of hand.",
+      "His famous card trick relied on pure manual sleight.",
+      "She admired the smooth and sneaky sleight used in the show."
+    ]
   },
   "slight": {
     "synonyms": [
@@ -4096,7 +4264,11 @@
       "slug",
       "slugabed"
     ],
-    "sentences": []
+    "sentences": [
+      "The sleepy sluggard stayed in his warm bed all morning.",
+      "A lazy sluggard rarely finishes his assigned daily chores.",
+      "He jokingly called his slow brother a useless sluggard."
+    ]
   },
   "sociable": {
     "synonyms": [
@@ -4222,7 +4394,11 @@
       "impropriety",
       "indiscretion"
     ],
-    "sentences": []
+    "sentences": [
+      "He committed a serious social solecism at the formal dinner.",
+      "The strict teacher quickly corrected the obvious grammatical solecism.",
+      "Wearing dirty sneakers to a wedding is a strange solecism."
+    ]
   },
   "solicitor": {
     "synonyms": [
@@ -4235,7 +4411,11 @@
       "suppliant",
       "supplicant"
     ],
-    "sentences": []
+    "sentences": [
+      "The busy door-to-door solicitor tried to sell me magazines.",
+      "He hired a smart London solicitor for his difficult legal case.",
+      "A polite charity solicitor asked for a small public donation."
+    ]
   },
   "solicitude": {
     "synonyms": [
@@ -4296,7 +4476,11 @@
       "presentation",
       "spiel"
     ],
-    "sentences": []
+    "sentences": [
+      "The lonely actor delivered a long dramatic soliloquy.",
+      "Her emotional soliloquy revealed her true hidden feelings.",
+      "Hamlet is famous for his deep and tragic soliloquy."
+    ]
   },
   "soluble": {
     "synonyms": [
@@ -4404,7 +4588,11 @@
       "somnolent",
       "soporific"
     ],
-    "sentences": []
+    "sentences": [
+      "The dull lecture had a strongly somniferous effect on the students.",
+      "He drank a warm somniferous herbal tea before falling asleep.",
+      "The gentle steady rain provided a lovely somniferous background noise."
+    ]
   },
   "somnolence": {
     "synonyms": [
@@ -4412,7 +4600,11 @@
       "drowsiness",
       "sleepiness"
     ],
-    "sentences": []
+    "sentences": [
+      "A heavy afternoon lunch often brings on a sudden somnolence.",
+      "The dark warm room encouraged a peaceful somnolence.",
+      "She fought off her heavy somnolence with a cup of strong coffee."
+    ]
   },
   "somnolent": {
     "synonyms": [
@@ -4478,7 +4670,11 @@
       "versification",
       "vers libre"
     ],
-    "sentences": []
+    "sentences": [
+      "Shakespeare wrote many a beautiful romantic sonnet.",
+      "She memorized a classic English sonnet for her poetry class.",
+      "The young poet carefully crafted a new rhyming sonnet."
+    ]
   },
   "sonorous": {
     "synonyms": [
@@ -4529,7 +4725,11 @@
       "seer",
       "visionary"
     ],
-    "sentences": []
+    "sentences": [
+      "The old blind soothsayer warned the proud king of coming danger.",
+      "A mysterious soothsayer claimed to clearly see tomorrow in the stars.",
+      "He paid a simple village soothsayer for some vague future advice."
+    ]
   },
   "sophism": {
     "synonyms": [
@@ -4569,7 +4769,11 @@
       "old wives' tale",
       "untruth"
     ],
-    "sentences": []
+    "sentences": [
+      "The clever politician used a sneaky sophism to win the public debate.",
+      "Her strange argument was nothing but an empty logical sophism.",
+      "He easily saw right through the deceptive and false sophism."
+    ]
   },
   "sophistical": {
     "synonyms": [
@@ -4637,7 +4841,11 @@
       "metropolitan",
       "slicker"
     ],
-    "sentences": []
+    "sentences": [
+      "The wealthy urban sophisticate enjoyed modern abstract art.",
+      "He tried to act like a true sophisticate at the fancy gala.",
+      "She is a worldly sophisticate who travels the entire globe."
+    ]
   },
   "sophistry": {
     "synonyms": [
@@ -4699,7 +4907,11 @@
       "old wives' tale",
       "untruth"
     ],
-    "sentences": []
+    "sentences": [
+      "His long speech was full of deceptive political sophistry.",
+      "The sly lawyer used clever sophistry to confuse the tired jury.",
+      "She completely rejected his smooth words as pure empty sophistry."
+    ]
   },
   "sorcery": {
     "synonyms": [
@@ -4719,7 +4931,11 @@
       "witchery",
       "wizardry"
     ],
-    "sentences": []
+    "sentences": [
+      "The wicked witch used dark sorcery to curse the young prince.",
+      "He believed the sudden fierce storm was caused by foul sorcery.",
+      "The ancient dusty book contained many dangerous spells of sorcery."
+    ]
   },
   "sordid": {
     "synonyms": [
@@ -5317,7 +5533,11 @@
       "nugget",
       "wad"
     ],
-    "sentences": []
+    "sentences": [
+      "The spinning planet is actually an imperfect bulging spheroid.",
+      "A standard rugby ball is shaped like a stretched spheroid.",
+      "The scientist measured the exact dimensions of the rocky spheroid."
+    ]
   },
   "spinster": {
     "synonyms": [
@@ -5328,7 +5548,11 @@
       "single",
       "ex"
     ],
-    "sentences": []
+    "sentences": [
+      "The wealthy old spinster lived alone with her many cats.",
+      "She proudly embraced her quiet life as an independent spinster.",
+      "The busy village gossips talked about the lonely local spinster."
+    ]
   },
   "spontaneous": {
     "synonyms": [
@@ -5690,7 +5914,11 @@
       "theatrical",
       "operatic"
     ],
-    "sentences": []
+    "sentences": [
+      "His fake apology felt forced and uncomfortably stagy.",
+      "The dramatic actor used a very stagy voice for the simple scene.",
+      "She strongly disliked the loud and overly stagy drama of the argument."
+    ]
   },
   "staid": {
     "synonyms": [
@@ -5793,7 +6021,11 @@
       "plug",
       "skate"
     ],
-    "sentences": []
+    "sentences": [
+      "The wild black stallion galloped across the open green field.",
+      "He rode a magnificent white stallion into the royal city.",
+      "The fierce young stallion refused to let anyone ride him."
+    ]
   },
   "stanchion": {
     "synonyms": [
@@ -5803,7 +6035,11 @@
       "pillar",
       "post"
     ],
-    "sentences": []
+    "sentences": [
+      "The heavy metal stanchion supported the thick concrete roof.",
+      "He securely tied his little boat to the rusty iron stanchion.",
+      "The eager crowd was held back by a sturdy wooden stanchion."
+    ]
   },
   "static": {
     "synonyms": [
@@ -5871,7 +6107,11 @@
       "stinks",
       "reluctances"
     ],
-    "sentences": []
+    "sentences": [
+      "The serious engineering students studied the strict laws of statics.",
+      "A firm understanding of statics is essential for building safe bridges.",
+      "The difficult college physics exam focused mainly on fluid statics."
+    ]
   },
   "stationary": {
     "synonyms": [
@@ -5983,7 +6223,11 @@
       "figure",
       "figurine"
     ],
-    "sentences": []
+    "sentences": [
+      "She placed a tiny bronze statuette on her wooden desk.",
+      "He won a beautiful golden statuette for his great acting performance.",
+      "The museum displayed an ancient clay statuette of a seated cat."
+    ]
   },
   "stature": {
     "synonyms": [
@@ -6177,7 +6421,11 @@
       "tundra",
       "veld"
     ],
-    "sentences": []
+    "sentences": [
+      "The brave nomads rode their fast horses across the vast steppe.",
+      "A cold bitter wind blew endlessly over the dry Russian steppe.",
+      "The wandering tribe set up camp on the grassy summer steppe."
+    ]
   },
   "sterling": {
     "synonyms": [
@@ -6354,7 +6602,11 @@
       "sword",
       "scalpel"
     ],
-    "sentences": []
+    "sentences": [
+      "The quiet assassin carried a sharp silver stiletto.",
+      "She wore a tall black stiletto heel to the elegant evening dance.",
+      "He carefully polished the steel blade of his antique stiletto."
+    ]
   },
   "stimulant": {
     "synonyms": [
@@ -6396,7 +6648,11 @@
       "strong drink",
       "tipple"
     ],
-    "sentences": []
+    "sentences": [
+      "Hot coffee is a very common and popular morning stimulant.",
+      "The gentle doctor prescribed a mild stimulant for his severe fatigue.",
+      "A brisk morning walk is an excellent and natural stimulant."
+    ]
   },
   "stimulate": {
     "synonyms": [
@@ -6465,7 +6721,11 @@
       "stimulant",
       "yeast"
     ],
-    "sentences": []
+    "sentences": [
+      "The bright light was a strong visual stimulus for the curious baby.",
+      "The new tax cut provided a great stimulus for the local economy.",
+      "The hungry guard dog reacted quickly to the familiar scent stimulus."
+    ]
   },
   "stingy": {
     "synonyms": [
@@ -6527,7 +6787,11 @@
       "salary",
       "wage"
     ],
-    "sentences": []
+    "sentences": [
+      "The busy graduate student received a small monthly stipend.",
+      "She lived entirely on a modest government stipend for a year.",
+      "The summer internship included a rather generous weekly stipend."
+    ]
   },
   "stoicism": {
     "synonyms": [
@@ -6569,7 +6833,11 @@
       "hardness",
       "insensitivity"
     ],
-    "sentences": []
+    "sentences": [
+      "He bore the terrible physical pain with impressive stoicism.",
+      "Her calm stoicism helped her survive the long harsh winter.",
+      "The wise philosopher taught the ancient virtues of clear stoicism."
+    ]
   },
   "stolid": {
     "synonyms": [
@@ -6715,7 +6983,11 @@
       "runlet",
       "runnel"
     ],
-    "sentences": []
+    "sentences": [
+      "A clear cold streamlet flowed through the deep green woods.",
+      "We followed the babbling streamlet down the steep mountain.",
+      "Tiny silver fish darted around the shallow rocky streamlet."
+    ]
   },
   "stringency": {
     "synonyms": [
@@ -6731,7 +7003,11 @@
       "sternness",
       "strictness"
     ],
-    "sentences": []
+    "sentences": [
+      "The sudden stringency of the new rules surprised the factory workers.",
+      "He complained about the harsh financial stringency of his tight budget.",
+      "The pure stringency of the scientific test ensured accurate results."
+    ]
   },
   "stringent": {
     "synonyms": [
@@ -6769,7 +7045,11 @@
       "tad",
       "youth"
     ],
-    "sentences": []
+    "sentences": [
+      "The brave young stripling wanted to join the king's vast army.",
+      "He was just a slender stripling when he left his childhood home.",
+      "The foolish arrogant stripling thought he knew everything about life."
+    ]
   },
   "stupendous": {
     "synonyms": [
@@ -6825,7 +7105,11 @@
       "persuading",
       "persuasion"
     ],
-    "sentences": []
+    "sentences": [
+      "The gentle leader relied on moral suasion instead of brutal violence.",
+      "Her quiet verbal suasion finally convinced him to stay home.",
+      "He used friendly suasion to get the reluctant group to quickly agree."
+    ]
   },
   "suave": {
     "synonyms": [
@@ -6901,7 +7185,11 @@
       "subordinate",
       "vanquish"
     ],
-    "sentences": []
+    "sentences": [
+      "The cruel empire sought to entirely subjugate the peaceful island.",
+      "They used a massive army to quickly subjugate the angry local rebels.",
+      "You must not let dark sudden fears subjugate your logical mind."
+    ]
   },
   "subliminal": {
     "synonyms": [
@@ -7035,7 +7323,11 @@
       "jackknife",
       "swan dive"
     ],
-    "sentences": []
+    "sentences": [
+      "The sudden submersion of the old ship created a brand new reef.",
+      "Complete submersion in cold water is dangerous in the dead of winter.",
+      "The waterproof watch survived a long deep submersion in the pool."
+    ]
   },
   "submission": {
     "synonyms": [
@@ -7169,7 +7461,11 @@
       "geniality",
       "sociability"
     ],
-    "sentences": []
+    "sentences": [
+      "The cruel king demanded absolute subservience from his subjects.",
+      "She hated the quiet forced subservience expected of a lowly servant.",
+      "His blind subservience to the corrupt leader was a huge mistake."
+    ]
   },
   "subservient": {
     "synonyms": [
@@ -7250,7 +7546,11 @@
       "supportive",
       "tributary"
     ],
-    "sentences": []
+    "sentences": [
+      "The nervous young clerk was much too subservient to his demanding boss.",
+      "She refused to play a passive and subservient role in the group.",
+      "The loyal farm dog is always eager and subservient to its master."
+    ]
   },
   "subside": {
     "synonyms": [
@@ -7539,7 +7839,11 @@
       "vitiate",
       "warp"
     ],
-    "sentences": []
+    "sentences": [
+      "The secret spies tried to carefully subvert the enemy government.",
+      "He told a clever joke to gently subvert the strict serious mood.",
+      "The bad evidence will inevitably subvert the whole complex legal case."
+    ]
   },
   "succeed": {
     "synonyms": [
@@ -7659,7 +7963,11 @@
       "reliever",
       "second"
     ],
-    "sentences": []
+    "sentences": [
+      "The old manager trained a bright young successor before retiring.",
+      "The new prince was the rightful successor to the golden throne.",
+      "The modern smartphone is a powerful successor to the old telephone."
+    ]
   },
   "succinct": {
     "synonyms": [
@@ -7804,7 +8112,11 @@
       "adequacy",
       "satisfactoriness"
     ],
-    "sentences": []
+    "sentences": [
+      "A warm coat and a clear sufficiency of food kept them alive.",
+      "She questioned the overall sufficiency of the available physical evidence.",
+      "We packed a safe sufficiency of clean drinking water for the long hike."
+    ]
   },
   "suffrage": {
     "synonyms": [
@@ -7813,7 +8125,11 @@
       "franchise",
       "vote"
     ],
-    "sentences": []
+    "sentences": [
+      "Brave women fought long and hard for universal voting suffrage.",
+      "The new constitutional amendment granted equal suffrage to all citizens.",
+      "She wrote a brilliant historical essay about the early suffrage movement."
+    ]
   },
   "suffuse": {
     "synonyms": [
@@ -7879,7 +8195,11 @@
       "unworldly",
       "wide-eyed"
     ],
-    "sentences": []
+    "sentences": [
+      "A tired and hungry young child is often very suggestible.",
+      "The clever hypnotist looked for a deeply suggestible volunteer in the crowd.",
+      "His naturally suggestible mind quickly believed the ridiculous ghost story."
+    ]
   },
   "suggestive": {
     "synonyms": [
@@ -7999,7 +8319,11 @@
       "surplus",
       "surplusage"
     ],
-    "sentences": []
+    "sentences": [
+      "The autumn harvest yielded a wonderful superabundance of crisp apples.",
+      "We enjoyed a joyful superabundance of delicious food at the festival.",
+      "A sudden superabundance of heavy rain flooded the green valley."
+    ]
   },
   "superb": {
     "synonyms": [
@@ -8204,7 +8528,11 @@
       "surplus",
       "surplusage"
     ],
-    "sentences": []
+    "sentences": [
+      "The elegant room suffered from a confusing superfluity of antique furniture.",
+      "He quickly removed the unnecessary superfluity of words from his essay.",
+      "A clear superfluity of sweet desserts remained after the big party."
+    ]
   },
   "superfluous": {
     "synonyms": [
@@ -8279,7 +8607,11 @@
       "mind",
       "watch"
     ],
-    "sentences": []
+    "sentences": [
+      "The experienced manager will carefully superintend the new building project.",
+      "She was hired to actively superintend the daily factory operations.",
+      "He must diligently superintend the young workers on the busy farm."
+    ]
   },
   "superintendence": {
     "synonyms": [
@@ -8306,7 +8638,11 @@
       "headship",
       "surveillance"
     ],
-    "sentences": []
+    "sentences": [
+      "The successful charity thrived under her wise and careful superintendence.",
+      "He assumed the direct superintendence of the growing local school.",
+      "The complex machinery requires the constant superintendence of an expert."
+    ]
   },
   "superintendent": {
     "synonyms": [
@@ -8448,7 +8784,11 @@
       "holy",
       "sacred"
     ],
-    "sentences": []
+    "sentences": [
+      "The spooky old house was rumored to possess dark supernatural powers.",
+      "She loves reading thrilling stories about strange supernatural creatures.",
+      "A glowing green light created a weird and supernatural atmosphere."
+    ]
   },
   "supernumerary": {
     "synonyms": [
@@ -8634,7 +8974,11 @@
       "supplicating",
       "supplicatory"
     ],
-    "sentences": []
+    "sentences": [
+      "The weary supplicant knelt quietly on the cold stone floor.",
+      "A humble supplicant asked the wealthy king for a generous favor.",
+      "The gentle priest offered bread to the starving supplicant."
+    ]
   },
   "supplicate": {
     "synonyms": [
@@ -8810,7 +9154,11 @@
       "self-control",
       "self-restraint"
     ],
-    "sentences": []
+    "sentences": [
+      "The cruel dictator ordered the swift suppression of the peaceful protest.",
+      "He struggled with the painful suppression of his true inner feelings.",
+      "The sudden suppression of the loud alarm brought a welcome silence."
+    ]
   },
   "surcharge": {
     "synonyms": [
@@ -8892,7 +9240,11 @@
       "shot",
       "supposition"
     ],
-    "sentences": []
+    "sentences": [
+      "The smart detective could only surmise the hidden motive for the crime.",
+      "I can safely surmise that the heavy storm will arrive tonight.",
+      "Her accurate surmise about the surprise party ruined the big secret."
+    ]
   },
   "surmount": {
     "synonyms": [
@@ -9051,7 +9403,11 @@
       "vulnerability",
       "weakness"
     ],
-    "sentences": []
+    "sentences": [
+      "His known susceptibility to bad colds kept him indoors all winter.",
+      "The old wooden bridge has a dangerous susceptibility to strong winds.",
+      "She showed a surprising susceptibility to cheap and silly flattery."
+    ]
   },
   "susceptible": {
     "synonyms": [
@@ -9177,7 +9533,11 @@
       "nourishment",
       "pabulum"
     ],
-    "sentences": []
+    "sentences": [
+      "The lost hikers found basic sustenance in wild berries and fresh water.",
+      "The poor wandering dog desperately needed warm shelter and daily sustenance.",
+      "Reading good books provides wonderful sustenance for an eager mind."
+    ]
   },
   "swarthy": {
     "synonyms": [
@@ -9186,7 +9546,11 @@
       "dark",
       "swart"
     ],
-    "sentences": []
+    "sentences": [
+      "The rugged sailor had a handsome swarthy complexion from the sun.",
+      "A tall swarthy stranger silently entered the busy local tavern.",
+      "The fierce pirate ship was commanded by a tough swarthy captain."
+    ]
   },
   "sybarite": {
     "synonyms": [
@@ -9196,7 +9560,11 @@
       "sensualist",
       "voluptuary"
     ],
-    "sentences": []
+    "sentences": [
+      "The wealthy sybarite spent his vast fortune on rare wine and silk.",
+      "She lived like a pampered sybarite in her grand summer palace.",
+      "The lazy sybarite refused to eat anything but the finest caviar."
+    ]
   },
   "sycophant": {
     "synonyms": [
@@ -9274,7 +9642,11 @@
       "condensation",
       "digest"
     ],
-    "sentences": []
+    "sentences": [
+      "The strict biology teacher handed out a detailed new syllabus today.",
+      "We must carefully read the entire syllabus before the first class.",
+      "The thick course syllabus lists all the required reading assignments."
+    ]
   },
   "symmetrical": {
     "synonyms": [
@@ -9435,7 +9807,11 @@
       "symphonic",
       "tuneful"
     ],
-    "sentences": []
+    "sentences": [
+      "A beautiful symphonious melody echoed through the empty grand hall.",
+      "The large choir blended their voices in a rich symphonious harmony.",
+      "We listened to the sweet symphonious chirping of the morning birds."
+    ]
   },
   "symphony": {
     "synonyms": [
@@ -9472,7 +9848,11 @@
       "happening",
       "occurrence"
     ],
-    "sentences": []
+    "sentences": [
+      "The talented dancers moved with perfect synchronism across the bright stage.",
+      "A sudden synchronism of bad events led to the terrible accident.",
+      "The ticking clocks achieved an eerie synchronism in the quiet room."
+    ]
   },
   "syndicate": {
     "synonyms": [
@@ -9533,7 +9913,11 @@
       "interview",
       "session"
     ],
-    "sentences": []
+    "sentences": [
+      "The local church synod gathered to discuss important new community rules.",
+      "A formal synod of wise bishops elected the brave new leader.",
+      "The annual religious synod lasted for three long and busy days."
+    ]
   },
   "synonym": {
     "synonyms": [
@@ -9581,7 +9965,11 @@
       "summing-up",
       "wrap-up"
     ],
-    "sentences": []
+    "sentences": [
+      "The back cover of the thick book provided a helpful short synopsis.",
+      "He wrote a clear and brief synopsis of the complicated movie plot.",
+      "The busy manager asked for a quick synopsis of the long report."
+    ]
   },
   "systematic": {
     "synonyms": [
@@ -9603,20 +9991,38 @@
     ]
   },
   "sacrificial": {
-    "synonyms": [],
+    "synonyms": [
+      "offered",
+      "consecrated",
+      "votive",
+      "giving",
+      "expiatory"
+    ],
     "sentences": [
       "… has become the sacrificial lamb to deflect criticism about exaggerated charges used to make the case for war on Iraq.",
       "Yet some women complain that they are recruited as sacrificial lambs to fill out tickets against incumbents regarded as unbeatable."
     ]
   },
   "scythe": {
-    "synonyms": [],
+    "synonyms": [
+      "sickle",
+      "blade",
+      "cutter",
+      "mower",
+      "reaper"
+    ],
     "sentences": [
       "scything cornstalks"
     ]
   },
   "sebaceous": {
-    "synonyms": [],
+    "synonyms": [
+      "fatty",
+      "greasy",
+      "oily",
+      "adipose",
+      "lipid"
+    ],
     "sentences": [
       "sebaceous carcinoma",
       "a sebaceous exudate",
@@ -9626,25 +10032,48 @@
     ]
   },
   "secondly": {
-    "synonyms": [],
+    "synonyms": [
+      "next",
+      "furthermore",
+      "moreover",
+      "also",
+      "additionally"
+    ],
     "sentences": [
       "For one, the process required considerable hand labor; secondly, it was difficult to control in large format …"
     ]
   },
   "sextuple": {
-    "synonyms": [],
+    "synonyms": [
+      "sixfold",
+      "hexad",
+      "six",
+      "multiple"
+    ],
     "sentences": [
       "sextuple time"
     ]
   },
   "sidelong": {
-    "synonyms": [],
+    "synonyms": [
+      "sideways",
+      "oblique",
+      "indirect",
+      "covert",
+      "glancing"
+    ],
     "sentences": [
       "sidelong looks"
     ]
   },
   "sidereal": {
-    "synonyms": [],
+    "synonyms": [
+      "astral",
+      "stellar",
+      "starry",
+      "celestial",
+      "heavenly"
+    ],
     "sentences": [
       "The four-minute difference between a solar day and sidereal day is why we have leap year and why stars change with the seasons.",
       "In recent experiments, the frequency … was found to vary by not more than 100 μHz over a sidereal day as the rotation of the earth changed the orientation of the ions (fixed by the laboratory magnetic field) with respect to the external universe.",
@@ -9653,19 +10082,37 @@
     ]
   },
   "sinus": {
-    "synonyms": [],
+    "synonyms": [
+      "cavity",
+      "hollow",
+      "channel",
+      "passage",
+      "recess"
+    ],
     "sentences": [
       "restored the patient to normal sinus rhythm"
     ]
   },
   "solder": {
-    "synonyms": [],
+    "synonyms": [
+      "fuse",
+      "weld",
+      "join",
+      "bond",
+      "connect"
+    ],
     "sentences": [
       "a friendship soldered by common interests"
     ]
   },
   "specialize": {
-    "synonyms": [],
+    "synonyms": [
+      "focus",
+      "concentrate",
+      "study",
+      "major",
+      "delve"
+    ],
     "sentences": [
       "… Edward dares not specialize what alone he dreads.",
       "specialized their study",
@@ -9685,26 +10132,50 @@
     ]
   },
   "spinous": {
-    "synonyms": [],
+    "synonyms": [
+      "spiny",
+      "prickly",
+      "thorny",
+      "barbed",
+      "pointed"
+    ],
     "sentences": [
       "a spinous plant"
     ]
   },
   "stagnate": {
-    "synonyms": [],
+    "synonyms": [
+      "idle",
+      "languish",
+      "decay",
+      "rot",
+      "decline"
+    ],
     "sentences": [
       "a puddle of stagnating water",
       "wages stagnated"
     ]
   },
   "stanza": {
-    "synonyms": [],
+    "synonyms": [
+      "verse",
+      "strophe",
+      "canto",
+      "couplet",
+      "refrain"
+    ],
     "sentences": [
       "… held a 10-point lead in the final stanza."
     ]
   },
   "studious": {
-    "synonyms": [],
+    "synonyms": [
+      "academic",
+      "scholarly",
+      "diligent",
+      "attentive",
+      "earnest"
+    ],
     "sentences": [
       "studious avoidance of gender-specific pronouns",
       "a studious expression on his face",
@@ -9715,32 +10186,61 @@
     ]
   },
   "subacid": {
-    "synonyms": [],
+    "synonyms": [
+      "tart",
+      "sour",
+      "tangy",
+      "acidic",
+      "sharp"
+    ],
     "sentences": [
       "subacid comments"
     ]
   },
   "subaquatic": {
-    "synonyms": [],
+    "synonyms": [
+      "underwater",
+      "submarine",
+      "submerged",
+      "sunken",
+      "aquatic"
+    ],
     "sentences": [
       "subaquatic vegetation"
     ]
   },
   "subjacent": {
-    "synonyms": [],
+    "synonyms": [
+      "underlying",
+      "beneath",
+      "lower",
+      "under",
+      "subordinate"
+    ],
     "sentences": [
       "hills and subjacent valleys"
     ]
   },
   "sublingual": {
-    "synonyms": [],
+    "synonyms": [
+      "underneath",
+      "oral",
+      "tongue",
+      "glandular"
+    ],
     "sentences": [
       "sublingual glands",
       "sublingual tablets"
     ]
   },
   "subtend": {
-    "synonyms": [],
+    "synonyms": [
+      "encompass",
+      "enclose",
+      "contain",
+      "embrace",
+      "oppose"
+    ],
     "sentences": [
       "a bract that subtends a flower",
       "a chord subtends an arc",
@@ -9750,11 +10250,577 @@
     ]
   },
   "syllabic": {
-    "synonyms": [],
+    "synonyms": [
+      "phonetic",
+      "vocal",
+      "spoken",
+      "articulated",
+      "pronounced"
+    ],
     "sentences": [
       "syllabic accent",
       "the first vowel of a falling diphthong, as \\ȯ\\ in \\ȯi\\, is syllabic",
       "a syllabic consonant"
+    ]
+  },
+  "s-head": {
+    "synonyms": [
+      "figurehead",
+      "emblem",
+      "skull",
+      "symbol",
+      "crest"
+    ],
+    "sentences": [
+      "The mechanic reached for the specialized wrench designed to grip the s-head bolt securely.",
+      "The plumber installed a custom pipe fitting featuring an s-head to connect the curved drainage lines.",
+      "The engineering blueprints called for a durable metal fastener with an s-head."
+    ]
+  },
+  "salience": {
+    "synonyms": [
+      "prominence",
+      "importance",
+      "noticeability",
+      "weight",
+      "significance"
+    ],
+    "sentences": [
+      "The salience of his primary argument was lost amid the chaotic yelling of the debate.",
+      "The neon sign possessed an undeniable visual salience against the dark, brick buildings.",
+      "The policy's salience grew rapidly as the economic crisis began to affect everyday citizens."
+    ]
+  },
+  "sapiential": {
+    "synonyms": [
+      "wise",
+      "sagacious",
+      "knowing",
+      "astute",
+      "smart"
+    ],
+    "sentences": [
+      "The ancient sapiential texts offered timeless advice on how to live a moral and just life.",
+      "He possessed a quiet, sapiential authority that made younger colleagues seek his mentorship.",
+      "The philosopher dedicated his life to studying the sapiential traditions of Eastern religions."
+    ]
+  },
+  "saponaceous": {
+    "synonyms": [
+      "soapy",
+      "lathering",
+      "slippery",
+      "smooth",
+      "oily"
+    ],
+    "sentences": [
+      "The chemical mixture had a thick, saponaceous texture that felt remarkably like liquid soap.",
+      "Certain plant roots yield a saponaceous lather when crushed and mixed with river water.",
+      "The mechanic struggled to grip the wrench with his saponaceous, grease-covered hands."
+    ]
+  },
+  "scabbard": {
+    "synonyms": [
+      "sheath",
+      "case",
+      "cover",
+      "holder",
+      "housing"
+    ],
+    "sentences": [
+      "The cavalryman slid his polished saber smoothly into its leather scabbard.",
+      "An ornate silver scabbard hung heavily from the ceremonial belt of the royal guard.",
+      "The antique dagger was hopelessly rusted shut inside its damp wooden scabbard."
+    ]
+  },
+  "seance": {
+    "synonyms": [
+      "meeting",
+      "gathering",
+      "session",
+      "spirit",
+      "medium"
+    ],
+    "sentences": [
+      "The grieving widow hired a medium to conduct a seance in hopes of speaking to her late husband.",
+      "The flickering candles created a spooky atmosphere for the midnight seance in the parlor.",
+      "Skeptics often crash the fraudulent seance to expose the hidden wires moving the table."
+    ]
+  },
+  "secant": {
+    "synonyms": [
+      "line",
+      "intersecting",
+      "cutting",
+      "trigonometry",
+      "geometry"
+    ],
+    "sentences": [
+      "In geometry class, we drew a secant line that sliced completely through the drawn circle.",
+      "The mathematician calculated the secant of the angle to solve the complex trigonometric equation.",
+      "The highway acts as a secant, cutting directly across the curved boundary of the national park."
+    ]
+  },
+  "secede": {
+    "synonyms": [
+      "withdraw",
+      "leave",
+      "quit",
+      "separate",
+      "resign"
+    ],
+    "sentences": [
+      "The southern provinces threatened to secede from the national union over the unfair trade tariffs.",
+      "No member state is legally permitted to secede under the current framework of the constitution.",
+      "The rebellious faction voted to secede and form their own independent, sovereign republic."
+    ]
+  },
+  "secession": {
+    "synonyms": [
+      "withdrawal",
+      "departure",
+      "breakaway",
+      "split",
+      "separation"
+    ],
+    "sentences": [
+      "The controversial vote for secession sparked a brutal, decade-long civil war across the continent.",
+      "Diplomats worked frantically to prevent the sudden secession of the wealthy industrial region.",
+      "The historical museum dedicated an entire wing to the political causes of the national secession."
+    ]
+  },
+  "seismograph": {
+    "synonyms": [
+      "meter",
+      "gauge",
+      "detector",
+      "earthquake",
+      "recorder"
+    ],
+    "sentences": [
+      "The sensitive seismograph recorded a massive tremor deep beneath the ocean floor.",
+      "Geologists monitor the active volcano using a networked array of digital seismographs.",
+      "The ink needle on the old seismograph swung wildly as the earthquake struck the city."
+    ]
+  },
+  "semiannual": {
+    "synonyms": [
+      "biannual",
+      "half-yearly",
+      "periodic",
+      "recurring",
+      "twice"
+    ],
+    "sentences": [
+      "The corporation distributes its profit dividends to shareholders on a semiannual basis.",
+      "We schedule a semiannual dental cleaning in both January and July to maintain oral health.",
+      "The magazine publishes a massive semiannual edition covering the upcoming seasonal fashion trends."
+    ]
+  },
+  "sensorium": {
+    "synonyms": [
+      "brain",
+      "mind",
+      "senses",
+      "perception",
+      "consciousness"
+    ],
+    "sentences": [
+      "The blinding lights and deafening music completely overwhelmed his fragile sensorium.",
+      "The philosopher argued that human reality is entirely dependent on the limits of our sensorium.",
+      "The futuristic virtual reality game bypassed the eyes to directly stimulate the user's sensorium."
+    ]
+  },
+  "sentience": {
+    "synonyms": [
+      "awareness",
+      "feeling",
+      "consciousness",
+      "perception",
+      "life"
+    ],
+    "sentences": [
+      "Animal rights activists argue that the sentience of livestock demands more humane farming practices.",
+      "The artificial intelligence researchers debated whether the advanced program had finally achieved true sentience.",
+      "Acknowledging the sentience of octopuses, the laboratory banned their use in painful medical experiments."
+    ]
+  },
+  "septennial": {
+    "synonyms": [
+      "seven-year",
+      "periodic",
+      "recurring",
+      "anniversary",
+      "cycle"
+    ],
+    "sentences": [
+      "The prestigious university grants its tenured professors a paid sabbatical on a septennial schedule.",
+      "The ancient agricultural festival is a septennial event, occurring just once every seven years.",
+      "The board released its sweeping septennial report on changing global crop yields."
+    ]
+  },
+  "sequacious": {
+    "synonyms": [
+      "following",
+      "pliant",
+      "logical",
+      "compliant",
+      "obedient"
+    ],
+    "sentences": [
+      "The cult leader demanded utter obedience from his sequacious followers, forbidding any independent thought.",
+      "The dictator surrounded himself with sequacious advisors who never dared to question his brutal policies.",
+      "Her sequacious reliance on trendy fashion magazines meant she never developed a personal style."
+    ]
+  },
+  "sequestrate": {
+    "synonyms": [
+      "seize",
+      "confiscate",
+      "isolate",
+      "segregate",
+      "impound"
+    ],
+    "sentences": [
+      "The government ordered the treasury to sequestrate the assets of the convicted embezzler.",
+      "The judge decided to sequestrate the jury to protect them from the intense media coverage of the trial.",
+      "The rebellious lord attempted to sequestrate the king's tax revenues to fund his own private army."
+    ]
+  },
+  "sergeant-at-arms": {
+    "synonyms": [
+      "officer",
+      "guard",
+      "enforcer",
+      "official",
+      "warden"
+    ],
+    "sentences": [
+      "The speaker of the house signaled the sergeant-at-arms to remove the disruptive protester from the gallery.",
+      "The sergeant-at-arms carries the ceremonial mace during the formal procession into the legislative chamber.",
+      "As the debate turned violent, the sergeant-at-arms stepped in to physically separate the brawling politicians."
+    ]
+  },
+  "sergeant-major": {
+    "synonyms": [
+      "officer",
+      "soldier",
+      "leader",
+      "military",
+      "rank"
+    ],
+    "sentences": [
+      "The sergeant-major ordered the recruits to clean the barracks.",
+      "He was promoted to sergeant-major after years of dedicated service.",
+      "The strict sergeant-major inspected the troops every morning."
+    ]
+  },
+  "sibilate": {
+    "synonyms": [
+      "hiss",
+      "whiz",
+      "buzz",
+      "whisper",
+      "sound"
+    ],
+    "sentences": [
+      "The snake began to sibilate as the hiker approached its nest.",
+      "He tended to sibilate his sounds when he spoke quickly.",
+      "The leaking tire continued to sibilate until it was completely flat."
+    ]
+  },
+  "sinecure": {
+    "synonyms": [
+      "job",
+      "position",
+      "cushy",
+      "easy",
+      "office"
+    ],
+    "sentences": [
+      "He accepted the sinecure because it provided a steady income for minimal effort.",
+      "The board created a sinecure to keep the retired executive on the payroll.",
+      "Many viewed his advisory role as a mere sinecure."
+    ]
+  },
+  "sinuosity": {
+    "synonyms": [
+      "winding",
+      "curve",
+      "bend",
+      "twist",
+      "meander"
+    ],
+    "sentences": [
+      "The sinuosity of the mountain road made driving at night dangerous.",
+      "The river's natural sinuosity slowed the flow of the water.",
+      "We admired the graceful sinuosity of the gymnast's ribbon routine."
+    ]
+  },
+  "sirocco": {
+    "synonyms": [
+      "wind",
+      "breeze",
+      "gale",
+      "gust",
+      "storm"
+    ],
+    "sentences": [
+      "The hot sirocco blew dust across the Mediterranean sea.",
+      "Farmers worried the dry sirocco would damage their fragile crops.",
+      "The sirocco brought an uncomfortable heat wave to the coastal city."
+    ]
+  },
+  "sociology": {
+    "synonyms": [
+      "society",
+      "culture",
+      "study",
+      "science",
+      "humanity"
+    ],
+    "sentences": [
+      "She studied sociology to understand how urban communities form.",
+      "The sociology professor published a paper on modern family structures.",
+      "His background in sociology helped him analyze group behavior."
+    ]
+  },
+  "sol": {
+    "synonyms": [
+      "sun",
+      "coin",
+      "note",
+      "music",
+      "money"
+    ],
+    "sentences": [
+      "The rover completed its first sol on the Martian surface.",
+      "The choir practiced the musical scale from do to sol.",
+      "The chemist stabilized the liquid sol in the laboratory."
+    ]
+  },
+  "solstice": {
+    "synonyms": [
+      "summer",
+      "winter",
+      "sun",
+      "astronomy",
+      "equinox"
+    ],
+    "sentences": [
+      "The winter solstice marks the shortest day of the year.",
+      "They celebrated the summer solstice with a large bonfire.",
+      "The ancient monument aligns perfectly with the rising sun on the solstice."
+    ]
+  },
+  "sonata": {
+    "synonyms": [
+      "piece",
+      "music",
+      "composition",
+      "symphony",
+      "melody"
+    ],
+    "sentences": [
+      "The pianist practiced the difficult sonata for her upcoming recital.",
+      "Beethoven composed the famous moonlight sonata for the piano.",
+      "The violin sonata requires intense technical skill to perform well."
+    ]
+  },
+  "soprano": {
+    "synonyms": [
+      "singer",
+      "voice",
+      "vocalist",
+      "treble",
+      "pitch"
+    ],
+    "sentences": [
+      "The lead soprano hit a remarkably high note during the aria.",
+      "She sang soprano in the church choir for over a decade.",
+      "The composer wrote the main melody specifically for a soprano voice."
+    ]
+  },
+  "spherometer": {
+    "synonyms": [
+      "measure",
+      "instrument",
+      "gauge",
+      "curve",
+      "tool"
+    ],
+    "sentences": [
+      "The optician used a spherometer to measure the curve of the glass lens.",
+      "In physics lab, we learned how to calibrate a brass spherometer.",
+      "The spherometer calculates the precise radius of the sphere."
+    ]
+  },
+  "statecraft": {
+    "synonyms": [
+      "politics",
+      "diplomacy",
+      "government",
+      "leadership",
+      "statesmanship"
+    ],
+    "sentences": [
+      "The diplomat was a master of international statecraft.",
+      "Effective statecraft requires both military strength and economic strategy.",
+      "He studied the history of statecraft to prepare for his political career."
+    ]
+  },
+  "statistician": {
+    "synonyms": [
+      "analyst",
+      "mathematician",
+      "actuary",
+      "researcher",
+      "pollster"
+    ],
+    "sentences": [
+      "The statistician analyzed the census data to identify population trends.",
+      "The baseball team hired a statistician to evaluate player performance.",
+      "A government statistician calculated the monthly unemployment rate."
+    ]
+  },
+  "stultify": {
+    "synonyms": [
+      "mock",
+      "dull",
+      "deaden",
+      "thwart",
+      "smother"
+    ],
+    "sentences": [
+      "The boring lecture seemed to stultify the entire classroom of students.",
+      "Strict regulations can stultify innovation within a growing industry.",
+      "He feared that routine office work would stultify his creative talents."
+    ]
+  },
+  "submersible": {
+    "synonyms": [
+      "submarine",
+      "underwater",
+      "vessel",
+      "craft",
+      "boat"
+    ],
+    "sentences": [
+      "The research team deployed a submersible to explore the ocean trench.",
+      "The navy tested a new submersible capable of reaching extreme depths.",
+      "The submersible lost contact with the surface ship during the dive."
+    ]
+  },
+  "subtrahend": {
+    "synonyms": [
+      "number",
+      "deduction",
+      "amount",
+      "quantity",
+      "math"
+    ],
+    "sentences": [
+      "In the equation ten minus three, three is the subtrahend.",
+      "The student forgot to align the decimals of the subtrahend before subtracting.",
+      "If the subtrahend is larger than the minuend, the result is negative."
+    ]
+  },
+  "superadd": {
+    "synonyms": [
+      "attach",
+      "append",
+      "include",
+      "join",
+      "annex"
+    ],
+    "sentences": [
+      "He decided to superadd a new layer of varnish to protect the wood.",
+      "The chef will superadd spices to the broth right before serving.",
+      "The contract allows the landlord to superadd a late fee to the rent."
+    ]
+  },
+  "superannuate": {
+    "synonyms": [
+      "retire",
+      "pension",
+      "age",
+      "outdate",
+      "obsolete"
+    ],
+    "sentences": [
+      "The company decided to superannuate the outdated software system.",
+      "They will superannuate the old machinery and replace it with modern robots.",
+      "He was forced to superannuate after reaching the mandatory retirement age."
+    ]
+  },
+  "supramundane": {
+    "synonyms": [
+      "celestial",
+      "heavenly",
+      "divine",
+      "supernatural",
+      "ethereal"
+    ],
+    "sentences": [
+      "The mystic claimed to receive visions from a supramundane realm.",
+      "The poem described angels and other supramundane beings.",
+      "He focused his meditations on supramundane truths rather than worldly concerns."
+    ]
+  },
+  "surveyor": {
+    "synonyms": [
+      "inspector",
+      "assessor",
+      "measurer",
+      "examiner",
+      "observer"
+    ],
+    "sentences": [
+      "The surveyor used a transit level to measure the property lines.",
+      "The county surveyor updated the official map of the district.",
+      "A surveyor marked the exact boundary of the new highway."
+    ]
+  },
+  "syllabication": {
+    "synonyms": [
+      "division",
+      "spacing",
+      "pronunciation",
+      "phonetics",
+      "separation"
+    ],
+    "sentences": [
+      "The dictionary demonstrates the proper syllabication of each entry.",
+      "We learned the rules of syllabication to help us spell complex words.",
+      "Correct syllabication is necessary when hyphenating a word at the end of a line."
+    ]
+  },
+  "sylph": {
+    "synonyms": [
+      "spirit",
+      "fairy",
+      "nymph",
+      "sprite",
+      "elemental"
+    ],
+    "sentences": [
+      "The ballet dancer moved across the stage like a weightless sylph.",
+      "According to mythology, a sylph is an invisible spirit of the air.",
+      "The artist painted a delicate sylph resting on a cloud."
+    ]
+  },
+  "syneresis": {
+    "synonyms": [
+      "contraction",
+      "shrinking",
+      "drawing",
+      "pulling",
+      "coagulation"
+    ],
+    "sentences": [
+      "The poet used syneresis to combine two vowels into a single syllable.",
+      "The recipe warned that adding acid to the milk would cause syneresis.",
+      "The jelly experienced syneresis and separated from its liquid overnight."
     ]
   }
 }

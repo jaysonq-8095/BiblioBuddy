@@ -10,7 +10,11 @@
       "souvenir",
       "token"
     ],
-    "sentences": []
+    "sentences": [
+      "She kept the tiny, beautiful seashell as a sweet, happy keepsake.",
+      "His grandmother gave him a truly ancient, valuable gold watch as a family keepsake.",
+      "The small, clear photograph serves as a deeply wonderful keepsake of their trip."
+    ]
   },
   "kerchief": {
     "synonyms": [
@@ -22,7 +26,11 @@
       "mantilla",
       "hankie"
     ],
-    "sentences": []
+    "sentences": [
+      "The hard-working farmer wiped his sweaty brow with a red kerchief.",
+      "She tied a brightly colored, silk kerchief gently around her messy hair.",
+      "He bravely offered a clean, white kerchief to the totally sad, loudly crying woman."
+    ]
   },
   "kernel": {
     "synonyms": [
@@ -82,7 +90,11 @@
       "rekindle",
       "relight"
     ],
-    "sentences": []
+    "sentences": [
+      "The incredibly hot, deep brick kiln perfectly baked the heavy clay pottery.",
+      "The totally skilled artist carefully placed the delicate vase into the hot kiln.",
+      "They totally built a massive, outdoor kiln to safely fire the huge statues."
+    ]
   },
   "kimono": {
     "synonyms": [
@@ -108,7 +120,11 @@
       "frock",
       "gown"
     ],
-    "sentences": []
+    "sentences": [
+      "The beautiful Japanese woman wore a highly elegant, floral silk kimono.",
+      "She carefully tied the wide, heavy sash around her brand new kimono.",
+      "He proudly bought a highly traditional, entirely authentic kimono in Tokyo."
+    ]
   },
   "kind-hearted": {
     "synonyms": [
@@ -126,7 +142,11 @@
       "tenderhearted",
       "warmhearted"
     ],
-    "sentences": []
+    "sentences": [
+      "The truly kind-hearted stranger happily helped the old lady easily cross the street.",
+      "A completely kind-hearted neighbor volunteered to softly watch their new puppy.",
+      "The deeply kind-hearted nurse softly comforted the highly scared, sick child."
+    ]
   },
   "kingship": {
     "synonyms": [
@@ -168,7 +188,11 @@
       "helm",
       "rein(s)"
     ],
-    "sentences": []
+    "sentences": [
+      "The young, entirely scared prince feared the heavy, massive burden of kingship.",
+      "The wise, old ruler truly understood the deep duties of kingship.",
+      "His highly brief, terrible kingship ended in a massive, totally sudden rebellion."
+    ]
   },
   "kinsfolk": {
     "synonyms": [
@@ -187,7 +211,11 @@
       "stock",
       "tribe"
     ],
-    "sentences": []
+    "sentences": [
+      "The massive, highly loud wedding reunited all his distant kinsfolk.",
+      "She happily invited all her close kinsfolk to the giant holiday dinner.",
+      "The totally brave, loyal chief completely fought to safely protect his kinsfolk."
+    ]
   },
   "knavery": {
     "synonyms": [
@@ -223,7 +251,11 @@
       "waggishness",
       "wickedness"
     ],
-    "sentences": []
+    "sentences": [
+      "The greedy, sly merchant was well known for his blatant knavery.",
+      "His cruel knavery completely ruined the poor, trusting family.",
+      "The clever detective easily saw right through the criminal's obvious knavery."
+    ]
   },
   "knead": {
     "synonyms": [
@@ -323,6 +355,80 @@
       "respectability",
       "seemliness"
     ],
-    "sentences": []
+    "sentences": [
+      "The brave warrior was finally granted a royal knighthood.",
+      "He received his official knighthood from the queen herself.",
+      "The ancient stories told of a time when knighthood meant ultimate honor."
+    ]
+  },
+  "kiloliter": {
+    "synonyms": [
+      "measure",
+      "volume",
+      "metric",
+      "capacity",
+      "unit"
+    ],
+    "sentences": [
+      "The municipal water reservoir lost an entire kiloliter of drinking water due to a sudden rupture in the primary transport pipe.",
+      "Our massive brewing vat holds precisely one kiloliter of fermented barley mixture at maximum capacity.",
+      "A commercial swimming pool requires several kiloliters of treated water to maintain a safe depth for competitive diving."
+    ]
+  },
+  "kilometer": {
+    "synonyms": [
+      "distance",
+      "length",
+      "measure",
+      "metric",
+      "unit"
+    ],
+    "sentences": [
+      "The exhausted marathon runner realized she still had one grueling kilometer left before reaching the finish line.",
+      "From the observation deck, you can see for a full kilometer across the dense, fog-covered valley.",
+      "The damaged spacecraft drifted a kilometer away from the orbital station before the rescue tether engaged."
+    ]
+  },
+  "kilowatt": {
+    "synonyms": [
+      "power",
+      "energy",
+      "electricity",
+      "measure",
+      "unit"
+    ],
+    "sentences": [
+      "The sprawling solar array generated an extra kilowatt of clean energy during the unusually bright afternoon.",
+      "Upgrading the antiquated factory equipment saved the company thousands of dollars per kilowatt in electricity costs.",
+      "A standard space heater running at maximum output will consume roughly one kilowatt of power every hour."
+    ]
+  },
+  "kingling": {
+    "synonyms": [
+      "petty",
+      "ruler",
+      "monarch",
+      "lord",
+      "chief"
+    ],
+    "sentences": [
+      "The arrogant kingling ruled his tiny, impoverished province with the pompous delusion of a mighty emperor.",
+      "Rival factions easily overthrew the weak kingling, annexing his insignificant territory into the expanding empire.",
+      "Historians barely mention the forgotten kingling who briefly claimed the throne of the fractured border kingdom."
+    ]
+  },
+  "knight errant": {
+    "synonyms": [
+      "adventurer",
+      "hero",
+      "wanderer",
+      "cavalier",
+      "champion"
+    ],
+    "sentences": [
+      "The romanticized knight errant roamed the perilous countryside, seeking formidable dragons to slay and innocent villagers to rescue.",
+      "Clad in battered steel armor, the solitary knight errant offered his formidable sword to any noble cause he encountered.",
+      "Medieval literature often depicts the knight errant as a chivalrous wanderer bound by a strict code of personal honor."
+    ]
   }
 }

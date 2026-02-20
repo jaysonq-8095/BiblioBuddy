@@ -34,7 +34,11 @@
       "mendicant",
       "panhandler"
     ],
-    "sentences": []
+    "sentences": [
+      "The kind woman adopted the hungry little waif from the cold street.",
+      "A poor thin waif begged for fresh bread near the busy morning market.",
+      "The sad story follows a lonely waif searching for her lost family."
+    ]
   },
   "waive": {
     "synonyms": [
@@ -102,7 +106,11 @@
       "shekels",
       "tender"
     ],
-    "sentences": []
+    "sentences": [
+      "The native chief traded beautiful wampum for warm wool blankets.",
+      "He wore a handmade leather belt decorated with colorful purple wampum.",
+      "The historical museum displayed a rare string of authentic wampum."
+    ]
   },
   "wane": {
     "synonyms": [
@@ -242,7 +250,11 @@
       "swell",
       "wave"
     ],
-    "sentences": []
+    "sentences": [
+      "A gentle wavelet splashed softly against the wooden rowboat.",
+      "The skipping stone created a tiny circular wavelet on the calm pond.",
+      "We watched each small wavelet roll onto the peaceful sandy beach."
+    ]
   },
   "weak-kneed": {
     "synonyms": [
@@ -264,7 +276,11 @@
       "wimpy",
       "wishy-washy"
     ],
-    "sentences": []
+    "sentences": [
+      "The scary movie left him feeling weak-kneed and rather pale.",
+      "She gave a weak-kneed apology for her careless and silly mistake.",
+      "A weak-kneed leader will quickly fail during a serious national crisis."
+    ]
   },
   "weal": {
     "synonyms": [
@@ -273,7 +289,11 @@
       "welfare",
       "well-being"
     ],
-    "sentences": []
+    "sentences": [
+      "The wise mayor worked hard to protect the general public weal.",
+      "A painful red weal appeared on his arm after the sharp insect sting.",
+      "They sacrificed their own personal comfort for the common weal."
+    ]
   },
   "wearisome": {
     "synonyms": [
@@ -313,7 +333,11 @@
       "weary",
       "wearying"
     ],
-    "sentences": []
+    "sentences": [
+      "The long flight across the wide ocean was a rather wearisome journey.",
+      "He complained daily about his dull and wearisome factory job.",
+      "She found the endless political debate to be quite wearisome."
+    ]
   },
   "wee": {
     "synonyms": [
@@ -819,7 +843,11 @@
       "wisecrack",
       "yuk"
     ],
-    "sentences": []
+    "sentences": [
+      "The clever speaker opened his long speech with a funny witticism.",
+      "She always had a sharp witticism ready for any dull conversation.",
+      "His sarcastic witticism made the nervous dinner guests laugh aloud."
+    ]
   },
   "wittingly": {
     "synonyms": [
@@ -894,7 +922,11 @@
       "retainer",
       "worker"
     ],
-    "sentences": []
+    "sentences": [
+      "The honest working-man deserves a fair wage for his hard labor.",
+      "He proudly described himself as a simple and dedicated working-man.",
+      "The new town laws were designed to protect the average working-man."
+    ]
   },
   "workmanlike": {
     "synonyms": [
@@ -1016,7 +1048,11 @@
       "rip",
       "tear"
     ],
-    "sentences": []
+    "sentences": [
+      "The brave knight tried to wrest the heavy sword from his fierce enemy.",
+      "She managed to wrest control of the failing company from her lazy brother.",
+      "He had to safely wrest the dangerous toy away from the angry young child."
+    ]
   },
   "wretchedness": {
     "synonyms": [
@@ -1240,7 +1276,13 @@
     ]
   },
   "wean": {
-    "synonyms": [],
+    "synonyms": [
+      "detach",
+      "discourage",
+      "halt",
+      "stop",
+      "remove"
+    ],
     "sentences": [
       "students weaned on the Internet for research",
       "I was weaned on greasepaint",
@@ -1255,7 +1297,13 @@
     ]
   },
   "wherewith": {
-    "synonyms": [],
+    "synonyms": [
+      "whereby",
+      "with",
+      "means",
+      "resources",
+      "tools"
+    ],
     "sentences": [
       "… metal tools wherewith to break ground …",
       "So shall I have wherewith to answer him …",
@@ -1263,9 +1311,85 @@
     ]
   },
   "workmanship": {
-    "synonyms": [],
+    "synonyms": [
+      "craftsmanship",
+      "skill",
+      "artistry",
+      "execution",
+      "technique"
+    ],
     "sentences": [
       "a vase of exquisite workmanship"
+    ]
+  },
+  "waistcoat": {
+    "synonyms": [
+      "vest",
+      "jacket",
+      "garment",
+      "clothing",
+      "apparel"
+    ],
+    "sentences": [
+      "The gentleman checked the silver pocket watch attached to the buttonhole of his silk waistcoat.",
+      "He attended the formal wedding wearing a sharp three-piece suit and a maroon waistcoat.",
+      "The tailor carefully measured his chest to ensure the custom waistcoat would fit perfectly."
+    ]
+  },
+  "well-doer": {
+    "synonyms": [
+      "benefactor",
+      "philanthropist",
+      "saint",
+      "helper",
+      "do-gooder"
+    ],
+    "sentences": [
+      "The anonymous well-doer donated millions of dollars to fund the new children's hospital wing.",
+      "She was known throughout the village as a generous well-doer who always helped families in need.",
+      "The charity held an annual gala to honor every well-doer who had supported their cause that year."
+    ]
+  },
+  "whereupon": {
+    "synonyms": [
+      "consequently",
+      "then",
+      "thereupon",
+      "so",
+      "thus"
+    ],
+    "sentences": [
+      "The judge struck his gavel, whereupon the noisy courtroom immediately fell completely silent.",
+      "She handed him the signed contract, whereupon he smiled and officially welcomed her to the team.",
+      "The storm broke the main mast, whereupon the terrified crew scrambled to secure the remaining rigging."
+    ]
+  },
+  "witling": {
+    "synonyms": [
+      "fool",
+      "joker",
+      "dunce",
+      "simpleton",
+      "wisecracker"
+    ],
+    "sentences": [
+      "The obnoxious witling interrupted the professor's lecture with a joke that failed to make anyone laugh.",
+      "Shakespeare's play features a foolish witling whose clumsy puns serve as comic relief.",
+      "Ignoring the annoying witling at the dinner party, she continued her serious conversation about politics."
+    ]
+  },
+  "wizen-faced": {
+    "synonyms": [
+      "wrinkled",
+      "shriveled",
+      "aged",
+      "weathered",
+      "lined"
+    ],
+    "sentences": [
+      "The wizen-faced old sailor sat on the docks and spun tall tales of sea monsters for the local children.",
+      "A wizen-faced woman opened the creaking door and peered suspiciously at the arriving strangers.",
+      "Decades of working under the harsh desert sun had left the farmer deeply wizen-faced."
     ]
   }
 }

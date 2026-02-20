@@ -38,7 +38,11 @@
       "pottery",
       "stoneware"
     ],
-    "sentences": []
+    "sentences": [
+      "The careful archeologist found fragile pieces of ancient Roman earthenware.",
+      "She baked the rustic bread in a heavy, warm earthenware pot.",
+      "The bustling market stall sold beautiful, handmade earthenware bowls."
+    ]
   },
   "eatable": {
     "synonyms": [
@@ -47,7 +51,11 @@
       "edible",
       "esculent"
     ],
-    "sentences": []
+    "sentences": [
+      "The stale, hard bread was barely eatable after sitting out all week long.",
+      "Make sure those wild mushrooms are actually eatable before picking them.",
+      "The terribly burnt dinner was definitely not eatable by anyone."
+    ]
   },
   "ebullient": {
     "synonyms": [
@@ -193,7 +201,11 @@
       "trick",
       "twist"
     ],
-    "sentences": []
+    "sentences": [
+      "The eccentric billionaire was famous for his harmless, funny eccentricity.",
+      "Her daily habit of wearing mismatched socks was just a quirky eccentricity.",
+      "The strange, twisting architectural design showed the original builder's eccentricity."
+    ]
   },
   "eclipse": {
     "synonyms": [
@@ -227,7 +239,11 @@
       "skimp",
       "spare"
     ],
-    "sentences": []
+    "sentences": [
+      "We really need to economize this month to save up for our summer vacation.",
+      "Turning off the lights is a very simple way to economize on electricity.",
+      "The struggling company had to drastically economize by cutting travel budgets."
+    ]
   },
   "ecstasy": {
     "synonyms": [
@@ -268,7 +284,11 @@
       "rapturous",
       "rhapsodic"
     ],
-    "sentences": []
+    "sentences": [
+      "The excited children were absolutely ecstatic when they saw the cute new puppy.",
+      "She gave a loud, ecstatic shout of joy when she won the state lottery.",
+      "He was truly ecstatic to finally graduate from the difficult college."
+    ]
   },
   "edible": {
     "synonyms": [
@@ -322,7 +342,11 @@
       "inspire",
       "nurture"
     ],
-    "sentences": []
+    "sentences": [
+      "The wise teacher assigned a complex book meant to properly edify her students.",
+      "We listened to a powerful speech designed to edify and inspire the large crowd.",
+      "These ancient moral stories were written specifically to edify young minds."
+    ]
   },
   "editorial": {
     "synonyms": [
@@ -566,7 +590,11 @@
       "womanishness",
       "womanliness"
     ],
-    "sentences": []
+    "sentences": [
+      "The ancient Spartans strongly discouraged any display of weakness or effeminacy.",
+      "The harsh critic mocked the perceived effeminacy of the wealthy nobleman's clothing.",
+      "The play challenged traditional gender roles and strict ideas of effeminacy."
+    ]
   },
   "effeminate": {
     "synonyms": [
@@ -601,7 +629,11 @@
       "whish",
       "whiz"
     ],
-    "sentences": []
+    "sentences": [
+      "The white antacid tablet began to quickly effervesce in the clear glass of water.",
+      "The sweet, sugary soda will violently effervesce if you shake the bottle too much.",
+      "Her bright, bubbly personality seemed to literally effervesce with pure joy."
+    ]
   },
   "effervescent": {
     "synonyms": [
@@ -829,7 +861,11 @@
       "truck",
       "waste"
     ],
-    "sentences": []
+    "sentences": [
+      "A terrible, rotting effluvium rose slowly from the dark, stagnant swamp water.",
+      "The old factory released a highly toxic effluvium into the surrounding city air.",
+      "They covered their noses with a cloth to block the nasty garbage effluvium."
+    ]
   },
   "effrontery": {
     "synonyms": [
@@ -884,7 +920,11 @@
       "refulgence",
       "splendor"
     ],
-    "sentences": []
+    "sentences": [
+      "The bright effulgence of the beautiful setting sun painted the evening sky in gold.",
+      "She was temporarily blinded by the sudden, bright effulgence of the stage spotlight.",
+      "The expensive diamond necklace shone with a brilliant, clear effulgence."
+    ]
   },
   "effuse": {
     "synonyms": [
@@ -919,7 +959,11 @@
       "self-preoccupation",
       "self-regard"
     ],
-    "sentences": []
+    "sentences": [
+      "His pure, selfish egoism prevented him from sharing the credit with his loyal team.",
+      "The famous philosopher wrote a lengthy essay on the deep concept of human egoism.",
+      "Her constant, annoying need for attention was a clear sign of deep egoism."
+    ]
   },
   "egoist": {
     "synonyms": [
@@ -929,7 +973,11 @@
       "ego-tripper",
       "narcissist"
     ],
-    "sentences": []
+    "sentences": [
+      "The highly selfish egoist only ever cared about his own personal success and wealth.",
+      "It is very hard to maintain a healthy friendship with a massive, stubborn egoist.",
+      "The arrogant egoist absolutely refused to listen to anyone else's helpful ideas."
+    ]
   },
   "egotism": {
     "synonyms": [
@@ -977,7 +1025,11 @@
       "selfishness",
       "selfness"
     ],
-    "sentences": []
+    "sentences": [
+      "His overwhelming, loud egotism made him deeply unpopular at the busy office.",
+      "She finally grew entirely tired of her partner's constant vanity and egotism.",
+      "The corrupt politician's speech was full of empty promises and blind egotism."
+    ]
   },
   "egotist": {
     "synonyms": [
@@ -987,7 +1039,11 @@
       "egomaniac",
       "narcissist"
     ],
-    "sentences": []
+    "sentences": [
+      "An extremely annoying egotist will always steer the conversation directly back to himself.",
+      "The wealthy egotist built a massive, expensive marble statue in his own honor.",
+      "Only an absolute egotist would loudly demand such unfair, special treatment."
+    ]
   },
   "egregious": {
     "synonyms": [
@@ -1015,7 +1071,11 @@
       "issue",
       "outlet"
     ],
-    "sentences": []
+    "sentences": [
+      "The frightened crowd quickly rushed toward the nearest egress during the sudden fire.",
+      "The modern building design includes a safe egress for every single floor.",
+      "The clever thief carefully planned his silent egress through the dark back window."
+    ]
   },
   "eject": {
     "synonyms": [
@@ -1114,7 +1174,11 @@
       "requiem",
       "threnody"
     ],
-    "sentences": []
+    "sentences": [
+      "The sad poet wrote a beautiful, moving elegy for his late, beloved friend.",
+      "A mournful elegy was slowly played on the cello at the quiet memorial service.",
+      "The touching, heartfelt elegy brought immediate tears to the eyes of the audience."
+    ]
   },
   "element": {
     "synonyms": [
@@ -1259,7 +1323,11 @@
       "oratory",
       "public speaking"
     ],
-    "sentences": []
+    "sentences": [
+      "The nervous politician hired a strict coach to greatly improve his public elocution.",
+      "She easily won the state debate tournament thanks to her totally flawless elocution.",
+      "The old, prestigious acting school placed a very heavy emphasis on perfect elocution."
+    ]
   },
   "eloquent": {
     "synonyms": [
@@ -1363,7 +1431,11 @@
       "shaking",
       "shunning"
     ],
-    "sentences": []
+    "sentences": [
+      "The clever fox's quick elusion of the fast hunting dogs was incredibly impressive.",
+      "His constant elusion of the reporter's direct questions made him look very guilty.",
+      "The master magician's best trick was a sudden, impossible elusion from the locked box."
+    ]
   },
   "emaciate": {
     "synonyms": [
@@ -1654,7 +1726,11 @@
       "totem",
       "trademark"
     ],
-    "sentences": []
+    "sentences": [
+      "The majestic bald eagle is a highly famous national emblem of the United States.",
+      "She proudly wore a shiny silver emblem representing her favorite local charity.",
+      "The gentle white dove has long been widely recognized as a universal emblem of peace."
+    ]
   },
   "embody": {
     "synonyms": [
@@ -1835,7 +1911,11 @@
       "out-migrant",
       "settler"
     ],
-    "sentences": []
+    "sentences": [
+      "The poor, hopeful emigrant left his homeland seeking a much better life abroad.",
+      "Every single emigrant on the crowded ship hoped deeply for a totally fresh start.",
+      "The brave emigrant packed all his worldly belongings into a single, small wooden trunk."
+    ]
   },
   "emigrate": {
     "synonyms": [
@@ -2091,7 +2171,11 @@
       "retainer",
       "worker"
     ],
-    "sentences": []
+    "sentences": [
+      "The incredibly loyal employee worked at the exact same company for thirty years.",
+      "Every new employee must successfully complete a basic office safety training course.",
+      "The generous manager gave the hard-working employee a very large holiday bonus."
+    ]
   },
   "employer": {
     "synonyms": [
@@ -2256,7 +2340,11 @@
       "shelter",
       "take in"
     ],
-    "sentences": []
+    "sentences": [
+      "The entirely exhausted soldiers decided to securely encamp near the fresh river.",
+      "We will safely encamp in the dense, dark forest before the sun fully sets.",
+      "The massive army planned to quickly encamp on the high hill overlooking the city."
+    ]
   },
   "encomium": {
     "synonyms": [
@@ -2475,7 +2563,11 @@
       "orders",
       "word"
     ],
-    "sentences": []
+    "sentences": [
+      "The Pope issued a very important new encyclical regarding global environmental protection.",
+      "The long, formal encyclical was read aloud to the entire quiet church congregation.",
+      "The smart bishop studied the complex theological arguments in the recent encyclical."
+    ]
   },
   "encyclopedia": {
     "synonyms": [
@@ -2519,7 +2611,11 @@
       "omnibus",
       "picture book"
     ],
-    "sentences": []
+    "sentences": [
+      "He carefully looked up the strange insect in a heavy, dusty old encyclopedia.",
+      "The local library has a massive, multi-volume encyclopedia in the reference section.",
+      "She spent hours reading highly random historical facts from the digital encyclopedia."
+    ]
   },
   "endanger": {
     "synonyms": [
@@ -2641,7 +2737,11 @@
       "sustainable",
       "tolerable"
     ],
-    "sentences": []
+    "sentences": [
+      "The intensely hot summer weather is barely endurable without a working air conditioner.",
+      "The sharp pain from the minor dental surgery was uncomfortable but entirely endurable.",
+      "Strong, hot coffee made the incredibly boring, endless meeting somewhat endurable."
+    ]
   },
   "endurance": {
     "synonyms": [
@@ -2794,7 +2894,11 @@
       "unchain",
       "unfetter"
     ],
-    "sentences": []
+    "sentences": [
+      "The historic new law aimed to finally enfranchise the marginalized minority citizens.",
+      "A true democracy must constantly work hard to fully enfranchise all its diverse people.",
+      "The brave activist fought tirelessly to enfranchise the poorest, forgotten neighborhoods."
+    ]
   },
   "engender": {
     "synonyms": [
@@ -2995,7 +3099,11 @@
       "light",
       "torch"
     ],
-    "sentences": []
+    "sentences": [
+      "A single, tiny spark can very easily enkindle a massive, deeply destructive forest fire.",
+      "The loud motivational speaker hoped to enkindle a fresh sense of passion in the crowd.",
+      "He used a pile of dry leaves to quickly enkindle a warm, crackling campfire."
+    ]
   },
   "enlighten": {
     "synonyms": [
@@ -3241,7 +3349,11 @@
       "steam up",
       "tick off"
     ],
-    "sentences": []
+    "sentences": [
+      "The highly unfair referee's bad call will definitely enrage the loud home crowd.",
+      "Please do not purposely tease or enrage the highly dangerous wild animal.",
+      "The totally horrible news will quickly and deeply enrage anyone who hears it."
+    ]
   },
   "enrapture": {
     "synonyms": [
@@ -3257,7 +3369,11 @@
       "rapture",
       "ravish"
     ],
-    "sentences": []
+    "sentences": [
+      "The beautiful, sweeping symphony managed to completely enrapture the quiet audience.",
+      "The stunning, colorful sunset over the ocean will easily enrapture any landscape painter.",
+      "The highly talented storyteller could easily enrapture the young children for hours."
+    ]
   },
   "enshrine": {
     "synonyms": [
@@ -3273,7 +3389,11 @@
       "glorify",
       "magnify"
     ],
-    "sentences": []
+    "sentences": [
+      "They plan to properly enshrine the rare historical artifact in the brand new museum.",
+      "The country will proudly enshrine these basic human rights directly in its constitution.",
+      "The devoted fans want to permanently enshrine the famous jersey in the hall of fame."
+    ]
   },
   "ensnare": {
     "synonyms": [
@@ -3381,7 +3501,11 @@
       "involve",
       "occupy"
     ],
-    "sentences": []
+    "sentences": [
+      "The thrilling, fast-paced mystery novel will absolutely enthrall you until the very last page.",
+      "The clever magician's amazing tricks never fail to totally enthrall the young children.",
+      "A truly great movie should completely enthrall the viewer from the beginning to the end."
+    ]
   },
   "enthrone": {
     "synonyms": [
@@ -3397,7 +3521,11 @@
       "glorify",
       "magnify"
     ],
-    "sentences": []
+    "sentences": [
+      "The loyal citizens happily gathered to officially enthrone their brand new, young queen.",
+      "The high priests will carefully enthrone the new king in a highly grand, ancient ceremony.",
+      "They decided to symbolically enthrone the beautiful marble statue of the goddess in the temple."
+    ]
   },
   "enthuse": {
     "synonyms": [
@@ -3497,7 +3625,11 @@
       "suppliance",
       "supplication"
     ],
-    "sentences": []
+    "sentences": [
+      "He completely ignored his mother's tearful entreaty to stay safely at home during the storm.",
+      "The desperate prisoner made a final, passionate entreaty for a full, official royal pardon.",
+      "Her highly urgent entreaty for immediate medical help was broadcast on the local radio."
+    ]
   },
   "entree": {
     "synonyms": [
@@ -3515,7 +3647,11 @@
       "passport",
       "ticket"
     ],
-    "sentences": []
+    "sentences": [
+      "We ordered a delicious, perfectly cooked steak as our main entree for the fancy dinner.",
+      "The elegant restaurant serves a wide variety of highly expensive seafood entrees.",
+      "She quickly chose the healthy vegetarian pasta for her carefully prepared evening entree."
+    ]
   },
   "entrench": {
     "synonyms": [
@@ -3559,7 +3695,11 @@
       "twine",
       "wind"
     ],
-    "sentences": []
+    "sentences": [
+      "The green vines will soon entwine around the old wooden fence.",
+      "She likes to tightly entwine the colorful ribbons in her hair.",
+      "The two distinct storylines perfectly entwine at the end of the book."
+    ]
   },
   "enumerate": {
     "synonyms": [
@@ -3576,7 +3716,11 @@
       "tell",
       "inventory"
     ],
-    "sentences": []
+    "sentences": [
+      "The teacher asked him to carefully enumerate all the capitals of Europe.",
+      "Let me quickly enumerate the many reasons why this is a bad idea.",
+      "The detailed report will enumerate every single expense from the trip."
+    ]
   },
   "epic": {
     "synonyms": [
@@ -3633,7 +3777,11 @@
       "gourmand",
       "gourmet"
     ],
-    "sentences": []
+    "sentences": [
+      "The wealthy epicure travels the world just to taste rare, expensive foods.",
+      "Only a true epicure could appreciate the subtle flavors in this dish.",
+      "He considers himself a wine epicure and has a massive cellar."
+    ]
   },
   "epicurean": {
     "synonyms": [
@@ -3644,7 +3792,11 @@
       "gourmand",
       "gourmet"
     ],
-    "sentences": []
+    "sentences": [
+      "The fancy restaurant offers a truly epicurean dining experience for its wealthy guests.",
+      "She enjoys an epicurean lifestyle filled with luxurious dinners and expensive desserts.",
+      "The grand banquet was an epicurean delight from start to finish."
+    ]
   },
   "epidemic": {
     "synonyms": [
@@ -3721,7 +3873,11 @@
       "sententia",
       "word"
     ],
-    "sentences": []
+    "sentences": [
+      "The clever author loved to start each chapter with a short, funny epigram.",
+      "He quoted a famous epigram to make a quick point during the debate.",
+      "The witty epigram perfectly summarized the main theme of the long poem."
+    ]
   },
   "epilogue": {
     "synonyms": [
@@ -3774,7 +3930,11 @@
       "tag end",
       "tail end"
     ],
-    "sentences": []
+    "sentences": [
+      "The fascinating epilogue explained what happened to the characters years later.",
+      "I always skip the epilogue if the main story has a satisfying ending.",
+      "The emotional epilogue brought a tiny tear to my eye."
+    ]
   },
   "episode": {
     "synonyms": [
@@ -3810,7 +3970,11 @@
       "testimonial",
       "tribute"
     ],
-    "sentences": []
+    "sentences": [
+      "The grieving family chose a beautiful, short poem for his gravestone epitaph.",
+      "The faded epitaph on the ancient tomb was nearly impossible to read.",
+      "She jokingly wrote a highly sarcastic epitaph for her own future funeral."
+    ]
   },
   "epithet": {
     "synonyms": [
@@ -3843,7 +4007,11 @@
       "slight",
       "slur"
     ],
-    "sentences": []
+    "sentences": [
+      "The angry driver yelled a harsh, insulting epithet out the car window.",
+      "History gave the cruel king a very fitting and terrifying epithet.",
+      "The controversial politician was frequently called a deeply unfair epithet."
+    ]
   },
   "epitome": {
     "synonyms": [
@@ -3965,7 +4133,11 @@
       "versification",
       "vers libre"
     ],
-    "sentences": []
+    "sentences": [
+      "The ancient Greek chorus sang a dramatic epode at the end of the scene.",
+      "The classic poem consists of a strophe, antistrophe, and a final epode.",
+      "The literary scholar carefully studied the complex rhythm of the lyric epode."
+    ]
   },
   "equalize": {
     "synonyms": [
@@ -4636,7 +4808,11 @@
       "inlet",
       "loch"
     ],
-    "sentences": []
+    "sentences": [
+      "The river slowly meets the salty ocean at a wide, calm estuary.",
+      "Many diverse species of birds and fish thrive in the coastal estuary.",
+      "They took a small boat out to explore the shallow, muddy estuary."
+    ]
   },
   "eulogize": {
     "synonyms": [
@@ -4753,7 +4929,11 @@
       "symphonious",
       "tuneful"
     ],
-    "sentences": []
+    "sentences": [
+      "The talented choir produced a wonderfully euphonious sound that filled the church.",
+      "Her soft, euphonious speaking voice was incredibly soothing to listen to.",
+      "The composer wrote a highly euphonious melody for the gentle lullaby."
+    ]
   },
   "evade": {
     "synonyms": [
@@ -4800,7 +4980,11 @@
       "sink",
       "vanish"
     ],
-    "sentences": []
+    "sentences": [
+      "The morning mist will completely evanesce as soon as the bright sun rises.",
+      "His fleeting confidence seemed to slowly evanesce right before the big speech.",
+      "The delicate smoke rings will gently evanesce into the cool evening air."
+    ]
   },
   "evanescent": {
     "synonyms": [
@@ -5465,7 +5649,11 @@
       "extract",
       "passage"
     ],
-    "sentences": []
+    "sentences": [
+      "The loud professor read a short excerpt from the famous historical novel.",
+      "You can read a free excerpt of the new book online before actually buying it.",
+      "The news broadcast played a tiny excerpt of the president's long speech."
+    ]
   },
   "excess": {
     "synonyms": [
@@ -5536,7 +5724,11 @@
       "rule out",
       "shut out"
     ],
-    "sentences": []
+    "sentences": [
+      "The strict club rules unfortunately exclude anyone under the age of eighteen.",
+      "Please do not intentionally exclude your little brother from the fun game.",
+      "We must exclude that entirely flawed data from our final scientific report."
+    ]
   },
   "exclusion": {
     "synonyms": [
@@ -5602,7 +5794,11 @@
       "torment",
       "torture"
     ],
-    "sentences": []
+    "sentences": [
+      "The severe toothache began to absolutely excruciate him late at night.",
+      "To slowly stretch the tight muscle will slightly excruciate the injured runner.",
+      "The brutal, highly difficult workout will certainly excruciate even the strongest athlete."
+    ]
   },
   "excursion": {
     "synonyms": [
@@ -5728,7 +5924,11 @@
       "aversion",
       "bête noire"
     ],
-    "sentences": []
+    "sentences": [
+      "The betrayed villain muttered a dark, angry execration under his breath.",
+      "He expressed his deep execration for the incredibly corrupt local government.",
+      "A loud, sudden execration was clearly heard from the furious crowd."
+    ]
   },
   "executor": {
     "synonyms": [
@@ -6038,7 +6238,11 @@
       "tiredness",
       "weariness"
     ],
-    "sentences": []
+    "sentences": [
+      "The marathon runner collapsed at the finish line from pure, total exhaustion.",
+      "A heavy feeling of complete exhaustion washed over the sleepy students.",
+      "She suffered from extreme mental exhaustion after studying for three days straight."
+    ]
   },
   "exhaustive": {
     "synonyms": [
@@ -6227,7 +6431,11 @@
       "outpour",
       "outpouring"
     ],
-    "sentences": []
+    "sentences": [
+      "The sudden fire alarm caused a massive, chaotic exodus from the crowded building.",
+      "There was a huge exodus of people leaving the hot city for the cool beach.",
+      "The terrible famine directly led to a sad, desperate exodus from the ruined country."
+    ]
   },
   "exonerate": {
     "synonyms": [
@@ -6256,7 +6464,11 @@
       "intemperateness",
       "nimiety"
     ],
-    "sentences": []
+    "sentences": [
+      "The sheer exorbitance of the fancy hotel bill totally shocked the tourists.",
+      "I cannot believe the extreme exorbitance of these brand new concert tickets.",
+      "The wealthy king was famous for the absolute exorbitance of his daily feasts."
+    ]
   },
   "exorbitant": {
     "synonyms": [
@@ -6548,7 +6760,11 @@
       "expel",
       "expire"
     ],
-    "sentences": []
+    "sentences": [
+      "The dentist politely asked the patient to expectorate into the small sink.",
+      "It is considered incredibly rude to loudly expectorate on the public sidewalk.",
+      "The sick man had to carefully expectorate the thick phlegm from his lungs."
+    ]
   },
   "expediency": {
     "synonyms": [
@@ -6613,7 +6829,11 @@
       "stir",
       "urge"
     ],
-    "sentences": []
+    "sentences": [
+      "We paid a large extra fee to quickly expedite the shipping of the package.",
+      "The busy manager hired more workers to help expedite the slow project.",
+      "Please expedite this highly urgent paperwork as fast as you possibly can."
+    ]
   },
   "expeditious": {
     "synonyms": [
@@ -6895,7 +7115,11 @@
       "interpretation",
       "road map"
     ],
-    "sentences": []
+    "sentences": [
+      "The detailed exposition at the beginning of the movie explained the complex plot.",
+      "She attended a massive technology exposition to see the newest gadgets.",
+      "The bright student wrote a clear, thoughtful exposition on the causes of the war."
+    ]
   },
   "expository": {
     "synonyms": [
@@ -6924,7 +7148,11 @@
       "protest",
       "remonstrate (with)"
     ],
-    "sentences": []
+    "sentences": [
+      "The angry customer tried to loudly expostulate with the very unhelpful cashier.",
+      "It is completely useless to expostulate with such a highly stubborn person.",
+      "The worried mother began to gently expostulate with her rebellious teenager."
+    ]
   },
   "exposure": {
     "synonyms": [
@@ -6991,7 +7219,11 @@
       "expatriation",
       "relegation"
     ],
-    "sentences": []
+    "sentences": [
+      "His terrible behavior quickly led to his permanent expulsion from the private school.",
+      "The sudden expulsion of air from the balloon made a loud, funny noise.",
+      "The rebel group demanded the immediate expulsion of the invading army."
+    ]
   },
   "extant": {
     "synonyms": [
@@ -7239,7 +7471,11 @@
       "praise",
       "resound"
     ],
-    "sentences": []
+    "sentences": [
+      "The proud teacher loved to loudly extol the virtues of hard work and honesty.",
+      "Many health experts heavily extol the massive benefits of daily exercise.",
+      "The glowing review will strongly extol the wonderful acting in the new play."
+    ]
   },
   "extort": {
     "synonyms": [
@@ -7263,7 +7499,11 @@
       "highway robbery",
       "overcharging"
     ],
-    "sentences": []
+    "sentences": [
+      "The dangerous criminal was quickly arrested for blatant blackmail and extortion.",
+      "The massive, hidden fees felt like absolute extortion to the angry customer.",
+      "The corrupt mayor used cruel extortion to easily steal money from local businesses."
+    ]
   },
   "extradition": {
     "synonyms": [
@@ -7286,7 +7526,11 @@
       "evacuation",
       "transportation"
     ],
-    "sentences": []
+    "sentences": [
+      "The foreign government officially requested the legal extradition of the hidden spy.",
+      "He fought a long, expensive court battle to entirely prevent his extradition.",
+      "The two friendly countries signed a strict, mutual extradition treaty."
+    ]
   },
   "extraneous": {
     "synonyms": [
@@ -7443,7 +7687,11 @@
       "revolutionist",
       "ultra"
     ],
-    "sentences": []
+    "sentences": [
+      "The dangerous political extremist completely refused to compromise on anything.",
+      "The loud extremist held highly radical views that scared the normal citizens.",
+      "The violent extremist group claimed total responsibility for the shocking attack."
+    ]
   },
   "extremity": {
     "synonyms": [
@@ -7566,32 +7814,61 @@
     ]
   },
   "efflorescent": {
-    "synonyms": [],
+    "synonyms": [
+      "blooming",
+      "flowering",
+      "blossoming",
+      "budding",
+      "unfolding"
+    ],
     "sentences": [
       "… periods of … intellectual and artistic efflorescence."
     ]
   },
   "effusion": {
-    "synonyms": [],
+    "synonyms": [
+      "outpouring",
+      "discharge",
+      "emission",
+      "exudation",
+      "gush"
+    ],
     "sentences": [
       "… greeted her with great effusion …"
     ]
   },
   "emeritus": {
-    "synonyms": [],
+    "synonyms": [
+      "retired",
+      "honorary",
+      "former",
+      "past"
+    ],
     "sentences": [
       "professors emeriti",
       "professor emeritus"
     ]
   },
   "enamor": {
-    "synonyms": [],
+    "synonyms": [
+      "captivate",
+      "charm",
+      "fascinate",
+      "infatuate",
+      "bewitch"
+    ],
     "sentences": [
       "baseball fans enamored of statistics"
     ]
   },
   "epiphany": {
-    "synonyms": [],
+    "synonyms": [
+      "revelation",
+      "realization",
+      "insight",
+      "discovery",
+      "manifestation"
+    ],
     "sentences": [
       "The novel's epiphany … does not yield an image of the individual self in communion with the world but a monstrous vision of that world in flames …",
       "When a child moves from recognizing letters to decoding and comprehension, a moment of epiphany takes place and children become empowered through their knowledge.",
@@ -7601,23 +7878,319 @@
     ]
   },
   "equestrian": {
-    "synonyms": [],
+    "synonyms": [
+      "horseback",
+      "mounted",
+      "riding",
+      "horseman",
+      "rider"
+    ],
     "sentences": [
       "equestrian Olympic events"
     ]
   },
   "eureka": {
-    "synonyms": [],
+    "synonyms": [
+      "discovery",
+      "breakthrough",
+      "epiphany",
+      "realization"
+    ],
     "sentences": [
       "a eureka moment"
     ]
   },
   "extrajudicial": {
-    "synonyms": [],
+    "synonyms": [
+      "unofficial",
+      "out-of-court",
+      "unauthorized",
+      "unwarranted"
+    ],
     "sentences": [
       "an extrajudicial execution",
       "the judge's extrajudicial statements",
       "an extrajudicial investigation"
+    ]
+  },
+  "electrolysis": {
+    "synonyms": [
+      "decomposition",
+      "chemistry",
+      "current",
+      "separation",
+      "breakdown"
+    ],
+    "sentences": [
+      "The factory uses electrolysis to separate pure aluminum from its naturally occurring ore.",
+      "She scheduled a final session of electrolysis to remove the stubborn hair on her chin.",
+      "Passing a direct current through water during electrolysis produces hydrogen and oxygen gases."
+    ]
+  },
+  "electrotype": {
+    "synonyms": [
+      "copy",
+      "plate",
+      "facsimile",
+      "reproduction",
+      "print"
+    ],
+    "sentences": [
+      "The printer carefully aligned the electrotype before starting the large run of illustrated books.",
+      "Archival records show the publisher ordered a copper electrotype to preserve the delicate woodcut design.",
+      "The museum displayed an antique electrotype alongside the original mold used to cast it."
+    ]
+  },
+  "elizabethan": {
+    "synonyms": [
+      "renaissance",
+      "english",
+      "tudor",
+      "historical",
+      "classic"
+    ],
+    "sentences": [
+      "The drama students spent the semester studying the intricate rhyme schemes of elizabethan poetry.",
+      "Architecture from the elizabethan period often features large mullioned windows and exposed timber framing.",
+      "An authentic elizabethan would have found the modern adaptation of Shakespeare foreign."
+    ]
+  },
+  "embolism": {
+    "synonyms": [
+      "clot",
+      "blockage",
+      "obstruction",
+      "thrombosis",
+      "occlusion"
+    ],
+    "sentences": [
+      "The surgeon warned that prolonged bed rest could increase the risk of a pulmonary embolism.",
+      "An unexpected air embolism entered the patient's bloodstream during the complex diving operation.",
+      "Doctors quickly administered blood thinners to dissolve the dangerous embolism before it reached her brain."
+    ]
+  },
+  "encore": {
+    "synonyms": [
+      "repeat",
+      "replay",
+      "return",
+      "cheer",
+      "bravo"
+    ],
+    "sentences": [
+      "The enthusiastic crowd chanted for an encore long after the band had left the stage.",
+      "The soprano prepared a brief, lively aria as her planned encore for the evening recital.",
+      "She decided to encore the popular ballad because the audience response had been so strong."
+    ]
+  },
+  "entomology": {
+    "synonyms": [
+      "insects",
+      "bugs",
+      "science",
+      "zoology",
+      "study"
+    ],
+    "sentences": [
+      "Her growing collection of pinned beetles inspired her to pursue a degree in entomology.",
+      "The forensic entomology report helped detectives determine the exact time the victim had perished.",
+      "A basic understanding of entomology is crucial for farmers trying to manage crop-destroying pests."
+    ]
+  },
+  "epicycle": {
+    "synonyms": [
+      "circle",
+      "orbit",
+      "cycle",
+      "curve",
+      "rotation"
+    ],
+    "sentences": [
+      "Ptolemaic astronomy relied heavily on the concept of an epicycle to explain the retrograde motion of planets.",
+      "The mathematician drew an epicycle on the chalkboard to demonstrate ancient models of the solar system.",
+      "Without the addition of a complex epicycle, the theoretical orbit failed to match the observed planetary positions."
+    ]
+  },
+  "epicycloid": {
+    "synonyms": [
+      "curve",
+      "geometry",
+      "shape",
+      "line",
+      "mathematics"
+    ],
+    "sentences": [
+      "The engineer designed the gear teeth using an epicycloid to ensure smooth power transmission between the interlocking wheels.",
+      "Students in the advanced geometry class used drafting tools to carefully plot the path of an epicycloid.",
+      "The spirograph toy naturally produces an intricate epicycloid when the plastic gear rotates around the outer ring."
+    ]
+  },
+  "epidermis": {
+    "synonyms": [
+      "skin",
+      "cuticle",
+      "surface",
+      "hide",
+      "integument"
+    ],
+    "sentences": [
+      "A superficial scrape usually only damages the epidermis without causing significant bleeding.",
+      "The harsh winter wind stripped the moisture directly from the delicate epidermis of his hands.",
+      "Botanists examined the plant's epidermis under a microscope to study its protective waxy coating."
+    ]
+  },
+  "epizootic": {
+    "synonyms": [
+      "epidemic",
+      "disease",
+      "outbreak",
+      "infection",
+      "plague"
+    ],
+    "sentences": [
+      "The agricultural department issued a strict quarantine to halt the sudden epizootic spreading among local poultry farms.",
+      "An epizootic disease swept through the deer population, reducing their numbers before winter.",
+      "Veterinarians worked tirelessly to contain the epizootic outbreak of foot-and-mouth disease."
+    ]
+  },
+  "et cetera": {
+    "synonyms": [
+      "etcetera",
+      "more",
+      "others",
+      "along",
+      "forth"
+    ],
+    "sentences": [
+      "The recipe requires basic baking ingredients like flour, sugar, eggs, et cetera.",
+      "The hardware store sells lumber, nails, power tools, et cetera for home renovation projects.",
+      "She packed her beach bag with sunscreen, towels, sunglasses, et cetera before heading to the coast."
+    ]
+  },
+  "eugenic": {
+    "synonyms": [
+      "breeding",
+      "genetics",
+      "heredity",
+      "improvement",
+      "selective"
+    ],
+    "sentences": [
+      "The historical society condemned the author's early writings for promoting discriminatory eugenic policies.",
+      "Early twentieth-century eugenic theories were eventually discredited as dangerous pseudoscience by modern geneticists.",
+      "The dystopian novel explores a society obsessed with achieving a flawless population through eugenic manipulation."
+    ]
+  },
+  "euphony": {
+    "synonyms": [
+      "harmony",
+      "melody",
+      "sweetness",
+      "musicality",
+      "rhythm"
+    ],
+    "sentences": [
+      "The poet chose those specific syllables not for their literal meaning, but for their resulting euphony.",
+      "The composer arranged the woodwind instruments to create a gentle euphony during the symphony's second movement.",
+      "She appreciated the natural euphony of the Italian language when she listened to the locals speaking."
+    ]
+  },
+  "evert": {
+    "synonyms": [
+      "turn",
+      "reverse",
+      "invert",
+      "flip",
+      "inside-out"
+    ],
+    "sentences": [
+      "The biologist carefully used forceps to evert the organism's stomach during the dissection.",
+      "You must evert the eyelid gently to properly examine the conjunctiva for foreign particles.",
+      "Certain marine worms can evert their pharynx to capture passing prey in the water column."
+    ]
+  },
+  "evidential": {
+    "synonyms": [
+      "indicative",
+      "probative",
+      "demonstrative",
+      "proving",
+      "revealing"
+    ],
+    "sentences": [
+      "The prosecutor argued that the muddy footprints held strong evidential value in placing the suspect at the scene.",
+      "The detective cataloged the recovered weapon as a crucial piece of evidential material for the upcoming trial.",
+      "The strict evidential rules of the court prevented the lawyer from introducing the hearsay testimony."
+    ]
+  },
+  "excitation": {
+    "synonyms": [
+      "stimulation",
+      "arousal",
+      "provocation",
+      "agitation",
+      "thrill"
+    ],
+    "sentences": [
+      "The laser provides the necessary excitation to bump the electrons into a higher energy state.",
+      "Children ran around the playground in a state of excitation after eating the sugary cake.",
+      "The sudden excitation of the nerve fiber triggered an immediate muscle contraction."
+    ]
+  },
+  "excretion": {
+    "synonyms": [
+      "elimination",
+      "discharge",
+      "secretion",
+      "effluence",
+      "expulsion"
+    ],
+    "sentences": [
+      "The kidneys play a vital role in the excretion of metabolic toxins from the human bloodstream.",
+      "The chemical analysis revealed that the strange resin was actually an excretion from a local tree species.",
+      "Proper hydration helps maintain the normal excretion of urea and other harmful byproducts."
+    ]
+  },
+  "extensible": {
+    "synonyms": [
+      "stretchable",
+      "extendable",
+      "expandable",
+      "elastic",
+      "lengthenable"
+    ],
+    "sentences": [
+      "The software's extensible architecture allows developers to easily add new custom plugins over time.",
+      "The rescue team deployed an extensible ladder to reach the terrified cat stuck in the tall oak tree.",
+      "Frogs utilize an extensible tongue to snatch insects out of the air with remarkable speed."
+    ]
+  },
+  "extensor": {
+    "synonyms": [
+      "muscle",
+      "tendon",
+      "sinew",
+      "stretcher",
+      "tissue"
+    ],
+    "sentences": [
+      "The physical therapist focused on strengthening the knee extensor to improve the patient's walking stride.",
+      "A sharp pain in his forearm indicated he had strained an extensor during the tennis match.",
+      "The surgeon carefully repaired the severed extensor so the pianist could eventually straighten her fingers again."
+    ]
+  },
+  "extradite": {
+    "synonyms": [
+      "deport",
+      "surrender",
+      "handover",
+      "transfer",
+      "banish"
+    ],
+    "sentences": [
+      "The federal government officially requested that the neighboring country extradite the fugitive fraudster.",
+      "After months of legal battles, the judge agreed to extradite the suspect back to his home state for trial.",
+      "A lack of bilateral treaties made it impossible to extradite the hacker from the isolated island nation."
     ]
   }
 }
