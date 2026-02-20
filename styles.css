@@ -370,6 +370,11 @@ h1 {
    hyphens: auto;            /* enable hyphenation where supported */
 }
 
+.option-button.correct {
+  border-color: #2f8f5b;
+  background: #e7f7ef;
+}
+
 .option-button.incorrect {
   border-color: #c94c4c;
   background: #fce8e8;
